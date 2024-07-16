@@ -11,9 +11,11 @@
             "id": "e50cc9347ecf98f0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png"
+                "file": "Spaces/Home/GIT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png",
+                "file": "Spaces/Home/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png",
+                "file": "Spaces/Home/GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png"
+                "file": "Spaces/Home/GIT.md"
               }
             }
           },
@@ -174,34 +177,35 @@
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
     "Spaces/Home/TODO LIST.md",
+    "Spaces/Home/GIT.md",
+    "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
+    "Spaces/Image",
     "Spaces/Home/정보보안전문가.md",
-    "Spaces/Temp/모의 해킹 및 침투 테스트.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/C++ 프로젝트.md",
     "Spaces/Home/IOS 개발.md",
-    "Spaces/Temp/vscode for mac.md",
-    "Spaces/Temp/C 모듈화 에러.md",
+    "Spaces/Desc/vscode for mac.md",
+    "Spaces/Desc/C 모듈화 에러.md",
     "Spaces/Home/C 언어.md",
-    "Spaces/Temp/Swift.md",
-    "Spaces/Temp/Swift 란.md",
-    "Spaces/Temp",
+    "Spaces/Desc/Swift.md",
+    "Spaces/Desc/Swift 란.md",
+    "Spaces/Desc",
     "Excalidraw/Drawing 2024-07-16 20.27.51.excalidraw.md",
     "MyNote",
-    "Spaces/Temp/SwiftUI.md",
-    "Spaces/Temp/스토리보드(Storyboard).md",
-    "Spaces/Temp/통합 캘린더 어플 만들기.md",
+    "Spaces/Desc/SwiftUI.md",
+    "Spaces/Desc/스토리보드(Storyboard).md",
+    "Spaces/Desc/통합 캘린더 어플 만들기.md",
     "Spaces/Home/Python.md",
-    "Spaces/Temp/프로젝트 생성.md",
-    "Spaces/Temp/UIKit (유저 인터페이스 킷).md",
+    "Spaces/Desc/프로젝트 생성.md",
+    "Spaces/Desc/UIKit (유저 인터페이스 킷).md",
     "UIKit.md",
-    "Spaces/Temp/UIView (뷰).md",
+    "Spaces/Desc/UIView (뷰).md",
     "CGRect.md",
     "Frame N Bounds.md",
-    "Spaces/Temp/클로저(Closures).md",
-    "Spaces/Temp/단일 표현식.md",
+    "Spaces/Desc/클로저(Closures).md",
+    "Spaces/Desc/단일 표현식.md",
     "청사진.md",
-    "Spaces/Temp/함수 포인터.md",
-    "Spaces/Temp/컨텍스트.md",
-    "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png",
+    "Spaces/Desc/함수 포인터.md",
     "static.c",
     "Home",
     "MyNote/Spaces/Home",
