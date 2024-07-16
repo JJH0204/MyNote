@@ -10,7 +10,7 @@ sticker: lucide//code-2
 
 # For Mac
 
-[맥 OS 에서 VSCode C/C++ 초기 세팅](/C_for_Mac.md)
+[맥 OS 에서 VSCode C/C++ 초기 세팅](C_for_Mac.md)
 [[Run in Terminal 설정]]
 [[Mac OS 환경변수 설정방법]]
 # With Github

@@ -14,9 +14,9 @@ sticker: lucide//code-2
 
 ## 5. [진법 변환기](https://www.digikey.kr/ko/resources/conversion-calculators/conversion-calculator-number-conversion)
 
-## 6. [memset() 함수의 위험성](/memset().md)
+## 6. [memset() 함수의 위험성](memset().md)
 
-## 7. [세그멘테이션 오류](/세그멘테이션.md)
+## 7. [세그멘테이션 오류](세그멘테이션.md)
 
 ## 8. [[자료구조 및 알고리즘]]
 

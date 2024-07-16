@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "631e6ff48190a52d",
+        "id": "d8f5e5a241521a33",
         "type": "tabs",
         "children": [
           {
-            "id": "4a46b822f5957880",
+            "id": "e50cc9347ecf98f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#개발",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Temp/\".vscode\" for mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Temp/\".vscode\" for mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md"
+                "file": "Spaces/Temp/\".vscode\" for mac.md"
               }
             }
           },
@@ -155,12 +151,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,36 +169,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4b9e0debe17bb97",
+  "active": "4811b35bf9b96ba0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-16 20.27.51.excalidraw.md",
+    "Spaces/Home/C 언어.md",
+    "Spaces/Temp",
     "Spaces/Home/정보보안전문가.md",
+    "Excalidraw/Drawing 2024-07-16 20.27.51.excalidraw.md",
     "Spaces/Home/IOS 개발.md",
     "MyNote",
-    "SwiftUI.md",
-    "스토리보드(Storyboard).md",
-    "통합 캘린더 어플 만들기.md",
+    "Spaces/Temp/SwiftUI.md",
+    "Spaces/Temp/스토리보드(Storyboard).md",
+    "Spaces/Temp/통합 캘린더 어플 만들기.md",
     "Spaces/Home/Python.md",
-    "프로젝트 생성.md",
-    "UIKit (유저 인터페이스 킷).md",
+    "Spaces/Temp/프로젝트 생성.md",
+    "Spaces/Temp/UIKit (유저 인터페이스 킷).md",
     "UIKit.md",
-    "UIView (뷰).md",
+    "Spaces/Temp/UIView (뷰).md",
     "CGRect.md",
     "Frame N Bounds.md",
-    "클로저(Closures).md",
-    "단일 표현식.md",
+    "Spaces/Temp/클로저(Closures).md",
+    "Spaces/Temp/단일 표현식.md",
     "청사진.md",
-    "함수 포인터.md",
-    "컨텍스트.md",
-    "객체지향 프로그래밍 (OOP).md",
-    "SOLID 원칙.md",
-    "Swift.md",
-    "Swift 기본 문법.md",
-    "Objective-C와 상호 운용성.md",
-    "Swift의 주요 기능.md",
-    "Swift의 특징.md",
-    "옵셔널(Optionals).md",
-    "스크린샷 2024-03-16 15.12.46.png",
+    "Spaces/Temp/함수 포인터.md",
+    "Spaces/Temp/컨텍스트.md",
+    "Spaces/Temp/객체지향 프로그래밍 (OOP).md",
+    "Spaces/Temp/SOLID 원칙.md",
+    "Spaces/Temp/Swift.md",
+    "Spaces/Temp/Swift 기본 문법.md",
+    "Spaces/Temp/Objective-C와 상호 운용성.md",
+    "Spaces/Temp/Swift의 주요 기능.md",
+    "Spaces/Temp/Swift의 특징.md",
+    "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png",
     "static.c",
     "Home",
     "MyNote/Spaces/Home",
