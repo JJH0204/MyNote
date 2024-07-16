@@ -11,8 +11,12 @@
             "id": "e50cc9347ecf98f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Temp/vscode for mac.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#개발",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,15 +66,14 @@
             }
           },
           {
-            "id": "d4b9e0debe17bb97",
+            "id": "a2e69df50add19cd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Temp/\".vscode\" for mac.md",
+                "file": "Spaces/Temp/vscode for mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Temp/\".vscode\" for mac.md",
+                "file": "Spaces/Temp/vscode for mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Temp/\".vscode\" for mac.md"
+                "file": "Spaces/Temp/vscode for mac.md"
               }
             }
           },
@@ -155,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,17 +169,22 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4811b35bf9b96ba0",
+  "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Spaces/Temp/C 모듈화 에러.md",
+    "Spaces/Temp/vscode for mac.md",
     "Spaces/Home/C 언어.md",
-    "Spaces/Temp",
-    "Spaces/Home/정보보안전문가.md",
-    "Excalidraw/Drawing 2024-07-16 20.27.51.excalidraw.md",
     "Spaces/Home/IOS 개발.md",
+    "Spaces/Temp/Swift.md",
+    "Spaces/Home/정보보안전문가.md",
+    "Spaces/Temp/Swift 란.md",
+    "Spaces/Home/C++ 프로젝트.md",
+    "Spaces/Temp",
+    "Excalidraw/Drawing 2024-07-16 20.27.51.excalidraw.md",
     "MyNote",
     "Spaces/Temp/SwiftUI.md",
     "Spaces/Temp/스토리보드(Storyboard).md",
@@ -194,11 +203,6 @@
     "Spaces/Temp/컨텍스트.md",
     "Spaces/Temp/객체지향 프로그래밍 (OOP).md",
     "Spaces/Temp/SOLID 원칙.md",
-    "Spaces/Temp/Swift.md",
-    "Spaces/Temp/Swift 기본 문법.md",
-    "Spaces/Temp/Objective-C와 상호 운용성.md",
-    "Spaces/Temp/Swift의 주요 기능.md",
-    "Spaces/Temp/Swift의 특징.md",
     "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png",
     "static.c",
     "Home",

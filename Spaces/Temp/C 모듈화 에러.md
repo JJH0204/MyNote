@@ -213,7 +213,7 @@ CMake 에 대한 알람
 
 ## C/C++ 컴파일러 초기값
 [Mac Clang C++17 컴파일러 환경 설정](https://headf1rst.github.io/c++/clang-c++17/)
-[[".vscode" for mac]]
+[[vscode for mac]]
 [[settings.json]]
 [windows c/c++ 개발환경 설정](https://blog.amylo.diskstation.me/algorithm/Starting_Algorithm_with_VSCode_C++/)
 ### [[dll(Dynamic Link Library)]]??
