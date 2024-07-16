@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Temp/vscode for mac.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Temp/vscode for mac.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Temp/vscode for mac.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Temp/vscode for mac.md"
+                "file": "Spaces/Home/TODO LIST.md"
               }
             }
           },
@@ -169,20 +170,22 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "Spaces/Temp/C 모듈화 에러.md",
-    "Spaces/Temp/vscode for mac.md",
-    "Spaces/Home/C 언어.md",
-    "Spaces/Home/IOS 개발.md",
-    "Spaces/Temp/Swift.md",
     "Spaces/Home/정보보안전문가.md",
-    "Spaces/Temp/Swift 란.md",
+    "Spaces/Home/TODO LIST.md",
+    "Spaces/Temp/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/C++ 프로젝트.md",
+    "Spaces/Home/IOS 개발.md",
+    "Spaces/Temp/vscode for mac.md",
+    "Spaces/Temp/C 모듈화 에러.md",
+    "Spaces/Home/C 언어.md",
+    "Spaces/Temp/Swift.md",
+    "Spaces/Temp/Swift 란.md",
     "Spaces/Temp",
     "Excalidraw/Drawing 2024-07-16 20.27.51.excalidraw.md",
     "MyNote",
@@ -201,8 +204,6 @@
     "청사진.md",
     "Spaces/Temp/함수 포인터.md",
     "Spaces/Temp/컨텍스트.md",
-    "Spaces/Temp/객체지향 프로그래밍 (OOP).md",
-    "Spaces/Temp/SOLID 원칙.md",
     "Spaces/Temp/스크린샷 2024-03-16 15.12.46.png",
     "static.c",
     "Home",
