@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/GIT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e50cc9347ecf98f0",
+  "active": "a2e69df50add19cd",
   "lastOpenFiles": [
-    "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
+    "Spaces/Home/TODO LIST.md",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
     "Spaces/Home/정보보안전문가.md",
