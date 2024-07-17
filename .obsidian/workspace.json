@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5c6c275832e0a6e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-17 09.29.37.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "칼리 리눅스 환경 설정 for 버추얼박스.md",
+                "file": "Excalidraw/Drawing 2024-07-17 09.29.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "칼리 리눅스 환경 설정 for 버추얼박스.md",
+                "file": "Excalidraw/Drawing 2024-07-17 09.29.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "칼리 리눅스 환경 설정 for 버추얼박스.md"
+                "file": "Excalidraw/Drawing 2024-07-17 09.29.37.excalidraw.md"
               }
             }
           },
@@ -174,10 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e50cc9347ecf98f0",
+  "active": "c5c6c275832e0a6e",
   "lastOpenFiles": [
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Excalidraw/Drawing 2024-07-17 09.29.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-17 09.29.37.excalidraw.md",
     "칼리 리눅스 환경 설정 for 버추얼박스.md",
+    "Excalidraw",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/정보보안전문가.md",
     "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
@@ -204,8 +218,6 @@
     "CGRect.md",
     "Frame N Bounds.md",
     "Spaces/Desc/클로저(Closures).md",
-    "Spaces/Desc/단일 표현식.md",
-    "청사진.md",
     "static.c",
     "Home",
     "MyNote/Spaces/Home",
