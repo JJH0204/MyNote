@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md"
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md"
               }
             }
           },
@@ -176,11 +176,11 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Spaces/Home/정보보안전문가.md",
     "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
-    "Spaces/Home/정보보안전문가.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/C++ 프로젝트.md",
     "Spaces/Home/IOS 개발.md",
