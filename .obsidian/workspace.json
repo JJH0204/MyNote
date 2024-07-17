@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md"
+                "file": "Spaces/Home/TODO LIST.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "README.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/정보보안전문가.md",
     "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
@@ -182,7 +184,6 @@
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Drawing 2024-07-17 09.29.39.excalidraw.md",
     "Excalidraw",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
     "Spaces/Home/C++ 프로젝트.md",
@@ -205,7 +206,6 @@
     "Spaces/Desc/UIView (뷰).md",
     "CGRect.md",
     "Frame N Bounds.md",
-    "Spaces/Desc/클로저(Closures).md",
     "static.c",
     "Home",
     "MyNote/Spaces/Home",
