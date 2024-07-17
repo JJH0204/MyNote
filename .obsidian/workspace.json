@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "칼리 리눅스 환경 설정 for 버추얼박스.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5c6c275832e0a6e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/인터넷 연결 방식에 따른 정보.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,6 +32,14 @@
         "id": "88d70730ea0ad6a4",
         "type": "tabs",
         "children": [
+          {
+            "id": "a2e69df50add19cd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
           {
             "id": "a86213727be01ef2",
             "type": "leaf",
@@ -75,14 +72,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "a2e69df50add19cd",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/인터넷 연결 방식에 따른 정보.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/인터넷 연결 방식에 따른 정보.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/인터넷 연결 방식에 따른 정보.md"
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md"
               }
             }
           },
@@ -184,16 +173,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5c6c275832e0a6e",
+  "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Spaces/Home/정보보안전문가.md",
+    "Spaces/Home/TODO LIST.md",
+    "Spaces/Home/GIT.md",
     "칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Drawing 2024-07-17 09.29.39.excalidraw.md",
     "Excalidraw",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Home/정보보안전문가.md",
-    "Spaces/Home/TODO LIST.md",
-    "Spaces/Home/GIT.md",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
     "Spaces/Home/C++ 프로젝트.md",
