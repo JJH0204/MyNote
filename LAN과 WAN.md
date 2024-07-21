@@ -13,4 +13,7 @@
 - 연결방법: LAN장비를 사용하여 연결
 - 연결장비: NIC(랜카드), Switch, T/P Cable
 - 특징: 네트워크 구축시 비용이 증가하지만 통신, 유지/보수 비용이 낮다
-- 통신 프로토콜: Ethernet (IEE)
+- 통신 프로토콜: Ethernet (IEEE에서 지정한 LAN구간 표준 프로토콜)
+	- Ethernet: 10Mbps
+	- FastEthernet: 1,000Mbqs
+	- GigabitEthernet: 
