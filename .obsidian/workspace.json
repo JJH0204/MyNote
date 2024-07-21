@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "네트워크 보안.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "네트워크 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "네트워크 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md"
+                "file": "네트워크 보안.md"
               }
             }
           },
@@ -197,10 +197,10 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Spaces/Home/정보보안전문가.md",
     "네트워크 보안.md",
     "Network_Address_Translation.md",
     "Excalidraw/네트워크 기초.md",
-    "Spaces/Home/정보보안전문가.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
