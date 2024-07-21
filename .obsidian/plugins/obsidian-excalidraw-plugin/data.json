@@ -81,7 +81,7 @@
   "fadeOutExcalidrawMarkup": false,
   "loadPropertySuggestions": true,
   "experimentalEnableFourthFont": true,
-  "experimantalFourthFont": "Virgil",
+  "experimantalFourthFont": "Fonts/나눔손글씨 성실체.ttf",
   "addDummyTextElement": false,
   "zoteroCompatibility": false,
   "fieldSuggester": true,
