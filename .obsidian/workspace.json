@@ -11,8 +11,12 @@
             "id": "e50cc9347ecf98f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LAN과 WAN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -121,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LAN과 WAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LAN과 WAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LAN과 WAN.md"
+              }
             }
           },
           {
@@ -199,12 +207,13 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "네트워크 보안.md",
+    "LAN과 WAN.md",
     "네트워크.md",
     "프로토콜.md",
     "Network_Address_Translation.md",
     "Excalidraw/네트워크 기초.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
-    "네트워크 보안.md",
     "Spaces/Home/정보보안전문가.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
@@ -233,7 +242,6 @@
     "MyNote",
     "Spaces/Desc/SwiftUI.md",
     "Spaces/Desc/스토리보드(Storyboard).md",
-    "Spaces/Desc/통합 캘린더 어플 만들기.md",
     "static.c",
     "Home"
   ]
