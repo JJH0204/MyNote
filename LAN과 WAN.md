@@ -1,3 +1,5 @@
 ### 간단 비교
-구분|LAN(Local Area Network)|WAN(Wide Area Network)
-|:--|:--
+| 구분  | LAN(Local Area Network) | WAN(Wide Area Network)    |
+| :-- | :---------------------- | :------------------------ |
+| 범위  | 건물이나 작은 지역 내에 제한        | 도시, 국가, 혹은 대륙을 아우르는 넓은 지역 |
+| 속도  |                         |                           |
