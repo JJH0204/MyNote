@@ -15,5 +15,6 @@
 - 특징: 네트워크 구축시 비용이 증가하지만 통신, 유지/보수 비용이 낮다
 - 통신 프로토콜: Ethernet (IEEE에서 지정한 LAN구간 표준 프로토콜)
 	- Ethernet: 10Mbps
-	- FastEthernet: 1,000Mbqs
-	- GigabitEthernet: 
+	- FastEthernet: 100Mbqs
+	- GigabitEthernet: 1,000Mbps
+- 통신주소: Mac-address (16진수 48bit, HH-HH-HH-HH)
