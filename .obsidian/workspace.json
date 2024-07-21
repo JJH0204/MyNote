@@ -11,9 +11,11 @@
             "id": "e50cc9347ecf98f0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/네트워크 기초.md"
+                "file": "네트워크 보안.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/네트워크 기초.md",
+                "file": "네트워크 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/네트워크 기초.md",
+                "file": "네트워크 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/네트워크 기초.md"
+                "file": "네트워크 보안.md"
               }
             }
           },
@@ -184,11 +186,11 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Excalidraw/네트워크 기초.md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "네트워크 보안.md",
-    "Excalidraw/네트워크 기초.md",
     "Spaces/Home/정보보안전문가.md",
     "Spaces/Home/GIT.md",
     "Spaces/Home/TODO LIST.md",
@@ -219,7 +221,6 @@
     "Spaces/Desc/UIKit (유저 인터페이스 킷).md",
     "static.c",
     "Home",
-    "MyNote/Spaces/Home",
-    "MyNote/Spaces"
+    "MyNote/Spaces/Home"
   ]
 }
