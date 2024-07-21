@@ -17,4 +17,4 @@
 	- Ethernet: 10Mbps
 	- FastEthernet: 100Mbqs
 	- GigabitEthernet: 1,000Mbps
-- 통신주소: Mac-address (16진수 48bit, HH-HH-HH-HH)
+- 통신주소: Mac-address (16진수 48bit, HH-HH-HH-HH-HH-HH)
