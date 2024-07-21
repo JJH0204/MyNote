@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network_Address_Translation.md",
+                "file": "Excalidraw/네트워크 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network_Address_Translation.md",
+                "file": "Excalidraw/네트워크 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network_Address_Translation.md"
+                "file": "Excalidraw/네트워크 기초.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f29a455066292e9",
+  "active": "20533160668eb8d2",
   "lastOpenFiles": [
-    "Excalidraw/네트워크 기초.md",
     "Network_Address_Translation.md",
+    "Excalidraw/네트워크 기초.md",
     "네트워크 보안.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
