@@ -182,8 +182,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a86213727be01ef2",
+  "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "네트워크 보안.md",
@@ -219,7 +220,6 @@
     "static.c",
     "Home",
     "MyNote/Spaces/Home",
-    "MyNote/Spaces",
-    "Spaces/Home"
+    "MyNote/Spaces"
   ]
 }
