@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "네트워크 보안.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "20533160668eb8d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-21 15.38.21.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Excalidraw/Drawing 2024-07-21 15.38.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Excalidraw/Drawing 2024-07-21 15.38.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md"
+                "file": "Excalidraw/Drawing 2024-07-21 15.38.21.excalidraw.md"
               }
             }
           },
@@ -173,14 +184,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e50cc9347ecf98f0",
+  "active": "20533160668eb8d2",
   "lastOpenFiles": [
+    "네트워크 보안.md",
+    "Excalidraw/Drawing 2024-07-21 15.38.21.excalidraw.md",
+    "Spaces/Home/정보보안전문가.md",
     "Spaces/Home/GIT.md",
     "Spaces/Home/TODO LIST.md",
     "복지 해택 신청.md",
     "README.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Home/정보보안전문가.md",
     "칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Drawing 2024-07-17 09.29.39.excalidraw.md",
@@ -204,8 +217,6 @@
     "Spaces/Desc/프로젝트 생성.md",
     "Spaces/Desc/UIKit (유저 인터페이스 킷).md",
     "UIKit.md",
-    "Spaces/Desc/UIView (뷰).md",
-    "CGRect.md",
     "static.c",
     "Home",
     "MyNote/Spaces/Home",
