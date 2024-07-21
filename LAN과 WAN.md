@@ -18,3 +18,8 @@
 	- FastEthernet: 100Mbqs
 	- GigabitEthernet: 1,000Mbps
 - 통신주소: Mac-address (16진수 48bit, HH-HH-HH-HH-HH-HH)
+
+## WAN (Wide Area Network)
+- 자신이 포함되지 않는 외부 네트워크를 의미
+- 비교적 큰 범위로 구성된다.
+- 분리된 LAN과 LAN을 연결한
