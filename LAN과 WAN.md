@@ -29,4 +29,4 @@
 	- 일반적으로 ISP로 임대회선을 사용하기 때문에 네트워크 구축 비용이 낮다. 
 	- 통신, 유지/보수 비용이 높다
 - 통신 프로토콜: IP (Internet Protocol: IANA에서 관리)
-- 통신주소: IP Address (10진수 32bit, A.B.C.)
+- 통신주소: IP Address (10진수 32bit, A.B.C.D)
