@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "네트워크 보안.md",
+                "file": "네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크 보안.md",
+                "file": "네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크 보안.md",
+                "file": "네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크 보안.md"
+                "file": "네트워크.md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "Spaces/Home/정보보안전문가.md",
     "네트워크 보안.md",
+    "네트워크.md",
+    "Spaces/Home/정보보안전문가.md",
     "Network_Address_Translation.md",
     "Excalidraw/네트워크 기초.md",
     ".md",
@@ -231,7 +232,6 @@
     "Spaces/Desc/통합 캘린더 어플 만들기.md",
     "Spaces/Home/Python.md",
     "Spaces/Desc/프로젝트 생성.md",
-    "Spaces/Desc/UIKit (유저 인터페이스 킷).md",
     "static.c",
     "Home"
   ]
