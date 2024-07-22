@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f5e5a241521a33",
+        "id": "69fa89c9f4ef816d",
         "type": "tabs",
         "children": [
           {
-            "id": "e50cc9347ecf98f0",
+            "id": "61a5eacd3190a8b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/TODO LIST.md",
+                "file": "리눅스.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1f386d21352f9ad7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/네트워크와 프로토콜의 관계.md"
-              }
-            }
-          },
-          {
-            "id": "3f29a455066292e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network_Address_Translation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20533160668eb8d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/네트워크 기초.md"
               }
             }
           }
@@ -125,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/TODO LIST.md",
+                "file": "리눅스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/TODO LIST.md",
+                "file": "리눅스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/TODO LIST.md"
+                "file": "리눅스.md"
               }
             }
           },
@@ -205,30 +173,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e50cc9347ecf98f0",
+  "active": "61a5eacd3190a8b0",
   "lastOpenFiles": [
-    "Spaces/Home/Python.md",
     "Spaces/Home/정보보안전문가.md",
-    "네트워크 보안.md",
-    "리눅스.md",
-    "LAN과 WAN.md",
     "리눅스 마스터 2급.md",
+    "리눅스.md",
+    "칼리 리눅스 환경 설정 for 버추얼박스.md",
+    "LAN과 WAN.md",
+    "().md",
+    "네트워크 보안.md",
+    "Spaces/Home/TODO LIST.md",
+    "Excalidraw/네트워크와 프로토콜의 관계.md",
+    "Network_Address_Translation.md",
+    "Excalidraw/네트워크 기초.md",
+    "Spaces/Home/Python.md",
     "관련 자격증.md",
     "네트워크.md",
     "프로토콜.md",
-    "Network_Address_Translation.md",
-    "Excalidraw/네트워크 기초.md",
-    "Excalidraw/네트워크와 프로토콜의 관계.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "Spaces/Home/GIT.md",
-    "Spaces/Home/TODO LIST.md",
     "복지 해택 신청.md",
     "README.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Drawing 2024-07-17 09.29.39.excalidraw.md",
     "Excalidraw",
@@ -239,7 +208,6 @@
     "Spaces/Desc/vscode for mac.md",
     "Spaces/Desc/C 모듈화 에러.md",
     "Spaces/Home/C 언어.md",
-    "Spaces/Desc/Swift.md",
     "Spaces/Desc",
     "MyNote",
     "static.c",
