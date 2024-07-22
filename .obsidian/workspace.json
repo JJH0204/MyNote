@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Home/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Home/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md",
+                "file": "Spaces/Home/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/정보보안전문가.md"
+                "file": "Spaces/Home/Python.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "네트워크 보안.md",
     "Spaces/Home/정보보안전문가.md",
+    "네트워크 보안.md",
     "리눅스.md",
     "LAN과 WAN.md",
     "리눅스 마스터 2급.md",
