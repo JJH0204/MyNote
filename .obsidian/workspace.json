@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스의 이해.md",
+                "file": "풍부한 소프트웨어 개발 환경 제공.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스의 이해.md",
+                "file": "풍부한 소프트웨어 개발 환경 제공.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스의 이해.md",
+                "file": "풍부한 소프트웨어 개발 환경 제공.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스의 이해.md"
+                "file": "풍부한 소프트웨어 개발 환경 제공.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "텍스트 모드 중심의 관리.md",
     "리눅스의 이해.md",
+    "풍부한 소프트웨어 개발 환경 제공.md",
+    "텍스트 모드 중심의 관리.md",
     "리눅스 일반.md",
     "리눅스 마스터 2급.md",
     "관련 자격증.md",
@@ -236,7 +237,6 @@
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
-    "Excalidraw/Drawing 2024-07-17 09.29.39.excalidraw.md",
     "Excalidraw",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
