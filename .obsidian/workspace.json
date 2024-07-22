@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관련 자격증.md",
+                "file": "리눅스 마스터 2급.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "관련 자격증.md",
+                "file": "리눅스 마스터 2급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "관련 자격증.md",
+                "file": "리눅스 마스터 2급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "관련 자격증.md"
+                "file": "리눅스 마스터 2급.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "61a5eacd3190a8b0",
   "lastOpenFiles": [
+    "관련 자격증.md",
     "Spaces/Home/정보보안전문가.md",
     "리눅스 마스터 2급.md",
     "리눅스.md",
@@ -190,7 +191,6 @@
     "Network_Address_Translation.md",
     "Excalidraw/네트워크 기초.md",
     "Spaces/Home/Python.md",
-    "관련 자격증.md",
     "네트워크.md",
     "프로토콜.md",
     ".md",
