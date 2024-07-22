@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "풍부한 소프트웨어 개발 환경 제공.md",
+                "file": "리눅스의 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "풍부한 소프트웨어 개발 환경 제공.md",
+                "file": "리눅스의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "풍부한 소프트웨어 개발 환경 제공.md",
+                "file": "리눅스의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "풍부한 소프트웨어 개발 환경 제공.md"
+                "file": "리눅스의 이해.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "리눅스의 이해.md",
     "풍부한 소프트웨어 개발 환경 제공.md",
+    "리눅스의 이해.md",
     "텍스트 모드 중심의 관리.md",
     "리눅스 일반.md",
     "리눅스 마스터 2급.md",
