@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 운영 및 관리.md",
+                "file": "리눅스 마스터 2급.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 운영 및 관리.md",
+                "file": "리눅스 마스터 2급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 운영 및 관리.md",
+                "file": "리눅스 마스터 2급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 운영 및 관리.md"
+                "file": "리눅스 마스터 2급.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "61a5eacd3190a8b0",
   "lastOpenFiles": [
-    "리눅스 마스터 2급.md",
     "리눅스 운영 및 관리.md",
+    "리눅스 마스터 2급.md",
     "리눅스 일반.md",
     "리눅스.md",
     "Spaces/Home/정보보안전문가.md",
