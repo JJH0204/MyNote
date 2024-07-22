@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템에 높은 신뢰성.md",
+                "file": "LAN과 WAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템에 높은 신뢰성.md",
+                "file": "LAN과 WAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템에 높은 신뢰성.md",
+                "file": "LAN과 WAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템에 높은 신뢰성.md"
+                "file": "LAN과 WAN.md"
               }
             }
           },
@@ -207,22 +207,27 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "리눅스의 이해.md",
-    "시스템에 높은 신뢰성.md",
+    "Linux기본_디렉토리_설명.md",
+    "리눅스란.md",
+    "Linux안정성.md",
+    "Linux_가성비.md",
+    "Excalidraw/about_Linux.md",
     "이식성과 확장성이 좋다.md",
     "풍부한 소프트웨어 개발 환경 제공.md",
+    "시스템에 높은 신뢰성.md",
+    "RAID.md",
     "텍스트 모드 중심의 관리.md",
-    "리눅스 일반.md",
-    "리눅스 마스터 2급.md",
-    "관련 자격증.md",
-    "Spaces/Home/정보보안전문가.md",
-    "LAN과 WAN.md",
+    "리눅스의 이해.md",
     "가상환경 및 커널이란.md",
     "PythonSettingWin.md",
+    "리눅스 일반.md",
     "리눅스 운영 및 관리.md",
     "리눅스 활용.md",
     "리눅스.md",
+    "리눅스 마스터 2급.md",
+    "관련 자격증.md",
     "네트워크 보안.md",
+    "LAN과 WAN.md",
     "네트워크.md",
     "프로토콜.md",
     "Network_Address_Translation.md",
@@ -232,11 +237,6 @@
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
-    "Spaces/Home/GIT.md",
-    "Spaces/Home/TODO LIST.md",
-    "복지 해택 신청.md",
-    "README.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Excalidraw",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
