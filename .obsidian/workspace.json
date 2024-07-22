@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 마스터 2급.md",
+                "file": "리눅스의 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 마스터 2급.md",
+                "file": "리눅스의 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 마스터 2급.md",
+                "file": "리눅스의 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 마스터 2급.md"
+                "file": "리눅스의 이해.md"
               }
             }
           },
@@ -207,16 +207,17 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "리눅스 일반.md",
+    "리눅스의 이해.md",
+    "리눅스 마스터 2급.md",
     "관련 자격증.md",
     "Spaces/Home/정보보안전문가.md",
     "LAN과 WAN.md",
     "가상환경 및 커널이란.md",
     "PythonSettingWin.md",
-    "리눅스 일반.md",
     "리눅스 운영 및 관리.md",
     "리눅스 활용.md",
     "리눅스.md",
-    "리눅스 마스터 2급.md",
     "네트워크 보안.md",
     "네트워크.md",
     "프로토콜.md",
@@ -239,7 +240,6 @@
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
     "Spaces/Home/C++ 프로젝트.md",
-    "Spaces/Home/IOS 개발.md",
     "Spaces/Desc",
     "MyNote",
     "static.c",
