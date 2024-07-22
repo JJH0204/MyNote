@@ -11,9 +11,11 @@
             "id": "2aa2b9e562a2fdc1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/about_Linux.md"
+                "file": "가상환경 및 커널이란.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/about_Linux.md",
+                "file": "가상환경 및 커널이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/about_Linux.md",
+                "file": "가상환경 및 커널이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/about_Linux.md"
+                "file": "가상환경 및 커널이란.md"
               }
             }
           },
@@ -185,16 +188,16 @@
   },
   "active": "2aa2b9e562a2fdc1",
   "lastOpenFiles": [
+    "관련 자격증.md",
+    "네트워크.md",
+    "네트워크 보안.md",
+    "Excalidraw/about_Linux.md",
     "리눅스 일반.md",
     "리눅스 운영 및 관리.md",
-    "Excalidraw/about_Linux.md",
     "Linux기본_디렉토리_설명.md",
     "RAID(1).md",
     "Excalidraw/Drawing 2024-07-23 01.51.28.excalidraw.md",
     "가상환경 및 커널이란.md",
-    "관련 자격증.md",
-    "네트워크.md",
-    "네트워크 보안.md",
     "리눅스.md",
     "리눅스 마스터 2급.md",
     "리눅스 활용.md",
