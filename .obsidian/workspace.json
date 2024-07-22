@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,8 +174,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61a5eacd3190a8b0",
+  "active": "a86213727be01ef2",
   "lastOpenFiles": [
+    "PythonSettingWin.md",
     "Spaces/Home/GIT.md",
     "Spaces/Home/Python.md",
     "Spaces/Desc/Python IDE 설정 (for mac).md",
@@ -207,7 +209,6 @@
     "Excalidraw",
     "Spaces/Image/스크린샷 2024-03-16 15.12.46.png",
     "Spaces/Image",
-    "Spaces/Home/C++ 프로젝트.md",
     "Spaces/Desc",
     "MyNote",
     "static.c",
