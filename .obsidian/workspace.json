@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAN과 WAN.md",
+                "file": "Spaces/Home/정보보안전문가.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAN과 WAN.md",
+                "file": "Spaces/Home/정보보안전문가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAN과 WAN.md",
+                "file": "Spaces/Home/정보보안전문가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAN과 WAN.md"
+                "file": "Spaces/Home/정보보안전문가.md"
               }
             }
           },
@@ -207,17 +207,17 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "네트워크 보안.md",
+    "Spaces/Home/정보보안전문가.md",
     "리눅스.md",
+    "LAN과 WAN.md",
     "리눅스 마스터 2급.md",
     "관련 자격증.md",
-    "네트워크 보안.md",
-    "LAN과 WAN.md",
     "네트워크.md",
     "프로토콜.md",
     "Network_Address_Translation.md",
     "Excalidraw/네트워크 기초.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
-    "Spaces/Home/정보보안전문가.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
