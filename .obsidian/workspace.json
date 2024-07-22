@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,13 +211,14 @@
   },
   "active": "1f386d21352f9ad7",
   "lastOpenFiles": [
-    "Spaces/Home/정보보안전문가.md",
+    "리눅스 마스터 2급.md",
     "리눅스.md",
+    "().md",
+    "Spaces/Home/정보보안전문가.md",
     "소프트 스킬.md",
     "네트워크 보안.md",
     "관련 자격증.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
-    "리눅스 마스터 2급.md",
     "LAN과 WAN.md",
     "네트워크.md",
     "프로토콜.md",
@@ -242,7 +244,6 @@
     "Spaces/Desc/vscode for mac.md",
     "Spaces/Desc/C 모듈화 에러.md",
     "Spaces/Home/C 언어.md",
-    "Spaces/Desc/Swift.md",
     "Spaces/Desc",
     "MyNote",
     "static.c",
