@@ -11,12 +11,8 @@
             "id": "2aa2b9e562a2fdc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "가상환경 및 커널이란.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -85,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "가상환경 및 커널이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "가상환경 및 커널이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "가상환경 및 커널이란.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,6 +179,8 @@
   },
   "active": "2aa2b9e562a2fdc1",
   "lastOpenFiles": [
+    "Spaces/Home/정보보안전문가.md",
+    "가상환경 및 커널이란.md",
     "관련 자격증.md",
     "네트워크.md",
     "네트워크 보안.md",
@@ -197,7 +190,6 @@
     "Linux기본_디렉토리_설명.md",
     "RAID(1).md",
     "Excalidraw/Drawing 2024-07-23 01.51.28.excalidraw.md",
-    "가상환경 및 커널이란.md",
     "리눅스.md",
     "리눅스 마스터 2급.md",
     "리눅스 활용.md",
@@ -213,7 +205,6 @@
     "Linux안정성.md",
     "Linux_가성비.md",
     "이식성과 확장성이 좋다.md",
-    "Excalidraw/네트워크 기초.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
