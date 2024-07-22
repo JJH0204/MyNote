@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스의 이해.md",
+                "file": "LAN과 WAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스의 이해.md",
+                "file": "LAN과 WAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스의 이해.md",
+                "file": "LAN과 WAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스의 이해.md"
+                "file": "LAN과 WAN.md"
               }
             }
           },
@@ -207,23 +207,23 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "리눅스 일반.md",
     "리눅스의 이해.md",
-    "리눅스 마스터 2급.md",
-    "관련 자격증.md",
-    "Spaces/Home/정보보안전문가.md",
-    "LAN과 WAN.md",
     "가상환경 및 커널이란.md",
     "PythonSettingWin.md",
+    "리눅스 일반.md",
     "리눅스 운영 및 관리.md",
     "리눅스 활용.md",
     "리눅스.md",
+    "리눅스 마스터 2급.md",
+    "관련 자격증.md",
     "네트워크 보안.md",
+    "LAN과 WAN.md",
     "네트워크.md",
     "프로토콜.md",
     "Network_Address_Translation.md",
     "Excalidraw/네트워크 기초.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
+    "Spaces/Home/정보보안전문가.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
