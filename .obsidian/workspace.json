@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Python.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Python.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Python.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Python.md"
+                "file": "Spaces/Home/TODO LIST.md"
               }
             }
           },
@@ -207,6 +207,7 @@
   },
   "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
+    "Spaces/Home/Python.md",
     "Spaces/Home/정보보안전문가.md",
     "네트워크 보안.md",
     "리눅스.md",
@@ -239,7 +240,6 @@
     "Spaces/Desc/C 모듈화 에러.md",
     "Spaces/Home/C 언어.md",
     "Spaces/Desc/Swift.md",
-    "Spaces/Desc/Swift 란.md",
     "Spaces/Desc",
     "MyNote",
     "static.c",
