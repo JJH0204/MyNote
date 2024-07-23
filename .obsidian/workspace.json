@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 마스터 2급.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 마스터 2급.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 마스터 2급.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 마스터 2급.md"
+                "file": "README.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "80e6b5f5f79b3a67",
   "lastOpenFiles": [
+    "리눅스 마스터 2급.md",
     "리눅스 활용.md",
     "리눅스 일반.md",
     "Excalidraw/install_Linux.md",
@@ -191,7 +192,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723115718_731.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
-    "리눅스 마스터 2급.md",
     "관련 자격증.md",
     "Spaces/Home/정보보안전문가.md",
     "가상환경 및 커널이란.md",
