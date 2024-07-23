@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 활용.md",
+                "file": "리눅스 마스터 2급.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 활용.md",
+                "file": "리눅스 마스터 2급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 활용.md",
+                "file": "리눅스 마스터 2급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 활용.md"
+                "file": "리눅스 마스터 2급.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "80e6b5f5f79b3a67",
   "lastOpenFiles": [
+    "리눅스 활용.md",
     "리눅스 일반.md",
     "Excalidraw/install_Linux.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
@@ -202,7 +203,6 @@
     "RAID(1).md",
     "Excalidraw/Drawing 2024-07-23 01.51.28.excalidraw.md",
     "리눅스.md",
-    "리눅스 활용.md",
     "칼리 리눅스 환경 설정 for 버추얼박스.md",
     "프로토콜.md",
     "텍스트 모드 중심의 관리.md",
