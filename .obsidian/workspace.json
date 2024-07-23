@@ -11,8 +11,20 @@
             "id": "2aa2b9e562a2fdc1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/install_Linux.md"
+              }
+            }
+          },
+          {
+            "id": "c88d40dcd91dc297",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/install_Linux.md"
+              }
             }
           },
           {
@@ -101,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/install_Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/install_Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/install_Linux.md"
+              }
             }
           },
           {
@@ -180,9 +196,11 @@
   "active": "2aa2b9e562a2fdc1",
   "lastOpenFiles": [
     "리눅스 일반.md",
+    "Excalidraw/install_Linux.md",
+    "리눅스 마스터 2급.md",
+    "관련 자격증.md",
     "Spaces/Home/정보보안전문가.md",
     "가상환경 및 커널이란.md",
-    "관련 자격증.md",
     "네트워크.md",
     "네트워크 보안.md",
     "Excalidraw/about_Linux.md",
@@ -191,7 +209,6 @@
     "RAID(1).md",
     "Excalidraw/Drawing 2024-07-23 01.51.28.excalidraw.md",
     "리눅스.md",
-    "리눅스 마스터 2급.md",
     "리눅스 활용.md",
     "칼리 리눅스 환경 설정 for 버추얼박스.md",
     "프로토콜.md",
@@ -204,7 +221,6 @@
     "리눅스란.md",
     "Linux안정성.md",
     "Linux_가성비.md",
-    "이식성과 확장성이 좋다.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
