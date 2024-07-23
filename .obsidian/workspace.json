@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 일반.md",
+                "file": "리눅스 활용.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 일반.md",
+                "file": "리눅스 활용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 일반.md",
+                "file": "리눅스 활용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 일반.md"
+                "file": "리눅스 활용.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "80e6b5f5f79b3a67",
   "lastOpenFiles": [
-    "Excalidraw/install_Linux.md",
     "리눅스 일반.md",
+    "Excalidraw/install_Linux.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
