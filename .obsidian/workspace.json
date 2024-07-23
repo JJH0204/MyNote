@@ -8,39 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aa2b9e562a2fdc1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/install_Linux.md"
-              }
-            }
-          },
-          {
-            "id": "c88d40dcd91dc297",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/install_Linux.md"
-              }
-            }
-          },
-          {
-            "id": "80e6b5f5f79b3a67",
+            "id": "e50cc9347ecf98f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 일반.md",
+                "file": "LAN과 WAN.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f386d21352f9ad7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/네트워크와 프로토콜의 관계.md"
+              }
+            }
+          },
+          {
+            "id": "3f29a455066292e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network_Address_Translation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20533160668eb8d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/네트워크 기초.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 232.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/install_Linux.md",
+                "file": "LAN과 WAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/install_Linux.md",
+                "file": "LAN과 WAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/install_Linux.md"
+                "file": "LAN과 WAN.md"
               }
             }
           },
@@ -186,45 +197,45 @@
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c88d40dcd91dc297",
+  "active": "e50cc9347ecf98f0",
   "lastOpenFiles": [
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723105855_248.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723105510_213.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20240723105855_248.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
-    "리눅스 일반.md",
     "Excalidraw/install_Linux.md",
-    "리눅스 마스터 2급.md",
-    "관련 자격증.md",
-    "Spaces/Home/정보보안전문가.md",
-    "가상환경 및 커널이란.md",
-    "네트워크.md",
-    "네트워크 보안.md",
-    "Excalidraw/about_Linux.md",
-    "리눅스 운영 및 관리.md",
     "Linux기본_디렉토리_설명.md",
-    "RAID(1).md",
-    "Excalidraw/Drawing 2024-07-23 01.51.28.excalidraw.md",
-    "리눅스.md",
-    "리눅스 활용.md",
-    "칼리 리눅스 환경 설정 for 버추얼박스.md",
-    "프로토콜.md",
-    "텍스트 모드 중심의 관리.md",
-    "풍부한 소프트웨어 개발 환경 제공.md",
-    "LAN과 WAN.md",
-    "Network_Address_Translation.md",
-    "PythonSettingWin.md",
-    "RAID.md",
     "리눅스란.md",
     "Linux안정성.md",
+    "Linux_가성비.md",
+    "Excalidraw/about_Linux.md",
+    "이식성과 확장성이 좋다.md",
+    "풍부한 소프트웨어 개발 환경 제공.md",
+    "시스템에 높은 신뢰성.md",
+    "RAID.md",
+    "텍스트 모드 중심의 관리.md",
+    "리눅스의 이해.md",
+    "가상환경 및 커널이란.md",
+    "PythonSettingWin.md",
+    "리눅스 일반.md",
+    "리눅스 운영 및 관리.md",
+    "리눅스 활용.md",
+    "리눅스.md",
+    "리눅스 마스터 2급.md",
+    "관련 자격증.md",
+    "네트워크 보안.md",
+    "LAN과 WAN.md",
+    "네트워크.md",
+    "프로토콜.md",
+    "Network_Address_Translation.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
