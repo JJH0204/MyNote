@@ -11,11 +11,9 @@
             "id": "80e6b5f5f79b3a67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "리눅스 일반.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/about_Linux.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스 일반.md",
+                "file": "Excalidraw/about_Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스 일반.md",
+                "file": "Excalidraw/about_Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스 일반.md"
+                "file": "Excalidraw/about_Linux.md"
               }
             }
           },
@@ -176,11 +174,11 @@
   },
   "active": "80e6b5f5f79b3a67",
   "lastOpenFiles": [
+    "리눅스 일반.md",
     "리눅스 마스터 2급.md",
     "리눅스 운영 및 관리.md",
     "Excalidraw/install_Linux.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
-    "리눅스 일반.md",
     "README.md",
     "리눅스 활용.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
