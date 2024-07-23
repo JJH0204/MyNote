@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aa2b9e562a2fdc1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/install_Linux.md"
-              }
-            }
-          },
-          {
             "id": "c88d40dcd91dc297",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
