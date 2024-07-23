@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/RAID.md",
+                "file": "Spaces/Desc/리눅스명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/RAID.md",
+                "file": "Spaces/Desc/리눅스명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/RAID.md",
+                "file": "Spaces/Desc/리눅스명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/RAID.md"
+                "file": "Spaces/Desc/리눅스명령어.md"
               }
             }
           },
@@ -174,12 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a86213727be01ef2",
+  "active": "80e6b5f5f79b3a67",
   "lastOpenFiles": [
-    "Spaces/Desc/리눅스명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/정보보안전문가.md",
+    "Spaces/Desc/RAID.md",
+    "Spaces/Desc/리눅스명령어.md",
     "리눅스.md",
     "Spaces/Desc/관련 자격증.md",
     "Excalidraw/about_Linux.md",
@@ -212,7 +212,6 @@
     "Spaces/Desc/LAN과 WAN.md",
     "Spaces/Desc/Network_Address_Translation.md",
     "Spaces/Desc/PythonSettingWin.md",
-    "Spaces/Desc/RAID.md",
     "리눅스란.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
