@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스명령어.md",
+                "file": "Spaces/Desc/RAID.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스명령어.md",
+                "file": "Spaces/Desc/RAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스명령어.md",
+                "file": "Spaces/Desc/RAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스명령어.md"
+                "file": "Spaces/Desc/RAID.md"
               }
             }
           },
@@ -173,19 +174,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80e6b5f5f79b3a67",
+  "active": "a86213727be01ef2",
   "lastOpenFiles": [
-    "리눅스 일반.md",
+    "Spaces/Desc/리눅스명령어.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/정보보안전문가.md",
     "리눅스.md",
-    "리눅스 마스터 2급.md",
-    "리눅스명령어.md",
+    "Spaces/Desc/관련 자격증.md",
     "Excalidraw/about_Linux.md",
-    "리눅스 운영 및 관리.md",
+    "Spaces/Desc/리눅스 운영 및 관리.md",
     "Excalidraw/install_Linux.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "README.md",
-    "리눅스 활용.md",
+    "Spaces/Desc/리눅스 활용.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
@@ -197,21 +199,20 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723115919_745.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
-    "관련 자격증.md",
-    "가상환경 및 커널이란.md",
-    "네트워크.md",
-    "네트워크 보안.md",
-    "Linux기본_디렉토리_설명.md",
+    "Spaces/Desc/가상환경 및 커널이란.md",
+    "Spaces/Desc/네트워크.md",
+    "Spaces/Desc/네트워크 보안.md",
+    "Spaces/Desc/Linux기본_디렉토리_설명.md",
     "RAID(1).md",
     "Excalidraw/Drawing 2024-07-23 01.51.28.excalidraw.md",
-    "칼리 리눅스 환경 설정 for 버추얼박스.md",
-    "프로토콜.md",
+    "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
+    "Spaces/Desc/프로토콜.md",
     "텍스트 모드 중심의 관리.md",
     "풍부한 소프트웨어 개발 환경 제공.md",
-    "LAN과 WAN.md",
-    "Network_Address_Translation.md",
-    "PythonSettingWin.md",
-    "RAID.md",
+    "Spaces/Desc/LAN과 WAN.md",
+    "Spaces/Desc/Network_Address_Translation.md",
+    "Spaces/Desc/PythonSettingWin.md",
+    "Spaces/Desc/RAID.md",
     "리눅스란.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
