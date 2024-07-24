@@ -11,9 +11,11 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Home/Information_Security.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 265.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Home/Information_Security.md"
               }
             }
           },
@@ -173,8 +175,8 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Spaces/Home/Information_Security.md",
     "Excalidraw/Linux_Command.md",
+    "Spaces/Home/Information_Security.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Python.md",
