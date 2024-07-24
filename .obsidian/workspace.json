@@ -18,55 +18,7 @@
             }
           },
           {
-            "id": "d1679e5ce09ce298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도움말관련명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "987980d60fbb1636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "계정관련명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "530cc532c3c7ef42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사용자 생성 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4af2400e3ea6f913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사용자 생성 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d17b63ea6a99ce4",
+            "id": "5abeb7d406fba67e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,54 +30,19 @@
             }
           },
           {
-            "id": "167fb1510add011d",
+            "id": "059ac51b526ab4d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "그룹 관리 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1880f56473bb6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/리눅스기타명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87bd80a67bac3a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도움말관련명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781d442bacb2dfb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "계정관련명령어.md",
+                "file": "사용자 생성 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "사용자 계정 관리 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "사용자 계정 관리 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "사용자 계정 관리 명령어.md"
               }
             }
           },
@@ -279,12 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06073884306bbc4d",
+  "active": "5abeb7d406fba67e",
   "lastOpenFiles": [
-    "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
-    "Spaces/Desc/리눅스기타명령어.md",
     "Excalidraw/Linux_Command.md",
     "사용자 생성 명령어.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
+    "Spaces/Desc/리눅스기타명령어.md",
     "도움말관련명령어.md",
     "계정관련명령어.md",
     "Spaces/Desc/리눅스 일반.md",
@@ -309,7 +226,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124427_440.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723120422_782.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723120050_760.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723115919_745.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     "Spaces/Desc/가상환경 및 커널이란.md",
