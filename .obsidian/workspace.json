@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f5e5a241521a33",
+        "id": "37533c12ee226922",
         "type": "tabs",
         "children": [
           {
-            "id": "06073884306bbc4d",
+            "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 조회 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33993ef2e6fec537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "디렉토리 관련 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dabff56bc0230ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Spaces/Home/Information_Security.md"
               }
             }
           },
@@ -199,13 +173,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dabff56bc0230ffb",
+  "active": "a2e69df50add19cd",
   "lastOpenFiles": [
-    "디렉토리 관련 명령어.md",
-    "무제 파일.md",
+    "Spaces/Home/Python.md",
+    "Spaces/Home/C 언어.md",
+    "Spaces/Home/C++ 프로젝트.md",
+    "Spaces/Home/IOS 개발.md",
+    "Spaces/Home/TODO LIST.md",
+    "Spaces/Home/Information_Security.md",
     "사용자 조회 명령어.md",
+    "디렉토리 관련 명령어.md",
+    "파일 관련 명령어.md",
     "Excalidraw/Linux_Command.md",
-    "Spaces/Home/정보보안전문가.md",
     "사용자 생성 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
@@ -224,7 +203,6 @@
     "Spaces/Desc/리눅스 운영 및 관리.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "README.md",
-    "Spaces/Desc/리눅스 활용.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
@@ -235,10 +213,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723120050_760.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
-    "Spaces/Desc/가상환경 및 커널이란.md",
-    "Spaces/Desc/네트워크.md",
-    "Spaces/Desc/네트워크 보안.md",
-    "Spaces/Desc/Linux기본_디렉토리_설명.md",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
