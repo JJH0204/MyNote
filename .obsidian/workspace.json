@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "8a4e8853f0d003e4",
+            "id": "607256d37b7f0f1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디렉토리 관련 명령어.md",
+                "file": "파일 관련 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디렉토리 관련 명령어.md",
+                "file": "파일 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디렉토리 관련 명령어.md",
+                "file": "파일 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디렉토리 관련 명령어.md"
+                "file": "파일 관련 명령어.md"
               }
             }
           },
@@ -184,9 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a4e8853f0d003e4",
+  "active": "607256d37b7f0f1d",
   "lastOpenFiles": [
     "Excalidraw/Linux_Command.md",
+    "디렉토리 관련 명령어.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "사용자 조회 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
@@ -197,7 +199,6 @@
     "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
     "Spaces/Home/Python.md",
-    "디렉토리 관련 명령어.md",
     "파일 관련 명령어.md",
     "사용자 생성 명령어.md",
     "Excalidraw/install_Linux.md",
@@ -213,7 +214,6 @@
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 운영 및 관리.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
-    "README.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
@@ -221,7 +221,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_940.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124427_440.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723120422_782.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723120050_760.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
