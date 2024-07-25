@@ -165,18 +165,19 @@
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Excalidraw/Linux_Command.md",
+    "Spaces/Home/GIT.md",
     "Spaces/Home/Information_Security.md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Python.md",
@@ -188,7 +189,6 @@
     "디렉토리 관련 명령어.md",
     "파일 관련 명령어.md",
     "사용자 생성 명령어.md",
-    "Spaces/Home/GIT.md",
     "Excalidraw/install_Linux.md",
     "그룹 관리 명령어.md",
     "사용자 계정 관리 명령어.md",
