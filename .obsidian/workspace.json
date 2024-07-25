@@ -16,6 +16,18 @@
                 "file": "Excalidraw/Linux_Command.md"
               }
             }
+          },
+          {
+            "id": "ecd367591249544a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "텍스트 파일 관련 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -173,10 +185,10 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "시스템 종료 명령어.md",
-    "Excalidraw/Linux_Command.md",
-    "파일 비교 명령어.md",
     "텍스트 파일 관련 명령어.md",
+    "Excalidraw/Linux_Command.md",
+    "시스템 종료 명령어.md",
+    "파일 비교 명령어.md",
     "Spaces/Desc/기타 명령어.md",
     "Spaces/Home/Information_Security.md",
     "기타 명령어.md",
