@@ -11,19 +11,9 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Linux_Command.md"
-              }
-            }
-          },
-          {
-            "id": "607256d37b7f0f1d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "파일 관련 명령어.md",
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Desc/리눅스 마스터 2급.md"
               }
             }
           },
@@ -185,15 +175,16 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Excalidraw/about_Linux.md",
-    "Excalidraw/Linux_Command.md",
+    "Spaces/Home/Information_Security.md",
+    "리눅스마스터2급 1차 족보(출처미상).pdf",
     "파일 관련 명령어.md",
+    "Excalidraw/Linux_Command.md",
+    "Excalidraw/about_Linux.md",
     "디렉토리 관련 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "사용자 조회 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Home/C 언어.md",
     "Spaces/Home/C++ 프로젝트.md",
     "Spaces/Home/IOS 개발.md",
@@ -228,7 +219,6 @@
     "Fonts",
     "Excalidraw",
     "Spaces/Image",
-    "Spaces/Desc",
-    "MyNote"
+    "Spaces/Desc"
   ]
 }
