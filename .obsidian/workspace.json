@@ -18,24 +18,12 @@
             }
           },
           {
-            "id": "3b4faa997b7d3888",
+            "id": "6b9a53156c52865a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템 종료 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8683f4251a067ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "네트워크 관련 명령어.md",
+                "file": "Spaces/Desc/기타 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템 종료 명령어.md",
+                "file": "Spaces/Desc/기타 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템 종료 명령어.md",
+                "file": "Spaces/Desc/기타 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템 종료 명령어.md"
+                "file": "Spaces/Desc/기타 명령어.md"
               }
             }
           },
@@ -196,17 +184,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b4faa997b7d3888",
+  "active": "6b9a53156c52865a",
   "lastOpenFiles": [
     "Excalidraw/Linux_Command.md",
+    "시스템 종료 명령어.md",
     "네트워크 관련 명령어.md",
+    "런레벨.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "파일 비교 명령어.md",
     "텍스트 파일 관련 명령어.md",
-    "시스템 종료 명령어.md",
     "Spaces/Desc/기타 명령어.md",
     "기타 명령어.md",
     "파일 관련 명령어.md",
