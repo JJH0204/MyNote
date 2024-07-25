@@ -11,9 +11,11 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Desc/리눅스 일반.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Desc/리눅스 일반.md"
               }
             }
           },
@@ -173,17 +175,18 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "Spaces/Home/Information_Security.md",
+    "Excalidraw/Linux_Command.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "파일 비교 명령어.md",
     "텍스트 파일 관련 명령어.md",
-    "Excalidraw/Linux_Command.md",
     "시스템 종료 명령어.md",
     "Spaces/Desc/기타 명령어.md",
-    "Spaces/Home/Information_Security.md",
     "기타 명령어.md",
     "네트워크 관련 명령어.md",
     "파일 관련 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
     "리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/about_Linux.md",
     "디렉토리 관련 명령어.md",
@@ -201,7 +204,6 @@
     "사용자 계정 관리 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "도움말관련명령어.md",
-    "계정관련명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
@@ -209,7 +211,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_956.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_940.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124427_440.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723120422_782.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
