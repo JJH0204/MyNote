@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "3b4faa997b7d3888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시스템 종료 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e8683f4251a067ac",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크 관련 명령어.md",
+                "file": "시스템 종료 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크 관련 명령어.md",
+                "file": "시스템 종료 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크 관련 명령어.md"
+                "file": "시스템 종료 명령어.md"
               }
             }
           },
@@ -184,9 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8683f4251a067ac",
+  "active": "3b4faa997b7d3888",
   "lastOpenFiles": [
     "Excalidraw/Linux_Command.md",
+    "네트워크 관련 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
@@ -196,7 +209,6 @@
     "시스템 종료 명령어.md",
     "Spaces/Desc/기타 명령어.md",
     "기타 명령어.md",
-    "네트워크 관련 명령어.md",
     "파일 관련 명령어.md",
     "리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/about_Linux.md",
