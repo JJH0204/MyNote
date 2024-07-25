@@ -16,8 +16,21 @@
                 "file": "Excalidraw/Linux_Command.md"
               }
             }
+          },
+          {
+            "id": "8a4e8853f0d003e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디렉토리 관련 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "디렉토리 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "디렉토리 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "디렉토리 관련 명령어.md"
               }
             }
           },
@@ -171,8 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7d60bbb1502df33",
+  "active": "8a4e8853f0d003e4",
   "lastOpenFiles": [
+    "Excalidraw/Linux_Command.md",
+    "사용자 조회 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
@@ -181,9 +196,7 @@
     "Spaces/Home/IOS 개발.md",
     "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
-    "Excalidraw/Linux_Command.md",
     "Spaces/Home/Python.md",
-    "사용자 조회 명령어.md",
     "디렉토리 관련 명령어.md",
     "파일 관련 명령어.md",
     "사용자 생성 명령어.md",
