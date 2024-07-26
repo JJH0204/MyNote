@@ -11,9 +11,11 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Home/Information_Security.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Spaces/Home/Information_Security.md"
               }
             }
           },
@@ -173,21 +175,21 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Spaces/Desc/기타 명령어.md",
-    "Excalidraw/Linux_Command.md",
-    "시스템 종료 명령어.md",
-    "네트워크 관련 명령어.md",
-    "런레벨.md",
+    "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
+    "Excalidraw/Linux_Command.md",
+    "Spaces/Desc/기타 명령어.md",
+    "시스템 종료 명령어.md",
+    "네트워크 관련 명령어.md",
+    "런레벨.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "파일 비교 명령어.md",
     "텍스트 파일 관련 명령어.md",
     "기타 명령어.md",
     "파일 관련 명령어.md",
     "리눅스마스터2급 1차 족보(출처미상).pdf",
-    "Excalidraw/about_Linux.md",
     "디렉토리 관련 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "사용자 조회 명령어.md",
