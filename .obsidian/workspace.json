@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
+                "file": "240726_기출오답노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
+                "file": "240726_기출오답노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
+                "file": "240726_기출오답노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Information_Security.md"
+                "file": "240726_기출오답노트.md"
               }
             }
           },
@@ -175,10 +175,11 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "240726_기출오답노트.md",
+    "Spaces/Home/Information_Security.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Home/Information_Security.md",
     "Excalidraw/Linux_Command.md",
     "Spaces/Desc/기타 명령어.md",
     "시스템 종료 명령어.md",
@@ -204,7 +205,6 @@
     "그룹 관리 명령어.md",
     "사용자 계정 관리 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
-    "도움말관련명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
