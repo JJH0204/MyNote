@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "Excalidraw/about_Linux.md"
               }
             }
           }
@@ -91,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Linux_Command.md",
+            "file": "Excalidraw/about_Linux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Linux_Command.md",
+            "file": "Excalidraw/about_Linux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Linux_Command.md"
+            "file": "Excalidraw/about_Linux.md"
           }
         }
       },
@@ -152,6 +152,7 @@
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/Home/C 언어.md",
     "Spaces/Home/Python.md",
     "무제 파일.canvas",
@@ -176,7 +177,6 @@
     "VS Code 로 C(C++) 개발하기.md",
     "C_for_Mac.md",
     "Spaces/Home/Github 블로그 만들기.md",
-    "Unions_kr.md",
     "Excalidraw"
   ]
 }
