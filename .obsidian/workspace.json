@@ -13,7 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_unset.md",
+                "file": "240726_기출오답노트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4086c66b4231c777",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/about_Linux.md"
+              }
+            }
+          },
+          {
+            "id": "6606cf528af8e1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "파일 비교 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git_unset.md",
+                "file": "240726_기출오답노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git_unset.md",
+                "file": "240726_기출오답노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git_unset.md"
+                "file": "240726_기출오답노트.md"
               }
             }
           },
@@ -175,26 +198,27 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Spaces/Home/GIT.md",
-    "git_unset.md",
+    "LILO.md",
+    "파일 비교 명령어.md",
     "240726_기출오답노트.md",
+    "Excalidraw/about_Linux.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
+    "Excalidraw/install_Linux.md",
+    "git_unset.md",
+    "Spaces/Home/GIT.md",
     "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
     "Excalidraw/네트워크 기초.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
-    "Excalidraw/about_Linux.md",
-    "Excalidraw/install_Linux.md",
-    "Excalidraw/Linux_Command.md",
     "Excalidraw/Drawing 2024-07-27 12.41.43.excalidraw.md",
-    "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/기타 명령어.md",
     "시스템 종료 명령어.md",
     "네트워크 관련 명령어.md",
     "런레벨.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
-    "파일 비교 명령어.md",
     "텍스트 파일 관련 명령어.md",
     "기타 명령어.md",
     "파일 관련 명령어.md",
@@ -203,7 +227,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "사용자 조회 명령어.md",
     "Spaces/Home/C 언어.md",
-    "Spaces/Home/C++ 프로젝트.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
