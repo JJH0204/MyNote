@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "git_unset.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "git_unset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "git_unset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240726_기출오답노트.md"
+                "file": "git_unset.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "Spaces/Home/GIT.md",
+    "git_unset.md",
+    "240726_기출오답노트.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
     "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
@@ -184,7 +187,6 @@
     "Excalidraw/about_Linux.md",
     "Excalidraw/install_Linux.md",
     "Excalidraw/Linux_Command.md",
-    "240726_기출오답노트.md",
     "Excalidraw/Drawing 2024-07-27 12.41.43.excalidraw.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/기타 명령어.md",
@@ -202,8 +204,6 @@
     "사용자 조회 명령어.md",
     "Spaces/Home/C 언어.md",
     "Spaces/Home/C++ 프로젝트.md",
-    "Spaces/Home/IOS 개발.md",
-    "Spaces/Home/TODO LIST.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
