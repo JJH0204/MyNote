@@ -4,20 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5474c53a0e50419c",
+        "id": "a6fbe0f351f5f789",
         "type": "tabs",
         "children": [
           {
-            "id": "896bcb7c3d119cc8",
+            "id": "e54cb048df0a87c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9eeb3bc249ea12e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/about_Linux.md"
+                "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/about_Linux.md",
+            "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/about_Linux.md",
+            "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/about_Linux.md"
+            "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md"
           }
         }
       },
@@ -147,8 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "896bcb7c3d119cc8",
+  "active": "f9eeb3bc249ea12e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
+    "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
@@ -175,8 +186,6 @@
     "settings.json.md",
     "CMake.md",
     "VS Code 로 C(C++) 개발하기.md",
-    "C_for_Mac.md",
-    "Spaces/Home/Github 블로그 만들기.md",
     "Excalidraw"
   ]
 }
