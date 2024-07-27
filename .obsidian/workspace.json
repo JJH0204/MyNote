@@ -11,11 +11,9 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "240726_기출오답노트.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/네트워크 기초.md"
               }
             }
           }
@@ -73,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "Excalidraw/네트워크 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "Excalidraw/네트워크 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240726_기출오답노트.md"
+                "file": "Excalidraw/네트워크 기초.md"
               }
             }
           },
@@ -175,12 +174,16 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Spaces/Desc/리눅스 마스터 2급.md",
-    "240726_기출오답노트.md",
-    "Spaces/Home/Information_Security.md",
+    "Excalidraw/네트워크와 프로토콜의 관계.md",
+    "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/about_Linux.md",
-    "Spaces/Desc/리눅스 일반.md",
+    "Excalidraw/install_Linux.md",
     "Excalidraw/Linux_Command.md",
+    "240726_기출오답노트.md",
+    "Excalidraw/Drawing 2024-07-27 12.41.43.excalidraw.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/기타 명령어.md",
     "시스템 종료 명령어.md",
     "네트워크 관련 명령어.md",
@@ -200,10 +203,6 @@
     "Spaces/Home/TODO LIST.md",
     "Spaces/Home/GIT.md",
     "Spaces/Home/Python.md",
-    "사용자 생성 명령어.md",
-    "Excalidraw/install_Linux.md",
-    "그룹 관리 명령어.md",
-    "사용자 계정 관리 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
