@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/기타 명령어.md",
+                "file": "Spaces/Desc/MBR.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,12 +84,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/기타 명령어.md",
+                "file": "Spaces/Desc/MBR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/기타 명령어.md",
+                "file": "Spaces/Desc/MBR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/기타 명령어.md"
+                "file": "Spaces/Desc/MBR.md"
               }
             }
           },
@@ -185,36 +185,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "956e0c7cfff5dfe1",
+  "active": "a86213727be01ef2",
   "lastOpenFiles": [
+    "Spaces/text/day2.txt",
+    "Spaces/text",
+    "Spaces/Desc/기타 명령어.md",
     "Excalidraw/Linux_Command.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
-    "240726_기출오답노트.md",
-    "DHCP.md",
-    "Disk_Druid.md",
-    "FDISK.md",
-    "MBR.md",
-    "LILO.md",
-    "LILO_lilo.conf.md",
-    "파일 비교 명령어.md",
+    "Spaces/Desc/240726_기출오답노트.md",
+    "Spaces/Desc/DHCP.md",
+    "Spaces/Desc/Disk_Druid.md",
+    "Spaces/Desc/FDISK.md",
+    "Spaces/Desc/MBR.md",
+    "Spaces/Desc/LILO.md",
+    "Spaces/Desc/LILO_lilo.conf.md",
+    "Spaces/Desc/파일 비교 명령어.md",
     "Spaces/Home/Information_Security.md",
     "Excalidraw/install_Linux.md",
-    "git_unset.md",
+    "Spaces/Desc/git_unset.md",
     "Spaces/Home/GIT.md",
     "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
     "Excalidraw/네트워크 기초.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Drawing 2024-07-27 12.41.43.excalidraw.md",
-    "Spaces/Desc/기타 명령어.md",
-    "시스템 종료 명령어.md",
-    "네트워크 관련 명령어.md",
-    "런레벨.md",
+    "Spaces/Desc/시스템 종료 명령어.md",
+    "Spaces/Desc/네트워크 관련 명령어.md",
+    "Spaces/Desc/런레벨.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
-    "텍스트 파일 관련 명령어.md",
-    "리눅스마스터2급 1차 족보(출처미상).pdf",
+    "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
@@ -231,7 +232,6 @@
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
     "Excalidraw",
-    "Spaces/Image",
-    "Spaces/Desc"
+    "Spaces/Image"
   ]
 }
