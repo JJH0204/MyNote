@@ -11,37 +11,26 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "240726_기출오답노트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4086c66b4231c777",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/about_Linux.md"
+                "file": "Excalidraw/Linux_Command.md"
               }
             }
           },
           {
-            "id": "6606cf528af8e1f0",
+            "id": "956e0c7cfff5dfe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파일 비교 명령어.md",
+                "file": "Spaces/Desc/기타 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "Spaces/Desc/기타 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "Spaces/Desc/기타 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240726_기출오답노트.md"
+                "file": "Spaces/Desc/기타 명령어.md"
               }
             }
           },
@@ -196,8 +185,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7d60bbb1502df33",
+  "active": "956e0c7cfff5dfe1",
   "lastOpenFiles": [
+    "Excalidraw/Linux_Command.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "240726_기출오답노트.md",
     "DHCP.md",
@@ -207,9 +199,6 @@
     "LILO.md",
     "LILO_lilo.conf.md",
     "파일 비교 명령어.md",
-    "Excalidraw/about_Linux.md",
-    "Spaces/Desc/리눅스 일반.md",
-    "Excalidraw/Linux_Command.md",
     "Spaces/Home/Information_Security.md",
     "Excalidraw/install_Linux.md",
     "git_unset.md",
