@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "LILO_lilo.conf.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "LILO_lilo.conf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240726_기출오답노트.md",
+                "file": "LILO_lilo.conf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240726_기출오답노트.md"
+                "file": "LILO_lilo.conf.md"
               }
             }
           },
@@ -177,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +198,9 @@
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
     "LILO.md",
-    "파일 비교 명령어.md",
+    "LILO_lilo.conf.md",
     "240726_기출오답노트.md",
+    "파일 비교 명령어.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/Linux_Command.md",
@@ -226,7 +226,6 @@
     "디렉토리 관련 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "사용자 조회 명령어.md",
-    "Spaces/Home/C 언어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
