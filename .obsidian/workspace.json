@@ -11,8 +11,10 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/about_Linux.md"
+              }
             }
           },
           {
@@ -102,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/about_Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/about_Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/about_Linux.md"
+              }
             }
           },
           {
