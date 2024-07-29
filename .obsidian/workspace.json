@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240729_기출오답노트.md",
+                "file": "vi.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240729_기출오답노트.md",
+                "file": "vi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240729_기출오답노트.md",
+                "file": "vi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240729_기출오답노트.md"
+                "file": "vi.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "리눅스_링크.md",
     "240729_기출오답노트.md",
+    "vi.md",
+    "리눅스_링크.md",
     "netstat.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
@@ -204,7 +205,6 @@
     "Spaces/Desc/FDISK.md",
     "Spaces/Desc/MBR.md",
     "Spaces/Desc/LILO.md",
-    "Spaces/Desc/LILO_lilo.conf.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
