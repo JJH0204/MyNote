@@ -11,11 +11,9 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "vi.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Linux_Command.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vi.md",
+                "file": "Excalidraw/Linux_Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vi.md",
+                "file": "Excalidraw/Linux_Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vi.md"
+                "file": "Excalidraw/Linux_Command.md"
               }
             }
           },
@@ -175,14 +173,14 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "Spaces/Desc/리눅스 일반.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "Spaces/Home/Information_Security.md",
     "240729_기출오답노트.md",
     "vi.md",
     "리눅스_링크.md",
     "netstat.md",
-    "Spaces/Home/Information_Security.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
     "README.md",
-    "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/Linux_Command.md",
     "SSL.md",
     "NIS.md",
