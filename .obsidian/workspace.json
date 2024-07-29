@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240728_기출오답노트.md",
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240728_기출오답노트.md",
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240728_기출오답노트.md",
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240728_기출오답노트.md"
+                "file": "Spaces/Desc/리눅스 마스터 2급.md"
               }
             }
           },
@@ -185,14 +185,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2e69df50add19cd",
+  "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Spaces/Desc/리눅스 마스터 2급.md",
-    "240728_기출오답노트.md",
     "Spaces/Desc/관련 자격증.md",
     "Spaces/Home/Information_Security.md",
-    "Excalidraw/Linux_Command.md",
+    "240728_기출오답노트.md",
     "README.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/text/day2.txt",
     "Spaces/text",
     "Spaces/Desc/기타 명령어.md",
