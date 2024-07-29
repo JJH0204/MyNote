@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/MBR.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/MBR.md",
+                "file": "Excalidraw/Linux_Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/MBR.md",
+                "file": "Excalidraw/Linux_Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/MBR.md"
+                "file": "Excalidraw/Linux_Command.md"
               }
             }
           },
@@ -184,12 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a86213727be01ef2",
+  "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "README.md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/text/day2.txt",
     "Spaces/text",
     "Spaces/Desc/기타 명령어.md",
-    "Excalidraw/Linux_Command.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
@@ -230,7 +231,6 @@
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
-    "Excalidraw",
-    "Spaces/Image"
+    "Excalidraw"
   ]
 }
