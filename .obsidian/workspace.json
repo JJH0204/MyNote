@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "240729_기출오답노트.md",
+                "file": "netstat.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240729_기출오답노트.md",
+                "file": "netstat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240729_기출오답노트.md",
+                "file": "netstat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240729_기출오답노트.md"
+                "file": "netstat.md"
               }
             }
           },
@@ -175,12 +175,13 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "240729_기출오답노트.md",
+    "netstat.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "README.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/Linux_Command.md",
-    "240729_기출오답노트.md",
     "SSL.md",
     "NIS.md",
     "Shadow_Password.md",
@@ -204,7 +205,6 @@
     "Spaces/Desc/LILO.md",
     "Spaces/Desc/LILO_lilo.conf.md",
     "Spaces/Desc/파일 비교 명령어.md",
-    "Excalidraw/install_Linux.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
