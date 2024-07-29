@@ -63,5 +63,63 @@
 
 sudo umount /mnt/usb
 
+### 주요 옵션
+
+- **-t**: 파일 시스템 유형을 지정합니다. 예를 들어, ext4, nfs, iso9660 등을 사용할 수 있습니다.
+    `mount -t ext4 /dev/sda1 /mnt`
+    
+- **-o**: 여러 마운트 옵션을 지정할 수 있습니다. 옵션은 쉼표로 구분해 나열할 수 있습니다.
+    
+    - **ro**: 읽기 전용으로 마운트합니다.
+        `mount -o ro /dev/sda1 /mnt`
+        
+    - **rw**: 읽기/쓰기로 마운트합니다.
+        `mount -o rw /dev/sda1 /mnt`
+        
+    - **noatime**: 파일 접근 시간을 업데이트하지 않습니다. 성능을 향상시킬 수 있습니다.
+        
+        `mount -o noatime /dev/sda1 /mnt`
+        
+    - **async**: 비동기식으로 파일 시스템 동작을 설정합니다.
+        
+        `mount -o async /dev/sda1 /mnt`
+        
+    - **sync**: 동기식으로 파일 시스템 동작을 설정합니다.
+        
+        `mount -o sync /dev/sda1 /mnt`
+        
+    - **remount**: 이미 마운트된 파일 시스템의 옵션을 변경합니다.
+        `mount -o remount,rw /mnt`
+        
+    - **loop**: ISO 파일 같은 디스크 이미지 파일을 마운트할 때 사용합니다.
+        
+        `mount -o loop image.iso /mnt`
+        
+- **-a**: `/etc/fstab` 파일에 정의된 모든 파일 시스템을 마운트합니다.
+    `mount -a`
+    
+- **-r**: 읽기 전용으로 마운트합니다. 이는 `-o ro`와 동일합니다.
+    `mount -r /dev/sda1 /mnt`
+    
+- **-n**: `/etc/mtab` 파일을 업데이트하지 않고 마운트합니다. 시스템 관리 작업 중에 유용할 수 있습니다.
+    `mount -n /dev/sda1 /mnt`
+    
+- **-v**: 마운트 작업 중에 상세 정보를 출력합니다.
+    `mount -v /dev/sda1 /mnt`
+    
+- **-L**: 볼륨 라벨을 사용하여 마운트할 장치를 지정합니다.
+    `mount -L mylabel /mnt`
+    
+
+### 예시 명령어
+
+- USB 드라이브 마운트:
+    `sudo mount -o rw,async /dev/sdb1 /mnt/usb`
+    
+- NFS 공유 마운트:
+    `sudo mount -t nfs -o rw,vers=4 server:/shared /mnt/nfs`
+    
+- ISO 파일 마운트:
+    `sudo mount -o loop image.iso /mnt/iso`
 
 이렇게 `mount` 명령어는 리눅스에서 파일 시스템을 효율적으로 관리하고, 다양한 저장 장치와 네트워크 리소스를 통합하는 데 필수적인 도구이다.

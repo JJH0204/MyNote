@@ -11,12 +11,8 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mount.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "mount.md"
-              }
+              "state": {}
             }
           },
           {
