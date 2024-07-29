@@ -11,9 +11,11 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "mount.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "mount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "mount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "mount.md"
               }
             }
           },
@@ -173,15 +175,16 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Home/Information_Security.md",
     "240729_기출오답노트.md",
+    "mount.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "Excalidraw/Linux_Command.md",
     "vi.md",
     "리눅스_링크.md",
     "netstat.md",
     "README.md",
-    "Excalidraw/Linux_Command.md",
     "SSL.md",
     "NIS.md",
     "Shadow_Password.md",
@@ -202,7 +205,6 @@
     "Spaces/Desc/Disk_Druid.md",
     "Spaces/Desc/FDISK.md",
     "Spaces/Desc/MBR.md",
-    "Spaces/Desc/LILO.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
