@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파일권한.md",
+                "file": "240729_기출오답노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파일권한.md",
+                "file": "240729_기출오답노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파일권한.md",
+                "file": "240729_기출오답노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파일권한.md"
+                "file": "240729_기출오답노트.md"
               }
             }
           },
@@ -187,8 +187,12 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "240729_기출오답노트.md",
+    "Spaces/Desc/C 모듈화 에러.md",
+    "Spaces/Desc/런레벨.md",
     "파일권한.md",
+    "Spaces/Temp/Pasted image 20240729180858.png",
+    "Spaces/Temp",
+    "240729_기출오답노트.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "240728_기출오답노트.md",
     "Spaces/Desc/관련 자격증.md",
@@ -213,8 +217,6 @@
     "Spaces/Home/GIT.md",
     "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
     "Excalidraw/네트워크 기초.md",
-    "Excalidraw/네트워크와 프로토콜의 관계.md",
-    "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
@@ -225,13 +227,11 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_956.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_940.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723124427_440.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
     "Fonts/나눔손글씨 강부장님체.ttf",
     "Fonts/나눔손글씨 성실체.ttf",
-    "Fonts",
-    "Excalidraw"
+    "Fonts"
   ]
 }
