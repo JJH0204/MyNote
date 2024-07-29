@@ -11,9 +11,11 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "240728_기출오답노트.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "240728_기출오답노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
+                "file": "240728_기출오답노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Linux_Command.md"
+                "file": "240728_기출오답노트.md"
               }
             }
           },
@@ -186,14 +187,17 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
-    "README.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "240728_기출오답노트.md",
+    "Spaces/Desc/관련 자격증.md",
+    "Spaces/Home/Information_Security.md",
     "Excalidraw/Linux_Command.md",
+    "README.md",
     "Spaces/text/day2.txt",
     "Spaces/text",
     "Spaces/Desc/기타 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/about_Linux.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Desc/240726_기출오답노트.md",
     "Spaces/Desc/DHCP.md",
     "Spaces/Desc/Disk_Druid.md",
@@ -202,7 +206,6 @@
     "Spaces/Desc/LILO.md",
     "Spaces/Desc/LILO_lilo.conf.md",
     "Spaces/Desc/파일 비교 명령어.md",
-    "Spaces/Home/Information_Security.md",
     "Excalidraw/install_Linux.md",
     "Spaces/Desc/git_unset.md",
     "Spaces/Home/GIT.md",
@@ -212,8 +215,6 @@
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Excalidraw/Drawing 2024-07-27 12.41.43.excalidraw.md",
     "Spaces/Desc/시스템 종료 명령어.md",
-    "Spaces/Desc/네트워크 관련 명령어.md",
-    "Spaces/Desc/런레벨.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
