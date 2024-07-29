@@ -1,5 +1,6 @@
 ---
 sticker: lucide//code-2
+color: ""
 ---
 #C언어기초 #Coding
 잊고 살았던 코딩 실력을 다시 일깨우는 작업
