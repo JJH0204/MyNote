@@ -11,19 +11,9 @@
             "id": "c7d60bbb1502df33",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/about_Linux.md"
-              }
-            }
-          },
-          {
-            "id": "e52cb81ae43e36dd",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/C 언어.md",
+                "file": "240730_기출오답노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/about_Linux.md",
+                "file": "240730_기출오답노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/about_Linux.md",
+                "file": "240730_기출오답노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/about_Linux.md"
+                "file": "240730_기출오답노트.md"
               }
             }
           },
@@ -185,13 +175,14 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "240730_기출오답노트.md",
+    "240729_기출오답노트.md",
+    "Spaces/Home/Information_Security.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Home/C 언어.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Desc/프로토콜.md",
-    "240729_기출오답노트.md",
     "mount.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/Linux_Command.md",
     "vi.md",
@@ -214,7 +205,6 @@
     "Spaces/Desc/기타 명령어.md",
     "Spaces/Desc/240726_기출오답노트.md",
     "Spaces/Desc/DHCP.md",
-    "Spaces/Desc/Disk_Druid.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
