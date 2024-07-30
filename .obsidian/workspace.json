@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37533c12ee226922",
+        "id": "4fbad29f0a29428b",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d60bbb1502df33",
+            "id": "dd0116bd073873d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,12 +174,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7d60bbb1502df33",
+  "active": "a2e69df50add19cd",
   "lastOpenFiles": [
     "Spaces/Desc/리눅스 마스터 2급.md",
+    "리눅스마스터2급.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "240730_기출오답노트.md",
     "240729_기출오답노트.md",
-    "Spaces/Home/Information_Security.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Home/C 언어.md",
     "Spaces/Desc/프로토콜.md",
@@ -205,9 +207,7 @@
     "Spaces/text",
     "Spaces/Desc/기타 명령어.md",
     "Spaces/Desc/240726_기출오답노트.md",
-    "Spaces/Desc/DHCP.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
-    "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723130603_392.png",
