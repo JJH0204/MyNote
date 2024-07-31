@@ -16,6 +16,16 @@
                 "file": "Excalidraw/Linux_Command.md"
               }
             }
+          },
+          {
+            "id": "82c3d4c957ef616f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/about_Linux.md"
+              }
+            }
           }
         ]
       }
@@ -54,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "line:(slave)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,10 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd0116bd073873d3",
+  "active": "4811b35bf9b96ba0",
   "lastOpenFiles": [
-    "Spaces/Desc/리눅스 일반.md",
+    "Excalidraw/Linux_Command.md",
     "Excalidraw/about_Linux.md",
+    "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Home/Information_Security.md",
     "240730_기출오답노트.md",
@@ -185,7 +197,6 @@
     "Spaces/Home/C 언어.md",
     "Spaces/Desc/프로토콜.md",
     "mount.md",
-    "Excalidraw/Linux_Command.md",
     "vi.md",
     "리눅스_링크.md",
     "netstat.md",
