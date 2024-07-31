@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4fbad29f0a29428b",
+        "id": "5b793c7424ea6f16",
         "type": "tabs",
         "children": [
           {
-            "id": "dd0116bd073873d3",
+            "id": "93a6e535c46fa1ac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Linux_Command.md"
-              }
-            }
-          },
-          {
-            "id": "82c3d4c957ef616f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/about_Linux.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(slave)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Linux_Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Linux_Command.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,13 +165,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4811b35bf9b96ba0",
+  "active": "a2e69df50add19cd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-31 13.03.10.excalidraw.md",
+    "Spaces/Home/Information_Security.md",
     "Excalidraw/Linux_Command.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Home/Information_Security.md",
     "240730_기출오답노트.md",
     "Spaces/Desc/Drawing 2024-07-30 14.35.29.excalidraw.md",
     "리눅스마스터2급.md",
@@ -214,7 +198,6 @@
     "Spaces/Desc/관련 자격증.md",
     "Spaces/text/day2.txt",
     "Spaces/text",
-    "Spaces/Desc/기타 명령어.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
