@@ -11,22 +11,13 @@
             "id": "e54cb048df0a87c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f9eeb3bc249ea12e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md"
+                "file": "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +79,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "right": {
     "id": "f85e5b98c2328126",
@@ -100,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
+            "file": "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
+            "file": "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md"
+            "file": "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf"
           }
         }
       },
@@ -156,13 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9eeb3bc249ea12e",
+  "active": "84b0e6084a459556",
   "lastOpenFiles": [
+    "Spaces/Desc/Drawing 2024-07-30 14.35.29.excalidraw.md",
+    "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
+    "Excalidraw/Drawing 2024-07-30 14.28.01.excalidraw.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "240730_기출오답노트.md",
+    "Spaces/Home/Information_Security.md",
     "Excalidraw/Drawing 2024-07-27 12.44.53.excalidraw.md",
     "Excalidraw/about_Linux.md",
     "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Home/Information_Security.md",
     "Excalidraw/Linux_Command.md",
     "Spaces/Home/C 언어.md",
     "Spaces/Home/Python.md",
@@ -182,10 +177,6 @@
     "깊이 우선 탐색(Depth-first Search).md",
     "MyStack.c.md",
     "VS_Code Github 연동하기.md",
-    "연결 리스트(Linked List).md",
-    "settings.json.md",
-    "CMake.md",
-    "VS Code 로 C(C++) 개발하기.md",
     "Excalidraw"
   ]
 }
