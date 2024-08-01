@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/가상화폐 트레이딩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f06c0d7cb674f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spaces/Home/Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spaces/Home/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spaces/Home/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Spaces/Home/Python.md"
               }
             }
           },
@@ -186,13 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5f06c0d7cb674f6",
+  "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
     "Spaces/Desc/가상화폐 트레이딩.md",
+    "conflict-files-obsidian-git.md",
     "Spaces/Home/Python.md",
     "Spaces/Desc/클래스 (class).md",
     "Spaces/Desc/가상환경 및 커널이란.md",
-    "conflict-files-obsidian-git.md",
     "Spaces/Desc/Drawing 2024-07-30 14.35.29.excalidraw.md",
     "240730_기출오답노트.md",
     "Excalidraw/about_Linux.md",
