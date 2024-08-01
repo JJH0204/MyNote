@@ -46,3 +46,18 @@ print("암호화 해제된 비밀번호: {pw}".format(pw=de_pw))
 암호화된 비밀번호: ϹƹЯǂ΍ǋЂǔ
 암호화 해제된 비밀번호: q1w2e3r4
 ```
+
+
+```python
+# 입력 함수: input("출력할 메시지")
+
+inputData = input("비밀번호: ")
+
+temp = ""
+
+for i in inputData:
+
+    temp += chr(ord(i) * 3 + 1)
+
+print("현재 비밀번호: {pw}\n암호화 후: {en_pw}".format(pw = inputData, en_pw = temp))
+```
