@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Python.md",
+                "file": "EncryptionNDeencryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Python.md",
+                "file": "EncryptionNDeencryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Python.md",
+                "file": "EncryptionNDeencryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Python.md"
+                "file": "EncryptionNDeencryption.md"
               }
             }
           },
@@ -175,9 +175,10 @@
   },
   "active": "c7d60bbb1502df33",
   "lastOpenFiles": [
+    "Spaces/Home/Python.md",
+    "EncryptionNDeencryption.md",
     "Spaces/Desc/가상화폐 트레이딩.md",
     "conflict-files-obsidian-git.md",
-    "Spaces/Home/Python.md",
     "Spaces/Desc/클래스 (class).md",
     "Spaces/Desc/가상환경 및 커널이란.md",
     "Spaces/Desc/Drawing 2024-07-30 14.35.29.excalidraw.md",
@@ -200,7 +201,6 @@
     "Shadow_Password.md",
     "MD5.md",
     "Spaces/Desc/C 모듈화 에러.md",
-    "Spaces/Desc/런레벨.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
