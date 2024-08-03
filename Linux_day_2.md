@@ -9,6 +9,7 @@
 
 ### 텍스트 파일 수정
 	`vi /etc/sysconfig/selinux`
+	disavled로 설정 수정
 
 ### 명령어로 설정 끄기
 	grubby --update-kernel ALL --args selinux=0
