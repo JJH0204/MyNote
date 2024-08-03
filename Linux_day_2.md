@@ -17,3 +17,7 @@
 ### 명령어로 설정 켜기
 	grubby --update-kernel ALL --remove-args selinux
 
+# IP 변경
+### 설정파일 경로
+	`/etc/NetworkManager/system-connections/enp0s3.nmconnection`
+
