@@ -21,3 +21,9 @@
 ### 설정파일 경로
 	`/etc/NetworkManager/system-connections/enp0s3.nmconnection`
 
+### 랜카드 끄기
+	nmcli connection down enp0s3
+
+### 랜카드 켜기
+	nmcli connection up enp0s3
+	
