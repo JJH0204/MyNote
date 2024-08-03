@@ -7,3 +7,5 @@ sticker: lucide//github
 - https://ittrue.tistory.com/91 깃 클론
 - [사용하지 않는 PC에서 git연결 해제하기](git_unset.md)
 - [git_pull_error](https://goddaehee.tistory.com/253)
+- [git_stash_clear](https://iiii.tistory.com/156)
+- 
