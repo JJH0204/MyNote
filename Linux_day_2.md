@@ -32,3 +32,6 @@
 	cd /etc/passwd
 - 현재 디렉토리(폴더) 기준 목표까지 경로를 표현 = 상대 경로
 	cd ../passwd
+
+# 텍스트 편집기
+	vi, nano, gedit
