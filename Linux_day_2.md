@@ -5,4 +5,14 @@
 
 # selinux 설정끄기
 ### selinux 설정 확인
-`sestatus`
+	`sestatus`
+
+### 텍스트 파일 수정
+	`vi /etc/sysconfig/selinux`
+
+### 명령어로 설정 끄기
+	grubby --update-kernel ALL --args selinux=0
+
+### 명령어로 설정 켜기
+	grubby --update-kernel ALL --remove-args selinux
+
