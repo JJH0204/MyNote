@@ -18,3 +18,7 @@
 	%s/a/b: a를 찾아서 b로 변경
 - [링크](https://www.google.com/search?q=vi+%EC%82%AC%EC%9A%A9%EB%B2%95&oq=vi+tkdyd&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQ3NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
+## 와일드카드
+	*: 모든것
+	?: 1글자
+
