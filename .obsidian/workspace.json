@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/자격증.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/자격증.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/자격증.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/자격증.md"
+                "file": "Spaces/Home/Information_Security.md"
               }
             }
           },
@@ -184,8 +183,9 @@
   },
   "active": "2c5b2337b1f75b07",
   "lastOpenFiles": [
-    "Spaces/Desc/자격증.md",
+    "자료.md",
     "Spaces/Home/Information_Security.md",
+    "Spaces/Desc/자격증.md",
     "Linux_day_3.md",
     "리눅스.md",
     "Linux_day_2.md",
@@ -209,7 +209,6 @@
     "mount.md",
     "Spaces/Desc/리눅스 일반.md",
     "Excalidraw/Linux_Command.md",
-    "리눅스_링크.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
