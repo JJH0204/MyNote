@@ -24,3 +24,6 @@
 
 ## cd 명령어
 	cd ~사용자이름 : 지정한 사용자의 홈 디렉토리로 이동 명령
+
+## 관리자/사용자 권한
+[블로그 포스팅](https://velog.io/@lenyleny/Linux-sudosusu-%EC%B0%A8%EC%9D%B4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%99%80-%EC%B0%A8%EC%9D%B4-rootadminuser-%EC%B0%A8%EC%9D%B4)

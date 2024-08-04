@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "2c5b2337b1f75b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Information_Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Information_Security.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,13 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c5b2337b1f75b07",
+  "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "자료.md",
-    "Spaces/Home/Information_Security.md",
-    "Spaces/Desc/자격증.md",
     "Linux_day_3.md",
     "리눅스.md",
+    "Spaces/Home/Information_Security.md",
+    "자료.md",
+    "Spaces/Desc/자격증.md",
     "Linux_day_2.md",
     "vi.md",
     "Linux_day_1.md",
