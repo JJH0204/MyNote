@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_day_3.md",
+                "file": "Spaces/Desc/자격증.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_day_3.md",
+                "file": "Spaces/Desc/자격증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_day_3.md",
+                "file": "Spaces/Desc/자격증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_day_3.md"
+                "file": "Spaces/Desc/자격증.md"
               }
             }
           },
@@ -183,16 +184,16 @@
   },
   "active": "2c5b2337b1f75b07",
   "lastOpenFiles": [
-    "리눅스.md",
+    "Spaces/Desc/자격증.md",
+    "Spaces/Home/Information_Security.md",
     "Linux_day_3.md",
+    "리눅스.md",
     "Linux_day_2.md",
     "vi.md",
     "Linux_day_1.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Home/GIT.md",
     "리눅스마스터2급.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Desc/관련 자격증.md",
     "Spaces/Desc/Drawing 2024-07-30 14.35.29.excalidraw.md",
     "EncryptionNDeencryption.md",
     "Spaces/Home/Python.md",
