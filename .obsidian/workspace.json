@@ -23,15 +23,12 @@
             "id": "bcbbc0baa242c6b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bit_byte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bit_byte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bit_byte.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,13 +178,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "227643c98013ea2b",
+  "active": "bcbbc0baa242c6b8",
   "lastOpenFiles": [
-    "Spaces/Home/컴퓨터 과학.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "bit_byte.md",
+    "Spaces/Home/컴퓨터 과학.md",
+    "MSB_N_LSB.md",
+    "sign_bit.md",
+    "Spaces/Temp/Pasted image 20240805205109.png",
     "진법.md",
     "Spaces/Desc/무제 파일.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "CTF.md",
     "Wargame.md",
     "플래그.md",
@@ -211,8 +207,6 @@
     "Linux_day_1.md",
     "Spaces/Home/GIT.md",
     "리눅스마스터2급.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Desc/Drawing 2024-07-30 14.35.29.excalidraw.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
@@ -226,7 +220,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_956.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_940.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
