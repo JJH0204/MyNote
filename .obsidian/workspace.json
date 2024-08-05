@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bit_byte.md",
+                "file": "Encoding_Decoding.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bit_operation.md",
+                "file": "Encoding_Decoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bit_operation.md",
+                "file": "Encoding_Decoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bit_operation.md"
+                "file": "Encoding_Decoding.md"
               }
             }
           },
@@ -188,12 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcbbc0baa242c6b8",
+  "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "bit.md",
-    "bit_operation.md",
+    "ASCII.md",
+    "Encoding_Decoding.md",
     "Spaces/Home/컴퓨터 과학.md",
+    "bit_operation.md",
     "bit_byte.md",
+    "bit.md",
     "Byte_Ordering.md",
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
@@ -217,8 +218,6 @@
     "Spaces/Desc/관련 자격증.md",
     "Spaces/Desc/자격증.md",
     "Linux_day_3.md",
-    "리눅스.md",
-    "Linux_day_2.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
