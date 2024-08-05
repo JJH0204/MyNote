@@ -11,8 +11,12 @@
             "id": "227643c98013ea2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Wargame.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wargame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wargame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wargame.md"
+              }
             }
           },
           {
@@ -181,6 +189,7 @@
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Wargame.md",
     "Hacking.md",
     "Reversing.md",
     "Pwnable.md",
@@ -205,7 +214,6 @@
     "Spaces/Desc/클래스 (class).md",
     "Spaces/Desc/가상환경 및 커널이란.md",
     "240730_기출오답노트.md",
-    "Excalidraw/about_Linux.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
