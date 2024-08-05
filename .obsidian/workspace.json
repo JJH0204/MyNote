@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "플래그.md",
+                "file": "Write-up.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "플래그.md",
+                "file": "Write-up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "플래그.md",
+                "file": "Write-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "플래그.md"
+                "file": "Write-up.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "Wargame.md",
     "플래그.md",
+    "Write-up.md",
+    "Wargame.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Hacking.md",
     "Reversing.md",
@@ -213,7 +214,6 @@
     "Spaces/Desc/가상화폐 트레이딩.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Desc/클래스 (class).md",
-    "Spaces/Desc/가상환경 및 커널이란.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
