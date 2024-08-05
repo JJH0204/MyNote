@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bit_byte.md",
+                "file": "Byte_Ordering.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Byte_Ordering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Byte_Ordering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Byte_Ordering.md"
+              }
             }
           },
           {
@@ -178,10 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcbbc0baa242c6b8",
+  "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "bit_byte.md",
+    "Byte_Ordering.md",
+    "Spaces/Desc/메모리 할당 유효성 점검 방법.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/컴퓨터 과학.md",
     "MSB_N_LSB.md",
     "sign_bit.md",
@@ -205,8 +211,6 @@
     "Linux_day_2.md",
     "vi.md",
     "Linux_day_1.md",
-    "Spaces/Home/GIT.md",
-    "리눅스마스터2급.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
