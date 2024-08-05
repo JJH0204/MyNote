@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwnable.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwnable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwnable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pwnable.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,12 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcbbc0baa242c6b8",
+  "active": "227643c98013ea2b",
   "lastOpenFiles": [
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Hacking.md",
+    "Reversing.md",
     "Pwnable.md",
     "Web_Hacking.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/Information_Security.md",
     "자료.md",
     "Spaces/Desc/관련 자격증.md",
@@ -210,7 +206,6 @@
     "Spaces/Desc/가상환경 및 커널이란.md",
     "240730_기출오답노트.md",
     "Excalidraw/about_Linux.md",
-    "Spaces/Home/C 언어.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",

@@ -5,4 +5,14 @@
 # 해킹의 분야
 - [Web Hacking](Web_Hacking.md)
 - [System Hacking, a.k.a Pwnable](Pwnable.md)
-- 
+- [Reverse Engineering](Reversing.md)
+
+# 해킹을 위해 알아야 할 지식
+> [!NOTE]
+> 없어도 상관은 없지만 더 잘 하기 위해서 필요한 지식들
+- 컴퓨터 과학
+- 컴퓨터 시스템
+- 네트워크
+- 프로그래밍 언어 및 운영체제
+- 등등
+
