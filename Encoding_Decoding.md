@@ -9,5 +9,21 @@
 # [아스키 코드](ASCII.md)
 ---
 
-# 유니코드
+# [유니코드](Unicode.md)
 ---
+
+# [URL](URL.md) 인코딩 (퍼센트 인코딩)
+---
+
+# [Base64](Base64.md) 인코딩
+---
+
+# 인코딩 도구
+---
+인코딩, 디코딩을 위한 도구는 매우 다양합니다. 문자열을 특정 형식으로 인코딩, 디코딩할 수 있는 몇 가지 도구를 소개합니다. 해킹 문제를 풀거나, 문자열을 원하는 형태로 변환하고 싶을 때 유용하니 직접 사용해 보는 것을 추천합니다.
+
+- [https://tools.dreamhack.games/cyberchef](https://tools.dreamhack.games/cyberchef)
+    
+- [https://emn178.github.io/online-tools/base64_encode.html](https://emn178.github.io/online-tools/base64_encode.html)
+    
+- [https://encoding.tools/](https://encoding.tools/)
