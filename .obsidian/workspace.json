@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -184,6 +185,8 @@
   },
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240805211614.png",
+    "Spaces/Temp/Pasted image 20240805211427.png",
     "bit_byte.md",
     "Byte_Ordering.md",
     "Spaces/Desc/메모리 할당 유효성 점검 방법.md",
@@ -210,7 +213,6 @@
     "리눅스.md",
     "Linux_day_2.md",
     "vi.md",
-    "Linux_day_1.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
@@ -223,7 +225,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240723125003_976.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124552_949.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240723124507_946.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240723124452_956.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
