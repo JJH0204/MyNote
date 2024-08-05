@@ -11,8 +11,12 @@
             "id": "227643c98013ea2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pwnable.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pwnable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pwnable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pwnable.md"
+              }
             }
           },
           {
@@ -169,6 +177,10 @@
   },
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
+    "Hacking.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Pwnable.md",
+    "Spaces/Home/TODO LIST.md",
     "Encoding_Decoding.md",
     "Unicode.md",
     "Spaces/Desc/무제 파일.md",
@@ -186,7 +198,6 @@
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
     "Spaces/Desc/메모리 할당 유효성 점검 방법.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "MSB_N_LSB.md",
     "sign_bit.md",
     "Spaces/Temp/Pasted image 20240805205109.png",
@@ -194,10 +205,7 @@
     "CTF.md",
     "Wargame.md",
     "플래그.md",
-    "Hacking.md",
     "Write-up.md",
-    "Reversing.md",
-    "Pwnable.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
