@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wargame.md",
+                "file": "CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wargame.md",
+                "file": "CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wargame.md",
+                "file": "CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wargame.md"
+                "file": "CTF.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   },
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "플래그.md",
-    "Write-up.md",
-    "Wargame.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "CTF.md",
+    "Wargame.md",
+    "플래그.md",
     "Hacking.md",
+    "Write-up.md",
     "Reversing.md",
     "Pwnable.md",
     "Web_Hacking.md",
@@ -213,7 +214,6 @@
     "Spaces/Home/Python.md",
     "Spaces/Desc/가상화폐 트레이딩.md",
     "conflict-files-obsidian-git.md",
-    "Spaces/Desc/클래스 (class).md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
