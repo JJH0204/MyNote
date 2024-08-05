@@ -11,12 +11,8 @@
             "id": "227643c98013ea2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encoding_Decoding.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -27,7 +23,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encoding_Decoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encoding_Decoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Encoding_Decoding.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,14 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "227643c98013ea2b",
+  "active": "bcbbc0baa242c6b8",
   "lastOpenFiles": [
+    "Encoding_Decoding.md",
+    "Unicode.md",
+    "Spaces/Desc/무제 파일.md",
+    "().md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/Home/컴퓨터 과학.md",
     "Operating_System.md",
-    "Encoding_Decoding.md",
     "bit_operation.md",
     "Base64.md",
-    "().md",
     "URL.md",
     "ASCII.md",
     "bit_byte.md",
@@ -204,7 +200,6 @@
     "sign_bit.md",
     "Spaces/Temp/Pasted image 20240805205109.png",
     "진법.md",
-    "Spaces/Desc/무제 파일.md",
     "CTF.md",
     "Wargame.md",
     "플래그.md",
@@ -212,8 +207,6 @@
     "Write-up.md",
     "Reversing.md",
     "Pwnable.md",
-    "Web_Hacking.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
