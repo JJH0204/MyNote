@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정규표현식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정규표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "정규표현식.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,12 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38f288ea4ea53d73",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
+    "정규표현식.md",
     "Spaces/Temp/Pasted image 20240806203006.png",
     "Spaces/Desc/프로토콜(Protocol).md",
     "Spaces/Home/JavaScript.md",
-    "정규표현식.md",
     "Spaces/Home/Python.md",
     "패턴.md",
     "Spaces/Desc/텍스트 파일 관련 명령어.md",
@@ -247,7 +242,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20240725220521_067.png",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
