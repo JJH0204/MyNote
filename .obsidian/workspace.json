@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스.md",
+                "file": "정규표현식.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "line:(정규)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,12 +106,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -128,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,16 +202,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0808d5d47c49fbbe",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Docker_commend.md",
+    "정규표현식.md",
+    "Spaces/Desc/텍스트 파일 관련 명령어.md",
     "Docker.md",
-    "Docker_Hub.md",
     "Docker_install.md",
+    "리눅스.md",
+    "Docker_commend.md",
+    "Docker_Hub.md",
     "Docker_Build.md",
     "Dockerfile.md",
     "Hacking.md",
-    "리눅스.md",
     "Docker_file.md",
     "Spaces/Temp/Pasted image 20240806152015.png",
     "Spaces/Temp/Pasted image 20240806142939.png",
@@ -237,8 +233,6 @@
     "Spaces/Home/TODO LIST.md",
     "Encoding_Decoding.md",
     "Unicode.md",
-    "Spaces/Desc/무제 파일.md",
-    "().md",
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
     "Spaces/Temp/Pasted image 20240805205109.png",
