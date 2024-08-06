@@ -2,8 +2,8 @@
 
 # 도커 빌드
 ---
-- Docker file과 deploy 파일을 한 디렉토리(폴더)에 모아 둔다.
-- Docker file이 위치한 디렉토리에서 아래 명령어를 실행한다.
+- [Docker file](Dockerfile.md)과 deploy 파일을 한 디렉토리(폴더)에 모아 둔다.
+- [Docker file](Dockerfile.md)이 위치한 디렉토리에서 아래 명령어를 실행한다.
 ```shell
 docker build .
 ```
