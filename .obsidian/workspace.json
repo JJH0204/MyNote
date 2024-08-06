@@ -45,18 +45,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dockerfile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6cf831a6003c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Docker.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking.md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking.md",
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking.md"
+                "file": "Docker.md"
               }
             }
           },
@@ -220,16 +208,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "227643c98013ea2b",
+  "active": "0808d5d47c49fbbe",
   "lastOpenFiles": [
-    "리눅스.md",
-    "Docker_file.md",
-    "Dockerfile.md",
-    "Docker_Build.md",
     "Docker_install.md",
     "Docker.md",
-    "Spaces/Temp/Pasted image 20240806152015.png",
+    "Docker_Build.md",
+    "Dockerfile.md",
     "Hacking.md",
+    "리눅스.md",
+    "Docker_file.md",
+    "Spaces/Temp/Pasted image 20240806152015.png",
     "Spaces/Temp/Pasted image 20240806142939.png",
     "bzip2.md",
     "SSH.md",
@@ -262,4 +250,11 @@
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp/Pasted Image 20240725122641_460.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20240724201541_610.png",
-    "Excalidraw/Spaces
+    "Excalidraw/Spaces/Temp",
+    "Excalidraw/Spaces",
+    ".md",
+    "Fonts/나눔손글씨 강부장님체.ttf",
+    "Fonts/나눔손글씨 성실체.ttf",
+    "Fonts"
+  ]
+}
