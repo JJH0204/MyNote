@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing.md",
+                "file": "Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reversing.md",
+                "file": "Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reversing.md",
+                "file": "Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reversing.md"
+                "file": "Hacking.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
+    "Reversing.md",
     "Hacking.md",
     "Pwnable.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
@@ -205,7 +206,6 @@
     "CTF.md",
     "Wargame.md",
     "플래그.md",
-    "Write-up.md",
     "Spaces/Temp/Pasted image 20240729180858.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
