@@ -36,3 +36,6 @@ $ sudo docker run hello-world
 ![[Pasted image 20240806142939.png]]
 - Hello from Docker! 가 출력되면 도커 엔진이 설치된 것이다.
 
+# [[Docker_Build]]
+---
+
