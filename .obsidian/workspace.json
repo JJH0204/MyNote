@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정규표현식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정규표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "정규표현식.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,10 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38f288ea4ea53d73",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "패턴.md",
+    "Spaces/Home/Python.md",
     "정규표현식.md",
+    "패턴.md",
     "Spaces/Desc/텍스트 파일 관련 명령어.md",
     "Docker.md",
     "Docker_install.md",
@@ -236,7 +232,6 @@
     "Reversing.md",
     "Pwnable.md",
     "Spaces/Home/TODO LIST.md",
-    "Encoding_Decoding.md",
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
     "Spaces/Temp/Pasted image 20240805205109.png",
