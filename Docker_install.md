@@ -1,0 +1,2 @@
+- 우분투 리눅스 22.04에 [도커 엔진 설치](https://docs.docker.com/engine/install/ubuntu/)후 [도커](Docker.md)를 사용
+- 
