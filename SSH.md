@@ -49,3 +49,9 @@ ssh user@HOST -p PORT -i [개인 키 파일 경로]
 	ssh with id: bguser
 	```
 	- `ssh bguser@host3.dreamhack.games -p 11051 -i [다운받은 개인 키 파일 경로]` 명령어를 통해 서버 접속이 가능하다.
+
+## 접속 종료
+---
+```shell
+exit
+```

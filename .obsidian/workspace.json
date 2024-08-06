@@ -35,16 +35,12 @@
             "id": "cb4e37c055f68eba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker_install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker_install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker_install.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0808d5d47c49fbbe",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Docker.md",
+    "SSH.md",
     "Docker_install.md",
+    "Docker.md",
     "리눅스.md",
     "Docker_Registry.md",
     "Docker_Container.md",
@@ -214,7 +207,6 @@
     "자료.md",
     "netcat.md",
     "Hacking.md",
-    "SSH.md",
     "Spaces/Desc/프로토콜.md",
     "Spaces/Temp/Pasted image 20240806122040.png",
     "Reversing.md",
