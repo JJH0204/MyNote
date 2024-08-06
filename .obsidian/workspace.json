@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH.md",
+                "file": "리눅스.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb4e37c055f68eba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SSH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,14 +192,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0808d5d47c49fbbe",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Spaces/Desc/프로토콜.md",
-    "SSH.md",
+    "netcat.md",
     "리눅스.md",
-    "netcat.mc.md",
-    "Spaces/Temp/Pasted image 20240806122040.png",
     "Hacking.md",
+    "SSH.md",
+    "Spaces/Desc/프로토콜.md",
+    "Spaces/Temp/Pasted image 20240806122040.png",
     "Reversing.md",
     "Pwnable.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
