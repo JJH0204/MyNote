@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "Docker_commend.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Docker_commend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "Docker_commend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "Docker_commend.md"
               }
             }
           },
@@ -210,8 +210,10 @@
   },
   "active": "0808d5d47c49fbbe",
   "lastOpenFiles": [
-    "Docker_install.md",
     "Docker.md",
+    "Docker_Hub.md",
+    "Docker_commend.md",
+    "Docker_install.md",
     "Docker_Build.md",
     "Dockerfile.md",
     "Hacking.md",
@@ -237,8 +239,6 @@
     "Unicode.md",
     "Spaces/Desc/무제 파일.md",
     "().md",
-    "Excalidraw/Linux_Command.md",
-    "Spaces/Home/컴퓨터 과학.md",
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
     "Spaces/Temp/Pasted image 20240805205109.png",
