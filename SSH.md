@@ -18,7 +18,34 @@ ssh user@HOST -p PORT -i [개인 키 파일 경로]
 ## 접속 클라이언트 인증 방법
 ---
 1. 패스워드
-	- ssh user@HOST 명령을 실행하면 패스워드를 입력한 후 원격 서버에 접속할 수 있다.
+	- `ssh user@HOST` 명령을 실행하면 패스워드를 입력한 후 원격 서버에 접속할 수 있다.
 	- 패스워드를 충분히 긴 길이로 설정하지 않으면 [[브루트 포스]] 공격을 통해 패스워드를 유추할 수 있기에 권장하지 않는다.
-2. 원격 서버에 공개 키를 저장, 클라이언트가 사용할 개인 키를 지정하여 알맞는 사용자인지 검증하는 방법
-	- 공개 키- 개인 키 
+	```shell
+	# 원격 서버 정보
+	  Host: host3.dreamhack.games
+	  Port: 11051/tcp → 31337/tcp
+	```
+	
+	```shell
+	# 원격 서버 로그인 정보
+	ssh with 
+	id: bguser
+	pw: bgpw
+	```
+	 - `ssh bguser@host3.dreamhack.games -p 11051` 를 입력 후 `bgpw`를 입력하면 서버에 접속할 수 있게 된다.
+2. 개인 키
+	- 원격 서버에 공개 키를 저장, 
+		  클라이언트가 사용할 개인 키를 지정하여 알맞는 사용자인지 검증하는 방법
+	- 공개 키- 개인 키 쌍은 `ssh-keygen` 명령을 통해 생성할 수 있다.
+	- 개인 키 파일을 이용해 원격 서버에 접속할 때 -i 옵션을 사용한다.
+	```shell
+	# 원격 서버 정보
+	  Host: host3.dreamhack.games
+	  Port: 11051/tcp → 31337/tcp
+	```
+	
+	```shell
+	# 로그인 정보
+	ssh with id: bguser
+	```
+	- `ssh bguser@host3.dreamhack.games -p 11051 -i [다운받은 개인 키 파일 경로]` 명령어를 통해 서버 접속이 가능하다.
