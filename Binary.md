@@ -31,7 +31,7 @@
 
 ## 컴파일 과정
 ---
-- [[C 언어]]로 작성된 코드는 일반적으로 [전처리(Preprocess)](Preprocessing.md) > [컴파일(Compile)](Compile.md) > 어셈블(Assemble) > 링크(Link)의 과정을 거쳐 바이너리로 번역된다.
+- [[C 언어]]로 작성된 코드는 일반적으로 [전처리(Preprocess)](Preprocessing.md) > [컴파일(Compile)](Compile.md) > [어셈블(Assemble)](Assemble.md) > 링크(Link)의 과정을 거쳐 바이너리로 번역된다.
 - 예제 코드
 ```c
 // Name: add.c
