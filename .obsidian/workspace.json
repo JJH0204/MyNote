@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DynamicAnalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DynamicAnalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DynamicAnalysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,11 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "227643c98013ea2b",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
+    "DynamicAnalysis.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "디버거.md",
-    "DynamicAnalysis.md",
     "Analysis.md",
     "StaticAnalysis.md",
     "Spaces/Temp/Pasted image 20240807203657.png",
@@ -219,7 +214,6 @@
     "Spaces/Temp/Pasted image 20240806142939.png",
     "Spaces/Temp/Pasted image 20240806122040.png",
     "Spaces/Temp/Pasted image 20240805211614.png",
-    "Spaces/Temp/Pasted image 20240805211427.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",
