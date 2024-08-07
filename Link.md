@@ -23,4 +23,4 @@ add: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked,
 ```
 다음은 add.o를 링크하는 명령어다.
 - 링크 과정에서 main 함수를 찾는데 , add의 소스 코드에는 main 함수의 정의가 없음으로 에러가 발생할 수 있다.
-- 에러를 방지학
+- 에러를 방지하기 위해 `--unresolved-symbols` 를 컴파일 옵션에 추가한다.

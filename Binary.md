@@ -1,11 +1,10 @@
-## 키워드
----
-- 기계어(Machine Language)
-- 어셈블리어(Assembly Language)
-- 어셈블러(Assembler)
-- 컴파일러(Compiler)
-- 고급 언어(High-Level Language)
-- 저급 언어(Low-Level Language)
+> [! 키워드]
+> - 기계어(Machine Language)
+> - 어셈블리어(Assembly Language)
+> - 어셈블러(Assembler)
+> - 컴파일러(Compiler)
+> - 고급 언어(High-Level Language)
+> - 저급 언어(Low-Level Language)
 
 # 프로그램과 컴파일
 
@@ -54,3 +53,31 @@ int add(int a, int b);
 > 이 맥락에서, 소스 코드를 어셈블리어로, 또는 소스코드를 기계어로 번역하는 것 모두 컴파일이라 볼 수 있다.
 
 
+# 디스어셈블과 디컴파일
+
+## 디스어셈블 (Disassemble)
+---
+> 바이너리를 분석하려면 바이너리를 읽을 수 있어야 한다.
+> 컴파일된 바이너리는 기계어로 작성되어 있어 힘들다.
+> 어셈블의 역과정을 통해 이를 가능하게 하려고 하며 이를 디스어셈블이라 한다.
+
+디스어셈블 결과
+```
+$ objdump -d ./add -M intel
+...
+000000000000061a <add>:
+ 61a:   55                      push   rbp
+ 61b:   48 89 e5                mov    rbp,rsp
+ 61e:   89 7d fc                mov    DWORD PTR [rbp-0x4],edi
+ 621:   89 75 f8                mov    DWORD PTR [rbp-0x8],esi
+ 624:   8b 55 fc                mov    edx,DWORD PTR [rbp-0x4]
+ 627:   8b 45 f8                mov    eax,DWORD PTR [rbp-0x8]
+ 62a:   01 d0                   add    eax,edx
+ 62c:   5d                      pop    rbp
+ 62d:   c3                      ret
+ 62e:   66 90                   xchg   ax,ax
+...
+```
+![[Pasted image 20240807161135.png]]
+## 디컴파일
+---

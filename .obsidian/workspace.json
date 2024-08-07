@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link.md",
+                "file": "Binary.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(링크)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Link.md",
+                "file": "Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Link.md",
+                "file": "Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Link.md"
+                "file": "Binary.md"
               }
             }
           },
@@ -185,8 +184,9 @@
   },
   "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "Binary.md",
+    "Spaces/Temp/Pasted image 20240807161135.png",
     "Link.md",
+    "Binary.md",
     "Assemble.md",
     "ELF.md",
     "Compile.md",
@@ -214,7 +214,6 @@
     "Spaces/Temp/Pasted image 20240806142939.png",
     "bzip2.md",
     "SSH.md",
-    "Docker_Registry.md",
     "Spaces/Temp/Pasted image 20240806122040.png",
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
