@@ -15,4 +15,21 @@ if (is_debugging()) // 디버깅인지 확인
 Func();
 ```
 
-## e
+## 동적 분석의 예
+---
+- 윈도우의 대표적인 동적 분석 도구로 [[디버거]] 중 하나인 x64dbg가 있다.
+- 아래 코드를 컴파일한 HelloWorld.exe를 x64dbg로 동적 분석하는 예시다.
+```c
+//helloworld.c
+
+#include <stdio.h>
+
+int main()
+{
+  int n = 0x31337;
+  printf("Hello World 0x%x\n", n);
+  return 0;
+}
+```
+
+![[Pasted image 20240807205034.png]]
