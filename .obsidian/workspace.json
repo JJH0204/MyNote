@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELF.md",
+                "file": "Link.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(정규)",
+                "query": "line:(링크)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -101,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Link.md"
+              }
             }
           },
           {
@@ -177,11 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb4e37c055f68eba",
+  "active": "227643c98013ea2b",
   "lastOpenFiles": [
-    "ELF.md",
-    "Assemble.md",
     "Binary.md",
+    "Link.md",
+    "Assemble.md",
+    "ELF.md",
     "Compile.md",
     "Preprocessing.md",
     "Spaces/Home/C 언어.md",
@@ -208,7 +215,6 @@
     "bzip2.md",
     "SSH.md",
     "Docker_Registry.md",
-    "Docker_Container.md",
     "Spaces/Temp/Pasted image 20240806122040.png",
     "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
