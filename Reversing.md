@@ -34,3 +34,5 @@
 # [[Binary]]
 ---
 
+# [Static Analysis vs. Dynamic Analysis](Analysis.md)
+---
