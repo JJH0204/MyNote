@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StaticAnalysis.md",
+                "file": "DynamicAnalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StaticAnalysis.md",
+                "file": "DynamicAnalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StaticAnalysis.md"
+                "file": "DynamicAnalysis.md"
               }
             }
           },
@@ -194,14 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "934715d5f9077679",
+  "active": "227643c98013ea2b",
   "lastOpenFiles": [
+    "StaticAnalysis.md",
     "DynamicAnalysis.md",
     "Spaces/Desc/마크다운 문법.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "디버거.md",
     "Analysis.md",
-    "StaticAnalysis.md",
     "Spaces/Temp/Pasted image 20240807203657.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Obfuscation.md",
