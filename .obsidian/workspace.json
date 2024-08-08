@@ -16,54 +16,19 @@
             }
           },
           {
-            "id": "aacc2ee9ffb24209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74cf6f1432925a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eca5db1f6709627c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encoding_Decoding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa90057e746392cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture.md",
+                "file": "ComputerArchitecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ComputerArchitecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ComputerArchitecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ComputerArchitecture.md"
+              }
             }
           },
           {
@@ -214,10 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb4e37c055f68eba",
+  "active": "fa90057e746392cd",
   "lastOpenFiles": [
-    "SSH.md",
+    "Architecture.md",
+    "ComputerArchitecture.md",
     "Protocol.md",
+    "Encoding_Decoding.md",
+    "SSH.md",
     "Spaces/Desc/프로토콜.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
@@ -228,13 +200,11 @@
     "240729_기출오답노트.md",
     "Spaces/Desc/객체지향과 프로토콜 지향의 비교.md",
     "Spaces/Desc/구조체 (struct).md",
-    "Encoding_Decoding.md",
     "Base64.md",
     "URL.md",
     "Unicode.md",
     "ASCII.md",
     "Byte_Ordering.md",
-    "Architecture.md",
     "Spaces/Home/컴퓨터 과학.md",
     "StaticAnalysis.md",
     "DynamicAnalysis.md",
@@ -244,7 +214,6 @@
     "Analysis.md",
     "Spaces/Temp/Pasted image 20240807203657.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
-    "Obfuscation.md",
     "Spaces/Temp/Pasted image 20240807161135.png",
     "Spaces/Temp/Pasted image 20240807134329.png",
     "Spaces/Temp/Pasted image 20240806203006.png",
