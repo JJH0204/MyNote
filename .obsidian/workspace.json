@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture.md",
+                "file": "InstructionSetArchitecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa90057e746392cd",
+  "active": "20d549498664bf58",
   "lastOpenFiles": [
+    "Architecture.md",
+    "InstructionSetArchitecture.md",
     "ComputerArchitecture.md",
     "기능구조의설계.md",
     "폰_노이만_구조.md",
@@ -204,9 +206,7 @@
     "Bus.md",
     "Memory.md",
     "CPU.md",
-    "Architecture.md",
     "MicroArchitecture.md",
-    "InstructionSetArchitecture.md",
     "Protocol.md",
     "Encoding_Decoding.md",
     "SSH.md",
