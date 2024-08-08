@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "eca5db1f6709627c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encoding_Decoding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fa90057e746392cd",
             "type": "leaf",
             "state": {
@@ -27,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -102,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Architecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +190,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa90057e746392cd",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Spaces/Home/컴퓨터 과학.md",
+    "Encoding_Decoding.md",
+    "Base64.md",
+    "URL.md",
+    "Unicode.md",
+    "ASCII.md",
+    "Byte_Ordering.md",
     "Architecture.md",
+    "Spaces/Home/컴퓨터 과학.md",
     "StaticAnalysis.md",
     "DynamicAnalysis.md",
     "Spaces/Desc/마크다운 문법.md",
@@ -210,12 +224,6 @@
     "Docker.md",
     "Spaces/Temp/Pasted image 20240806203006.png",
     "Spaces/Desc/프로토콜(Protocol).md",
-    "Spaces/Home/JavaScript.md",
-    "Spaces/Home/Python.md",
-    "패턴.md",
-    "Spaces/Desc/텍스트 파일 관련 명령어.md",
-    "Docker_install.md",
-    "리눅스.md",
     "Spaces/Temp/Pasted image 20240806152015.png",
     "Spaces/Temp/Pasted image 20240806142939.png",
     "Spaces/Temp/Pasted image 20240806122040.png",
