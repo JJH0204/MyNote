@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "폰_노이만_구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "폰_노이만_구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "폰_노이만_구조.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,10 +190,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa90057e746392cd",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "기능구조의설계.md",
     "폰_노이만_구조.md",
+    "기능구조의설계.md",
     "ComputerArchitecture.md",
     "Architecture.md",
     "MicroArchitecture.md",
