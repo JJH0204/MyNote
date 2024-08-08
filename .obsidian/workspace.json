@@ -26,21 +26,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa90057e746392cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InstructionSetArchitecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InstructionSetArchitecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InstructionSetArchitecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "InstructionSetArchitecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,10 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20d549498664bf58",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Architecture.md",
     "InstructionSetArchitecture.md",
+    "Architecture.md",
     "ComputerArchitecture.md",
     "기능구조의설계.md",
     "폰_노이만_구조.md",
