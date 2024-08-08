@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "20d549498664bf58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fa90057e746392cd",
             "type": "leaf",
             "state": {
@@ -27,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,12 +93,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -103,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerArchitecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerArchitecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ComputerArchitecture.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,13 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa90057e746392cd",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "MicroArchitecture.md",
+    "Architecture.md",
     "ComputerArchitecture.md",
+    "MicroArchitecture.md",
     "기능구조의설계.md",
     "InstructionSetArchitecture.md",
-    "Architecture.md",
     "Protocol.md",
     "Encoding_Decoding.md",
     "SSH.md",

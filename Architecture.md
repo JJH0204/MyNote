@@ -2,7 +2,7 @@
 ---
 
 
-# 명령어 집합 구조/Instruction Set Architecture, ISA
+# [명령어 집합 구조/Instruction Set Architecture, ISA](InstructionSetArchitecture.md)
 ---
 - CPU가 사용하는 명령어와 관련된 구조 설계를 의미한다.
 - 대표적으로 **x86-64 아키텍쳐** 가 있다.
