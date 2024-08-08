@@ -6,39 +6,17 @@
 - 컴퓨터가 효율적으로 작동할 수 있도록 하드웨어 및 소프트웨어의 기능을 고안, 구성하는 방법을 말함
 - 컴퓨터의 기능 구조에 대한 설계, 명령어 집합구조, 마이크로 아키텍쳐, 그리고 기타 하드웨어 및 컴퓨팅 벙법에 대한 설계 등이 포함된다.
 
-> CPU의 명령에 대한 설계를 명령어 [집합구조(Instruction Set Architecture)]()라 부른다.
-> CPU의 하드웨어적 설계를 마이크로 [아키텍쳐(Micro Architecture)]()라 부른다.
+> CPU의 명령에 대한 설계를 [명령어 집합구조(Instruction Set Architecture)](InstructionSetArchitecture.md)라 부른다.
+> CPU의 하드웨어적 설계를 [마이크로 아키텍쳐(Micro Architecture)](MicroArchitecture.md)라 부른다.
 
-## [기능 구조의 설계](ㅁㄴㅇㄹ)
+## [기능 구조의 설계](기능구조의설계.md)
 ---
-### 폰 노이만 구조
 
-### 하버드 구조
-
-### 수정된 하버드 구조
-
-## 명령어 집합구조
+## [명령어 집합구조](InstructionSetArchitecture.md)
 ---
-### x86, x86-64
 
-### ARM
-
-### MIPS
-
-### AVR
-
-
-## 마이크로 아키텍처
+## [마이크로 아키텍처](MicroArchitecture.md)
 ---
-### 캐시 설계
-
-### 파이프라이닝
-
-### 슈퍼 스칼라
-
-### 분기 예측
-
-### 비순차적 명령어 처리
 
 ## 하드웨어 및 컴퓨팅 방법론
 ---
