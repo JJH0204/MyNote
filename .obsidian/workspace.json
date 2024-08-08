@@ -33,13 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory.md",
+                "file": "Bus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bus.md"
+              }
             }
           },
           {
@@ -190,10 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb4e37c055f68eba",
+  "active": "fa90057e746392cd",
   "lastOpenFiles": [
-    "Memory.md",
     "폰_노이만_구조.md",
+    "Bus.md",
+    "Memory.md",
     "CPU.md",
     "Architecture.md",
     "기능구조의설계.md",
@@ -217,7 +223,6 @@
     "URL.md",
     "Unicode.md",
     "ASCII.md",
-    "Byte_Ordering.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203657.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
