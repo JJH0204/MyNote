@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bus.md",
+                "file": "InstructionSetArchitecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bus.md",
+                "file": "InstructionSetArchitecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bus.md",
+                "file": "InstructionSetArchitecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bus.md"
+                "file": "InstructionSetArchitecture.md"
               }
             }
           },
@@ -197,13 +197,14 @@
   },
   "active": "fa90057e746392cd",
   "lastOpenFiles": [
+    "ComputerArchitecture.md",
+    "기능구조의설계.md",
     "폰_노이만_구조.md",
+    "Spaces/Temp/Pasted image 20240808224001.png",
     "Bus.md",
     "Memory.md",
     "CPU.md",
     "Architecture.md",
-    "기능구조의설계.md",
-    "ComputerArchitecture.md",
     "MicroArchitecture.md",
     "InstructionSetArchitecture.md",
     "Protocol.md",
@@ -222,7 +223,6 @@
     "Base64.md",
     "URL.md",
     "Unicode.md",
-    "ASCII.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203657.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
@@ -232,7 +232,6 @@
     "Spaces/Temp/Pasted image 20240806152015.png",
     "Spaces/Temp/Pasted image 20240806142939.png",
     "Spaces/Temp/Pasted image 20240806122040.png",
-    "Spaces/Temp/Pasted image 20240805211614.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",
