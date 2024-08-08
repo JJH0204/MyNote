@@ -16,6 +16,6 @@
 - [[구조체 (struct)]]
 - [[클래스 (class)]]
 - [[열거형 (Enumeration, enum)]]
-- [[프로토콜(Protocol)]]
+- [프로토콜(Protocol)](Protocol.md)
 
 ## [[SOLID 원칙]]
