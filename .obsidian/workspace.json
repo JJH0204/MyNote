@@ -33,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPU.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,8 +190,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa90057e746392cd",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
+    "Memory.md",
     "폰_노이만_구조.md",
     "CPU.md",
     "Architecture.md",
@@ -222,7 +218,6 @@
     "Unicode.md",
     "ASCII.md",
     "Byte_Ordering.md",
-    "Spaces/Home/컴퓨터 과학.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203657.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
