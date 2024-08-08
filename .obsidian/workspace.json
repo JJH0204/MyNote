@@ -16,6 +16,52 @@
             }
           },
           {
+            "id": "74cf6f1432925a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e664dd09e7884e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/네트워크와 프로토콜의 관계.md"
+              }
+            }
+          },
+          {
+            "id": "82a015d1fca927e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/프로토콜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e61b6f2cf8b3052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/프로토콜(Protocol).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eca5db1f6709627c",
             "type": "leaf",
             "state": {
@@ -39,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(프로토콜)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,12 +140,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -114,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Protocol.md"
+              }
             }
           },
           {
@@ -190,8 +241,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb4e37c055f68eba",
+  "active": "74cf6f1432925a0a",
   "lastOpenFiles": [
+    "Protocol.md",
+    "Spaces/Desc/프로토콜.md",
+    "Excalidraw/네트워크와 프로토콜의 관계.md",
+    "Spaces/Desc/프로토콜(Protocol).md",
+    "240729_기출오답노트.md",
+    "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
+    "Spaces/Desc/객체지향과 프로토콜 지향의 비교.md",
+    "Spaces/Desc/구조체 (struct).md",
+    "Spaces/Desc/네트워크.md",
     "Encoding_Decoding.md",
     "Base64.md",
     "URL.md",
@@ -213,17 +273,8 @@
     "Binary.md",
     "Spaces/Temp/Pasted image 20240807161135.png",
     "Link.md",
-    "Assemble.md",
-    "ELF.md",
-    "Compile.md",
-    "Preprocessing.md",
-    "Spaces/Home/C 언어.md",
     "Spaces/Temp/Pasted image 20240807134329.png",
-    "Hacking.md",
-    "정규표현식.md",
-    "Docker.md",
     "Spaces/Temp/Pasted image 20240806203006.png",
-    "Spaces/Desc/프로토콜(Protocol).md",
     "Spaces/Temp/Pasted image 20240806152015.png",
     "Spaces/Temp/Pasted image 20240806142939.png",
     "Spaces/Temp/Pasted image 20240806122040.png",
