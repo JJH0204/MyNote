@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "7a868c020e552619",
+            "id": "d9cb71feb51ab001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MemorySegment.md",
+                "file": "Reversing.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,11 @@
   },
   "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
+    "Reversing.md",
+    "Spaces/Desc/정보보안자격증.md",
     "MemorySegment.md",
+    "리눅스.md",
+    "Excalidraw/Linux_Command.md",
     "WindowsMemoryLayout.md",
     "Spaces/Desc/SegmentationFault.md",
     "x86-64아키텍처.md",
@@ -192,7 +196,6 @@
     "Spaces/Desc/SOLID 원칙.md",
     "SSH.md",
     "MemoryLayout.md",
-    "Reversing.md",
     "ComputerArchitecture.md",
     "Binary.md",
     "MicroArchitecture.md",
@@ -211,9 +214,6 @@
     "Bus.md",
     "Memory.md",
     "CPU.md",
-    "Protocol.md",
-    "Encoding_Decoding.md",
-    "Spaces/Desc/프로토콜.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp",

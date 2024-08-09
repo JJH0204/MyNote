@@ -42,3 +42,6 @@
 
 # [Static Analysis vs. Dynamic Analysis](Analysis.md)
 ---
+
+# [x86_Assembly](x86_Assembly.md)
+---
