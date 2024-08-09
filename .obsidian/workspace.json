@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "19729d90e1ebf5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/C 모듈화 에러.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "90721401f07c9024",
             "type": "leaf",
             "state": {
@@ -33,14 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MemorySegment.md",
+                "file": "WindowsMemoryLayout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MemorySegment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MemorySegment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MemorySegment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,12 +202,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b8090a9d4065fd9",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "VirtualMemory.md",
-    "MemorySegment.md",
+    "Spaces/Desc/C 모듈화 에러.md",
     "WindowsMemoryLayout.md",
+    "MemorySegment.md",
     "x86-64아키텍처.md",
+    "VirtualMemory.md",
     "InstructionSetArchitecture.md",
     "Spaces/Desc/DLL.md",
     "Spaces/Desc/SOLID 원칙.md",
@@ -230,7 +238,6 @@
     "Spaces/Desc/프로토콜.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
-    "Spaces/Desc/네트워크.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp",
