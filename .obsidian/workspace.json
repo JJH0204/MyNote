@@ -33,14 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x86-64아키텍처.md",
+                "file": "InstructionSetArchitecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x86-64아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "x86-64아키텍처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "x86-64아키텍처.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,12 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20d549498664bf58",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
     "InstructionSetArchitecture.md",
     "x86-64아키텍처.md",
-    "VirtualMemory.md",
     "MemoryLayout.md",
+    "VirtualMemory.md",
     "Spaces/Home/컴퓨터 과학.md",
     "Spaces/Temp/Pasted image 20240809152941.png",
     "Spaces/Temp/Pasted image 20240729180858.png",
