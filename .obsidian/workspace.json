@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MemoryLayout.md",
+                "file": "WindowsMemoryLayout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MemoryLayout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MemoryLayout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MemoryLayout.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,10 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b8090a9d4065fd9",
+  "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Reversing.md",
+    "Spaces/Desc/SOLID 원칙.md",
+    "SSH.md",
+    "WindowsMemoryLayout.md",
     "MemoryLayout.md",
+    "Reversing.md",
     "ComputerArchitecture.md",
     "Binary.md",
     "InstructionSetArchitecture.md",
@@ -210,15 +208,12 @@
     "CPU.md",
     "Protocol.md",
     "Encoding_Decoding.md",
-    "SSH.md",
     "Spaces/Desc/프로토콜.md",
     "Excalidraw/네트워크와 프로토콜의 관계.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/프로토콜(Protocol).md",
     "Spaces/Desc/열거형 (Enumeration, enum).md",
-    "Spaces/Desc/Swift의 주요 기능.md",
-    "240729_기출오답노트.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp",
