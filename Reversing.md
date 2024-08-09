@@ -9,6 +9,12 @@
 
 ![[Pasted image 20240807134329.png]]
 
+# 리버싱의 핵심
+---
+- [바이너리](Binary.md)를 분석하여 [바이너리](Binary.md)의 동작을 이해하는 것
+- [바이너리](Binary.md)의 동작은 메모리와 밀접한 관계가 있다. [관련 내용](ComputerArchitecture.md)
+- [바이너리](Binary.md)의 동작을 자세히 이해하기 위해서는 상호작용 하는 [메모리에 대한 이해](MemoryLayout.md)가 필요하다.
+
 # 리버싱 용도
 ---
 > [!Good Case]
