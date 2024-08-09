@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InstructionSetArchitecture.md",
+                "file": "x86-64아키텍처.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "x86-64아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "x86-64아키텍처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "x86-64아키텍처.md"
+              }
             }
           },
           {
@@ -178,9 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb4e37c055f68eba",
+  "active": "20d549498664bf58",
   "lastOpenFiles": [
     "InstructionSetArchitecture.md",
+    "x86-64아키텍처.md",
+    "Spaces/Temp/Pasted image 20240809143027.png",
     "Architecture.md",
     "ComputerArchitecture.md",
     "기능구조의설계.md",
@@ -214,7 +221,6 @@
     "Spaces/Temp/Pasted image 20240806203006.png",
     "Spaces/Temp/Pasted image 20240806152015.png",
     "Spaces/Temp/Pasted image 20240806142939.png",
-    "Spaces/Temp/Pasted image 20240806122040.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",
