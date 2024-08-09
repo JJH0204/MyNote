@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "627bcc91a942f2ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/세그멘테이션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "19729d90e1ebf5ef",
             "type": "leaf",
             "state": {
@@ -204,6 +216,8 @@
   },
   "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
+    "Spaces/Desc/세그멘테이션.md",
+    "StaticAnalysis.md",
     "Spaces/Desc/C 모듈화 에러.md",
     "x86-64아키텍처.md",
     "WindowsMemoryLayout.md",
@@ -236,8 +250,6 @@
     "Protocol.md",
     "Encoding_Decoding.md",
     "Spaces/Desc/프로토콜.md",
-    "Excalidraw/네트워크와 프로토콜의 관계.md",
-    "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp",
