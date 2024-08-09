@@ -101,4 +101,15 @@ void func() {
 
 읽기/쓰기 권한 외 상황에 따라 실행 권한을 가질 수도 있다.
 
-아래 콛
+아래 코드는 malloc()을 통해 동적으로 할당한 영역의 주소를 대입하고 값을 쓴다.
+heap_data_ptr은 지역변수 > 스택에 위치
+malloc으로 할당 받은 힙 세그먼트의 주소를 가리킨다.
+```c
+int main() {
+  int *heap_data_ptr =
+      malloc(sizeof(*heap_data_ptr));  // 동적 할당한 힙 영역의 주소를 가리킴
+  *heap_data_ptr = 31337;              // 힙 영역에 값을 씀
+  printf("%d\n", *heap_data_ptr);  // 힙 영역의 값을 사용함
+  return 0;
+}
+```
