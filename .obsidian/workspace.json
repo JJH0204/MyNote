@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/세그멘테이션.md",
+                "file": "Spaces/Desc/SegmentationFault.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,6 +58,18 @@
               "type": "markdown",
               "state": {
                 "file": "WindowsMemoryLayout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a868c020e552619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MemorySegment.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,12 +228,12 @@
   },
   "active": "cb4e37c055f68eba",
   "lastOpenFiles": [
-    "Spaces/Desc/세그멘테이션.md",
-    "StaticAnalysis.md",
-    "Spaces/Desc/C 모듈화 에러.md",
-    "x86-64아키텍처.md",
-    "WindowsMemoryLayout.md",
+    "Spaces/Desc/SegmentationFault.md",
     "MemorySegment.md",
+    "WindowsMemoryLayout.md",
+    "x86-64아키텍처.md",
+    "Spaces/Desc/C 모듈화 에러.md",
+    "StaticAnalysis.md",
     "VirtualMemory.md",
     "InstructionSetArchitecture.md",
     "Spaces/Desc/DLL.md",
