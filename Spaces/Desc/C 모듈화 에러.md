@@ -216,7 +216,7 @@ CMake 에 대한 알람
 [[vscode for mac]]
 [[settings.json]]
 [windows c/c++ 개발환경 설정](https://blog.amylo.diskstation.me/algorithm/Starting_Algorithm_with_VSCode_C++/)
-### [[dll(Dynamic Link Library)]]??
+### [[DLL]]??
 
 ### [[CMake]]?
 
