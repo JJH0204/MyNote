@@ -82,12 +82,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -185,9 +185,14 @@
   },
   "active": "20d549498664bf58",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20240809152253.png",
-    "InstructionSetArchitecture.md",
+    "Spaces/Temp/Pasted image 20240809152941.png",
     "x86-64아키텍처.md",
+    "InstructionSetArchitecture.md",
+    "Spaces/Temp/Pasted image 20240729180858.png",
+    "Spaces/Temp/Pasted image 20240805211427.png",
+    "Spaces/Temp/Pasted image 20240806152015.png",
+    "Spaces/Temp/Pasted image 20240807203657.png",
+    "Spaces/Temp/Pasted image 20240809152253.png",
     "Spaces/Temp/Pasted image 20240809143027.png",
     "Architecture.md",
     "ComputerArchitecture.md",
@@ -214,13 +219,8 @@
     "Base64.md",
     "URL.md",
     "Spaces/Temp/Pasted image 20240807205034.png",
-    "Spaces/Temp/Pasted image 20240807203657.png",
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp/Pasted image 20240807161135.png",
-    "Spaces/Temp/Pasted image 20240807134329.png",
-    "Spaces/Temp/Pasted image 20240806203006.png",
-    "Spaces/Temp/Pasted image 20240806152015.png",
-    "Spaces/Temp/Pasted image 20240806142939.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",
