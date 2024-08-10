@@ -42,7 +42,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Spaces/Home"
+    "Spaces/Home",
+    "Linux"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
