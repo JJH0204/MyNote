@@ -16,6 +16,30 @@
             }
           },
           {
+            "id": "5d2ed82e5a42c8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/디렉토리 관련 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b0f1878c862996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/파일 관련 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e4d44a775c561518",
             "type": "leaf",
             "state": {
@@ -40,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_day_4.md",
+                "file": "Spaces/Desc/디렉토리 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_day_4.md",
+                "file": "Spaces/Desc/디렉토리 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_day_4.md"
+                "file": "Spaces/Desc/디렉토리 관련 명령어.md"
               }
             }
           },
@@ -194,10 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ed4d5227ededed6",
+  "active": "5d2ed82e5a42c8b5",
   "lastOpenFiles": [
-    "Linux_day_3.md",
+    "Spaces/Desc/파일 관련 명령어.md",
     "Linux_day_4.md",
+    "Linux_day_3.md",
     "Linux 3.md",
     "Linux 2.md",
     "Linux.md",
@@ -222,7 +247,6 @@
     "bzip2.md",
     "bit_operation.md",
     "bit_byte.md",
-    "Write-up.md",
     "Spaces/Temp/Pasted image 20240809152941.png",
     "Spaces/Temp/Pasted image 20240809152253.png",
     "Spaces/Temp/Pasted image 20240809143027.png",
