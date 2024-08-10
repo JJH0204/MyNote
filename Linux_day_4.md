@@ -7,5 +7,8 @@
 # mount 마운트
 ---
 윈도우의 PnP(Plug and Play)방식과 달리 리눅스는 연결 후 직접 마운트 과정을 거쳐야 사용할 수 있다.
+- 마운트: 물리적인 장치를 특정한 디렉토리에 연결 시켜주는 과정
 
+>mount /dev/cdrom /mnt/dvd
+mount \[장치 이름] \[연결할 디렉토리 이름]
 umount /dev/cdrom
