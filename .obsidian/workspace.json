@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_day_4.md",
+                "file": "Excalidraw/Linux_Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_day_4.md",
+                "file": "Excalidraw/Linux_Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_day_4.md"
+                "file": "Excalidraw/Linux_Command.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ed4d5227ededed6",
+  "active": "039c3f457ee3b2b3",
   "lastOpenFiles": [
-    "Excalidraw/Linux_Command.md",
     "Linux_day_4.md",
+    "Excalidraw/Linux_Command.md",
     "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Desc/파일 비교 명령어.md",
     "Spaces/Desc/사용자 조회 명령어.md",
