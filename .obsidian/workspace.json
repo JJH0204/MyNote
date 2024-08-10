@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/디렉토리 관련 명령어.md",
+                "file": "Spaces/Desc/파일 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/디렉토리 관련 명령어.md",
+                "file": "Spaces/Desc/파일 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/디렉토리 관련 명령어.md"
+                "file": "Spaces/Desc/파일 관련 명령어.md"
               }
             }
           },
@@ -218,10 +218,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d2ed82e5a42c8b5",
+  "active": "d0b0f1878c862996",
   "lastOpenFiles": [
-    "Linux_day_4.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
+    "Linux_day_4.md",
     "Spaces/Desc/파일 관련 명령어.md",
     "Linux_day_3.md",
     "Linux 3.md",
