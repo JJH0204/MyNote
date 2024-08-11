@@ -16,60 +16,12 @@
             }
           },
           {
-            "id": "7f962d03fd933fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "95c2742b45a2e80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f44fab38e73e110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux_day_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1239eae30019abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mount.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c25e0f17929e922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vi.md",
+                "file": "사용자 계정 정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "사용자 계정 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "사용자 계정 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md"
+                "file": "사용자 계정 정보.md"
               }
             }
           },
@@ -230,16 +183,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f962d03fd933fce",
+  "active": "95c2742b45a2e80b",
   "lastOpenFiles": [
-    "Linux_day_1.md",
     "리눅스.md",
+    "사용자 계정 정보.md",
+    "etc/passwd.md",
+    "etc",
+    "mount.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "Linux_day_1.md",
+    "vi.md",
     "Linux_day_2.md",
     "와일드카드.md",
-    "vi.md",
     "Linux_day_3.md",
     "관리자권한.md",
-    "mount.md",
     "mount.md.md",
     "Excalidraw/Linux_Command.md",
     "Spaces/Desc/파일 관련 명령어.md",
@@ -257,9 +214,6 @@
     "Linux",
     "Spaces/Desc/Ninja.md",
     "플래그.md",
-    "폰_노이만_구조.md",
-    "패턴.md",
-    "진법.md",
     "Spaces/Temp/Pasted image 20240809152941.png",
     "Spaces/Temp/Pasted image 20240809152253.png",
     "Spaces/Temp/Pasted image 20240809143027.png",
@@ -276,7 +230,6 @@
     "Excalidraw/Spaces/Temp",
     "Excalidraw/Spaces",
     ".md",
-    "Fonts/나눔손글씨 강부장님체.ttf",
-    "Fonts/나눔손글씨 성실체.ttf"
+    "Fonts/나눔손글씨 강부장님체.ttf"
   ]
 }
