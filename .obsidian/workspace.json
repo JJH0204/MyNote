@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "c064a97b432545c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "와일드카드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "95c2742b45a2e80b",
             "type": "leaf",
             "state": {
@@ -28,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/사용자 생성 명령어.md",
+                "file": "사용자 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/사용자 생성 명령어.md",
+                "file": "사용자 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/사용자 생성 명령어.md"
+                "file": "사용자 관리.md"
               }
             }
           },
@@ -183,9 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2ee86284f8bdf62",
+  "active": "95c2742b45a2e80b",
   "lastOpenFiles": [
+    "와일드카드.md",
     "사용자 관리.md",
+    "Spaces/Desc/사용자 생성 명령어.md",
     "리눅스.md",
     "etc/passwd.md",
     "etc",
@@ -194,7 +208,6 @@
     "Linux_day_1.md",
     "vi.md",
     "Linux_day_2.md",
-    "와일드카드.md",
     "Linux_day_3.md",
     "관리자권한.md",
     "mount.md.md",
@@ -213,7 +226,6 @@
     "Linux/Linux.md",
     "Linux",
     "Spaces/Desc/Ninja.md",
-    "플래그.md",
     "Spaces/Temp/Pasted image 20240809152941.png",
     "Spaces/Temp/Pasted image 20240809152253.png",
     "Spaces/Temp/Pasted image 20240809143027.png",
