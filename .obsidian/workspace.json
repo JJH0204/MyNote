@@ -57,13 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 관리.md",
+                "file": "Spaces/Desc/사용자 생성 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/사용자 생성 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/사용자 생성 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/사용자 생성 명령어.md"
+              }
             }
           },
           {
@@ -214,12 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40181e9a9e549ff5",
+  "active": "95c2742b45a2e80b",
   "lastOpenFiles": [
-    "Spaces/Desc/사용자 조회 명령어.md",
-    "Spaces/Desc/계정관련명령어.md",
     "사용자 관리.md",
     "Spaces/Desc/사용자 생성 명령어.md",
+    "Spaces/Desc/사용자 조회 명령어.md",
+    "Spaces/Desc/계정관련명령어.md",
     "와일드카드.md",
     "리눅스.md",
     "etc/passwd.md",
