@@ -11,8 +11,12 @@
             "id": "40181e9a9e549ff5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "web.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -81,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "web.md"
+              }
             }
           },
           {
@@ -180,6 +187,8 @@
   },
   "active": "40181e9a9e549ff5",
   "lastOpenFiles": [
+    "Spaces/Home/Server.md",
+    "web.md",
     "Encoding_Decoding.md",
     "사용자및그룹관리.md",
     "Spaces/Desc/그룹 관리 명령어.md",
@@ -206,8 +215,6 @@
     "Spaces/Desc/파일 비교 명령어.md",
     "Spaces/Desc/기타 명령어.md",
     "Linux 3.md",
-    "Linux 2.md",
-    "Linux.md",
     "Linux",
     "Spaces/Temp/Pasted image 20240809152941.png",
     "Spaces/Temp/Pasted image 20240809152253.png",
