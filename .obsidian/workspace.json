@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "학교리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "학교리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "학교리스트.md"
+              }
             }
           },
           {
@@ -191,9 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2532768c7ca860a1",
+  "active": "c9650c35618a0302",
   "lastOpenFiles": [
     "Spaces/Home/대학진학.md",
+    "사용자및그룹관리.md",
     "대학진학전략.md",
     "자료.md",
     "목적.md",
@@ -203,7 +207,6 @@
     "리눅스.md",
     "Spaces/Home/Server.md",
     "Encoding_Decoding.md",
-    "사용자및그룹관리.md",
     "Spaces/Desc/그룹 관리 명령어.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
     "Spaces/Desc/계정관련명령어.md",
