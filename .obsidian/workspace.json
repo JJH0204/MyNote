@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/대학진학.md",
+                "file": "대학진학전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/대학진학.md",
+                "file": "대학진학전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/대학진학.md"
+                "file": "대학진학전략.md"
               }
             }
           },
@@ -197,9 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40181e9a9e549ff5",
+  "active": "e02c05351ff93911",
   "lastOpenFiles": [
     "Spaces/Home/대학진학.md",
+    "대학진학전략.md",
+    "학교리스트.md",
+    "목적.md",
     "자료.md",
     "Spaces/Home/Information_Security.md",
     "web.md",
@@ -223,9 +226,6 @@
     "Linux_day_2.md",
     "Linux_day_3.md",
     "관리자권한.md",
-    "mount.md.md",
-    "Excalidraw/Linux_Command.md",
-    "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Temp/Pasted image 20240810171616.png",
     "Linux",
     "Spaces/Temp/Pasted image 20240809152941.png",
