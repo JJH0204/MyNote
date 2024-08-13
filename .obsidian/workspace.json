@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/대학진학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/대학진학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/대학진학.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,10 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2e69df50add19cd",
+  "active": "2532768c7ca860a1",
   "lastOpenFiles": [
-    "대학진학전략.md",
     "Spaces/Home/대학진학.md",
+    "대학진학전략.md",
     "자료.md",
     "목적.md",
     "학교리스트.md",
