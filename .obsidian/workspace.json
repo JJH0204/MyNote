@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web.md",
+                "file": "WebResource.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -151,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WebResource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WebResource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WebResource.md"
+              }
             }
           },
           {
@@ -227,12 +230,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2532768c7ca860a1",
+  "active": "e36922ad88a1a598",
   "lastOpenFiles": [
-    "WebServer.md",
-    "web.md",
+    "Front_end.md",
+    "WebResource.md",
     "Linux_Web_Server.md",
+    "WebServer.md",
     "Spaces/Home/Server.md",
+    "web.md",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "x86_Assembly.md",
     "Web_Hacking.md",
@@ -255,8 +260,6 @@
     "와일드카드.md",
     "etc/passwd.md",
     "etc",
-    "mount.md",
-    "Linux_day_1.md",
     "Spaces/Temp/Pasted image 20240810171616.png",
     "Linux",
     "Spaces/Temp/Pasted image 20240809152941.png",
