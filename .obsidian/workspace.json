@@ -28,6 +28,54 @@
             }
           },
           {
+            "id": "35e3efd185b7f40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/Swift의 주요 기능.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9673f075fc6e676b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/프로토콜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10c50ee49b0368dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "805f27cd1d0fc9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/프로토콜의 확장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e36922ad88a1a598",
             "type": "leaf",
             "state": {
@@ -52,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "web.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,8 +250,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e36922ad88a1a598",
+  "active": "2532768c7ca860a1",
   "lastOpenFiles": [
+    "Spaces/Desc/프로토콜의 확장.md",
+    "Spaces/Desc/프로토콜(Protocol).md",
+    "Protocol.md",
+    "Spaces/Desc/Swift의 주요 기능.md",
+    "Spaces/Desc/프로토콜.md",
+    "web.md",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Front_end.md",
     "WebResource.md",
@@ -216,7 +266,6 @@
     "Spaces/Home/JavaScript.md",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Home/Server.md",
-    "web.md",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "x86_Assembly.md",
     "Web_Hacking.md",
@@ -232,10 +281,6 @@
     "Spaces/Desc/그룹 관리 명령어.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
     "Spaces/Desc/계정관련명령어.md",
-    "Spaces/Desc/사용자 조회 명령어.md",
-    "Spaces/Desc/사용자 계정 관리 명령어.md",
-    "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/사용자 생성 명령어.md",
     "etc",
     "Spaces/Temp/Pasted image 20240810171616.png",
     "Linux",
@@ -245,7 +290,6 @@
     "Spaces/Temp/Pasted image 20240808224001.png",
     "Spaces/Temp/Pasted image 20240807205034.png",
     "Spaces/Temp/Pasted image 20240807203657.png",
-    "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",
