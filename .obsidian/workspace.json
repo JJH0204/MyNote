@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학교리스트.md",
+                "file": "Spaces/Home/대학진학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학교리스트.md",
+                "file": "Spaces/Home/대학진학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학교리스트.md"
+                "file": "Spaces/Home/대학진학.md"
               }
             }
           },
@@ -194,14 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9650c35618a0302",
+  "active": "40181e9a9e549ff5",
   "lastOpenFiles": [
+    "학교리스트.md",
     "Spaces/Home/대학진학.md",
     "사용자및그룹관리.md",
     "대학진학전략.md",
     "자료.md",
     "목적.md",
-    "학교리스트.md",
     "Spaces/Home/Information_Security.md",
     "web.md",
     "리눅스.md",
