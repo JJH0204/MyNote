@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SSH.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,16 +238,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d91977a353d9c51f",
+  "active": "2532768c7ca860a1",
   "lastOpenFiles": [
+    "SSH.md",
+    "Network_Protocol.md",
+    "Spaces/Desc/네트워크.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Swift_Protocol.md",
     "Spaces/Desc/열거형 (Enumeration, enum).md",
-    "SSH.md",
     "Spaces/Desc/Swift의 주요 기능.md",
-    "Network_Protocol.md",
     "Protocol.md",
-    "Spaces/Desc/네트워크.md",
     "Spaces/Desc/프로토콜 지향 프로그래밍 (P.O.P).md",
     "web.md",
     "x86_Assembly.md",
