@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "3166bcb2aed30806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebServer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3b6b00bc3a0648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux_Web_Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e36922ad88a1a598",
             "type": "leaf",
             "state": {
@@ -205,11 +229,12 @@
   },
   "active": "2532768c7ca860a1",
   "lastOpenFiles": [
+    "WebServer.md",
     "web.md",
+    "Linux_Web_Server.md",
+    "Spaces/Home/Server.md",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "x86_Assembly.md",
-    "Spaces/Home/Server.md",
-    "Linux_Web_Surver.md",
     "Web_Hacking.md",
     "사용자및그룹관리.md",
     "Spaces/Home/대학진학.md",

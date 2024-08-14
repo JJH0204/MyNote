@@ -1,5 +1,5 @@
 # 서버의 종류
-- [[web]]
+- [[WebServer]]
 - mail
 - cloud
 - ftp
