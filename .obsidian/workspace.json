@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "343f29970380142c",
@@ -183,7 +183,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +220,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Port.md"
-              }
+              "state": {}
             }
           },
           {
@@ -263,15 +259,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90b34ff95cb5e7dc",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Network_Port.md",
     "HTTP.md",
+    "Port.md",
+    "Network_Port.md",
     "x86_Assembly.md",
     "Network_Protocol.md",
     "Transport_Layer_Protocol.md",
     "Service_Port.md",
-    "Port.md",
     "Transport_Layer.md",
     "SSH.md",
     "Spaces/Desc/네트워크.md",
