@@ -45,19 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb276b6f5c49876f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/네트워크.md",
+                "file": "Port.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP.md",
+                "file": "Port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP.md",
+                "file": "Port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP.md"
+                "file": "Port.md"
               }
             }
           },
@@ -257,11 +245,14 @@
   "active": "c50ba355510bd2f6",
   "lastOpenFiles": [
     "Network_Protocol.md",
+    "SSH.md",
     "HTTP.md",
+    "Port.md",
+    "Spaces/Desc/네트워크.md",
+    "Network_Port.md",
+    "Service_Port.md",
     "web.md",
     "x86_Assembly.md",
-    "Spaces/Desc/네트워크.md",
-    "SSH.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Swift_Protocol.md",
     "Spaces/Desc/열거형 (Enumeration, enum).md",
@@ -282,9 +273,6 @@
     "Spaces/Temp/Pasted image 20240814191404.png",
     "Web_Hacking.md",
     "사용자및그룹관리.md",
-    "Spaces/Home/대학진학.md",
-    "학교리스트.md",
-    "대학진학전략.md",
     "etc",
     "Spaces/Temp/Pasted image 20240810171616.png",
     "Linux",
