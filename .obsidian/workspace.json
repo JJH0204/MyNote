@@ -162,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/대학진학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/대학진학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/대학진학.md"
+              }
             }
           },
           {
@@ -240,8 +244,8 @@
   },
   "active": "2532768c7ca860a1",
   "lastOpenFiles": [
-    "SSH.md",
     "Network_Protocol.md",
+    "SSH.md",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Swift_Protocol.md",
