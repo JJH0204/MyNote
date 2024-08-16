@@ -147,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BrowserDevTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BrowserDevTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BrowserDevTools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49ad325864a97f8e",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Console.md",
     "BrowserDevTools.md",
+    "Console.md",
     "Application.md",
     "Network.md",
     "Sources.md",
