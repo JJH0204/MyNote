@@ -24,3 +24,18 @@ Console {
 | macOS | Option(**⌥**) +Cmd(**⌘**) + J |
 
 콘솔을 사용하면 브라우저에서 자바스크립트를 실행하고 결과를 확인할 수 있습니다. 단축키로 콘솔을 열고, **아래 내용**을 콘솔에 입력해보세요.
+```js
+// "hello" 문자열을 출력하는 alert 함수를 실행합니다.
+alert("hello");
+// prompt는 popup box로 이용자 입력을 받는 함수입니다.
+// 이용자가 입력한 데이터는 return value로 설정됩니다.
+var value = prompt('input')
+// confirm 는 확인/취소(yes/no)를 확인하는 이용자로부터 입력 받는 함수입니다.
+// 이용자의 선택에 따라 Boolean(true/false)타입의 return value를 가집니다.
+var true_false = confirm('yes or no ?');
+// document.body를 변경합니다.
+document.body.innerHTML = '<h1>Refresh!</h1>';
+// document.body에 새로운 html 코드를 추가합니다.
+document.body.innerHTML += '<h1>HI!</h1>';
+```
+
