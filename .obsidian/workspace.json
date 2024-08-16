@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BrowserDevTools.md",
+                "file": "Console.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BrowserDevTools.md",
+                "file": "Console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BrowserDevTools.md",
+                "file": "Console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BrowserDevTools.md"
+                "file": "Console.md"
               }
             }
           },
@@ -229,14 +229,18 @@
   },
   "active": "49ad325864a97f8e",
   "lastOpenFiles": [
+    "BrowserDevTools.md",
+    "Console.md",
+    "Elements.md",
+    "DeviceToolbar.md",
+    "Inspect.md",
+    "URL.md",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "WebBrowser.md",
-    "BrowserDevTools.md",
     "Web_rendering.md",
     "Spaces/Temp/Pasted image 20240817000323.png",
     "Domain_name.md",
     "IP.md",
-    "URL.md",
     "Spaces/Temp/Pasted image 20240816232201.png",
     "URL_Encoding.md",
     "Spaces/Temp/Pasted image 20240816231622.png",
@@ -256,9 +260,6 @@
     "CRLF.md",
     "Service_Port.md",
     "Transport_Layer.md",
-    "SSH.md",
-    "Spaces/Desc/네트워크.md",
-    "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
@@ -266,7 +267,6 @@
     "Spaces/Temp/Pasted image 20240810171616.png",
     "Linux",
     "Spaces/Temp/Pasted image 20240809152941.png",
-    "Spaces/Temp/Pasted image 20240809152253.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",

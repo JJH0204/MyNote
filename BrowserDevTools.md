@@ -8,8 +8,8 @@
 - F12를 눌러 개발자 툴을 활성화 할 수 있다.
 ![[Pasted image 20240817004804.png]]
 
-| 🔴 빨간색 | 요소 검사(Inspect) 및 디바이스 툴바(Device Toolbar) |
+| 🔴 빨간색 | [요소 검사(Inspect)](Inspect.md) 및 [디바이스 툴바(Device Toolbar)](DeviceToolbar.md) |
 | ---- | ---- |
-| 🟠 주황색 | 기능을 선택하는 패널. 코스에서는 **굵게**처리된 기능들만을 다룹니다.<br><br>- **Elements**: 페이지를 구성하는 HTML 검사<br>    <br>- **Console**: 자바 스크립트를 실행하고 결과를 확인할 수 있음<br>    <br>- **Sources**: HTML, CSS, JS 등 페이지를 구성하는 리소스를 확인하고 디버깅할 수 있음<br>    <br>- **Network**: 서버와 오가는 데이터를 확인할 수 있음<br>    <br>- Performance<br>    <br>- Memory<br>    <br>- **Application**: 쿠키를 포함하여 웹 어플리케이션과 관련된 데이터를 확인할 수 있음<br>    <br>- Security<br>    <br>- Lighthouse |
+| 🟠 주황색 | 기능을 선택하는 패널.<br><br>- **[[Elements]]**: 페이지를 구성하는 HTML 검사<br>    <br>- **[[Console]]**: 자바 스크립트를 실행하고 결과를 확인할 수 있음<br>    <br>- **[[Sources]]**: HTML, CSS, JS 등 페이지를 구성하는 리소스를 확인하고 디버깅할 수 있음<br>    <br>- **[[Network]]**: 서버와 오가는 데이터를 확인할 수 있음<br>    <br>- Performance<br>    <br>- Memory<br>    <br>- **[[Application]]**: 쿠키를 포함하여 웹 어플리케이션과 관련된 데이터를 확인할 수 있음<br>    <br>- Security<br>    <br>- Lighthouse |
 | 🟡 노란색 | 현재 페이지에서 발생한 에러 및 경고 메시지 |
 | 🟢 녹색 | 개발자 도구 설정 |
