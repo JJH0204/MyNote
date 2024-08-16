@@ -39,3 +39,12 @@ document.body.innerHTML = '<h1>Refresh!</h1>';
 document.body.innerHTML += '<h1>HI!</h1>';
 ```
 
+# Console Drawer
+---
+개발자 도구에 새로운 콘솔창을 열어 가시성과 효율성을 높일 수 있습니다. 다음과 같이 네트워크 패널과 콘솔 패널을 동시에 사용할 수도 있습니다.
+
+| 💡단축키 |  |
+| ---- | ---- |
+| Windows, MAC | ESC |
+
+![](https://dreamhack-lecture.s3.amazonaws.com/media/56a755c47938118f872fdcf6869cd532dd1fbb8a36b43dccc8d820b0a2121095.png)
