@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebBrowser.md",
+                "file": "Domain_name.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "343f29970380142c",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "URL.md",
+                "file": "Domain_name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "URL.md",
+                "file": "Domain_name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "URL.md"
+                "file": "Domain_name.md"
               }
             }
           },
@@ -227,11 +227,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35dd1114efb1bf01",
+  "active": "49ad325864a97f8e",
   "lastOpenFiles": [
-    "URL_Encoding.md",
-    "URL.md",
+    "IP.md",
+    "Domain_name.md",
     "WebBrowser.md",
+    "URL.md",
+    "Spaces/Temp/Pasted image 20240816232201.png",
+    "URL_Encoding.md",
     "Spaces/Temp/Pasted image 20240816231622.png",
     "Web_Hacking.md",
     "x86_Assembly.md",
@@ -255,8 +258,6 @@
     "Swift_Protocol.md",
     "Spaces/Desc/열거형 (Enumeration, enum).md",
     "Spaces/Desc/Swift의 주요 기능.md",
-    "Protocol.md",
-    "Spaces/Desc/프로토콜 지향 프로그래밍 (P.O.P).md",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
@@ -266,7 +267,6 @@
     "Spaces/Temp/Pasted image 20240809152941.png",
     "Spaces/Temp/Pasted image 20240809152253.png",
     "Spaces/Temp/Pasted image 20240809143027.png",
-    "Spaces/Temp/Pasted image 20240808224001.png",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
     "Spaces/text",
