@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network_Protocol.md",
+                "file": "TLS.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,10 +265,11 @@
   },
   "active": "0bfe85391cbbf4ea",
   "lastOpenFiles": [
-    "web.md",
-    "HTTPS.md",
-    "HTTP.md",
+    "TLS.md",
     "Network_Protocol.md",
+    "HTTPS.md",
+    "web.md",
+    "HTTP.md",
     "RFC_2616_Code.md",
     "HTTP_Method.md",
     "Spaces/Temp/Pasted image 20240816000403.png",
@@ -292,7 +293,6 @@
     "Spaces/Desc/프로토콜(Protocol).md",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Front_end.md",
-    "WebResource.md",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "etc",
