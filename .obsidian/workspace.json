@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web_rendering.md",
+                "file": "BrowserDevTools.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BrowserDevTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BrowserDevTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BrowserDevTools.md"
+              }
             }
           },
           {
@@ -223,11 +227,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "49ad325864a97f8e",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240817004804.png",
+    "WebBrowser.md",
+    "BrowserDevTools.md",
     "Web_rendering.md",
     "Spaces/Temp/Pasted image 20240817000323.png",
-    "WebBrowser.md",
     "Domain_name.md",
     "IP.md",
     "URL.md",
@@ -253,7 +259,6 @@
     "SSH.md",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
-    "Swift_Protocol.md",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",

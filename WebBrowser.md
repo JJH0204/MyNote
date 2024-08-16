@@ -17,3 +17,6 @@
 
 # [[Web_rendering]]
 ---
+
+# [[BrowserDevTools]]
+---
