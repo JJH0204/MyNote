@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP_Method.md",
+                "file": "RFC_2616_Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP_Method.md",
+                "file": "RFC_2616_Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP_Method.md",
+                "file": "RFC_2616_Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP_Method.md"
+                "file": "RFC_2616_Code.md"
               }
             }
           },
@@ -266,6 +266,7 @@
   "active": "c50ba355510bd2f6",
   "lastOpenFiles": [
     "HTTP.md",
+    "RFC_2616_Code.md",
     "HTTP_Method.md",
     "Spaces/Temp/Pasted image 20240816000403.png",
     "CRLF.md",
@@ -292,7 +293,6 @@
     "Front_end.md",
     "WebResource.md",
     "Linux_Web_Server.md",
-    "WebServer.md",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "etc",
