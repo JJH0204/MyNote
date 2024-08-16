@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "c50ba355510bd2f6",
+            "id": "0bfe85391cbbf4ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RFC_2616_Code.md",
+                "file": "HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RFC_2616_Code.md",
+                "file": "HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RFC_2616_Code.md",
+                "file": "HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RFC_2616_Code.md"
+                "file": "HTTPS.md"
               }
             }
           },
@@ -263,9 +263,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c50ba355510bd2f6",
+  "active": "0bfe85391cbbf4ea",
   "lastOpenFiles": [
+    "web.md",
+    "HTTPS.md",
     "HTTP.md",
+    "Network_Protocol.md",
     "RFC_2616_Code.md",
     "HTTP_Method.md",
     "Spaces/Temp/Pasted image 20240816000403.png",
@@ -274,12 +277,10 @@
     "Port.md",
     "Network_Port.md",
     "x86_Assembly.md",
-    "Network_Protocol.md",
     "Service_Port.md",
     "Transport_Layer.md",
     "SSH.md",
     "Spaces/Desc/네트워크.md",
-    "web.md",
     "Spaces/Desc/객체지향 프로그래밍 (OOP).md",
     "Swift_Protocol.md",
     "Spaces/Desc/열거형 (Enumeration, enum).md",
@@ -292,7 +293,6 @@
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Front_end.md",
     "WebResource.md",
-    "Linux_Web_Server.md",
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "etc",
