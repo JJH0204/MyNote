@@ -6,7 +6,7 @@
       {
         "id": "8f12d1a22ded9d76",
         "type": "tabs",
-        "dimension": 62.84634760705289,
+        "dimension": 52.86523929471033,
         "children": [
           {
             "id": "fd88a391e1025c03",
@@ -43,14 +43,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0241b5d25ff4921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "343f29970380142c",
         "type": "tabs",
-        "dimension": 37.1536523929471,
+        "dimension": 47.13476070528967,
         "children": [
           {
             "id": "40181e9a9e549ff5",
@@ -147,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/240726_기출오답노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/240726_기출오답노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/240726_기출오답노트.md"
+              }
             }
           },
           {
@@ -223,8 +239,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "435bbad93e80285e",
   "lastOpenFiles": [
+    "240728_기출오답노트.md",
+    "Spaces/Desc/240726_기출오답노트.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "1차 기출 오답.md",
     "BrowserDevTools.md",
     "Console.md",
     "Application.md",
@@ -252,10 +272,6 @@
     "Network_Port.md",
     "Port.md",
     "HTTP.md",
-    "Network_Protocol.md",
-    "web.md",
-    "RFC_2616_Code.md",
-    "HTTP_Method.md",
     "Spaces/Temp/Pasted image 20240816000403.png",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Spaces/Temp/Pasted image 20240814194119.png",
