@@ -4,4 +4,4 @@
 
 - Domain name을 Host 값으로 사용하면 DNS(Domain Name Server)에 질의하고, DNS가 IP address를 사용한다.
 - 웹 브라우저에서 `http://example.com`에 접속할 경우, DNS에 질의해 얻은 example.com의 IP와 통신한다.
-- Domain name에 대한 정보는 `nslookup` 명령어를 사용해 
+- Domain name에 대한 정보는 `nslookup` 명령어를 사용해 확인할 수 있다.
