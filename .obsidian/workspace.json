@@ -63,7 +63,7 @@
               "type": "markdown",
               "state": {
                 "file": "퍼미션.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "343f29970380142c",
@@ -195,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "퍼미션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "퍼미션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "퍼미션.md"
+              }
             }
           },
           {
@@ -271,7 +275,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "630bc8c7b0b9e17d",
   "lastOpenFiles": [
     "Spaces/Desc/리눅스 일반.md",
     "퍼미션.md",
