@@ -195,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼미션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼미션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,9 +232,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "퍼미션.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,10 +271,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "630bc8c7b0b9e17d",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Spaces/Desc/리눅스 일반.md",
     "퍼미션.md",
+    "Spaces/Desc/리눅스 일반.md",
     "리눅스.md",
     "Spaces/Home/Information_Security.md",
     "Linux_Web_Server.md",
