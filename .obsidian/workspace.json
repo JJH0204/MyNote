@@ -63,7 +63,7 @@
               "type": "markdown",
               "state": {
                 "file": "파일권한.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -107,9 +107,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b34f320a1ef3fdd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/디렉토리 관련 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,6 +277,9 @@
   },
   "active": "630bc8c7b0b9e17d",
   "lastOpenFiles": [
+    "Spaces/Desc/디렉토리 관련 명령어.md",
+    "Spaces/Desc/파일 관련 명령어.md",
+    "파일권한.md",
     "리눅스.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Desc/240726_기출오답노트.md",
@@ -293,9 +308,6 @@
     "Spaces/Temp/Pasted image 20240816231622.png",
     "Web_Hacking.md",
     "x86_Assembly.md",
-    "Transport_Layer_Protocol.md",
-    "TLS.md",
-    "HTTPS.md",
     "Spaces/Temp/Pasted image 20240816000403.png",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Spaces/Temp/Pasted image 20240814194119.png",
