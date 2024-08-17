@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "630bc8c7b0b9e17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "파일권한.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e61796ae630cd26e",
             "type": "leaf",
             "state": {
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스.md",
+                "file": "파일권한.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스.md",
+                "file": "파일권한.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스.md"
+                "file": "파일권한.md"
               }
             }
           },
@@ -251,8 +263,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e61796ae630cd26e",
+  "active": "630bc8c7b0b9e17d",
   "lastOpenFiles": [
+    "리눅스.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Desc/240726_기출오답노트.md",
     "240728_기출오답노트.md",
@@ -283,7 +296,6 @@
     "Transport_Layer_Protocol.md",
     "TLS.md",
     "HTTPS.md",
-    "Network_Port.md",
     "Spaces/Temp/Pasted image 20240816000403.png",
     "Spaces/Temp/Pasted image 20240814194419.png",
     "Spaces/Temp/Pasted image 20240814194119.png",
