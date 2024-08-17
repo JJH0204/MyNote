@@ -79,21 +79,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e73fa7a087e32d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/기타 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "343f29970380142c",
@@ -195,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "퍼미션.md",
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "퍼미션.md",
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "퍼미션.md"
+                "file": "Spaces/Desc/리눅스 일반.md"
               }
             }
           },
@@ -275,26 +263,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "630bc8c7b0b9e17d",
+  "active": "5ff12559cabd4525",
   "lastOpenFiles": [
+    "Spaces/Desc/기타 명령어.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "퍼미션.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "URL.md",
+    "BrowserDevTools.md",
     "Linux_day_2.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
-    "퍼미션.md",
-    "Spaces/Desc/리눅스 일반.md",
     "리눅스.md",
     "Spaces/Home/Information_Security.md",
     "Linux_Web_Server.md",
     "ELF.md",
     "관리자권한.md",
-    "Spaces/Desc/기타 명령어.md",
     "Spaces/Desc/파일 관련 명령어.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Desc/240726_기출오답노트.md",
     "240728_기출오답노트.md",
     "240729_기출오답노트.md",
     "240730_기출오답노트.md",
     "1차 기출 오답.md",
-    "BrowserDevTools.md",
     "Console.md",
     "Application.md",
     "Network.md",
@@ -303,7 +292,6 @@
     "Elements.md",
     "DeviceToolbar.md",
     "Inspect.md",
-    "URL.md",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
     "Spaces/Temp/Pasted image 20240816232201.png",
