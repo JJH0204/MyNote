@@ -195,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "퍼미션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "퍼미션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "퍼미션.md"
+              }
             }
           },
           {
@@ -271,8 +275,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "630bc8c7b0b9e17d",
   "lastOpenFiles": [
+    "Linux_day_2.md",
+    "Spaces/Desc/디렉토리 관련 명령어.md",
     "퍼미션.md",
     "Spaces/Desc/리눅스 일반.md",
     "리눅스.md",
@@ -281,7 +287,6 @@
     "ELF.md",
     "관리자권한.md",
     "Spaces/Desc/기타 명령어.md",
-    "Spaces/Desc/디렉토리 관련 명령어.md",
     "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Desc/240726_기출오답노트.md",
@@ -300,7 +305,6 @@
     "Inspect.md",
     "URL.md",
     "Spaces/Temp/Pasted image 20240817004804.png",
-    "WebBrowser.md",
     "Spaces/Temp/Pasted image 20240817000323.png",
     "Spaces/Temp/Pasted image 20240816232201.png",
     "Spaces/Temp/Pasted image 20240816231622.png",
