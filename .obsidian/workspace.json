@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "BrowserDevTools.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -39,7 +39,7 @@
               "type": "markdown",
               "state": {
                 "file": "URL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -51,7 +51,7 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Desc/리눅스 마스터 2급.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "관리자권한.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "관리자권한.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "관리자권한.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md"
+                "file": "관리자권한.md"
               }
             }
           },
@@ -265,12 +265,12 @@
   },
   "active": "5ff12559cabd4525",
   "lastOpenFiles": [
-    "Spaces/Desc/기타 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "퍼미션.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "URL.md",
     "BrowserDevTools.md",
+    "Spaces/Desc/기타 명령어.md",
     "Linux_day_2.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
     "리눅스.md",
