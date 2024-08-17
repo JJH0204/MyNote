@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파일권한.md",
+                "file": "퍼미션.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,13 +274,13 @@
   "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
     "Spaces/Desc/리눅스 일반.md",
+    "퍼미션.md",
     "리눅스.md",
     "Spaces/Home/Information_Security.md",
     "Linux_Web_Server.md",
     "ELF.md",
     "관리자권한.md",
     "Spaces/Desc/기타 명령어.md",
-    "파일권한.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
     "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
