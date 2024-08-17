@@ -31,33 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "35dd1114efb1bf01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "URL.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e32400546051a47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스_링크.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "343f29970380142c",
@@ -159,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BrowserDevTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BrowserDevTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BrowserDevTools.md"
+              }
             }
           },
           {
@@ -235,11 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "49ad325864a97f8e",
   "lastOpenFiles": [
+    "URL.md",
     "리눅스_링크.md",
     "Spaces/Desc/리눅스 일반.md",
-    "URL.md",
     "퍼미션.md",
     "관리자권한.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
