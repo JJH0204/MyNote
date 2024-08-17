@@ -69,12 +69,12 @@
             }
           },
           {
-            "id": "e61796ae630cd26e",
+            "id": "5ff12559cabd4525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "관리자권한.md",
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "343f29970380142c",
@@ -273,9 +273,13 @@
   },
   "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Spaces/Desc/기타 명령어.md",
-    "관리자권한.md",
+    "Spaces/Desc/리눅스 일반.md",
     "리눅스.md",
+    "Spaces/Home/Information_Security.md",
+    "Linux_Web_Server.md",
+    "ELF.md",
+    "관리자권한.md",
+    "Spaces/Desc/기타 명령어.md",
     "파일권한.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
     "Spaces/Desc/파일 관련 명령어.md",
@@ -297,12 +301,8 @@
     "URL.md",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "WebBrowser.md",
-    "Web_rendering.md",
     "Spaces/Temp/Pasted image 20240817000323.png",
-    "Domain_name.md",
-    "IP.md",
     "Spaces/Temp/Pasted image 20240816232201.png",
-    "URL_Encoding.md",
     "Spaces/Temp/Pasted image 20240816231622.png",
     "Spaces/Temp/Pasted image 20240816000403.png",
     "Spaces/Temp/Pasted image 20240814194419.png",
