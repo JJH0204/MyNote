@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "리눅스패키지관리도구.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "리눅스패키지관리도구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md"
+                "file": "리눅스패키지관리도구.md"
               }
             }
           },
@@ -227,10 +227,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19dd293a41ae2c88",
+  "active": "4d93467bc805f20b",
   "lastOpenFiles": [
-    "리눅스패키지관리도구.md",
     "Spaces/Desc/리눅스 일반.md",
+    "리눅스패키지관리도구.md",
     "BrowserDevTools.md",
     "URL.md",
     "리눅스_링크.md",
