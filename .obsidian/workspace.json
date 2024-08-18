@@ -6,7 +6,7 @@
       {
         "id": "8f12d1a22ded9d76",
         "type": "tabs",
-        "dimension": 52.86523929471033,
+        "dimension": 38.744482589504656,
         "children": [
           {
             "id": "fd88a391e1025c03",
@@ -38,7 +38,7 @@
       {
         "id": "343f29970380142c",
         "type": "tabs",
-        "dimension": 47.13476070528967,
+        "dimension": 61.255517410495344,
         "children": [
           {
             "id": "40181e9a9e549ff5",
@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BrowserDevTools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BrowserDevTools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BrowserDevTools.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,15 +211,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49ad325864a97f8e",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "BrowserDevTools.md",
     "URL.md",
     "리눅스_링크.md",
     "Spaces/Desc/리눅스 일반.md",
     "퍼미션.md",
     "관리자권한.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
-    "BrowserDevTools.md",
     "Spaces/Desc/기타 명령어.md",
     "Linux_day_2.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
