@@ -147,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "리눅스패키지관리도구.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "리눅스패키지관리도구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "리눅스패키지관리도구.md"
+              }
             }
           },
           {
@@ -223,7 +227,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "4d93467bc805f20b",
   "lastOpenFiles": [
     "Spaces/Desc/리눅스 일반.md",
     "리눅스패키지관리도구.md",
