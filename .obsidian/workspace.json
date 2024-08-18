@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19dd293a41ae2c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/리눅스 일반.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "343f29970380142c",
@@ -135,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/리눅스 일반.md"
+              }
             }
           },
           {
@@ -211,12 +227,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "19dd293a41ae2c88",
   "lastOpenFiles": [
+    "리눅스패키지관리도구.md",
+    "Spaces/Desc/리눅스 일반.md",
     "BrowserDevTools.md",
     "URL.md",
     "리눅스_링크.md",
-    "Spaces/Desc/리눅스 일반.md",
     "퍼미션.md",
     "관리자권한.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
@@ -239,7 +256,6 @@
     "Sources.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Elements.md",
-    "DeviceToolbar.md",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
     "Spaces/Temp/Pasted image 20240816232201.png",
