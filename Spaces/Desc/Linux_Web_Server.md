@@ -1,4 +1,4 @@
-# [[리눅스일반]]에서 웹 서버 구축
+# [[리눅스 일반]]에서 웹 서버 구축
 ```sh
 [root@localhost home]# dnf install httpd -y  // 툴 설치
 [root@localhost home]# systemctl start httpd // 툴 실행
