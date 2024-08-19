@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAN 환경 구축.md",
+                "file": "Gateway 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LAN 환경 구축.md",
+                "file": "Gateway 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LAN 환경 구축.md",
+                "file": "Gateway 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LAN 환경 구축.md"
+                "file": "Gateway 설정.md"
               }
             }
           },
@@ -274,16 +274,20 @@
   },
   "active": "440faebce3edb2f3",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240819215635.png",
+    "Spaces/Temp/Pasted image 20240819215420.png",
+    "Topology.md",
+    "Gateway 설정.md",
+    "LAN 환경 구축.md",
+    "Spaces/Temp/Pasted image 20240819215103.png",
     "Spaces/Temp/Pasted image 20240819214610.png",
     "Spaces/Temp/Pasted image 20240819214004.png",
     "Spaces/Desc/Transport Layer.md",
     "OSI_Model.md",
     "Spaces/Desc/IP.md",
-    "LAN 환경 구축.md",
     "Spaces/Temp/Pasted image 20240819213431.png",
     "Spaces/Temp/Pasted image 20240819213257.png",
     "Spaces/Temp/Pasted image 20240819213148.png",
-    "Topology.md",
     "네트워크 용어.md",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/Domain_name.md",
@@ -304,12 +308,8 @@
     "URL.md",
     "리눅스_링크.md",
     "퍼미션.md",
-    "관리자권한.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
-    "Spaces/Temp/Pasted image 20240817000323.png",
-    "Spaces/Temp/Pasted image 20240816232201.png",
-    "Spaces/Temp/Pasted image 20240816231622.png",
     "etc",
     "Linux",
     "Spaces/Temp",
