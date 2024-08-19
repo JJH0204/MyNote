@@ -4,45 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8f12d1a22ded9d76",
+        "id": "f81f787139b5b71b",
         "type": "tabs",
-        "dimension": 38.744482589504656,
         "children": [
           {
-            "id": "fd88a391e1025c03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "49ad325864a97f8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "19dd293a41ae2c88",
+            "id": "440faebce3edb2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "BuildingNetwork.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "343f29970380142c",
         "type": "tabs",
-        "dimension": 61.255517410495344,
         "children": [
           {
             "id": "40181e9a9e549ff5",
@@ -139,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BuildingNetwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BuildingNetwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BuildingNetwork.md"
+              }
             }
           },
           {
@@ -215,10 +200,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "440faebce3edb2f3",
   "lastOpenFiles": [
-    "Spaces/Desc/네트워크 관련 명령어.md",
+    "Spaces/Temp/Pasted image 20240819202412.png",
+    "Spaces/Desc/네트워크.md",
+    "BuildingNetwork.md",
     "Spaces/Desc/리눅스 일반.md",
+    "Spaces/Desc/네트워크 관련 명령어.md",
     "리눅스패키지관리도구.md",
     "BrowserDevTools.md",
     "URL.md",
@@ -240,9 +228,6 @@
     "240730_기출오답노트.md",
     "1차 기출 오답.md",
     "Console.md",
-    "Application.md",
-    "Network.md",
-    "Sources.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
