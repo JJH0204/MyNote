@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology.md",
+                "file": "LAN 환경 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,12 +70,36 @@
             }
           },
           {
+            "id": "dbf24409307194a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI_Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48443fad319fd4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ff8fd6a30b8a1dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/네트워크.md",
+                "file": "네트워크 용어.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +229,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Desc/네트워크.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,23 +268,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff8fd6a30b8a1dc9",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "Spaces/Desc/Transport Layer.md",
+    "OSI_Model.md",
+    "Spaces/Desc/IP.md",
+    "LAN 환경 구축.md",
+    "Spaces/Temp/Pasted image 20240819213431.png",
+    "Spaces/Temp/Pasted image 20240819213257.png",
+    "Spaces/Temp/Pasted image 20240819213148.png",
     "Topology.md",
+    "네트워크 용어.md",
+    "Spaces/Desc/네트워크.md",
     "Spaces/Desc/Domain_name.md",
     "Mac_Address.md",
-    "OSI_Model.md",
     "BuildingNetwork.md",
     "Spaces/Desc/DHCP.md",
     "UTP_Cabling.md",
-    "Spaces/Desc/IP.md",
     "TCP.md",
     "UDP.md",
     "Spaces/Desc/Network_Protocol.md",
     "IPv4.md",
     "IPv6.md",
     "Spaces/Temp/Pasted image 20240819202412.png",
-    "Spaces/Desc/네트워크.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/네트워크 관련 명령어.md",
     "리눅스패키지관리도구.md",
@@ -274,18 +300,12 @@
     "퍼미션.md",
     "관리자권한.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
-    "Spaces/Desc/기타 명령어.md",
-    "Linux_day_2.md",
-    "Spaces/Desc/디렉토리 관련 명령어.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
     "Spaces/Temp/Pasted image 20240816232201.png",
     "Spaces/Temp/Pasted image 20240816231622.png",
     "Spaces/Temp/Pasted image 20240816000403.png",
-    "Spaces/Temp/Pasted image 20240814194419.png",
-    "Spaces/Temp/Pasted image 20240814194119.png",
-    "Spaces/Temp/Pasted image 20240814191404.png",
     "etc",
     "Linux",
     "Spaces/Temp",

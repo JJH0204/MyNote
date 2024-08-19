@@ -1,4 +1,4 @@
-# 1. [전송 계층(Transport_Layer)](Transport_Layer.md) 란?
+# 1. [전송 계층(Transport_Layer)](Transport%20Layer.md) 란?
 ---
 
 # 2. 관련 프로토콜 리스트
