@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI_Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI_Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSI_Model.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,13 +208,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "440faebce3edb2f3",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "OSI_Model.md",
+    "TCP.md",
+    "UDP.md",
+    "Spaces/Desc/Network_Protocol.md",
     "Spaces/Desc/IP.md",
     "IPv4.md",
     "IPv6.md",
-    "Spaces/Desc/Network_Protocol.md",
-    "OSI_Model.md",
     "BuildingNetwork.md",
     "Spaces/Temp/Pasted image 20240819202412.png",
     "Spaces/Desc/네트워크.md",
@@ -239,8 +237,6 @@
     "Linux_Web_Server.md",
     "ELF.md",
     "Spaces/Desc/파일 관련 명령어.md",
-    "Spaces/Desc/240726_기출오답노트.md",
-    "240728_기출오답노트.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
