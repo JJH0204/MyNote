@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BuildingNetwork.md",
+                "file": "Spaces/Desc/IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BuildingNetwork.md",
+                "file": "Spaces/Desc/IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BuildingNetwork.md",
+                "file": "Spaces/Desc/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BuildingNetwork.md"
+                "file": "Spaces/Desc/IP.md"
               }
             }
           },
@@ -202,9 +202,10 @@
   },
   "active": "440faebce3edb2f3",
   "lastOpenFiles": [
+    "OSI_Model.md",
+    "BuildingNetwork.md",
     "Spaces/Temp/Pasted image 20240819202412.png",
     "Spaces/Desc/네트워크.md",
-    "BuildingNetwork.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/네트워크 관련 명령어.md",
     "리눅스패키지관리도구.md",
@@ -238,7 +239,6 @@
     "Spaces/Temp/Pasted image 20240814194119.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "etc",
-    "Spaces/Temp/Pasted image 20240810171616.png",
     "Linux",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
