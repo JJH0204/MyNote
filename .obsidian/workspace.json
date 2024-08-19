@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI_Model.md",
+                "file": "UTP_Cabling.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,14 +210,16 @@
   },
   "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "Spaces/Desc/IP.md",
+    "UTP_Cabling.md",
+    "Topology.md",
+    "BuildingNetwork.md",
     "OSI_Model.md",
     "TCP.md",
     "UDP.md",
     "Spaces/Desc/Network_Protocol.md",
-    "Spaces/Desc/IP.md",
     "IPv4.md",
     "IPv6.md",
-    "BuildingNetwork.md",
     "Spaces/Temp/Pasted image 20240819202412.png",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/리눅스 일반.md",
@@ -235,8 +237,6 @@
     "리눅스.md",
     "Spaces/Home/Information_Security.md",
     "Linux_Web_Server.md",
-    "ELF.md",
-    "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
