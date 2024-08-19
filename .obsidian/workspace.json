@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "343f29970380142c",
@@ -65,8 +66,12 @@
             "id": "50c1c17ed9dbef47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mac_Address.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -192,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routing.md",
+                "file": "Spaces/Desc/Network_Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routing.md",
+                "file": "Spaces/Desc/Network_Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routing.md"
+                "file": "Spaces/Desc/Network_Protocol.md"
               }
             }
           },
@@ -272,12 +277,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "440faebce3edb2f3",
+  "active": "9100201bcb946ca3",
   "lastOpenFiles": [
+    "OSI_Model.md",
+    "Spaces/Desc/Network_Protocol.md",
+    "Routing.md",
+    "Mac_Address.md",
+    "Spaces/Temp/Pasted image 20240819224450.png",
+    "Spaces/Temp/Pasted image 20240819224402.png",
     "Spaces/Temp/Pasted image 20240819223347.png",
     "Spaces/Temp/Pasted image 20240819222707.png",
     "Routing table.md",
-    "Routing.md",
     "Spaces/Temp/Pasted image 20240819221623.png",
     "Spaces/Temp/Pasted image 20240819221447.png",
     "Topology.md",
@@ -287,22 +297,16 @@
     "Spaces/Temp/Pasted image 20240819215635.png",
     "Spaces/Temp/Pasted image 20240819215420.png",
     "LAN 환경 구축.md",
-    "Spaces/Temp/Pasted image 20240819215103.png",
-    "Spaces/Temp/Pasted image 20240819214610.png",
-    "Spaces/Temp/Pasted image 20240819214004.png",
     "Spaces/Desc/Transport Layer.md",
-    "OSI_Model.md",
     "Spaces/Desc/IP.md",
     "네트워크 용어.md",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/Domain_name.md",
-    "Mac_Address.md",
     "BuildingNetwork.md",
     "Spaces/Desc/DHCP.md",
     "UTP_Cabling.md",
     "TCP.md",
     "UDP.md",
-    "Spaces/Desc/Network_Protocol.md",
     "IPv4.md",
     "IPv6.md",
     "Spaces/Desc/리눅스 일반.md",
