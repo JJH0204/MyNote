@@ -12,7 +12,7 @@
 
 ## 2Layer: DataLink Layer
 - 물리계층에서 송수신하는 데이터를 관리, 에러검출/재전송/흐름제어
-- **Mac Address**를 가지고 통신
+- **[Mac Address](Mac_Address.md)**를 가지고 통신
 - 브릿지/ **스위치** 등 장치가 이 계층에 포함
 
 ## 3Layer: Network Layer

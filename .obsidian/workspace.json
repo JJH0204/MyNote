@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTP_Cabling.md",
+                "file": "Topology.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Desc/Network_Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d07cc58b8e56fb0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI_Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Topology.md"
+              }
             }
           },
           {
@@ -208,13 +224,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "440faebce3edb2f3",
   "lastOpenFiles": [
-    "Spaces/Desc/IP.md",
-    "UTP_Cabling.md",
+    "Mac_Address.md",
     "Topology.md",
-    "BuildingNetwork.md",
     "OSI_Model.md",
+    "BuildingNetwork.md",
+    "Spaces/Desc/DHCP.md",
+    "UTP_Cabling.md",
+    "Spaces/Desc/IP.md",
     "TCP.md",
     "UDP.md",
     "Spaces/Desc/Network_Protocol.md",
@@ -235,8 +253,6 @@
     "Linux_day_2.md",
     "Spaces/Desc/디렉토리 관련 명령어.md",
     "리눅스.md",
-    "Spaces/Home/Information_Security.md",
-    "Linux_Web_Server.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
