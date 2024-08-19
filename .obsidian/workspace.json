@@ -192,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LAN 환경 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LAN 환경 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LAN 환경 구축.md"
+              }
             }
           },
           {
@@ -268,8 +272,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "440faebce3edb2f3",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240819214610.png",
+    "Spaces/Temp/Pasted image 20240819214004.png",
     "Spaces/Desc/Transport Layer.md",
     "OSI_Model.md",
     "Spaces/Desc/IP.md",
@@ -299,13 +305,11 @@
     "리눅스_링크.md",
     "퍼미션.md",
     "관리자권한.md",
-    "Spaces/Desc/리눅스 마스터 2급.md",
     "Spaces/Temp/Pasted image 20240817010724.png",
     "Spaces/Temp/Pasted image 20240817004804.png",
     "Spaces/Temp/Pasted image 20240817000323.png",
     "Spaces/Temp/Pasted image 20240816232201.png",
     "Spaces/Temp/Pasted image 20240816231622.png",
-    "Spaces/Temp/Pasted image 20240816000403.png",
     "etc",
     "Linux",
     "Spaces/Temp",
