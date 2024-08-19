@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway 설정.md",
+                "file": "Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway 설정.md",
+                "file": "Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway 설정.md",
+                "file": "Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gateway 설정.md"
+                "file": "Routing.md"
               }
             }
           },
@@ -274,10 +274,13 @@
   },
   "active": "440faebce3edb2f3",
   "lastOpenFiles": [
+    "Topology.md",
+    "Routing.md",
+    "Gateway 설정.md",
+    "Spaces/Temp/Pasted image 20240819220251.png",
+    "Spaces/Temp/Pasted image 20240819220045.png",
     "Spaces/Temp/Pasted image 20240819215635.png",
     "Spaces/Temp/Pasted image 20240819215420.png",
-    "Topology.md",
-    "Gateway 설정.md",
     "LAN 환경 구축.md",
     "Spaces/Temp/Pasted image 20240819215103.png",
     "Spaces/Temp/Pasted image 20240819214610.png",
@@ -300,7 +303,6 @@
     "Spaces/Desc/Network_Protocol.md",
     "IPv4.md",
     "IPv6.md",
-    "Spaces/Temp/Pasted image 20240819202412.png",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/네트워크 관련 명령어.md",
     "리눅스패키지관리도구.md",
@@ -308,8 +310,6 @@
     "URL.md",
     "리눅스_링크.md",
     "퍼미션.md",
-    "Spaces/Temp/Pasted image 20240817010724.png",
-    "Spaces/Temp/Pasted image 20240817004804.png",
     "etc",
     "Linux",
     "Spaces/Temp",
