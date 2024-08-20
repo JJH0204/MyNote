@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VTP.md",
+                "file": "STP.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VTP.md",
+                "file": "STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VTP.md",
+                "file": "STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VTP.md"
+                "file": "STP.md"
               }
             }
           },
@@ -263,13 +263,15 @@
   },
   "active": "16e5a2b043fb1f7e",
   "lastOpenFiles": [
-    "VTP_Revision.md",
-    "VTP.md",
+    "Spaces/Temp/Pasted image 20240821003413.png",
+    "LAN 환경 구축.md",
+    "STP.md",
+    "VLAN.md",
     "Switch Based.md",
+    "VTP.md",
+    "VTP_Revision.md",
     "Gateway 설정.md",
     "Topology.md",
-    "VLAN.md",
-    "LAN 환경 구축.md",
     "단말 원격 접속.md",
     "CIDR.md",
     "Subnetting.md",
@@ -297,8 +299,6 @@
     "Spaces/Desc/Domain_name.md",
     "BuildingNetwork.md",
     "Spaces/Desc/DHCP.md",
-    "UTP_Cabling.md",
-    "TCP.md",
     "etc",
     "Linux",
     "Spaces/Temp",

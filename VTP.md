@@ -25,6 +25,9 @@
 	- 스위치의 모드를 설정한다.
 - domain: vtp domain 이름
 	- 스위치의 도메인 이름을 설정한다.
+- sh vtp status
+	- vtp 설정 상태 확인
 - 그 외
 	- password
 	- version
+- 
