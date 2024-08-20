@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단말 원격 접속.md",
+                "file": "Switch Based.md",
                 "mode": "source",
                 "source": false
               }
@@ -247,8 +247,10 @@
   },
   "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "단말 원격 접속.md",
+    "Switch Based.md",
+    "VLAN.md",
     "LAN 환경 구축.md",
+    "단말 원격 접속.md",
     "CIDR.md",
     "Subnetting.md",
     "Subnet Mask.md",
@@ -281,8 +283,6 @@
     "TCP.md",
     "UDP.md",
     "IPv4.md",
-    "IPv6.md",
-    "Spaces/Desc/리눅스 일반.md",
     "etc",
     "Linux",
     "Spaces/Temp",
