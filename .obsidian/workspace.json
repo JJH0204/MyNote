@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAN 환경 구축.md",
+                "file": "단말 원격 접속.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "단말 원격 접속.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "단말 원격 접속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "단말 원격 접속.md"
+              }
             }
           },
           {
@@ -245,8 +249,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "16e5a2b043fb1f7e",
   "lastOpenFiles": [
+    "단말 원격 접속.md",
     "LAN 환경 구축.md",
     "CIDR.md",
     "Subnetting.md",
@@ -282,7 +287,6 @@
     "IPv4.md",
     "IPv6.md",
     "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/네트워크 관련 명령어.md",
     "etc",
     "Linux",
     "Spaces/Temp",
