@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology.md",
+                "file": "Gateway 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Switch Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Switch Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Switch Based.md"
+              }
             }
           },
           {
@@ -245,9 +249,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "16e5a2b043fb1f7e",
   "lastOpenFiles": [
+    "Gateway 설정.md",
     "Switch Based.md",
+    "Topology.md",
     "VLAN.md",
     "LAN 환경 구축.md",
     "단말 원격 접속.md",
@@ -255,7 +261,6 @@
     "Subnetting.md",
     "Subnet Mask.md",
     "Spaces/Desc/IP.md",
-    "Topology.md",
     "Spaces/Desc/Network_Protocol.md",
     "Routing.md",
     "OSI_Model.md",
@@ -268,7 +273,6 @@
     "Routing table.md",
     "Spaces/Temp/Pasted image 20240819221623.png",
     "Spaces/Temp/Pasted image 20240819221447.png",
-    "Gateway 설정.md",
     "Spaces/Temp/Pasted image 20240819220251.png",
     "Spaces/Temp/Pasted image 20240819220045.png",
     "Spaces/Temp/Pasted image 20240819215635.png",
