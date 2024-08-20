@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9100201bcb946ca3",
+            "id": "52d9617e80627d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/Network_Protocol.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d07cc58b8e56fb0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI_Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04ed369b99c49a85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gateway 설정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f15858caac34ad3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIDR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e5a2b043fb1f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1262f79b05e9dc2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Switch Based.md",
+                "file": "네트워크 관련 자격증.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "343f29970380142c",
@@ -181,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "STP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -261,27 +196,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16e5a2b043fb1f7e",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "네트워크 관련 자격증.md",
+    "Spaces/Desc/네트워크.md",
+    "Switch Based.md",
+    "STP.md",
+    "CIDR.md",
+    "Gateway 설정.md",
+    "OSI_Model.md",
+    "Spaces/Desc/Network_Protocol.md",
     "Spaces/Temp/Pasted image 20240821004844.png",
     "Spaces/Temp/Pasted image 20240821004450.png",
     "Spaces/Temp/Pasted image 20240821003413.png",
     "LAN 환경 구축.md",
-    "STP.md",
     "VLAN.md",
-    "Switch Based.md",
     "VTP.md",
     "VTP_Revision.md",
-    "Gateway 설정.md",
     "Topology.md",
     "단말 원격 접속.md",
-    "CIDR.md",
     "Subnetting.md",
     "Subnet Mask.md",
     "Spaces/Desc/IP.md",
-    "Spaces/Desc/Network_Protocol.md",
     "Routing.md",
-    "OSI_Model.md",
     "Spaces/Desc/Linux_Web_Server.md",
     "Mac_Address.md",
     "Spaces/Temp/Pasted image 20240819224450.png",
@@ -292,10 +229,8 @@
     "Spaces/Temp/Pasted image 20240819221623.png",
     "Spaces/Temp/Pasted image 20240819221447.png",
     "Spaces/Temp/Pasted image 20240819220251.png",
-    "Spaces/Temp/Pasted image 20240819220045.png",
     "Spaces/Desc/Transport Layer.md",
     "네트워크 용어.md",
-    "Spaces/Desc/네트워크.md",
     "Spaces/Desc/Domain_name.md",
     "BuildingNetwork.md",
     "Spaces/Desc/DHCP.md",
