@@ -169,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단말 원격 접속.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단말 원격 접속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "단말 원격 접속.md"
-              }
+              "state": {}
             }
           },
           {
@@ -249,7 +245,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16e5a2b043fb1f7e",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
     "단말 원격 접속.md",
     "LAN 환경 구축.md",
