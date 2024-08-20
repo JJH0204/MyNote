@@ -61,6 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "VTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1262f79b05e9dc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Switch Based.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "343f29970380142c",
@@ -249,10 +261,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16e5a2b043fb1f7e",
+  "active": "1262f79b05e9dc2e",
   "lastOpenFiles": [
-    "Gateway 설정.md",
+    "VTP.md",
     "Switch Based.md",
+    "Gateway 설정.md",
     "Topology.md",
     "VLAN.md",
     "LAN 환경 구축.md",
@@ -286,7 +299,6 @@
     "UTP_Cabling.md",
     "TCP.md",
     "UDP.md",
-    "IPv4.md",
     "etc",
     "Linux",
     "Spaces/Temp",
