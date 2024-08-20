@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "440faebce3edb2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Routing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9100201bcb946ca3",
             "type": "leaf",
             "state": {
@@ -42,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04ed369b99c49a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f15858caac34ad3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subnetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "343f29970380142c",
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Routing.md",
+                "file": "Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Routing.md",
+                "file": "Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Routing.md"
+                "file": "Subnetting.md"
               }
             }
           },
@@ -224,13 +237,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "440faebce3edb2f3",
+  "active": "f15858caac34ad3f",
   "lastOpenFiles": [
+    "Subnet Mask.md",
+    "Subnetting.md",
+    "Spaces/Desc/IP.md",
+    "Topology.md",
     "Spaces/Desc/Network_Protocol.md",
+    "Routing.md",
     "OSI_Model.md",
     "Spaces/Desc/Linux_Web_Server.md",
     "Mac_Address.md",
-    "Routing.md",
     "Spaces/Temp/Pasted image 20240819224450.png",
     "Spaces/Temp/Pasted image 20240819224402.png",
     "Spaces/Temp/Pasted image 20240819223347.png",
@@ -238,7 +255,6 @@
     "Routing table.md",
     "Spaces/Temp/Pasted image 20240819221623.png",
     "Spaces/Temp/Pasted image 20240819221447.png",
-    "Topology.md",
     "Gateway 설정.md",
     "Spaces/Temp/Pasted image 20240819220251.png",
     "Spaces/Temp/Pasted image 20240819220045.png",
@@ -246,7 +262,6 @@
     "Spaces/Temp/Pasted image 20240819215420.png",
     "LAN 환경 구축.md",
     "Spaces/Desc/Transport Layer.md",
-    "Spaces/Desc/IP.md",
     "네트워크 용어.md",
     "Spaces/Desc/네트워크.md",
     "Spaces/Desc/Domain_name.md",
@@ -260,8 +275,6 @@
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/네트워크 관련 명령어.md",
     "리눅스패키지관리도구.md",
-    "BrowserDevTools.md",
-    "URL.md",
     "etc",
     "Linux",
     "Spaces/Temp",
