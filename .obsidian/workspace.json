@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subnetting.md",
+                "file": "CIDR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16e5a2b043fb1f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAN 환경 구축.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "343f29970380142c",
@@ -157,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Subnetting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,10 +245,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f15858caac34ad3f",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Subnet Mask.md",
+    "LAN 환경 구축.md",
+    "CIDR.md",
     "Subnetting.md",
+    "Subnet Mask.md",
     "Spaces/Desc/IP.md",
     "Topology.md",
     "Spaces/Desc/Network_Protocol.md",
@@ -260,7 +270,6 @@
     "Spaces/Temp/Pasted image 20240819220045.png",
     "Spaces/Temp/Pasted image 20240819215635.png",
     "Spaces/Temp/Pasted image 20240819215420.png",
-    "LAN 환경 구축.md",
     "Spaces/Desc/Transport Layer.md",
     "네트워크 용어.md",
     "Spaces/Desc/네트워크.md",
@@ -274,7 +283,6 @@
     "IPv6.md",
     "Spaces/Desc/리눅스 일반.md",
     "Spaces/Desc/네트워크 관련 명령어.md",
-    "리눅스패키지관리도구.md",
     "etc",
     "Linux",
     "Spaces/Temp",
