@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "343f29970380142c",
@@ -145,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Routing.md"
+              }
             }
           },
           {
@@ -221,12 +224,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "440faebce3edb2f3",
   "lastOpenFiles": [
-    "Spaces/Desc/Linux_Web_Server.md",
-    "OSI_Model.md",
-    "Mac_Address.md",
     "Spaces/Desc/Network_Protocol.md",
+    "OSI_Model.md",
+    "Spaces/Desc/Linux_Web_Server.md",
+    "Mac_Address.md",
     "Routing.md",
     "Spaces/Temp/Pasted image 20240819224450.png",
     "Spaces/Temp/Pasted image 20240819224402.png",
