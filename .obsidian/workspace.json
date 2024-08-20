@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "343f29970380142c",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Switch Based.md",
+                "file": "VTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Switch Based.md",
+                "file": "VTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Switch Based.md"
+                "file": "VTP.md"
               }
             }
           },
@@ -261,8 +261,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1262f79b05e9dc2e",
+  "active": "16e5a2b043fb1f7e",
   "lastOpenFiles": [
+    "VTP_Revision.md",
     "VTP.md",
     "Switch Based.md",
     "Gateway 설정.md",
@@ -298,7 +299,6 @@
     "Spaces/Desc/DHCP.md",
     "UTP_Cabling.md",
     "TCP.md",
-    "UDP.md",
     "etc",
     "Linux",
     "Spaces/Temp",

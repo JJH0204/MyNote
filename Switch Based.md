@@ -18,7 +18,7 @@
 # Switch 연결 관리
 ---
 Switch 끼리 연결되어 있는 경우 이 연결 정보를 각 Switch에서 관리해야 한다.
-이 연결 방식을 Trunk라고 하고 관리 규칙을 [[trunk protocol]]이라고 한다.
+이 연결 방식을 [[Trunk]]라고 하고 관리 규칙을 [[trunk protocol]]이라고 한다.
 - 다른 스위치와 연결된 포트 접속: int 포트이름
 - 포트 연결 모드 trunk로 변경: switchport mode trunk
 - 종료: exit
