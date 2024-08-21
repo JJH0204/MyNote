@@ -12,7 +12,7 @@ DCE간 연결을 하는 과정을 라우팅이라 한다.
 ---
 크게 두가지가 있다.
 - static routing : 관리자가 직접 연결
-- dynamic routing : 그 외 연결
+- [[dynamic routing]] : 그 외 연결
 라우팅 된 정보는 라우팅 테이블에서 관리된다.
 
 # 연결 시뮬레이션

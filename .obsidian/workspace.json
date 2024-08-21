@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76ee40b4da6bce90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Routing Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "343f29970380142c",
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "네트워크 관련 자격증.md",
+                "file": "Dynamic Routing Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "네트워크 관련 자격증.md",
+                "file": "Dynamic Routing Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "네트워크 관련 자격증.md"
+                "file": "Dynamic Routing Protocol.md"
               }
             }
           },
@@ -200,8 +213,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
+    "dynamic routing.md",
+    "Dynamic Routing Protocol.md",
+    "Routing.md",
     "네트워크 관련 자격증.md",
     "Spaces/Desc/네트워크.md",
     "Switch Based.md",
@@ -222,7 +238,6 @@
     "Subnetting.md",
     "Subnet Mask.md",
     "Spaces/Desc/IP.md",
-    "Routing.md",
     "Spaces/Desc/Linux_Web_Server.md",
     "Mac_Address.md",
     "Spaces/Temp/Pasted image 20240819224450.png",
@@ -236,8 +251,6 @@
     "Spaces/Desc/Transport Layer.md",
     "네트워크 용어.md",
     "Spaces/Desc/Domain_name.md",
-    "BuildingNetwork.md",
-    "Spaces/Desc/DHCP.md",
     "etc",
     "Linux",
     "Spaces/Temp",
