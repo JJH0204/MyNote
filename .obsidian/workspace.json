@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EIGRP.md",
+                "file": "OSPF.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EIGRP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,10 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ee40b4da6bce90",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20240822000407.png",
+    "OSPF.md",
+    "Dynamic Routing Protocol.md",
     "EIGRP.md",
+    "Spaces/Temp/Pasted image 20240822000407.png",
     "Spaces/Temp/Pasted image 20240821233636.png",
     "Spaces/Temp/Pasted image 20240821233357.png",
     "Spaces/Temp/Pasted image 20240821233135.png",
@@ -226,11 +224,9 @@
     "Spaces/Temp/Pasted image 20240821231728.png",
     "Spaces/Temp/Pasted image 20240821231713.png",
     "Spaces/Temp/Pasted image 20240821231401.png",
-    "Dynamic Routing Protocol.md",
     "RIP.md",
     "Spaces/Temp/Pasted image 20240821221545.png",
     "Spaces/Temp/Pasted image 20240821221157.png",
-    "Spaces/Temp/Pasted image 20240821220406.png",
     "Loopback.md",
     "Topology.md",
     "네트워크 관련 자격증.md",
