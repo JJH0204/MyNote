@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Routing Protocol.md",
+                "file": "RIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Routing Protocol.md",
+                "file": "RIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Routing Protocol.md",
+                "file": "RIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Routing Protocol.md"
+                "file": "RIP.md"
               }
             }
           },
@@ -215,8 +215,11 @@
   },
   "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
-    "dynamic routing.md",
+    "라우팅 광고.md",
+    "RIP.md",
+    "Hop.md",
     "Dynamic Routing Protocol.md",
+    "dynamic routing.md",
     "Routing.md",
     "네트워크 관련 자격증.md",
     "Spaces/Desc/네트워크.md",
@@ -248,9 +251,6 @@
     "Spaces/Temp/Pasted image 20240819221623.png",
     "Spaces/Temp/Pasted image 20240819221447.png",
     "Spaces/Temp/Pasted image 20240819220251.png",
-    "Spaces/Desc/Transport Layer.md",
-    "네트워크 용어.md",
-    "Spaces/Desc/Domain_name.md",
     "etc",
     "Linux",
     "Spaces/Temp",
