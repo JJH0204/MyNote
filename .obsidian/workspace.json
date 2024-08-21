@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EIGRP.md"
+              }
             }
           },
           {
@@ -211,8 +215,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240822000407.png",
     "EIGRP.md",
     "Spaces/Temp/Pasted image 20240821233636.png",
     "Spaces/Temp/Pasted image 20240821233357.png",
