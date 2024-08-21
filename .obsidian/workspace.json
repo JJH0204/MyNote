@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EIGRP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,25 +211,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ee40b4da6bce90",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "EIGRP.md",
+    "Spaces/Temp/Pasted image 20240821233636.png",
+    "Spaces/Temp/Pasted image 20240821233357.png",
     "Spaces/Temp/Pasted image 20240821233135.png",
     "Spaces/Temp/Pasted image 20240821232313.png",
     "Spaces/Temp/Pasted image 20240821231728.png",
     "Spaces/Temp/Pasted image 20240821231713.png",
-    "EIGRP.md",
     "Spaces/Temp/Pasted image 20240821231401.png",
     "Dynamic Routing Protocol.md",
     "RIP.md",
     "Spaces/Temp/Pasted image 20240821221545.png",
     "Spaces/Temp/Pasted image 20240821221157.png",
     "Spaces/Temp/Pasted image 20240821220406.png",
-    "Spaces/Temp/Pasted image 20240821215840.png",
     "Loopback.md",
     "Topology.md",
     "네트워크 관련 자격증.md",
-    "Spaces/Temp/Pasted image 20240821215411.png",
-    "Spaces/Temp/Pasted image 20240821214418.png",
     "라우팅 광고.md",
     "Hop.md",
     "dynamic routing.md",
