@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EIGRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EIGRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EIGRP.md"
+              }
             }
           },
           {
@@ -211,9 +215,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240821231728.png",
+    "Spaces/Temp/Pasted image 20240821231713.png",
     "EIGRP.md",
+    "Spaces/Temp/Pasted image 20240821231401.png",
     "Dynamic Routing Protocol.md",
     "RIP.md",
     "Spaces/Temp/Pasted image 20240821221545.png",
@@ -238,7 +245,6 @@
     "Spaces/Desc/Network_Protocol.md",
     "Spaces/Temp/Pasted image 20240821004844.png",
     "Spaces/Temp/Pasted image 20240821004450.png",
-    "Spaces/Temp/Pasted image 20240821003413.png",
     "LAN 환경 구축.md",
     "VLAN.md",
     "VTP.md",
@@ -247,8 +253,6 @@
     "Subnetting.md",
     "Subnet Mask.md",
     "Spaces/Desc/IP.md",
-    "Spaces/Desc/Linux_Web_Server.md",
-    "Spaces/Temp/Pasted image 20240819224450.png",
     "etc",
     "Linux",
     "Spaces/Temp",
