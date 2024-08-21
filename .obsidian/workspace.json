@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RIP.md",
+                "file": "EIGRP.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RIP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,21 +211,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ee40b4da6bce90",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "EIGRP.md",
+    "Dynamic Routing Protocol.md",
+    "RIP.md",
     "Spaces/Temp/Pasted image 20240821221545.png",
     "Spaces/Temp/Pasted image 20240821221157.png",
     "Spaces/Temp/Pasted image 20240821220406.png",
     "Spaces/Temp/Pasted image 20240821215840.png",
     "Loopback.md",
     "Topology.md",
-    "RIP.md",
     "네트워크 관련 자격증.md",
     "Spaces/Temp/Pasted image 20240821215411.png",
     "Spaces/Temp/Pasted image 20240821214418.png",
     "라우팅 광고.md",
     "Hop.md",
-    "Dynamic Routing Protocol.md",
     "dynamic routing.md",
     "Routing.md",
     "Spaces/Desc/네트워크.md",
@@ -252,7 +249,6 @@
     "Spaces/Desc/IP.md",
     "Spaces/Desc/Linux_Web_Server.md",
     "Spaces/Temp/Pasted image 20240819224450.png",
-    "Spaces/Temp/Pasted image 20240819224402.png",
     "etc",
     "Linux",
     "Spaces/Temp",
