@@ -59,9 +59,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b0b9158dc1518311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,9 @@
   },
   "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
+    "Topology.md",
     "RIP.md",
+    "Spaces/Temp/Pasted image 20240821214418.png",
     "라우팅 광고.md",
     "Hop.md",
     "Dynamic Routing Protocol.md",
@@ -238,7 +252,6 @@
     "VLAN.md",
     "VTP.md",
     "VTP_Revision.md",
-    "Topology.md",
     "단말 원격 접속.md",
     "Subnetting.md",
     "Subnet Mask.md",
@@ -249,10 +262,8 @@
     "Spaces/Temp/Pasted image 20240819224402.png",
     "Spaces/Temp/Pasted image 20240819223347.png",
     "Spaces/Temp/Pasted image 20240819222707.png",
-    "Routing table.md",
     "Spaces/Temp/Pasted image 20240819221623.png",
     "Spaces/Temp/Pasted image 20240819221447.png",
-    "Spaces/Temp/Pasted image 20240819220251.png",
     "etc",
     "Linux",
     "Spaces/Temp",
