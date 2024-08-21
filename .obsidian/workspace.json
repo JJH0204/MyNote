@@ -59,21 +59,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b0b9158dc1518311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,15 +217,18 @@
   },
   "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240821215840.png",
+    "Loopback.md",
     "Topology.md",
     "RIP.md",
+    "네트워크 관련 자격증.md",
+    "Spaces/Temp/Pasted image 20240821215411.png",
     "Spaces/Temp/Pasted image 20240821214418.png",
     "라우팅 광고.md",
     "Hop.md",
     "Dynamic Routing Protocol.md",
     "dynamic routing.md",
     "Routing.md",
-    "네트워크 관련 자격증.md",
     "Spaces/Desc/네트워크.md",
     "Switch Based.md",
     "STP.md",
@@ -257,13 +248,11 @@
     "Subnet Mask.md",
     "Spaces/Desc/IP.md",
     "Spaces/Desc/Linux_Web_Server.md",
-    "Mac_Address.md",
     "Spaces/Temp/Pasted image 20240819224450.png",
     "Spaces/Temp/Pasted image 20240819224402.png",
     "Spaces/Temp/Pasted image 20240819223347.png",
     "Spaces/Temp/Pasted image 20240819222707.png",
     "Spaces/Temp/Pasted image 20240819221623.png",
-    "Spaces/Temp/Pasted image 20240819221447.png",
     "etc",
     "Linux",
     "Spaces/Temp",
