@@ -6,6 +6,7 @@
       {
         "id": "f81f787139b5b71b",
         "type": "tabs",
+        "dimension": 45.65491183879094,
         "children": [
           {
             "id": "52d9617e80627d35",
@@ -37,6 +38,7 @@
       {
         "id": "343f29970380142c",
         "type": "tabs",
+        "dimension": 54.34508816120906,
         "children": [
           {
             "id": "40181e9a9e549ff5",
@@ -215,8 +217,8 @@
   },
   "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
-    "라우팅 광고.md",
     "RIP.md",
+    "라우팅 광고.md",
     "Hop.md",
     "Dynamic Routing Protocol.md",
     "dynamic routing.md",
