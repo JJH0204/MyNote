@@ -56,12 +56,8 @@
             "id": "50c1c17ed9dbef47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redistribution.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -139,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redistribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redistribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Redistribution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,8 +213,8 @@
   },
   "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "OSPF.md",
     "Redistribution.md",
+    "OSPF.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
     "RIP.md",
     "EIGRP.md",

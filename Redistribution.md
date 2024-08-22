@@ -18,7 +18,7 @@ RIP 네트워크에 광고 설정을 할 예정으로 우선 EIGRP 라우터에 
 이후 설정이 추가되었는지 확인하고 RIP 라우터에 접속한다.
 
 RIP 라우터에서 아래 명령어를 입력한다.
-- `router rip 100` > `redistribute rip metric 1544 2000 255 1 1500` > 
+- `router rip` > `redistribute eigrp 100 metric 0` > 
 	  `net '연결할 네트워크' '와일드카드'` > `no auto-summary` > 
 
 라우팅 테이블을 확인해보면 광고가 정상적으로 이뤄진 것을 볼 수 있을 것이다.
