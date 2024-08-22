@@ -147,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RouterSetup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RouterSetup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RouterSetup.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8ee0d98312c7266",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Routing.md",
     "RouterSetup.md",
+    "Routing.md",
     "Redistribution.md",
     "OSPF.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
