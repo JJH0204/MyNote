@@ -17,3 +17,8 @@ RIP 네트워크에 광고 설정을 할 예정으로 우선 EIGRP 라우터에 
 - `router eigrp 100` > `net '추가된 네트워크' '와일드카드'`
 이후 설정이 추가되었는지 확인하고 RIP 라우터에 접속한다.
 
+RIP 라우터에서 아래 명령어를 입력한다.
+- `router eigrp 100` > `redistribute rip metric 1544 2000 255 1 1500` > 
+
+이후 네트워크를 연결한다.
+- net '네트워크ip'

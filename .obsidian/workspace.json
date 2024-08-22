@@ -147,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redistribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redistribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Redistribution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f5ee5a735383dc8",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20240822221103.png",
     "Redistribution.md",
+    "Spaces/Temp/Pasted image 20240822221103.png",
     "RIP.md",
     "EIGRP.md",
     "Dynamic Routing Protocol.md",
@@ -244,7 +240,6 @@
     "Spaces/Temp/Pasted image 20240821231713.png",
     "Spaces/Temp/Pasted image 20240821231401.png",
     "Spaces/Temp/Pasted image 20240821221545.png",
-    "Spaces/Temp/Pasted image 20240821221157.png",
     "Loopback.md",
     "Topology.md",
     "네트워크 관련 자격증.md",
