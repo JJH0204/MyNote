@@ -31,21 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f5ee5a735383dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redistribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "343f29970380142c",
@@ -147,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSPF.md"
+              }
             }
           },
           {
@@ -223,7 +215,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "76ee40b4da6bce90",
   "lastOpenFiles": [
     "Redistribution.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
