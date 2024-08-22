@@ -135,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "네트워크 관련 자격증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "네트워크 관련 자격증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "네트워크 관련 자격증.md"
+              }
             }
           },
           {
