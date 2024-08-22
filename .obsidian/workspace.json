@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8ee0d98312c7266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RouterSetup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "343f29970380142c",
@@ -135,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RouterSetup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RouterSetup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RouterSetup.md"
+              }
             }
           },
           {
@@ -211,8 +227,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "f8ee0d98312c7266",
   "lastOpenFiles": [
+    "Routing.md",
+    "RouterSetup.md",
     "Redistribution.md",
     "OSPF.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
@@ -234,7 +252,6 @@
     "라우팅 광고.md",
     "Hop.md",
     "dynamic routing.md",
-    "Routing.md",
     "Spaces/Desc/네트워크.md",
     "Switch Based.md",
     "STP.md",
