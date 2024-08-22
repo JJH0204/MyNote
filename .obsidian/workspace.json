@@ -56,8 +56,12 @@
             "id": "50c1c17ed9dbef47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Redistribution.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -135,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSPF.md",
+                "file": "Redistribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSPF.md",
+                "file": "Redistribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPF.md"
+                "file": "Redistribution.md"
               }
             }
           },
@@ -215,14 +219,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76ee40b4da6bce90",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
+    "OSPF.md",
     "Redistribution.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
     "RIP.md",
     "EIGRP.md",
     "Dynamic Routing Protocol.md",
-    "OSPF.md",
     "Spaces/Temp/Pasted image 20240822000407.png",
     "Spaces/Temp/Pasted image 20240821233636.png",
     "Spaces/Temp/Pasted image 20240821233357.png",
