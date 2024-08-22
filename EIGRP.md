@@ -85,3 +85,6 @@ Router(config-router)#no auto-summary
 
 라우팅 프로토콜이 같으면 네트워크를 중복으로 광고해도 문제가 없다.
 다르면 한쪽에서만 진행, 중복 광고 시 error
+
+# [[Redistribution]]
+---
