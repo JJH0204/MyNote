@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Archive.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2e69df50add19cd",
+  "active": "50c1c17ed9dbef47",
   "lastOpenFiles": [
     "Archive.md",
     "Spaces/Desc/리눅스 일반.md",
