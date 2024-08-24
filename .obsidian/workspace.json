@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 247.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive.md"
+              }
             }
           },
           {
@@ -198,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "a2e69df50add19cd",
   "lastOpenFiles": [
     "Archive.md",
     "Spaces/Desc/리눅스 일반.md",
