@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "506184335ec23fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "343f29970380142c",
@@ -147,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive.md"
+              }
             }
           },
           {
@@ -223,8 +239,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "506184335ec23fc4",
   "lastOpenFiles": [
+    "Spaces/Desc/리눅스 일반.md",
+    "Archive.md",
     "RouterSetup.md",
     "Routing.md",
     "Redistribution.md",
@@ -259,8 +277,6 @@
     "VLAN.md",
     "VTP.md",
     "VTP_Revision.md",
-    "단말 원격 접속.md",
-    "Subnetting.md",
     "etc",
     "Linux",
     "Spaces/Temp",
