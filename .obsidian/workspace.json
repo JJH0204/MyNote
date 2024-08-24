@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
+                "file": "Spaces/Desc/파일 관련 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/파일 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/파일 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/파일 관련 명령어.md"
+              }
             }
           },
           {
@@ -198,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57b17339177584f2",
+  "active": "8c2ce659b5bdaf15",
   "lastOpenFiles": [
     "Spaces/Desc/리눅스 일반.md",
     "파일.md",
