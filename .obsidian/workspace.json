@@ -9,12 +9,12 @@
         "dimension": 45.65491183879094,
         "children": [
           {
-            "id": "506184335ec23fc4",
+            "id": "8c2ce659b5bdaf15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive.md",
+                "file": "Spaces/Desc/리눅스 일반.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,12 +43,24 @@
             "id": "50c1c17ed9dbef47",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/파일 관련 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b17339177584f2",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(find)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,10 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c1c17ed9dbef47",
+  "active": "57b17339177584f2",
   "lastOpenFiles": [
-    "Archive.md",
+    "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
+    "Archive.md",
+    "Spaces/Desc/기타 명령어.md",
     "RouterSetup.md",
     "Routing.md",
     "Redistribution.md",
@@ -234,8 +249,6 @@
     "Spaces/Desc/Network_Protocol.md",
     "LAN 환경 구축.md",
     "VLAN.md",
-    "VTP.md",
-    "VTP_Revision.md",
     "etc",
     "Linux",
     "Spaces/Temp",
