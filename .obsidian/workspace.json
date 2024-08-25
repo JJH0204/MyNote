@@ -147,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cron.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,8 +223,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85993689e7a59186",
+  "active": "57b17339177584f2",
   "lastOpenFiles": [
+    "cron.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
     "Spaces/Temp/Pasted image 20240825143310.png",
     "Spaces/Temp/Pasted image 20240825142010.png",
@@ -236,7 +233,6 @@
     "Spaces/Temp/Pasted image 20240825141814.png",
     "Spaces/Temp/Pasted image 20240825141444.png",
     "Spaces/Desc/리눅스 일반.md",
-    "cron.md",
     "Archive.md",
     "Spaces/Desc/파일 관련 명령어.md",
     "파일.md",
@@ -252,7 +248,6 @@
     "Spaces/Temp/Pasted image 20240822000407.png",
     "Spaces/Temp/Pasted image 20240821233636.png",
     "Spaces/Temp/Pasted image 20240821233357.png",
-    "Spaces/Temp/Pasted image 20240821233135.png",
     "Loopback.md",
     "Topology.md",
     "네트워크 관련 자격증.md",
