@@ -4,4 +4,10 @@
 
 ![[Pasted image 20240825141444.png]]
 
-분 시 일 월 요일 순으로 \*를 표현 
+분 시 일 월 요일       계정              명령어
+\*    *    *    *    *     user-name    command to be executed
+
+ex)
+- 0 0 1 * * root /home/test.sh
+	: 모든 요일 1월 1일 3시 5분에 root 계정으로 /home/test.sh 실행
+- 5 3 1 1 * root /home/test.sh : 
