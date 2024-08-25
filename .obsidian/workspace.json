@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Domain_name.md",
+                "file": "IPv4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Domain_name.md",
+                "file": "IPv4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/Domain_name.md"
+                "file": "IPv4.md"
               }
             }
           },
@@ -251,8 +251,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "064ea5e6ccea179e",
+  "active": "73bf1820efad29b9",
   "lastOpenFiles": [
+    "Spaces/Desc/Domain_name.md",
     "IPv4.md",
     "Spaces/Desc/DHCP.md",
     "Spaces/Desc/IP.md",
@@ -288,7 +289,6 @@
     "dynamic routing.md",
     "Spaces/Desc/네트워크.md",
     "Switch Based.md",
-    "STP.md",
     "etc",
     "Linux",
     "Spaces/Temp",
