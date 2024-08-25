@@ -159,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPv4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPv4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IPv4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -239,10 +235,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73bf1820efad29b9",
+  "active": "57b17339177584f2",
   "lastOpenFiles": [
-    "Spaces/Desc/IP.md",
+    "Spaces/Desc/DHCP.md",
     "IPv4.md",
+    "Spaces/Desc/IP.md",
     "IP Class.md",
     "cron.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
@@ -276,7 +273,6 @@
     "Spaces/Desc/네트워크.md",
     "Switch Based.md",
     "STP.md",
-    "CIDR.md",
     "etc",
     "Linux",
     "Spaces/Temp",
