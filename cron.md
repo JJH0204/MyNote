@@ -13,5 +13,9 @@ ex)
 - 5 3 1 1 * root /home/test.sh 
 	: 모든 요일 매월 1일 0시 0분에 root 계정으로 /home/test.sh 실행
 
-![[Pasted image 20240825143310.png]]
+![[Pasted image 20240825143620.png]]
+cron으로 실행할 명령어가 저장될 디렉토리들
 
+run-parts : 뒤의 디렉토리에 있는 모든 명령어를 실행하는 명령어
+
+요일 : 0(일)~6(토)
