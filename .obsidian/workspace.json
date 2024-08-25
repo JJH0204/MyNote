@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9155667b68eba451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "343f29970380142c",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/파일 관련 명령어.md",
+                "file": "Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/파일 관련 명령어.md",
+                "file": "Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/파일 관련 명령어.md"
+                "file": "Archive.md"
               }
             }
           },
@@ -202,11 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c2ce659b5bdaf15",
+  "active": "9155667b68eba451",
   "lastOpenFiles": [
+    "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Desc/리눅스 일반.md",
     "파일.md",
-    "Spaces/Desc/파일 관련 명령어.md",
     "Archive.md",
     "Spaces/Desc/기타 명령어.md",
     "RouterSetup.md",
