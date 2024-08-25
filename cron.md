@@ -19,3 +19,7 @@ cron으로 실행할 명령어가 저장될 디렉토리들
 run-parts : 뒤의 디렉토리에 있는 모든 명령어를 실행하는 명령어
 
 요일 : 0(일)~6(토)
+
+`systemctl restart crond` : cron 설정 파일 설정 후 적용 명령어
+`systemctl status crond` : crond 실행 상태 확인 명령어
+
