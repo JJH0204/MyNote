@@ -10,4 +10,8 @@
 ex)
 - 0 0 1 * * root /home/test.sh
 	: 모든 요일 1월 1일 3시 5분에 root 계정으로 /home/test.sh 실행
-- 5 3 1 1 * root /home/test.sh : 
+- 5 3 1 1 * root /home/test.sh 
+	: 모든 요일 매월 1일 0시 0분에 root 계정으로 /home/test.sh 실행
+
+![[Pasted image 20240825143310.png]]
+
