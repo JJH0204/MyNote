@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/Linux_Web_Server.md",
+                "file": "Mariadb.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Linux_Web_Server.md",
+                "file": "Mariadb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Linux_Web_Server.md",
+                "file": "Mariadb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/Linux_Web_Server.md"
+                "file": "Mariadb.md"
               }
             }
           },
@@ -253,8 +253,11 @@
   },
   "active": "131c9e5e42263b22",
   "lastOpenFiles": [
-    "IPv4.md",
     "Spaces/Desc/Linux_Web_Server.md",
+    "Mariadb.md",
+    "HTML.md",
+    "php.md",
+    "IPv4.md",
     "Spaces/Desc/Domain_name.md",
     "Spaces/Desc/DHCP.md",
     "Spaces/Desc/IP.md",
@@ -286,9 +289,6 @@
     "Topology.md",
     "네트워크 관련 자격증.md",
     "라우팅 광고.md",
-    "Hop.md",
-    "dynamic routing.md",
-    "Spaces/Desc/네트워크.md",
     "etc",
     "Linux",
     "Spaces/Temp",
