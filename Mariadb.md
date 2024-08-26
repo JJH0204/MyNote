@@ -1,4 +1,5 @@
 mysql의 후속작으로 거의 모든 명령어가 mysql과 동일
+- [[RDBMS]]
 
 ## 보안 설정 (필수)
 ---
@@ -49,5 +50,13 @@ update [tableName] set 칼럼 = 값;
 // 해당 칼럼의 모든 행에 저장된 데이터를 '값'으로 변경
 
 update [tableName] set 칼럼 = 값 where [기준칼럼] = [키값];
-// 기준칼럼ㅇ
+// 기준칼럼의 행들 중 키값에 해당하는 행의 칼럼에 값 대입
+
+delete from [tableName] where 칼럼 = 값;
+// 칼럼에 값을 저장한 행을 삭제
+
+delete from [tableName];
+// 테이블 삭제
+
+drop [대상] [이름]; // 데이터 삭제 명령어
 ```
