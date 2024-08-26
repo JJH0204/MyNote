@@ -11,8 +11,12 @@
             "id": "9c06cb1d563cb530",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML.md"
+              }
             }
           },
           {
@@ -167,9 +175,11 @@
   },
   "active": "9c06cb1d563cb530",
   "lastOpenFiles": [
+    "Spaces/Desc/Linux_Web_Server.md",
+    "Spaces/Desc/WebServer.md",
+    "Spaces/Home/Server.md",
     "Mariadb.md",
     "HTML.md",
-    "Spaces/Desc/Linux_Web_Server.md",
     "php.md",
     "IPv4.md",
     "Spaces/Desc/Domain_name.md",
@@ -201,8 +211,6 @@
     "Spaces/Temp/Pasted image 20240821233357.png",
     "Loopback.md",
     "Topology.md",
-    "네트워크 관련 자격증.md",
-    "라우팅 광고.md",
     "etc",
     "Linux",
     "Spaces/Temp",
