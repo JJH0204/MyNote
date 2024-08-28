@@ -16,55 +16,18 @@
             }
           },
           {
-            "id": "e7678a322dbc13f4",
+            "id": "8b22d7b0e7fc9043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f49da6453208ba5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e039dbdd280a90c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "846fcdff88e89fa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/WebServer.md",
+                "file": "Spaces/Home/Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DNS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,17 +177,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7678a322dbc13f4",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "FTP.md",
-    "Spaces/Desc/리눅스 일반.md",
-    "Spaces/Desc/WebServer.md",
-    "LinuxServer.md",
     "Spaces/Home/Server.md",
+    "LinuxServer.md",
+    "WindowServer.md",
+    "Spaces/Desc/WebServer.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "FTP.md",
+    "DNS.md",
     "NFS.md",
     "Spaces/Desc/Linux_Web_Server.md",
-    "WindowServer.md",
-    "DNS.md",
     "DNS 구축.md",
     "Spaces/Home/TODO LIST.md",
     "HTML.md",

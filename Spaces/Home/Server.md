@@ -2,7 +2,6 @@
 ---
 - [[LinuxServer]]
 - [[WindowServer]]
-- [[DNS]]
 - mail
 - cloud
 - 등등
