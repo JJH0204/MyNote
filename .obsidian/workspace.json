@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "b550ba2fc5e0113a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WindowServer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8b22d7b0e7fc9043",
             "type": "leaf",
             "state": {
@@ -179,9 +191,9 @@
   },
   "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "WindowServer.md",
     "Spaces/Home/Server.md",
     "LinuxServer.md",
-    "WindowServer.md",
     "Spaces/Desc/WebServer.md",
     "Spaces/Desc/리눅스 일반.md",
     "FTP.md",
