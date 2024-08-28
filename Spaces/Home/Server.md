@@ -1,7 +1,9 @@
 # 서버의 종류
-- [[WebServer]]
+---
+- [[LinuxServer]]
+- [[WindowServer]]
+- [[DNS]]
 - mail
 - cloud
-- ftp
 - 등등
 
