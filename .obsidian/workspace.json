@@ -16,6 +16,30 @@
             }
           },
           {
+            "id": "c088149526f380d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1505da1472f627da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "beef9120de65f2a5",
             "type": "leaf",
             "state": {
@@ -29,18 +53,6 @@
           },
           {
             "id": "b550ba2fc5e0113a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WindowServer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b22d7b0e7fc9043",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,9 +215,11 @@
   },
   "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "Spaces/Desc/web.md",
+    "Spaces/Home/Server.md",
     "LinuxServer.md",
     "WindowServer.md",
-    "Spaces/Home/Server.md",
+    "Spaces/Home/Untitled.md",
     "Spaces/Desc/WebServer.md",
     "Spaces/Desc/리눅스 일반.md",
     "FTP.md",
@@ -233,8 +247,6 @@
     "Spaces/Desc/파일 관련 명령어.md",
     "파일.md",
     "Spaces/Desc/기타 명령어.md",
-    "RouterSetup.md",
-    "Routing.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
     "Spaces/Temp/Pasted image 20240822000407.png",
     "Spaces/Temp/Pasted image 20240821233636.png",
