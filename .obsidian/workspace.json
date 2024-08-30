@@ -14,57 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "c088149526f380d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1505da1472f627da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beef9120de65f2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinuxServer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b550ba2fc5e0113a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/Server.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,11 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b550ba2fc5e0113a",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "LinuxServer.md",
-    "Spaces/Home/Server.md",
     "Spaces/Desc/web.md",
+    "Spaces/Home/Server.md",
+    "LinuxServer.md",
     "WindowServer.md",
     "Spaces/Home/Untitled.md",
     "Spaces/Desc/WebServer.md",
