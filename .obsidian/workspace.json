@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd98ed6065506273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/네트워크 보안.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c1e5c33e914ad080",
@@ -40,18 +53,6 @@
               "type": "markdown",
               "state": {
                 "file": "LinuxServer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd98ed6065506273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/네트워크 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/네트워크 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/네트워크 보안.md"
+              }
             }
           },
           {
@@ -207,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "cd98ed6065506273",
   "lastOpenFiles": [
     "Spaces/Home/Server.md",
     "LinuxServer.md",
