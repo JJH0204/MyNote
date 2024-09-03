@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
+                "file": "ZFW.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c1e5c33e914ad080",
@@ -144,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ZFW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ZFW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ZFW.md"
+              }
             }
           },
           {
@@ -220,11 +224,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "cd98ed6065506273",
   "lastOpenFiles": [
+    "Spaces/Desc/네트워크 보안.md",
+    "ZFW.md",
     "IPv6.md",
     "Spaces/Desc/IP.md",
-    "Spaces/Desc/네트워크 보안.md",
     "DACL.md",
     "RACL.md",
     "Spaces/Home/Server.md",
@@ -247,7 +252,6 @@
     "Spaces/Desc/Domain_name.md",
     "Spaces/Desc/DHCP.md",
     "IP Class.md",
-    "cron.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
     "Spaces/Temp/Pasted image 20240825143310.png",
     "Spaces/Temp/Pasted image 20240825142010.png",
