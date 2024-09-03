@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b3b75b5676ec488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPv6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c1e5c33e914ad080",
@@ -132,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Desc/네트워크 보안.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,11 +220,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd98ed6065506273",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "IPv6.md",
+    "Spaces/Desc/IP.md",
+    "Spaces/Desc/네트워크 보안.md",
+    "DACL.md",
+    "RACL.md",
     "Spaces/Home/Server.md",
     "LinuxServer.md",
-    "Spaces/Desc/네트워크 보안.md",
     "Spaces/Desc/web.md",
     "WindowServer.md",
     "Spaces/Home/Untitled.md",
@@ -234,7 +246,6 @@
     "IPv4.md",
     "Spaces/Desc/Domain_name.md",
     "Spaces/Desc/DHCP.md",
-    "Spaces/Desc/IP.md",
     "IP Class.md",
     "cron.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
@@ -243,9 +254,6 @@
     "Spaces/Temp/Pasted image 20240825141825.png",
     "Spaces/Temp/Pasted image 20240825141814.png",
     "Spaces/Temp/Pasted image 20240825141444.png",
-    "Archive.md",
-    "Spaces/Desc/파일 관련 명령어.md",
-    "파일.md",
     "Spaces/Temp/Pasted image 20240822221103.png",
     "Spaces/Temp/Pasted image 20240822000407.png",
     "Spaces/Temp/Pasted image 20240821233636.png",
