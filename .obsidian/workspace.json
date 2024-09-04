@@ -82,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "VPN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,10 +232,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfa0f147f3f45564",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "Spaces/Desc/네트워크 보안.md",
+    "방화벽.md",
+    "pfsense.md",
     "VPN.md",
+    "Spaces/Desc/네트워크 보안.md",
     "ZFW.md",
     "IPv6.md",
     "Spaces/Desc/IP.md",
@@ -263,8 +260,6 @@
     "Mariadb.md",
     "php.md",
     "IPv4.md",
-    "Spaces/Desc/Domain_name.md",
-    "Spaces/Desc/DHCP.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
     "Spaces/Temp/Pasted image 20240825143310.png",
     "Spaces/Temp/Pasted image 20240825142010.png",
