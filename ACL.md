@@ -16,6 +16,26 @@
 
 ## ACL Standard Set
 ---
-###
+### 방법
 `access-list <name or num> <option> <network> <wildcard>`
 
+## ACL Extended Set (추천)
+---
+### 방법
+`ip access-list <standard-extended> <1-99, name>`
+`<option_1> <protocol> <source ip> <destination ip> <option_2> <service>`
+	예시) permit tcp host 10.10.10.0 host 192.168.10.1 eq www
+	해석) 10.10.10.0에서 출발해 192.168.10.1로 향하는 http 트래픽을 허용
+
+## ACL 적용
+---
+- access-list 설정 후 적용할 인터페이스에 접속
+- `ip access-group <1-99, name> <in, out>` 설정
+	- in: 인터페이스를 통해 라우터로 들어오는 패킷에 대해 적용
+	- out: 인터페이스를 통해 라우터 밖으로 나가는 패킷에 대해 적용
+
+## ACL 정책 적용 기준
+---
+- Access-list 기준 위에서 아래로 순서대로 적용된다.
+- ACL 적용 시 Access-list에 작성되지 않는 트래픽은 Deny 된다.
+	- 그 외 패킷을 허용하기 위해 `permit ip any any`
