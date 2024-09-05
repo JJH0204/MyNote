@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "2b8a725bc2bdee50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "abcdb71486f48edb",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSPF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,14 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b8a725bc2bdee50",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "OSPF.md",
     "ASAv.md",
     "Spaces/Temp/Pasted image 20240905112729.png",
     "Spaces/Temp/Pasted image 20240905112514.png",
     "Spaces/Temp/Pasted image 20240905112501.png",
     "Spaces/Temp/Pasted image 20240905111308.png",
-    "OSPF.md",
     "Spaces/Temp/Pasted image 20240905111215.png",
     "방화벽.md",
     "EIGRP.md",
