@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c65ed21b2abbedb5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b8a725bc2bdee50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "c1e5c33e914ad080",
         "type": "tabs",
         "children": [
@@ -34,18 +16,31 @@
             }
           },
           {
-            "id": "2fcccf631048e9c9",
+            "id": "2b8a725bc2bdee50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EIGRP.md",
+                "file": "OSPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abcdb71486f48edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASAv.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ASAv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ASAv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ASAv.md"
+              }
             }
           },
           {
@@ -196,15 +195,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "abcdb71486f48edb",
   "lastOpenFiles": [
-    "EIGRP.md",
     "OSPF.md",
+    "ASAv.md",
+    "Spaces/Temp/Pasted image 20240905111215.png",
+    "방화벽.md",
+    "EIGRP.md",
     "IPv6.md",
     "ZFW.md",
     "Spaces/Home/Server.md",
     "LinuxServer.md",
-    "방화벽.md",
     "pfsense.md",
     "VPN.md",
     "Spaces/Desc/네트워크 보안.md",
@@ -222,8 +223,6 @@
     "Spaces/Desc/Linux_Web_Server.md",
     "DNS 구축.md",
     "Spaces/Home/TODO LIST.md",
-    "HTML.md",
-    "Mariadb.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
     "Spaces/Temp/Pasted image 20240825143310.png",
     "Spaces/Temp/Pasted image 20240825142010.png",
@@ -233,7 +232,6 @@
     "Spaces/Temp/Pasted image 20240822221103.png",
     "Spaces/Temp/Pasted image 20240822000407.png",
     "Spaces/Temp/Pasted image 20240821233636.png",
-    "Spaces/Temp/Pasted image 20240821233357.png",
     "etc",
     "Linux",
     "Spaces/Temp",
