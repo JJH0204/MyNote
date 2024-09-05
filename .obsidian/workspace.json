@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASAv.md",
+                "file": "OSPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASAv.md",
+                "file": "OSPF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASAv.md"
+                "file": "OSPF.md"
               }
             }
           },
@@ -195,14 +195,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abcdb71486f48edb",
+  "active": "2b8a725bc2bdee50",
   "lastOpenFiles": [
+    "ASAv.md",
     "Spaces/Temp/Pasted image 20240905112729.png",
     "Spaces/Temp/Pasted image 20240905112514.png",
     "Spaces/Temp/Pasted image 20240905112501.png",
     "Spaces/Temp/Pasted image 20240905111308.png",
     "OSPF.md",
-    "ASAv.md",
     "Spaces/Temp/Pasted image 20240905111215.png",
     "방화벽.md",
     "EIGRP.md",
@@ -232,7 +232,6 @@
     "Spaces/Temp/Pasted image 20240825142010.png",
     "Spaces/Temp/Pasted image 20240825141825.png",
     "Spaces/Temp/Pasted image 20240825141814.png",
-    "Spaces/Temp/Pasted image 20240825141444.png",
     "etc",
     "Linux",
     "Spaces/Temp",
