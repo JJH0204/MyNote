@@ -26,6 +26,7 @@
 `<option_1> <protocol> <source ip> <destination ip> <option_2> <service>`
 	예시) permit tcp host 10.10.10.0 host 192.168.10.1 eq www
 	해석) 10.10.10.0에서 출발해 192.168.10.1로 향하는 http 트래픽을 허용
+※ 서브넷 설정은 와일드카드로 적용 됨(단일 네트워크의 경우 0.0.0.0)
 
 ## ACL 적용
 ---
@@ -38,4 +39,10 @@
 ---
 - Access-list 기준 위에서 아래로 순서대로 적용된다.
 - ACL 적용 시 Access-list에 작성되지 않는 트래픽은 Deny 된다.
-	- 그 외 패킷을 허용하기 위해 `permit ip any any`
+	- 그 외 패킷을 허용하기 위해 `permit ip any any` 설정을 추가해야 한다.
+
+## 그 외 정보
+---
+- tcp 기반 서비스: http, https, ftp
+- icmp 기반 서비스: ping
+	- ping의 경우 차단 또는 허용이 필요할 때 `echo`/`echo-reply` 모두 허용

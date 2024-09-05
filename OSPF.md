@@ -37,3 +37,5 @@
 	: net type과 protocol에 의해 장치에 설정된 정보 출력
 그 외에도 많음
 
+## [[Redistribution]]
+---
