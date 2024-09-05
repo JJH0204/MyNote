@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAT.md",
+                "file": "Spaces/Desc/DHCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NAT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,9 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcfa8981af495a2c",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "Spaces/Desc/DHCP.md",
     "RouterSetup.md",
+    "FHRP.md",
+    "HSRP.md",
     "NAT.md",
     "Redistribution.md",
     "OSPF.md",
@@ -213,9 +211,6 @@
     "Spaces/Home/Untitled.md",
     "Spaces/Desc/WebServer.md",
     "Spaces/Desc/리눅스 일반.md",
-    "FTP.md",
-    "DNS.md",
-    "NFS.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
     "Spaces/Temp/Pasted image 20240825143310.png",
     "Spaces/Temp/Pasted image 20240825142010.png",
