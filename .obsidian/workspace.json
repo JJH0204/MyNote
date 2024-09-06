@@ -180,6 +180,7 @@
   },
   "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "Spaces/Desc/네트워크 보안.md",
     "Spaces/Desc/DHCP.md",
     "RouterSetup.md",
     "FHRP.md",
@@ -202,7 +203,6 @@
     "LinuxServer.md",
     "pfsense.md",
     "VPN.md",
-    "Spaces/Desc/네트워크 보안.md",
     "Spaces/Desc/IP.md",
     "DACL.md",
     "RACL.md",
