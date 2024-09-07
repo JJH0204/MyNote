@@ -59,3 +59,23 @@ zone "도메인" IN {
 	allow-update { none; };
 };
 ```
+
+### selinux 끄기
+selinux 가 실행중인 상태에서는 name 서버 기능을 동작 시킬 수 없다.
+
+```
+vi /etc/sysconfig/selinux
+
+~=disabled
+```
+
+후 재부팅
+
+### 도메인 등록 파일
+```
+cp /var/named/named.localhost /var/named/"도메인".zone
+chown root.named /var/named/"도메인".zone
+vi /var/named/"도메인".zone
+...
+
+```
