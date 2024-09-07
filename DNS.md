@@ -13,13 +13,23 @@ vi /etc/named.conf // name server 설정 파일 열기
 ```
 
 ### named.conf 수정
-```
+```sh
 11: listen-on port 53 { any; };
-12: listen-on-v6 port 53 {none; };
+12: listen-on-v6 port 53 {none; }; 
 19: allow-query { any; };
 33: dnssec-validation no;
+:wq 
 ```
 
 127.0.0.1 : localhost (자신)
 \* : any (모든 네트워크)
 
+### 시스템 상태 활성화
+---
+``
+### 방화벽 허용
+----
+```
+firewall-cmd --permanent --add-port=53/tcp
+firewall-cmd --reload
+```
