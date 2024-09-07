@@ -47,3 +47,15 @@ nslookup
 > www.kobus.co.kr
 ```
 ![[Pasted image 20240907145727.png]]
+
+### DNS 설정 추가
+```
+vi /etc/named.conf
+
+// 설정 추가
+zone "도메인" IN {
+	type master;
+	tile "도메인.zone";
+	allow-update { none; };
+};
+```
