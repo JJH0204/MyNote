@@ -46,3 +46,4 @@ nslookup
 > www.letskorail.com
 > www.kobus.co.kr
 ```
+![[Pasted image 20240907145727.png]]
