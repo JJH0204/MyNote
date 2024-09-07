@@ -85,4 +85,10 @@ $TTL 1D
 
 www        IN     A    "IP"
 ftp        IN     A    "IP"
+:wq 
+
+...
+
+naemd-checkzone wolf.com wolf.com.zone
 ```
+
