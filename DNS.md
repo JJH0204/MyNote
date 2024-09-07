@@ -98,5 +98,4 @@ naemd-checkzone wolf.com wolf.com.zone
 `/etc/NetworkManager/system-connections/`
 
 ### DNS 설정 파일
-`/etc/resolv.conf`
-
+`/etc/resolv.conf` (수정 후 재부팅)
