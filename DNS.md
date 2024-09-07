@@ -26,10 +26,16 @@ vi /etc/named.conf // name server 설정 파일 열기
 
 ### 시스템 상태 활성화
 ---
-``
+```
+systemctl restart named (시스템 재시작)
+systemctl enable named (시스템 활성화)
+systemctl enable named or netstat -nlp (시스템 상태확인)
+```
 ### 방화벽 허용
 ----
 ```
 firewall-cmd --permanent --add-port=53/tcp
+firewall-cmd --permanent --add-port=53/udp
 firewall-cmd --reload
+firewall-cmd --list-all
 ```
