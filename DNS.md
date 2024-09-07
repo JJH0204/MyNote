@@ -78,4 +78,11 @@ chown root.named /var/named/"도메인".zone
 vi /var/named/"도메인".zone
 ...
 
+$TTL 1D
+@    IN    SOA    @    rname.invalid.    ( 2    1D    1H    1W    1H )
+           IN     NS   @
+           IN     A    "IP"
+
+www        IN     A    "IP"
+ftp        IN     A    "IP"
 ```
