@@ -92,3 +92,4 @@ ftp        IN     A    "IP"
 naemd-checkzone wolf.com wolf.com.zone
 ```
 
+이후 시스템 활성화 
