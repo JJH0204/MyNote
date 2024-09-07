@@ -93,3 +93,10 @@ naemd-checkzone wolf.com wolf.com.zone
 ```
 
 이후 시스템 활성화 
+
+### 랜카드 설정 파일 위치
+`/etc/NetworkManager/system-connections/`
+
+### DNS 설정 파일
+`/etc/resolv.conf`
+
