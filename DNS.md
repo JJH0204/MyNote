@@ -56,7 +56,7 @@ named-checkconf named.conf
 
 ### 도메인 등록 파일
 ```
-(큰 따옴표는 생략)
+# (큰 따옴표는 생략)
 cp /var/named/named.localhost /var/named/"도메인".zone
 chown root.named /var/named/"도메인".zone
 vi /var/named/"도메인".zone
@@ -93,3 +93,14 @@ nslookup
 
 ### DNS 설정 파일
 `/etc/resolv.conf` (수정 후 재부팅)
+
+## Master & Slave
+---
+- 주, 보조 관계로서 서로 동기화를 통해 DNS 서버를 이중화 하는 기능
+- 데이터가 동기화되는 것은 Master 서버에서 관리하는 zone database에서만 가능
+- Master에 생성되어 있는 zone 파일이 업로드 되는대로 Slave에 전송됨
+![[Pasted image 20240908173228.png]]
+- Master: DNS 서버 변경의 주체로, 도메인 관련 정보에 대한 zone 파일을 관리
+- Slave: Master 서버로부터 생성된 DNS 설정을 미러링하는 백업 서버 역할 수행
+	  Master로부터 Zone 파일을 복제
+
