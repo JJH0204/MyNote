@@ -39,7 +39,6 @@ firewall-cmd --reload
 firewall-cmd --list-all
 ```
 
-
 ### DNS 설정 추가
 ```
 vi /etc/named.conf
@@ -51,17 +50,6 @@ zone "도메인" IN {
 	allow-update { none; };
 };
 ```
-
-### selinux 끄기
-selinux 가 실행중인 상태에서는 name 서버 기능을 동작 시킬 수 없다.
-
-```
-vi /etc/sysconfig/selinux
-
-~=disabled
-```
-
-후 재부팅
 
 ### 도메인 등록 파일
 ```
@@ -86,15 +74,15 @@ named-checkzone wolf.com wolf.com.zone
 ```
 
 이후 시스템 활성화 
+(도메인 이름에 "_" 같은 특문 넣지 마라 에러 난다)
 
 ### DNS 작동확인
 ```
 nslookup 
-> server "장치IP"
-> www.letskorail.com
-> www.kobus.co.kr
+> server "DNS IP"
+> www."찾을 도메인"
 ```
-![[Pasted image 20240907145727.png]]
+![[Pasted image 20240908154221.png]]
 
 ### 랜카드 설정 파일 위치
 `/etc/NetworkManager/system-connections/`
