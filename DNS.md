@@ -28,7 +28,7 @@ vi /etc/named.conf // name server 설정 파일 열기
 ```
 systemctl restart named (시스템 재시작)
 systemctl enable named (시스템 활성화)
-systemctl enable named or netstat -nlp (시스템 상태확인)
+systemctl status named or netstat -nlp (시스템 상태확인)
 ```
 
 ### 방화벽 허용
@@ -52,8 +52,8 @@ nslookup
 ```
 vi /etc/named.conf
 
-// 설정 추가
-zone "도메인" IN {
+// 설정 추가 (이때 큰 따옴표는 필수)
+zone "도메인" IN { 
 	type master;
 	tile "도메인.zone";
 	allow-update { none; };
@@ -73,6 +73,7 @@ vi /etc/sysconfig/selinux
 
 ### 도메인 등록 파일
 ```
+(큰 따옴표는 생략)
 cp /var/named/named.localhost /var/named/"도메인".zone
 chown root.named /var/named/"도메인".zone
 vi /var/named/"도메인".zone
