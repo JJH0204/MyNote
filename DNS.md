@@ -49,6 +49,9 @@ zone "도메인" IN {
 	tile "도메인.zone";
 	allow-update { none; };
 };
+:wq
+
+named-checkconf named.conf
 ```
 
 ### 도메인 등록 파일
@@ -70,6 +73,7 @@ ftp        IN     A    "IP"
 
 ...
 
+cd /var/named/
 named-checkzone wolf.com wolf.com.zone
 ```
 
