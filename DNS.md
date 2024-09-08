@@ -6,10 +6,10 @@
 
 # Linux DNS
 ---
-```
-dnf install bind bind-* -y // bind tool 설치
+```sh
+dnf install bind bind-* -y # bind tool 설치
 
-vi /etc/named.conf // name server 설정 파일 열기
+vi /etc/named.conf # name server 설정 파일 열기
 ```
 
 ### named.conf 수정
@@ -25,14 +25,14 @@ vi /etc/named.conf // name server 설정 파일 열기
 \* : any (모든 네트워크)
 
 ### 시스템 상태 활성화
-```
-systemctl restart named (시스템 재시작)
-systemctl enable named (시스템 활성화)
-systemctl status named or netstat -nlp (시스템 상태확인)
+``` sh
+systemctl restart named # (시스템 재시작)
+systemctl enable named # (시스템 활성화)
+systemctl status named # or netstat -nlp (시스템 상태확인)
 ```
 
 ### 방화벽 허용
-```
+```sh
 firewall-cmd --permanent --add-port=53/tcp
 firewall-cmd --permanent --add-port=53/udp
 firewall-cmd --reload
@@ -40,22 +40,22 @@ firewall-cmd --list-all
 ```
 
 ### DNS 설정 추가
-```
+```sh
 vi /etc/named.conf
-
-// 설정 추가 (이때 큰 따옴표는 필수)
+...
+# 설정 추가 (이때 큰 따옴표는 필수)
 zone "도메인" IN { 
 	type master;
 	tile "도메인.zone";
 	allow-update { none; };
 };
 :wq
-
+...
 named-checkconf named.conf
 ```
 
 ### 도메인 등록 파일
-```
+```sh
 # (큰 따옴표는 생략)
 cp /var/named/named.localhost /var/named/"도메인".zone
 chown root.named /var/named/"도메인".zone
@@ -81,7 +81,7 @@ named-checkzone wolf.com wolf.com.zone
 (도메인 이름에 "_" 같은 특문 넣지 마라 에러 난다)
 
 ### DNS 작동확인
-```
+```sh
 nslookup 
 > server "DNS IP"
 > www."찾을 도메인"
@@ -104,3 +104,8 @@ nslookup
 - Slave: Master 서버로부터 생성된 DNS 설정을 미러링하는 백업 서버 역할 수행
 	  Master로부터 Zone 파일을 복제
 
+### 1) Master 구축
+- 초기에는 기본 구축과 같음
+
+
+### 2) Slave 구축
