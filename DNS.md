@@ -39,14 +39,6 @@ firewall-cmd --reload
 firewall-cmd --list-all
 ```
 
-### DNS 작동확인
-```
-nslookup 
-> server "장치IP"
-> www.letskorail.com
-> www.kobus.co.kr
-```
-![[Pasted image 20240907145727.png]]
 
 ### DNS 설정 추가
 ```
@@ -94,6 +86,15 @@ named-checkzone wolf.com wolf.com.zone
 ```
 
 이후 시스템 활성화 
+
+### DNS 작동확인
+```
+nslookup 
+> server "장치IP"
+> www.letskorail.com
+> www.kobus.co.kr
+```
+![[Pasted image 20240907145727.png]]
 
 ### 랜카드 설정 파일 위치
 `/etc/NetworkManager/system-connections/`
