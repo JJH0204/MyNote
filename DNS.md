@@ -104,6 +104,7 @@ nslookup
 - Slave: Master 서버로부터 생성된 DNS 설정을 미러링하는 백업 서버 역할 수행
 	  Master로부터 Zone 파일을 복제
 
+- [관련자료](https://rlahjxx.tistory.com/15)
 ### 1) Master 구축
 - 초기에는 기본 구축과 같음
 
