@@ -27,3 +27,8 @@ hping3 [Victim_IP] -S [추가 옵션]
 
 ### 공격 방어
 - IDS / IPS / UTM(IDS, IPS 통합) 시스템 활용
+
+## DDoS 공격 현황
+---
+- [https://horizon.netscout.com/](https://horizon.netscout.com/)
+![[Pasted image 20240909121834.png]]
