@@ -76,10 +76,29 @@ wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.g
 ```
 
 ```
+vi /usr/local/etc/snort/snort.lua
+
+24:
+
     ~~~~~~,
     rules = \[[
       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
     ]]
+```
+
+```
+cd /usr/local/etc/snort/rules/snort3-community-rules/
+more snort3-community.rules #  커뮤니티 룰 확인 가능
+
+cd ..
+vi local.rules
+```
+
+```
+alert icmp any any -> $HOME_NET any (msg:"icmp msg";sid:1000001;rev:1;)
+:wq
+# sid = 정책 식별 번호 (고유)
+# rev = 정책 번호
 ```
 
 ```
@@ -123,3 +142,5 @@ snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rule
 ```
 snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rules -i enp0s3 -A alert_fast -s 65535 -k none
 ```
+
+![[Pasted image 20240909174043.png]]
