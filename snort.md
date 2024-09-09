@@ -74,3 +74,10 @@ WantedBy=default.target
 ```
 wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.gz | tar xz -C /usr/local/etc/snort/rules/
 ```
+
+```
+    ~~~~~~,
+    rules = \[[
+      include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
+    ]]
+```
