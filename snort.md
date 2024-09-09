@@ -93,7 +93,7 @@ ethtool -k enp0s3 | grep receive -offload   # 외부 패킷 수신 정보 확인
 ethtool -K enp0s3 gro off lro off           # 외부 패킷 수신 x
 ```
 
-### snort rules install
+### snort community rules install
 ---
 ```
 mkdir /usr/local/etc/snort/rules    # 룰 설치 경로 생성
@@ -108,23 +108,26 @@ vi /usr/local/etc/snort/snort.lua
 ...
 28 EXTERNAL_NET = '!$HOME_NET'
 
-207     variables = default_variables,
-208     rules = [[
-209       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
-210     ]]
-```
+192     variables = default_variables,
+193     rules = [[
+194       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
+195     ]]
 
-```
+:wq 
+
 cd /usr/local/etc/snort/rules/snort3-community-rules/
 more snort3-community.rules #  커뮤니티 룰 확인 가능
+```
 
+### snort custom rules make
+---
+```
 cd ..
 vi local.rules
-```
 
-```
 alert icmp any any -> $HOME_NET any (msg:"icmp msg";sid:1000001;rev:1;)
 :wq
+
 # sid = 정책 식별 번호 (고유)
 # rev = 정책 번호
 ```
