@@ -3,6 +3,8 @@
 ## **Ubuntu snort install**
 - Ubuntu 가 설치되어 있어야 함
 - 원활한 작업을 위해 (`iputils-ping`, `vim`, `wget`, `unzip` 미리 설치)
+  `apt-get install -y iputils-ping vim wget unzip`
+
 ### 의존성 파일 설치
 ---
 ```
