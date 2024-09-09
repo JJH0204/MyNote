@@ -26,28 +26,26 @@ make install                                   # 컴파일 된 소스 실행
 ### gperftools install
 ---
 ```
+# gperftools 소스 설치
 wget https://github.com/gperftools/gperftools/releases/download/gperftools-2.13/gperftools-2.13.tar.gz
 ```
 ![[Pasted image 20240909143905.png]]
 ```
-tar zxf ./gperftools-2.13.tar.gz
+tar zxf ./gperftools-2.13.tar.gz # gperftools 소스 압축 해제
 cd ./gperftools-2.13
-./configure      # 환경 구성 명령어
-~~~
-make
-make install
+./configure                      # 환경 구성 스크립트 실행
+make                             # 소스 컴파일
+make install                     # 컴파일된 프로그램 실행
 ```
 
 ### snort install
 ---
 ```
-cd
-wget https://github.com/snort3/snort3/archive/refs/heads/master.zip
-~~~
-unzip master.zip
+cd                                # root의 home 디렉토리로 이동
+wget https://github.com/snort3/snort3/archive/refs/heads/master.zip # snort 소스 다운
+unzip master.zip                  # 소스 압축 해제
 cd snort3-master/
 ./configure_cmake.sh --prefix=/usr/local --enable-tcmalloc
-~~~
 cd ./build
 make # 컴파일 명령어
 make install # 설치
