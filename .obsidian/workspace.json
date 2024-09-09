@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "snort.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,12 +214,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a98a1ccc5852daa",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "snort.md",
     "Spaces/Temp/Pasted image 20240909143905.png",
     "Spaces/Temp/Pasted image 20240909142850.png",
     "IDS.md",
-    "snort.md",
     "DDoS.md",
     "Spaces/Temp/Pasted image 20240909121834.png",
     "Spaces/Temp/Pasted image 20240909115159.png",
@@ -251,7 +246,6 @@
     "ACL.md",
     "ASAv.md",
     "Spaces/Temp/Pasted image 20240905112729.png",
-    "Spaces/Temp/Pasted image 20240905112514.png",
     "방화벽.md",
     "EIGRP.md",
     "IPv6.md",
