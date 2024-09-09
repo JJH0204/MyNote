@@ -88,3 +88,27 @@ wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.g
       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
     ]]
 ```
+
+```
+wget https://www.snort.org/downloads/openappid/33380 -O OpenAppId-33380.tgz
+tar -xzvf OpenAppId-33380.tgz
+cp -R odp /usr/local/lib/
+vi /usr/local/etc/snort/snort.lua
+```
+
+```
+# 114 줄 아래
+appid =
+{
+    -- appid requires this to use appids in rules
+    app_detector_dir = '/usr/local/lib',
+    log_stats = true,
+ 
+}
+ 
+appid_listener =
+{
+    json_logging = true,
+    file = "/var/log/snort/appid-output.log",
+}
+```
