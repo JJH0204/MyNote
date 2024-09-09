@@ -16,11 +16,11 @@ apt install build-essential libpcap-dev libpcre3-dev libnet1-dev zlib1g-dev luaj
 - 깃(git)을 활용해 프로그램 설치
 ![[Pasted image 20240909142850.png]]
 ```
-git clone https://github.com/snort3/libdaq.git
-./libdaq/bootstrap
+git clone https://github.com/snort3/libdaq.git # git에서 소스 파일 다운로드
+./libdaq/bootstrap                             # 초기 설정 스크립트 실행
 ./libdaq/configure
-make
-make install
+make                                           # 소스 컴파일
+make install                                   # 컴파일 된 소스 실행
 ```
 
 ### gperftools install
