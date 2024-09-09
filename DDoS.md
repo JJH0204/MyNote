@@ -3,7 +3,13 @@
 - hping3 / SlowHTTPTest / GoldenEye / LOIC 등 다양한 Attack Tool이 있다.
 - 대다수 공격자는 대량의 zombi pc를 만들어 공격에 활용
 - 이때 공격자 PC를 C&C라고 하고 공격에 사용되는 zombi pc 를 zombi system, zombi pc 들을 zombi net이라고 한다.
-- 
+
+## Basics DoS Attack
+---
+```
+hping3 --icmp [IP] [추가 옵션]
+```
+- --icmp: 공격 패킷 형태(ping 패킷 외 다른 패킷 설정 가능)
 ## SYN Flooding Attack
 ---
 ![[Pasted image 20240909115159.png]]
