@@ -135,10 +135,10 @@ alert icmp any any -> $HOME_NET any (msg:"icmp msg";sid:1000001;rev:1;)
 ```
 vi /usr/local/etc/snort/snort.lua
 
-208     rules = [[
-209       include /usr/local/etc/snort/rules/local.rules
-210       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
-211     ]]
+192     rules = [[
+193       include /usr/local/etc/snort/rules/local.rules
+194       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
+195     ]]
 ```
 
 ```
