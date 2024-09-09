@@ -29,3 +29,10 @@ cd ./gperftools-2.13
 make
 make install
 ```
+
+### snort 설치
+---
+```
+cd
+wget https://github.com/snort3/snort3/archive/refs/heads/master.zip
+```
