@@ -81,3 +81,10 @@ wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.g
       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
     ]]
 ```
+
+```
+ rules = [[
+      include /usr/local/etc/snort/rules/local.rules
+      include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
+    ]]
+```
