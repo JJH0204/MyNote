@@ -1,4 +1,5 @@
 ## Ubuntu snort install
+- Ubuntu 가 설치되어 있어야 함
 
 ### 의존성 파일 설치
 ---
@@ -12,4 +13,19 @@ apt install build-essential libpcap-dev libpcre3-dev libnet1-dev zlib1g-dev luaj
 ![[Pasted image 20240909142850.png]]
 ```
 git clone https://github.com/snort3/
+```
+
+### gperftools install
+---
+```
+wget https://github.com/gperftools/gperftools/releases/download/gperftools-2.13/gperftools-2.13.tar.gz
+```
+![[Pasted image 20240909143905.png]]
+```
+tar zxf ./gperftools-2.13.tar.gz
+cd ./gperftools-2.13
+./configure
+~~~
+make
+make install
 ```
