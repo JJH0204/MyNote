@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDS.md",
+                "file": "snort.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDS.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDS.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDS.md"
+                "file": "snort.md"
               }
             }
           },
@@ -221,8 +221,9 @@
   },
   "active": "3a98a1ccc5852daa",
   "lastOpenFiles": [
-    "DDoS.md",
     "IDS.md",
+    "snort.md",
+    "DDoS.md",
     "Spaces/Temp/Pasted image 20240909121834.png",
     "Spaces/Temp/Pasted image 20240909115159.png",
     "Spaces/Desc/네트워크 보안.md",
@@ -256,7 +257,6 @@
     "ZFW.md",
     "LinuxServer.md",
     "pfsense.md",
-    "Spaces/Desc/IP.md",
     "etc",
     "Linux",
     "Spaces/Temp",
