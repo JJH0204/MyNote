@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDoS.md",
+                "file": "IDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDoS.md",
+                "file": "IDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDoS.md",
+                "file": "IDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDoS.md"
+                "file": "IDS.md"
               }
             }
           },
@@ -221,9 +221,10 @@
   },
   "active": "3a98a1ccc5852daa",
   "lastOpenFiles": [
+    "DDoS.md",
+    "IDS.md",
     "Spaces/Temp/Pasted image 20240909121834.png",
     "Spaces/Temp/Pasted image 20240909115159.png",
-    "DDoS.md",
     "Spaces/Desc/네트워크 보안.md",
     "VPN.md",
     "Spaces/Desc/DHCP.md",
@@ -249,7 +250,6 @@
     "Spaces/Temp/Pasted image 20240905112729.png",
     "Spaces/Temp/Pasted image 20240905112514.png",
     "Spaces/Temp/Pasted image 20240905112501.png",
-    "Spaces/Temp/Pasted image 20240905111308.png",
     "방화벽.md",
     "EIGRP.md",
     "IPv6.md",
