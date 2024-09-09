@@ -51,24 +51,9 @@ make # 컴파일 명령어
 make install # 설치
 ```
 
-### 패킷 탐지 활성화
----
-```
-ip link set dev enp0s3 promisc on
-```
-
-### 네트워크 수신 설정
----
-```
-ethtool -k enp0s3 | grep receive -offload   # 외부 패킷 수신 정보 확인
-ethtool -K enp0s3 gro off lro off           # 외부 패킷 수신 x
-```
-
 ### snort setting file
 ---
 ```
-vi /etc/systemd/system/snort3-nic.service
-
 [Unit]
 Description=Set Snort 3 NIC in promiscuous mode and Disable GRO, LRO on boot
 After=network.target
@@ -88,6 +73,19 @@ WantedBy=default.target
 systemctl daemon-reload
 systemctl start snort3-nic
 systemctl enable snort3-nic
+```
+vi /etc/systemd/system/snort3-nic.service
+### 패킷 탐지 활성화
+---
+```
+ip link set dev enp0s3 promisc on
+```
+
+### 네트워크 수신 설정
+---
+```
+ethtool -k enp0s3 | grep receive -offload   # 외부 패킷 수신 정보 확인
+ethtool -K enp0s3 gro off lro off           # 외부 패킷 수신 x
 ```
 
 ### 룰 설치 경로 생성
