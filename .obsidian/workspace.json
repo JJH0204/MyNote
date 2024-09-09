@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
+                "file": "DDoS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
+                "file": "DDoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md"
+                "file": "DDoS.md"
               }
             }
           },
@@ -219,11 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c55469af3536912",
+  "active": "3a98a1ccc5852daa",
   "lastOpenFiles": [
-    "VPN.md",
-    "Spaces/Desc/네트워크 보안.md",
     "DDoS.md",
+    "Spaces/Desc/네트워크 보안.md",
+    "VPN.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
     "Kali Linux.md",
