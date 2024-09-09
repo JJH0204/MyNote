@@ -46,3 +46,8 @@
 - tcp 기반 서비스: http, https, ftp
 - icmp 기반 서비스: ping
 	- ping의 경우 차단 또는 허용이 필요할 때 `echo`/`echo-reply` 모두 허용
+
+## 네트워크 보안에 사용되는 ACL
+---
+[[RACL]]
+[[DACL]]
