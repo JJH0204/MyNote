@@ -68,3 +68,9 @@ RemainAfterExit=yes
 [Install]
 WantedBy=default.target
 ```
+
+### snort rules install
+---
+```
+wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.gz | tar xz -C /usr/local/etc/snort/rules/
+```
