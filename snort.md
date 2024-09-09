@@ -35,4 +35,12 @@ make install
 ```
 cd
 wget https://github.com/snort3/snort3/archive/refs/heads/master.zip
+apt install unzip
+unzip master.zip
+cd snort3-master/
+./configure_cmake.sh --prefix=/usr/local --enable-tcmalloc
+~~~
+cd ./build
+make
+make install
 ```
