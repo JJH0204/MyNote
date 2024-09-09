@@ -14,7 +14,16 @@ hping3 [Victim_IP] -S [추가 옵션]
 ```
 
 예시: `hping3 192.168.1.111 -S -i u50 -c 1000`
-### SYN Flooding
-패턴1: 소스IP 변조를 통한 반사 공격
+### SYN Flooding 공격 패턴
+#### 패턴1: 소스IP 변조를 통한 반사 공격
 - 소스IP주소를 스푸핑 하여 핸드 셰이크 프로세스를 비정상적으로 만드는 방식
-- Land Attack, Smurf Attack
+- Land Attack, Smurf Attack 등
+##### Land Attack
+##### Smurf Attack
+
+#### 패턴2: SYN/ACK 패킷 차단 후 공격
+
+#### 패턴3: 봇넷을 활용한 DDoS 형태의 공격
+
+### 공격 방어
+- IDS / IPS / UTM(IDS, IPS 통합) 시스템 활용
