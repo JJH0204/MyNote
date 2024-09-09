@@ -1,7 +1,9 @@
 # Distribute Denial of Service
 - 분산 서비스 거부 공격
-- hping3 / SlowHTTPTest / GoldenEye / LOIC 등
-
+- hping3 / SlowHTTPTest / GoldenEye / LOIC 등 다양한 Attack Tool이 있다.
+- 대다수 공격자는 대량의 zombi pc를 만들어 공격에 활용
+- 이때 공격자 PC를 C&C라고 하고 공격에 사용되는 zombi pc 를 zombi system, zombi pc 들을 zombi net이라고 한다.
+- 
 ## SYN Flooding Attack
 ---
 ![[Pasted image 20240909115159.png]]
