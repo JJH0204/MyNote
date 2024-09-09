@@ -49,11 +49,16 @@ cd snort3-master/
 cd ./build
 make # 컴파일 명령어
 make install # 설치
+
+snort -V      # 버전 확인
+snort -c /usr/local/etc/snort/snort.lua   # 오류 검출
 ```
 
 ### snort setting file
 ---
 ```
+vi /etc/systemd/system/snort3-nic.service
+
 [Unit]
 Description=Set Snort 3 NIC in promiscuous mode and Disable GRO, LRO on boot
 After=network.target
@@ -74,7 +79,7 @@ systemctl daemon-reload
 systemctl start snort3-nic
 systemctl enable snort3-nic
 ```
-vi /etc/systemd/system/snort3-nic.service
+
 ### 패킷 탐지 활성화
 ---
 ```
@@ -88,16 +93,11 @@ ethtool -k enp0s3 | grep receive -offload   # 외부 패킷 수신 정보 확인
 ethtool -K enp0s3 gro off lro off           # 외부 패킷 수신 x
 ```
 
-### 룰 설치 경로 생성
----
-```
-mkdir /usr/local/etc/snort/rules
-```
-
 ### snort rules install
 ---
 ```
-wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.gz | tar xz -C /usr/local/etc/snort/rules/
+mkdir /usr/local/etc/snort/rules    # 룰 설치 경로 생성
+wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.gz | tar xz -C /usr/local/etc/snort/rules/ # 커뮤니티 룰 설치
 ```
 
 ```
