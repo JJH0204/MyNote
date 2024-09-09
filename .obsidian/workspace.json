@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kali Linux.md",
+                "file": "Kali IP Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 214.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kali Linux.md",
+                "file": "Kali IP Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kali Linux.md",
+                "file": "Kali IP Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kali Linux.md"
+                "file": "Kali IP Setup.md"
               }
             }
           },
@@ -208,8 +209,11 @@
   },
   "active": "3a98a1ccc5852daa",
   "lastOpenFiles": [
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Spaces/Temp/Pasted image 20240909095245.png",
+    "Spaces/Temp/Pasted image 20240909095018.png",
     "Kali Linux.md",
+    "Kali IP Setup.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "DNS.md",
     "Spaces/Desc/DHCP.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
@@ -240,10 +244,7 @@
     "VPN.md",
     "Spaces/Desc/IP.md",
     "DACL.md",
-    "RACL.md",
-    "Spaces/Desc/web.md",
     "Spaces/Temp/Pasted image 20240825143620.png",
-    "Spaces/Temp/Pasted image 20240825143310.png",
     "etc",
     "Linux",
     "Spaces/Temp",

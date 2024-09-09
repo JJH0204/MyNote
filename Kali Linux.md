@@ -1,4 +1,4 @@
 - [칼리 리눅스 설치 방법](https://greensul.tistory.com/277)
 - [[칼리 리눅스 환경 설정 for 버추얼박스]]
-- [[Kali IP Settup]]
+- [[Kali IP Setup]]
 - 
