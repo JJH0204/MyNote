@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "963bf220775a708d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2c55469af3536912",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "snort.md"
+              }
             }
           },
           {
@@ -214,19 +231,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "3a98a1ccc5852daa",
   "lastOpenFiles": [
+    "Spaces/Desc/DHCP.md",
+    "DNS.md",
+    "IDS.md",
     "snort.md",
     "Spaces/Temp/Pasted image 20240909143905.png",
     "Spaces/Temp/Pasted image 20240909142850.png",
-    "IDS.md",
     "DDoS.md",
     "Spaces/Temp/Pasted image 20240909121834.png",
     "Spaces/Temp/Pasted image 20240909115159.png",
     "Spaces/Desc/네트워크 보안.md",
     "VPN.md",
-    "Spaces/Desc/DHCP.md",
-    "DNS.md",
     "Kali Linux.md",
     "Kali IP Setup.md",
     "Spaces/Temp/Pasted image 20240909095245.png",

@@ -1,6 +1,8 @@
-## Ubuntu snort install
+- IDS: 침입 탐지 시스템 구축을 위해 사용되는 우분투 리눅스 기반 엔진
+- 
+## **Ubuntu snort install**
 - Ubuntu 가 설치되어 있어야 함
-
+- 원활한 작업을 위해 (iputils-ping, vim, wget 미리 설치)
 ### 의존성 파일 설치
 ---
 ```
@@ -12,7 +14,11 @@ apt install build-essential libpcap-dev libpcre3-dev libnet1-dev zlib1g-dev luaj
 - 깃(git)을 활용해 프로그램 설치
 ![[Pasted image 20240909142850.png]]
 ```
-git clone https://github.com/snort3/
+git clone https://github.com/snort3/libdaq.git
+./bootstrap
+./configure
+make
+make install
 ```
 
 ### gperftools install
