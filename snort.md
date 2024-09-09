@@ -78,12 +78,15 @@ wget -qO- https://www.snort.org/downloads/community/snort3-community-rules.tar.g
 ```
 vi /usr/local/etc/snort/snort.lua
 
-24:
 
-    ~~~~~~,
-    rules = \[[
-      include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
-    ]]
+24 HOME_NET = '192.168.0.0/16'
+...
+28 EXTERNAL_NET = '!$HOME_NET'
+
+207     variables = default_variables,
+208     rules = [[
+209       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
+210     ]]
 ```
 
 ```
@@ -100,12 +103,14 @@ alert icmp any any -> $HOME_NET any (msg:"icmp msg";sid:1000001;rev:1;)
 # sid = 정책 식별 번호 (고유)
 # rev = 정책 번호
 ```
-
+![[Pasted image 20240909174043.png]]
 ```
- rules = [[
-      include /usr/local/etc/snort/rules/local.rules
-      include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
-    ]]
+vi /usr/local/etc/snort/snort.lua
+
+208     rules = [[
+209       include /usr/local/etc/snort/rules/local.rules
+210       include /usr/local/etc/snort/rules/snort3-community-rules/snort3-community.rules
+211     ]]
 ```
 
 ```
@@ -116,23 +121,22 @@ vi /usr/local/etc/snort/snort.lua
 ```
 
 ```
-# 114 줄 아래 추가
-
-appid =
-{
-    -- appid requires this to use appids in rules
-    app_detector_dir = '/usr/local/lib',
-    log_stats = true,
- 
-}
- 
-appid_listener =
-{
-    json_logging = true,
-    file = "/var/log/snort/appid-output.log",
-}
+105 appid =
+106 {
+107     -- appid requires this to use appids in rules
+108     app_detector_dir = '/usr/local/lib',
+109     log_stats = true,
+110
+111 }
+112
+113 appid_listener =
+114 {
+115     json_logging = true,
+116     file = "/var/log/snort/appid-output.log",
+117 }
 ```
 
+시스템 확인
 ```
 snort -c /usr/local/etc/snort/snort.lua
 snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rules
@@ -143,4 +147,3 @@ snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rule
 snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rules -i enp0s3 -A alert_fast -s 65535 -k none
 ```
 
-![[Pasted image 20240909174043.png]]
