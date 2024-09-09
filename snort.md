@@ -24,7 +24,7 @@ wget https://github.com/gperftools/gperftools/releases/download/gperftools-2.13/
 ```
 tar zxf ./gperftools-2.13.tar.gz
 cd ./gperftools-2.13
-./configure
+./configure      # 환경 구성 명령어
 ~~~
 make
 make install
@@ -35,12 +35,14 @@ make install
 ```
 cd
 wget https://github.com/snort3/snort3/archive/refs/heads/master.zip
+~~~
 apt install unzip
 unzip master.zip
 cd snort3-master/
 ./configure_cmake.sh --prefix=/usr/local --enable-tcmalloc
+# --prefix (설치 경로 옵션)
 ~~~
 cd ./build
-make
-make install
+make # 컴파일 명령어
+make install # 설치
 ```
