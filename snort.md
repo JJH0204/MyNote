@@ -97,7 +97,8 @@ vi /usr/local/etc/snort/snort.lua
 ```
 
 ```
-# 114 줄 아래
+# 114 줄 아래 추가
+
 appid =
 {
     -- appid requires this to use appids in rules
@@ -111,4 +112,14 @@ appid_listener =
     json_logging = true,
     file = "/var/log/snort/appid-output.log",
 }
+```
+
+```
+snort -c /usr/local/etc/snort/snort.lua
+snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rules
+```
+
+탐지 실행 명령어
+```
+snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rules -i enp0s3 -A alert_fast -s 65535 -k none
 ```
