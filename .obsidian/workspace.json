@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "DDoS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "DDoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "DDoS.md"
               }
             }
           },
@@ -231,12 +231,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a98a1ccc5852daa",
+  "active": "0c02bae8c048e05e",
   "lastOpenFiles": [
+    "snort.md",
     "Spaces/Temp/Pasted image 20240909174043.png",
     "DDoS.md",
     "IDS.md",
-    "snort.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
     "Spaces/Temp/Pasted image 20240909143905.png",
@@ -263,7 +263,6 @@
     "OSPF.md",
     "ACL.md",
     "ASAv.md",
-    "Spaces/Temp/Pasted image 20240905112729.png",
     "방화벽.md",
     "EIGRP.md",
     "IPv6.md",

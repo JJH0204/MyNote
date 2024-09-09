@@ -15,6 +15,7 @@ hping3 --icmp [IP] [추가 옵션]
 ![[Pasted image 20240909115159.png]]
 - TCP 핸드 셰이크 원리를 이용한 공격
 - Layer4 공격에 포함
+- [관련자료](https://m.blog.naver.com/techtrip/222561492285)
 
 ### hping3 tool 을 활용한 SYN Floodin
 ```sh
