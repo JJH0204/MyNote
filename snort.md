@@ -50,3 +50,21 @@ cd ./build
 make # 컴파일 명령어
 make install # 설치
 ```
+
+### snort setting file
+---
+```
+[Unit]
+Description=Set Snort 3 NIC in promiscuous mode and Disable GRO, LRO on boot
+After=network.target
+ 
+[Service]
+Type=oneshot
+ExecStart=/usr/sbin/ip link set dev enp0s3 promisc on
+ExecStart=/usr/sbin/ethtool -K enp0s3 gro off lro off
+TimeoutStartSec=0
+RemainAfterExit=yes
+ 
+[Install]
+WantedBy=default.target
+```
