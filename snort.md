@@ -2,8 +2,8 @@
 - [관련자료](https://velog.io/@2jinu/Snort-%EC%84%A4%EC%B9%98-0nl990xy)
 ## **Ubuntu snort install**
 - Ubuntu 가 설치되어 있어야 함
-- 원활한 작업을 위해 (`iputils-ping`, `vim`, `wget`, `unzip` 미리 설치)
-  `apt-get install -y iputils-ping vim wget unzip`
+- 원활한 작업을 위해 (`iputils-ping`, `vim`, `wget`, `unzip`, `git` 미리 설치)
+  `apt-get install -y iputils-ping vim wget unzip git`
 
 ### 의존성 파일 설치
 ---
@@ -17,8 +17,8 @@ apt install build-essential libpcap-dev libpcre3-dev libnet1-dev zlib1g-dev luaj
 ![[Pasted image 20240909142850.png]]
 ```
 git clone https://github.com/snort3/libdaq.git
-./bootstrap
-./configure
+./libdaq/bootstrap
+./libdaq/configure
 make
 make install
 ```
