@@ -61,6 +61,29 @@ cd /usr/share/zabbix-sql-scripts/mysql/
 zcat ./server.sql.gz | mysql --default-character-set=utf8mb4 -u[사용자 이름] -p'사용자 비번' [적용할 DB]
 
 # DB 확인
+mysql -u root -p
+show databases; use zabbix_db; show tables;
+```
 
 
+```
+cd /etc/zabbix
+
+# 서버 설정 파일 수정
+vi zabbix_server.conf
+
+107 DBName=zabbix_db
+123 DBUser=zabbix_user
+131 DBPassword=choa0306@@
+:wq 
+
+# 에이전트 파일 수정
+vi zabbix_agentd.conf
+117 Server=127.0.0.1
+171 ServerActive=127.0.0.1
+182 Hostname=Zabbix server
+:wq 
+
+systemctl start zabbix-server zabbix-agent
+systemctl enable zabbix-server zabbix-agent
 ```
