@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
+                "file": "zabbix.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
+                "file": "zabbix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md",
+                "file": "zabbix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/네트워크 보안.md"
+                "file": "zabbix.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "5ae5dcd71a4053a2",
   "lastOpenFiles": [
+    "NMS.md",
+    "zabbix.md",
+    "Spaces/Desc/네트워크 보안.md",
     "Wireshark.md",
     "Spaces/Temp/Pasted image 20240910103733.png",
     "Spaces/Temp/Pasted image 20240910103723.png",
@@ -222,7 +225,6 @@
     "Spaces/Temp/Pasted image 20240910102253.png",
     "Snort Rule.md",
     "Kali Linux.md",
-    "Spaces/Desc/네트워크 보안.md",
     "snort.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
@@ -243,7 +245,6 @@
     "FHRP.md",
     "HSRP.md",
     "NAT.md",
-    "Redistribution.md",
     "etc",
     "Linux",
     "Spaces/Temp",
