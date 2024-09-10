@@ -170,3 +170,13 @@ zabbix_agentd.exe 실행(관리자 권한)
 ![[Pasted image 20240910154033.png]]
 - 윈도우 설정에 맞게 설정 값 입력
 ![[Pasted image 20240910161001.png]]
+
+#### linux set
+zabbix 설치
+```
+cd /etc/yum.repos.d/
+rpm -Uvh https://repo.zabbix.com/zabbix/7.0/alma/9/x86_64/zabbix-release-7.0-2.el9.noarch.rpm
+dnf clean all
+dnf install -y zabbix-agent
+
+```
