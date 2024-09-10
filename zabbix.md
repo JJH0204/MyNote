@@ -162,4 +162,7 @@ zabbix_agentd.exe 실행
 
 서버 등록
 ![[Pasted image 20240910153620.png]]
-- 모니터링 > hosts > create
+- 모니터링 > hosts > create host
+![[Pasted image 20240910154033.png]]
+- 윈도우 설정에 맞게 설정값 입력
+
