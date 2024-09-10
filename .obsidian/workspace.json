@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "8b53d0e22258e4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/Web_Hacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "66d559efd5e8c588",
             "type": "leaf",
             "state": {
@@ -51,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zabbix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zabbix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zabbix.md"
+              }
             }
           },
           {
@@ -202,8 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "5ae5dcd71a4053a2",
   "lastOpenFiles": [
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Spaces/Desc/Web_Hacking.md",
     "Kali Linux.md",
     "Snort Rule.md",
     "zabbix.md",
@@ -233,13 +252,11 @@
     "IDS.md",
     "VPN.md",
     "Kali IP Setup.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Spaces/Home/Server.md",
     "RouterSetup.md",
     "FHRP.md",
     "HSRP.md",
-    "NAT.md",
     "etc",
     "Linux",
     "Spaces/Temp",

@@ -104,4 +104,18 @@ vi /etc/php-fpm.d/www.conf
 446 php_value[always_populate_raw_post_data] = -1
 447 php_value[data.timezone] = Asia/Seoul
 :wq
+
+systemctl restart zabbix-agent httpd php-fpm
+```
+
+#### zabbix http 설정
+```
+cd /usr/share/zabbix
+ls
+
+# 
+mkdir /var/www/html/zabbix
+cp -R /usr/share/zabbix/* /var/www/html/zabbix
+cd /var/www/html/zabbix
+ls
 ```
