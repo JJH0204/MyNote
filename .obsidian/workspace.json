@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snort Rule.md",
+                "file": "Wireshark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snort Rule.md",
+                "file": "Wireshark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snort Rule.md"
+                "file": "Wireshark.md"
               }
             }
           },
@@ -207,12 +207,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ee71ca359fa015c",
+  "active": "66d559efd5e8c588",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240910095354.png",
+    "Spaces/Temp/Pasted image 20240910095252.png",
+    "Spaces/Temp/Pasted image 20240910095128.png",
+    "Spaces/Temp/Pasted image 20240910095000.png",
+    "Spaces/Temp/Pasted image 20240910094905.png",
+    "Spaces/Temp/Pasted image 20240910094835.png",
+    "Spaces/Temp/Pasted image 20240910094441.png",
+    "Snort Rule.md",
     "Wireshark.md",
     "Kali Linux.md",
     "Spaces/Desc/네트워크 보안.md",
-    "Snort Rule.md",
     "snort.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
@@ -228,23 +235,16 @@
     "Spaces/Temp/Pasted image 20240909143905.png",
     "Spaces/Temp/Pasted image 20240909142850.png",
     "Spaces/Temp/Pasted image 20240909121834.png",
-    "Spaces/Temp/Pasted image 20240909115159.png",
     "VPN.md",
     "Kali IP Setup.md",
-    "Spaces/Temp/Pasted image 20240909095245.png",
-    "Spaces/Temp/Pasted image 20240909095018.png",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
-    "Spaces/Temp/Pasted image 20240908173228.png",
-    "Spaces/Temp/Pasted image 20240908154221.png",
-    "Spaces/Temp/Pasted image 20240907145727.png",
     "Spaces/Home/Server.md",
     "RouterSetup.md",
     "FHRP.md",
     "HSRP.md",
     "NAT.md",
     "Redistribution.md",
-    "OSPF.md",
     "etc",
     "Linux",
     "Spaces/Temp",
