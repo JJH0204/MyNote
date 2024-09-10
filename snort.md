@@ -175,3 +175,5 @@ snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rule
 snort -c /usr/local/etc/snort/snort.lua -R /usr/local/etc/snort/rules/local.rules -i enp0s3 -A alert_fast -s 65535 -k none
 ```
 
+
+# [[Snort Rule]]

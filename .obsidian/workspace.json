@@ -16,18 +16,19 @@
             }
           },
           {
-            "id": "a423da86c20f0c28",
+            "id": "6ee71ca359fa015c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZFW.md",
+                "file": "Snort Rule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snort Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Snort Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Snort Rule.md"
+              }
             }
           },
           {
@@ -178,8 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "6ee71ca359fa015c",
   "lastOpenFiles": [
+    "snort.md",
+    "Snort Rule.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
     "DDoS.md",
@@ -188,7 +195,6 @@
     "Spaces/Home/C++ 프로젝트.md",
     "ACL.md",
     "Spaces/Desc/네트워크 보안.md",
-    "snort.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
     "Spaces/Temp/Pasted image 20240909174043.png",
@@ -215,7 +221,6 @@
     "Redistribution.md",
     "OSPF.md",
     "ASAv.md",
-    "EIGRP.md",
     "etc",
     "Linux",
     "Spaces/Temp",
