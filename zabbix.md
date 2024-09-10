@@ -149,7 +149,11 @@ https://www.zabbix.com/download_agents
 - LisenPort > 주석 해제
 - Hostname > 원하는 이름으로 수정
 
-zabbix_agentd.exe 실행
+zabbix_agentd.exe 실행(관리자 권한)
+![[Pasted image 20240910160545.png]]
+
+서비스 실행(services.msc 실행 후 Zabbix 서비스 실행)
+![[Pasted image 20240910160654.png]]
 
 방화벽 새 규칙 추가
 ![[Pasted image 20240910152956.png]]
@@ -164,5 +168,5 @@ zabbix_agentd.exe 실행
 ![[Pasted image 20240910153620.png]]
 - 모니터링 > hosts > create host
 ![[Pasted image 20240910154033.png]]
-- 윈도우 설정에 맞게 설정값 입력
-
+- 윈도우 설정에 맞게 설정 값 입력
+![[Pasted image 20240910161001.png]]
