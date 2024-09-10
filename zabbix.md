@@ -65,7 +65,7 @@ mysql -u root -p
 show databases; use zabbix_db; show tables;
 ```
 
-
+#### 환경설정
 ```
 cd /etc/zabbix
 
@@ -86,4 +86,22 @@ vi zabbix_agentd.conf
 
 systemctl start zabbix-server zabbix-agent
 systemctl enable zabbix-server zabbix-agent
+systemctl restart httpd php-fpm
+
+```
+
+#### php 설정(zabbix 연동)
+```
+vi /etc/php-fpm.d/www.conf
+
+(추가)
+440 php_value[max_execution_time] = 300
+441 php_value[memory_limit] = 128M
+442 php_value[post_max_size] = 16M
+443 php_value[upload_max_filesize] = 2M
+444 php_value[max_input_time] = 300
+445 php_value[max_input_vars] = 10000
+446 php_value[always_populate_raw_post_data] = -1
+447 php_value[data.timezone] = Asia/Seoul
+:wq
 ```

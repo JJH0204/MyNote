@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zabbix.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ae5dcd71a4053a2",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "NMS.md",
+    "Kali Linux.md",
+    "Snort Rule.md",
     "zabbix.md",
+    "NMS.md",
     "Spaces/Desc/네트워크 보안.md",
     "Wireshark.md",
     "Spaces/Temp/Pasted image 20240910103733.png",
@@ -223,8 +220,6 @@
     "Spaces/Temp/Pasted image 20240910102428.png",
     "Spaces/Temp/Pasted image 20240910102405.png",
     "Spaces/Temp/Pasted image 20240910102253.png",
-    "Snort Rule.md",
-    "Kali Linux.md",
     "snort.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
