@@ -25,7 +25,21 @@ IP 데이터그램
 
 ![[Pasted image 20240910101232.png]]
 
-
+### 프로토콜 7계층 통계
+---
 ![[Pasted image 20240910101307.png]]
 
+### I/O 그래프
+---
+![[Pasted image 20240910101508.png]]
+- 보고서 작성 툴
 
+### IP Statistics (IP 통신 통계)
+---
+![[Pasted image 20240910102241.png]]
+
+![[Pasted image 20240910102253.png]]
+
+![[Pasted image 20240910102405.png]]
+
+![[Pasted image 20240910102428.png]]
