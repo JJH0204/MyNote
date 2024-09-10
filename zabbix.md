@@ -62,4 +62,5 @@ zcat ./server.sql.gz | mysql --default-character-set=utf8mb4 -u[사용자 이름
 
 # DB 확인
 
+
 ```
