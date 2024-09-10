@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireshark.md",
+                "file": "Spaces/Desc/네트워크 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wireshark.md",
+                "file": "Spaces/Desc/네트워크 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wireshark.md"
+                "file": "Spaces/Desc/네트워크 보안.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66d559efd5e8c588",
+  "active": "5ae5dcd71a4053a2",
   "lastOpenFiles": [
+    "Wireshark.md",
     "Spaces/Temp/Pasted image 20240910103733.png",
     "Spaces/Temp/Pasted image 20240910103723.png",
     "Spaces/Temp/Pasted image 20240910103655.png",
@@ -219,9 +220,7 @@
     "Spaces/Temp/Pasted image 20240910102428.png",
     "Spaces/Temp/Pasted image 20240910102405.png",
     "Spaces/Temp/Pasted image 20240910102253.png",
-    "Spaces/Temp/Pasted image 20240910102241.png",
     "Snort Rule.md",
-    "Wireshark.md",
     "Kali Linux.md",
     "Spaces/Desc/네트워크 보안.md",
     "snort.md",
