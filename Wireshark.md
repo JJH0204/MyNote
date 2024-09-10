@@ -58,3 +58,8 @@ IP 데이터그램
 
 ![[Pasted image 20240910103733.png]]
 
+# Wireshark sample site
+---
+- [링크](https://wiki.wireshark.org/SampleCaptures)
+- [구글검색자료](https://www.google.com/search?q=Wireshark+sample+capture&sca_esv=d16f3d591397ad5f&ei=9qzfZpy8LoHh2roPrc7imA4&ved=0ahUKEwicj-GnqLeIAxWBsFYBHS2nGOMQ4dUDCA8&uact=5&oq=Wireshark+sample+capture&gs_lp=Egxnd3Mtd2l6LXNlcnAiGFdpcmVzaGFyayBzYW1wbGUgY2FwdHVyZTIFEAAYgAQyBBAAGB4yBhAAGAUYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBDIGEAAYBRgeMgYQABgIGB5I1xtQ0BBY9RhwAngBkAEAmAHPAaAB-QqqAQUwLjMuNLgBA8gBAPgBAZgCBaAC4wTCAgoQABiwAxjWBBhHwgIHEAAYgAQYDcICBhAAGAcYHsICCBAAGAcYCBgewgIIEAAYBRgNGB7CAggQABgFGAcYHsICCBAAGAgYChgemAMAiAYBkAYKkgcFMi4xLjKgB4oz&sclient=gws-wiz-serp)
+- 분석 실력 향상을 위해 자주 분석할 것
