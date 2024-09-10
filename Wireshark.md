@@ -21,3 +21,11 @@ IP 데이터그램
 
 ![[Pasted image 20240910100405.png]]
 
+![[Pasted image 20240910101035.png]]
+
+![[Pasted image 20240910101232.png]]
+
+
+![[Pasted image 20240910101307.png]]
+
+
