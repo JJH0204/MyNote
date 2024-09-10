@@ -132,3 +132,13 @@ IP/zabbix
 - 설정에 문제가 있다면 etc/zabbix/web/zabbix.conf.php 에서 수정 가능
 ![[Pasted image 20240910143829.png]]
 - id: Admin pw: zabbix
+
+## 인터페이스
+---
+- SNMP를 통해 Agent와 NMS가 통신
+- 이때 Agent-d 사용
+- zabbix는 SNMP를 개선안 zbx 를 사용
+![[Pasted image 20240910144806.png]]
+
+## Agent add
+---
