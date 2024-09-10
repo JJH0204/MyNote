@@ -17,3 +17,22 @@ rocky-addons.repo  rocky-devel.repo  rocky-extras.repo  rocky.repo  zabbix.repo
 ```
 dnf clean all
 ```
+
+#### 프로그램 설치
+```
+dnf install zabbix-server-mysql zabbix-web-mysql zabbix-apache-conf zabbix-sql-scripts zabbix-selinux-policy zabbix-agent
+
+firewall-cmd --permanent --add-service=http
+firewall-cmd --reload
+
+systemctl start httpd mariadb
+systemctl enable httpd mariadb
+
+mysql_secure_installation
+
+```
+
+#### DB 세팅
+```
+
+```
