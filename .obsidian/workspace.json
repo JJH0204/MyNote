@@ -16,6 +16,30 @@
             }
           },
           {
+            "id": "66d559efd5e8c588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wireshark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ae5dcd71a4053a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/네트워크 보안.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ee71ca359fa015c",
             "type": "leaf",
             "state": {
@@ -27,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snort Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Snort Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Snort Rule.md"
+              }
             }
           },
           {
@@ -178,8 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "6ee71ca359fa015c",
   "lastOpenFiles": [
+    "Wireshark.md",
+    "Kali Linux.md",
+    "Spaces/Desc/네트워크 보안.md",
     "Snort Rule.md",
     "snort.md",
     "Spaces/Desc/정보보안자격증.md",
@@ -189,7 +221,6 @@
     "방화벽.md",
     "Spaces/Home/C++ 프로젝트.md",
     "ACL.md",
-    "Spaces/Desc/네트워크 보안.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
     "Spaces/Temp/Pasted image 20240909174043.png",
@@ -199,7 +230,6 @@
     "Spaces/Temp/Pasted image 20240909121834.png",
     "Spaces/Temp/Pasted image 20240909115159.png",
     "VPN.md",
-    "Kali Linux.md",
     "Kali IP Setup.md",
     "Spaces/Temp/Pasted image 20240909095245.png",
     "Spaces/Temp/Pasted image 20240909095018.png",
@@ -215,7 +245,6 @@
     "NAT.md",
     "Redistribution.md",
     "OSPF.md",
-    "ASAv.md",
     "etc",
     "Linux",
     "Spaces/Temp",
