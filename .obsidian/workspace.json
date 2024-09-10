@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zabbix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zabbix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zabbix.md"
+              }
             }
           },
           {
@@ -214,8 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "5ae5dcd71a4053a2",
   "lastOpenFiles": [
+    "Wireshark.md",
+    "Spaces/Desc/Web_Hacking.md",
     "zabbix.md",
     "Spaces/Temp/Pasted image 20240910161001.png",
     "Spaces/Temp/Pasted image 20240910160654.png",
@@ -228,12 +235,10 @@
     "Spaces/Temp/Pasted image 20240910151833.png",
     "Spaces/Temp/Pasted image 20240910150821.png",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Desc/Web_Hacking.md",
     "Kali Linux.md",
     "Snort Rule.md",
     "NMS.md",
     "Spaces/Desc/네트워크 보안.md",
-    "Wireshark.md",
     "snort.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
