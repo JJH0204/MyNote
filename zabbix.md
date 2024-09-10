@@ -140,6 +140,8 @@ IP/zabbix
 ---
 https://www.zabbix.com/download_agents
 ![[Pasted image 20240910150624.png]]
+- agent 추가를 위한 파일 설치
+- 운영체제와 환경에 맞는 파일 설치
 
-![[Pasted image 20240910150821.png]]
-
+#### windows set
+![[Pasted image 20240910151833.png]]
