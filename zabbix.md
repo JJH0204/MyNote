@@ -150,3 +150,16 @@ https://www.zabbix.com/download_agents
 - Hostname > 원하는 이름으로 수정
 
 zabbix_agentd.exe 실행
+
+방화벽 새 규칙 추가
+![[Pasted image 20240910152956.png]]
+- port > tcp > 10050 > 연결 허용 > 다음 > 이름 설정 > 마침
+
+서버 포트 개방
+![[Pasted image 20240910153414.png]]
+- firewall-cmd --permanent --add-port=10051/tcp
+- firewall-cmd --reload
+
+서버 등록
+![[Pasted image 20240910153620.png]]
+- 모니터링 > hosts > create
