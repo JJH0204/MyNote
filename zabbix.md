@@ -145,3 +145,8 @@ https://www.zabbix.com/download_agents
 
 #### windows set
 ![[Pasted image 20240910151833.png]]
+- 172.0.0.1 > 서버 IP로 수정
+- LisenPort > 주석 해제
+- Hostname > 원하는 이름으로 수정
+
+zabbix_agentd.exe 실행
