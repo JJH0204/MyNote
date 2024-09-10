@@ -15,6 +15,14 @@ IP 데이터그램
 ![[Pasted image 20240910095252.png]]
 ![[Pasted image 20240910095354.png]]
 
+![[Pasted image 20240910102613.png]]
+
+![[Pasted image 20240910102559.png]]
+
+![[Pasted image 20240910103029.png]]
+
+![[Pasted image 20240910103148.png]]
+
 
 ![[Pasted image 20240910100150.png]]
 
