@@ -32,7 +32,7 @@ mysql_secure_installation
 
 ```
 
-#### DB 세팅
+#### DB 초기 세팅
 ```
 # DB 접속
 mysql -u root -p
@@ -53,11 +53,13 @@ set global log_bin_trust_function_creators = 1;
 flush privileges;
 ```
 
-
+#### DB 생성
 ```
 cd /usr/share/zabbix-sql-scripts/mysql/
 
 # DB 생성 스크립트 실행하며 함께 설정 값 전달
-zcat ./server.sql.gz | mysql --default-character-set=utf8mb4 -u [사용자 이름] -p '사용자 비번' [적용할 DB]
+zcat ./server.sql.gz | mysql --default-character-set=utf8mb4 -u[사용자 이름] -p'사용자 비번' [적용할 DB]
+
+# DB 확인
 
 ```
