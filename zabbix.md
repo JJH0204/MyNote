@@ -171,8 +171,8 @@ cd /etc/yum.repos.d/
 rpm -Uvh https://repo.zabbix.com/zabbix/7.0/alma/9/x86_64/zabbix-release-7.0-2.el9.noarch.rpm
 dnf clean all
 dnf install -y zabbix-agent
-cd /etc/zabbix
-vi ./zabbix_agentd.conf
+vi /etc/zabbix/zabbix_agentd.conf
+
 systemctl start zabbix-agent
 systemctl enable zabbix-agent
 firewall-cmd --permanent --add-port=10050/tcp
