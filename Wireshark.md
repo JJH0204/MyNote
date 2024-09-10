@@ -51,3 +51,10 @@ IP 데이터그램
 ![[Pasted image 20240910102405.png]]
 
 ![[Pasted image 20240910102428.png]]
+
+![[Pasted image 20240910103655.png]]
+
+![[Pasted image 20240910103723.png]]
+
+![[Pasted image 20240910103733.png]]
+
