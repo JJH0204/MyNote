@@ -119,3 +119,16 @@ cp -R /usr/share/zabbix/* /var/www/html/zabbix
 cd /var/www/html/zabbix
 ls
 ```
+
+#### 웹 접속/설정
+```
+IP/zabbix
+```
+![[Pasted image 20240910143138.png]]
+![[Pasted image 20240910143343.png]]
+- 서버와 DB가 같은 장치에 설치되어 있는 경우 port 0 가능
+![[Pasted image 20240910143629.png]]
+![[Pasted image 20240910143750.png]]
+- 설정에 문제가 있다면 etc/zabbix/web/zabbix.conf.php 에서 수정 가능
+![[Pasted image 20240910143829.png]]
+- id: Admin pw: zabbix
