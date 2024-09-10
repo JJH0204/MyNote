@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snort Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snort Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Snort Rule.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,10 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ee71ca359fa015c",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "snort.md",
     "Snort Rule.md",
+    "snort.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
     "DDoS.md",
