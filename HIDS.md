@@ -31,12 +31,13 @@ vi /var/ossec/etc/ossec.conf
 
 - rootkit? 관리자 권한 빼앗기 위해 사용하는 것
 
-### 실행
+### 관리자 툴 실행
 ```
 cd /var/ossec/bin
 manage_agents
-
-
+```
+#### agent 추가
+```
 ****************************************
 * OSSEC HIDS v3.7.0 Agent manager.     *
 * The following options are available: *
@@ -60,7 +61,10 @@ Agent information:
 
 Confirm adding it?(y/n): y
 Agent added with ID 001.
+```
 
+#### 키 발급
+```
 ****************************************
 * OSSEC HIDS v3.7.0 Agent manager.     *
 * The following options are available: *
@@ -80,5 +84,20 @@ Agent key information for '001' is:
 MDAxIHdpbiAxOTIuMTY4LjEuOCBlMjAwOGQyNDZkMGY4YjJkNGYyOTU0OWYzNDZjMWZiOTFmYWZiMGQ3MDM5MWI4MDA3YjQzY2FmNWJjZjkxNjNi
 
 ** Press ENTER to return to the main menu.
-
 ```
+
+### 서버 구동
+```
+./ossec-control start
+# ./ossec-control 만 입력하면 사용가능한 명령어 확인 가능
+```
+
+
+### 메시지
+```
+tree /var/ossec/logs # 로그 확인 가능
+tail -f /var/ossec/logs/alerts/alerts.log # 실시간 확인
+```
+
+## 윈도우 설치
+![[Pasted image 20240911094941.png]]
