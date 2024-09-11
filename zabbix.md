@@ -69,8 +69,8 @@ cd /etc/zabbix
 vi zabbix_server.conf
 
 107 DBName=zabbix_db
-123 DBUser=zabbix_user
-131 DBPassword=choa0306@@
+123 DBUser=[DB 사용자 이름]
+131 DBPassword=[사용자 패스워드]
 :wq 
 
 # 에이전트 파일 수정
@@ -109,7 +109,6 @@ systemctl restart zabbix-agent httpd php-fpm
 cd /usr/share/zabbix
 ls
 
-# 
 mkdir /var/www/html/zabbix
 cp -R /usr/share/zabbix/* /var/www/html/zabbix
 cd /var/www/html/zabbix
