@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "39b8ffd8b7b65b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open VPN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "01be98d02ba8cda1",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIDS.md",
+                "file": "Open VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIDS.md",
+                "file": "Open VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIDS.md"
+                "file": "Open VPN.md"
               }
             }
           },
@@ -196,9 +208,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf8113ebb7a5b61",
+  "active": "39b8ffd8b7b65b06",
   "lastOpenFiles": [
     "pfsense.md",
+    "Open VPN.md",
+    "VPN.md",
     "HIDS.md",
     "snort.md",
     "Firewall.md",
@@ -230,10 +244,8 @@
     "ACL.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
-    "VPN.md",
     "Kali IP Setup.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
-    "Spaces/Home/Server.md",
     "etc",
     "Linux",
     "Spaces/Temp",
