@@ -16,55 +16,19 @@
             }
           },
           {
-            "id": "8b53d0e22258e4af",
+            "id": "adf8113ebb7a5b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/Web_Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66d559efd5e8c588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wireshark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ae5dcd71a4053a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zabbix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee71ca359fa015c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snort Rule.md",
+                "file": "HIDS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
+                "file": "HIDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
+                "file": "HIDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zabbix.md"
+                "file": "HIDS.md"
               }
             }
           },
@@ -219,11 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ae5dcd71a4053a2",
+  "active": "adf8113ebb7a5b61",
   "lastOpenFiles": [
+    "IDS.md",
+    "HIDS.md",
+    "Spaces/Desc/네트워크 보안.md",
+    "Snort Rule.md",
+    "zabbix.md",
     "Wireshark.md",
     "Spaces/Desc/Web_Hacking.md",
-    "zabbix.md",
+    "DDoS.md",
     "Spaces/Temp/Pasted image 20240910161001.png",
     "Spaces/Temp/Pasted image 20240910160654.png",
     "Spaces/Temp/Pasted image 20240910160545.png",
@@ -236,20 +205,16 @@
     "Spaces/Temp/Pasted image 20240910150821.png",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Kali Linux.md",
-    "Snort Rule.md",
     "NMS.md",
-    "Spaces/Desc/네트워크 보안.md",
     "snort.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
-    "DDoS.md",
     "Firewall.md",
     "방화벽.md",
     "Spaces/Home/C++ 프로젝트.md",
     "ACL.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
-    "IDS.md",
     "VPN.md",
     "Kali IP Setup.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
