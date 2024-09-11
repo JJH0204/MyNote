@@ -15,8 +15,8 @@ dnf clean all
 ```
 
 #### 프로그램 설치
-```
-dnf install zabbix-server-mysql zabbix-web-mysql zabbix-apache-conf zabbix-sql-scripts zabbix-selinux-policy zabbix-agent
+```bash
+dnf install -y zabbix-server-mysql zabbix-web-mysql zabbix-apache-conf zabbix-sql-scripts zabbix-selinux-policy zabbix-agent
 
 firewall-cmd --permanent --add-service=http
 firewall-cmd --reload

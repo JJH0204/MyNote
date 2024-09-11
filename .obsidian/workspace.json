@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "zabbix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "zabbix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "zabbix.md"
               }
             }
           },
@@ -208,14 +208,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04a959de3947020f",
+  "active": "01be98d02ba8cda1",
   "lastOpenFiles": [
+    "NMS.md",
     "zabbix.md",
     "snort.md",
     "HIDS.md",
     "무제 파일.md",
     "Spaces/Desc/네트워크 보안.md",
-    "NMS.md",
     "Spaces/Temp/Pasted image 20240911102949.png",
     "Spaces/Temp/Pasted image 20240911102726.png",
     "Spaces/Temp/Pasted image 20240911102704.png",
