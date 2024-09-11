@@ -101,3 +101,5 @@ tail -f /var/ossec/logs/alerts/alerts.log # 실시간 확인
 
 ## 윈도우 설치
 ![[Pasted image 20240911094941.png]]![[Pasted image 20240911095102.png]]
+![[Pasted image 20240911102412.png]]![[Pasted image 20240911102949.png]]![[Pasted image 20240911102541.png]]![[Pasted image 20240911102551.png]]![[Pasted image 20240911102636.png]]
+![[Pasted image 20240911102704.png]]![[Pasted image 20240911102726.png]]
