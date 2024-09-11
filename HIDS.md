@@ -1,7 +1,7 @@
 # Host-Based IDS (OSSEC)
 - 호스트에서 발생하는 침입 사례를 검증
 - Snort와 같이 RULE을 활용해 패킷 검출
-
+- https://www.ossec.net/download-ossec/
 ## 설치(Ubuntu)
 ---
 ### 라이브러리 설치
