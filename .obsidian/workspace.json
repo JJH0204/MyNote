@@ -38,9 +38,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04a959de3947020f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apt install",
+                "query": "Snort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5,
-    "collapsed": true
+    "width": 431.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -116,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HIDS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,10 +199,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf8113ebb7a5b61",
+  "active": "4811b35bf9b96ba0",
   "lastOpenFiles": [
-    "무제 파일.md",
     "HIDS.md",
+    "무제 파일.md",
     "zabbix.md",
     "Spaces/Desc/네트워크 보안.md",
     "NMS.md",
