@@ -110,4 +110,5 @@ apt install -y ossec-hids-agent
 
 vi /var/ossec/etc/ossec.conf
 
+5 192.168.1.113 <로 
 ```
