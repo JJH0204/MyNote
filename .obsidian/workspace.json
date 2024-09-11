@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIDS.md",
+                "file": "pfsense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HIDS.md",
+                "file": "pfsense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIDS.md"
+                "file": "pfsense.md"
               }
             }
           },
@@ -196,14 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adf8113ebb7a5b61",
+  "active": "01be98d02ba8cda1",
   "lastOpenFiles": [
+    "HIDS.md",
     "snort.md",
     "pfsense.md",
     "Firewall.md",
     "zabbix.md",
     "NMS.md",
-    "HIDS.md",
     "무제 파일.md",
     "Spaces/Desc/네트워크 보안.md",
     "Spaces/Temp/Pasted image 20240911102949.png",
