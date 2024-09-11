@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zabbix.md",
+                "file": "pfsense.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,21 +38,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "04a959de3947020f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snor",
+                "query": "pfsen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
+                "file": "HIDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
+                "file": "HIDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zabbix.md"
+                "file": "HIDS.md"
               }
             }
           },
@@ -208,11 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01be98d02ba8cda1",
+  "active": "adf8113ebb7a5b61",
   "lastOpenFiles": [
-    "NMS.md",
-    "zabbix.md",
     "snort.md",
+    "pfsense.md",
+    "Firewall.md",
+    "zabbix.md",
+    "NMS.md",
     "HIDS.md",
     "무제 파일.md",
     "Spaces/Desc/네트워크 보안.md",
@@ -235,7 +225,6 @@
     "Kali Linux.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
-    "Firewall.md",
     "방화벽.md",
     "Spaces/Home/C++ 프로젝트.md",
     "ACL.md",
@@ -245,7 +234,6 @@
     "Kali IP Setup.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Spaces/Home/Server.md",
-    "RouterSetup.md",
     "etc",
     "Linux",
     "Spaces/Temp",
