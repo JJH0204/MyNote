@@ -90,6 +90,7 @@ MDAxIHdpbiAxOTIuMTY4LjEuOCBlMjAwOGQyNDZkMGY4YjJkNGYyOTU0OWYzNDZjMWZiOTFmYWZiMGQ3
 ```
 ./ossec-control start
 # ./ossec-control 만 입력하면 사용가능한 명령어 확인 가능
+firewall-cmd --
 ```
 
 
