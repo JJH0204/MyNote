@@ -110,5 +110,26 @@ apt install -y ossec-hids-agent
 
 vi /var/ossec/etc/ossec.conf
 
-5 192.168.1.113 <로 
+5 192.168.1.113 <로 수정>
+```
+
+```
+/var/ossec/bin/ossec-control start
+
+/var/ossec/bin/manage_agents 
+i
+(키 입력)
+MDAyIHVidW50dTEgMTkyLjE2OC4xLjExOCBmNjhlMzQxMzg3YTlhMDI1ZDZlNjhiNGY4YzZiZGEyZmM0NzIzYjBjMzUwNzYzYWI4ODkyNmRmN2UzYjk4Y2Y3
+y
+q
+```
+
+```
+/var/ossec/bin/ossec-control status
+```
+
+```
+/var/ossec/logs/alerts 
+/var/ossec/rules
+
 ```
