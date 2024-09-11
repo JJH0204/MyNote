@@ -128,8 +128,16 @@ q
 /var/ossec/bin/ossec-control status
 ```
 
+## rules 설정
 ```
-/var/ossec/logs/alerts 
-/var/ossec/rules
+cd /var/ossec/rules # 정책 관리 디렉토리
+
+
+```
+
+```
+firewall-cmd --permanent --add-port=1514/tcp
+firewall-cmd --permanent --add-port=1514/udp
+firewall-cmd --reload
 
 ```
