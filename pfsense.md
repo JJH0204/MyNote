@@ -1,3 +1,5 @@
 방화벽 장치로 개발되었으나 지속된 업데이트를 통해 [[VPN]], 패킷 분석 툴 등 기능을 수행할 수 있게 되었다.
 
-##
+## vpn 기능 활성화
+- https://jackerlab.com/pfsense-openvpn/
+- 
