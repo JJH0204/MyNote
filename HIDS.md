@@ -74,7 +74,7 @@ Agent added with ID 001.
    (L)ist already added agents (L).
    (R)emove an agent (R).
    (Q)uit.
-Choose your action: A,E,L,R or Q: e
+Choose your action: A,E,L,R or Q: e (키 발급 선택)
 
 Available agents:
    ID: 001, Name: win, IP: 192.168.1.8
@@ -85,7 +85,7 @@ MDAxIHdpbiAxOTIuMTY4LjEuOCBlMjAwOGQyNDZkMGY4YjJkNGYyOTU0OWYzNDZjMWZiOTFmYWZiMGQ3
 
 ** Press ENTER to return to the main menu.
 ```
-
+- 키는 꼭 기억하고 있어야 한다
 ### 서버 구동
 ```
 ./ossec-control start
@@ -100,4 +100,4 @@ tail -f /var/ossec/logs/alerts/alerts.log # 실시간 확인
 ```
 
 ## 윈도우 설치
-![[Pasted image 20240911094941.png]]
+![[Pasted image 20240911094941.png]]![[Pasted image 20240911095102.png]]
