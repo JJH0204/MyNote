@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zabb",
+                "query": "snor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zabbix.md"
+                "file": "snort.md"
               }
             }
           },
@@ -209,10 +210,10 @@
   },
   "active": "04a959de3947020f",
   "lastOpenFiles": [
+    "zabbix.md",
     "snort.md",
     "HIDS.md",
     "무제 파일.md",
-    "zabbix.md",
     "Spaces/Desc/네트워크 보안.md",
     "NMS.md",
     "Spaces/Temp/Pasted image 20240911102949.png",
