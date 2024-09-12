@@ -104,21 +104,28 @@ vi /etc/systemd/system/suricata.service
   8 [Install]
   9 WantedBy=default.target
   
-	- 새로운 서비스를 추가하고 싶다면 이 방법으로 추가
+  새로운 서비스를 추가하고 싶다면 이 방법으로 추가
 
 - 서비스 실행
 ```
 systemctl daemon-reload && systemctl enable suricata && systemctl start suricata
 ```
-	-  정상 실행 안된다면 위 설정 다시 보기
+정상 실행 안된다면 위 설정 다시 보기
 
 - 테스트 사이트 접속
 ```
 curl https://testmynids.org/uid/index.html
 ```
 ![[Pasted image 20240912104047.png]]
-- 같은 내용이 출력되면 정상
+같은 내용이 출력되면 정상
 
+- 로그 확인
+```
+cat /var/log/suricata/fast.log
+```
+출력 되어야 정상인데 난 출력이 안됨;;
+
+- 로그 파일 설명
 ![[Pasted image 20240912121316.png]]
 
 - json 툴 설치
