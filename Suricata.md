@@ -190,5 +190,5 @@ suricata-update update-sources
 # 외부 업체에서 제공하는 rules list
 suricata-update list-sources
 
-suricata-update enable-source target/hunting
+suricata-update enable-source tgreen/hunting
 ```
