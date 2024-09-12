@@ -169,3 +169,15 @@ vi /etc/suricata/suricata.yaml
 # 테스트
 suricata -T -c /etc/suricata/suricata.yaml -v
 ```
+
+- (아무데나 핑 보내고 테스트)
+```
+cat /var/log/suricata/fast.log
+```
+![[Pasted image 20240912113609.png]]
+
+- 실시간으로 보기
+```
+tail -f /var/log/suricata/fast.log -i enp0s3
+tail -f /var/log/suricata/eve.json | jq 'select(.event_type=="alert")'
+```
