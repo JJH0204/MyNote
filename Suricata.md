@@ -139,3 +139,13 @@ curl https://testmynids.org/uid/index.html
 cat /var/log/suricata/fast.log
 ```
 
+- json 툴 설치
+```
+apt install -y jq
+```
+
+- jp 사용법
+```
+jq 'select(.alert .signature_id==2100498)' /var/log/suricata/eve.json
+jp '명령어(.요소 .요소==찾는 값)' json 파일 경로
+```
