@@ -24,4 +24,12 @@ wget https://www.openinfosecfoundation.org/download/suricata-7.0.6.tar.gz
 tar xzf suricata-7.0.6.tar.gz
 ```
 
-- 파일
+- suricata 환경 설정
+```
+./configure --enable-efqueue --prefix=/usr --sysconfdir=/etc --localstatedir=/var
+```
+
+- 컴파일 및 설치
+```
+make && make install-full
+```
