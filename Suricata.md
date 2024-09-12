@@ -178,6 +178,17 @@ cat /var/log/suricata/fast.log
 
 - 실시간으로 보기
 ```
-tail -f /var/log/suricata/fast.log -i enp0s3
+tail -fv /var/log/suricata/fast.log
 tail -f /var/log/suricata/eve.json | jq 'select(.event_type=="alert")'
+```
+
+- Rules 업데이트
+```
+# Vendor 갱신
+suricata-update update-sources
+
+# 외부 업체에서 제공하는 rules list
+suricata-update list-sources
+
+suricata-update enable-source target/hunting
 ```
