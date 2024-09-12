@@ -145,6 +145,9 @@ jq 'select(.alert .signature_id==2100498)' /var/log/suricata/eve.json
 ```
 cd /etc/suricata && mkdir ./rules && vi ./rules/local.rules
 ```
+```
+vi ./etc/suricata/rules/local.rules
+```
 > [!Note]
 > - [[Snort Rule]]과 방식이 같음
 > 
