@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "790614a316427b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sguil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "39b8ffd8b7b65b06",
             "type": "leaf",
             "state": {
@@ -51,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sguil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sguil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sguil.md"
+              }
             }
           },
           {
@@ -203,8 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "790614a316427b87",
   "lastOpenFiles": [
+    "Spaces/Desc/네트워크 보안.md",
+    "Sguil.md",
     "Open VPN.md",
     "Spaces/Temp/Pasted image 20240911205151.png",
     "pfsense.md",
@@ -215,7 +234,6 @@
     "zabbix.md",
     "NMS.md",
     "무제 파일.md",
-    "Spaces/Desc/네트워크 보안.md",
     "Spaces/Temp/Pasted image 20240911102949.png",
     "Spaces/Temp/Pasted image 20240911102726.png",
     "Spaces/Temp/Pasted image 20240911102704.png",
