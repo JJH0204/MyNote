@@ -34,4 +34,32 @@ tar xzf suricata-7.0.6.tar.gz
 make && make install-full
 ```
 
-![[Pasted image 20240912100259.png]]
+- 결과 창
+![[Pasted image 20240912100640.png]]
+- [suricata 설치 경로] -c [suricata 설정 파일 경로] -i [적용할 인터페이스]
+- 탐지를 위한 룰 설치가 완료 되었다고 함
+- 룰을 포함해 관리 시스템을 업데이트 하기위해 필요한 명령어를 설명해준다.
+
+- 버전 확인
+```
+suricata -V
+```
+
+- 설정 파일 수정
+```
+systemctl stop suricata
+
+# 인터페이스 설정 확인
+ip --brief
+ip --brief add
+
+""" 출력 결과
+lo               UNKNOWN        127.0.0.1/8 ::1/128
+enp0s3           UP             192.168.1.118/16 fe80::a00:27ff:fe41:6cb2/64
+"""
+
+vi /etc/suricata/suricata.yaml
+
+ 18     HOME_NET: "[192.168.0.0/16]"
+ 
+```
