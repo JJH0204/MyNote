@@ -134,3 +134,8 @@ curl https://testmynids.org/uid/index.html
 
 ![[Pasted image 20240912104241.png]]
 
+- 침해 상황을 볼 수 있는 로그 파일
+```
+cat /var/log/suricata/fast.log
+```
+
