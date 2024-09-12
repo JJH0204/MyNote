@@ -33,3 +33,5 @@ tar xzf suricata-7.0.6.tar.gz
 ```
 make && make install-full
 ```
+
+![[Pasted image 20240912100259.png]]
