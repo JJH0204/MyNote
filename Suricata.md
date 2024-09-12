@@ -114,8 +114,23 @@ vi /etc/systemd/system/suricata.service
 :wq 
 """
 ```
+	- 새로운 서비스를 추가하고 싶다면 이 방법으로 추가
 
+- 서비스 실행
 ```
 systemctl enable suricata
+
+systemctl daemon-reload
+systemctl start suricata
 ```
--  정상 실행 안된다면 위 설정 다시 보기
+	-  정상 실행 안된다면 위 설정 다시 보기
+
+- 테스트
+```
+curl https://testmynids.org/uid/index.html
+```
+![[Pasted image 20240912104047.png]]
+- 같은 내용이 출력되면 정상
+
+![[Pasted image 20240912104241.png]]
+
