@@ -84,7 +84,7 @@ Info: threshold-config: Threshold config parsed: 0 rule(s) found
 Info: detect: 39805 signatures processed. 1158 are IP-only rules, 4116 are inspecting packet payload, 34321 inspect application layer, 108 are decoder event only
 Notice: suricata: Configuration provided was successfully loaded. Exiting.
 
-- suricata 실행
+- suricata 실행 (테스트하고 ctrl + c)
 ```
 suricata -c /etc/suricata/suricata.yaml -i enp0s3
 ```
@@ -93,15 +93,7 @@ suricata -c /etc/suricata/suricata.yaml -i enp0s3
 ```
 vi /etc/systemd/system/suricata.service
 ```
-> [!수정]
- 18     HOME_NET: "[192.168.0.0/16]" # 사설 IP 대역들이 추가되어 있음
- 61 default-log-dir: /var/log/suricata/ # 로그 적제 디렉토리
- 136       community-id: true
- 621   - interface: enp0s3 # --brief로 확인한 인터페이스로 변경(패킷 탐지할 인터페이스)
- 798       promisc: true
- 814   - interface: enp0s3 # 패킷 캡쳐할 인터페이스 설정
-```
-"""
+> [!추가]
   1 [Unit]
   2 Description=Suricata IDS/IPS
   3 After=network.target
@@ -111,21 +103,16 @@ vi /etc/systemd/system/suricata.service
   7
   8 [Install]
   9 WantedBy=default.target
-:wq 
-"""
-```
+  
 	- 새로운 서비스를 추가하고 싶다면 이 방법으로 추가
 
 - 서비스 실행
 ```
-systemctl enable suricata
-
-systemctl daemon-reload
-systemctl start suricata
+systemctl daemon-reload && systemctl enable suricata && systemctl start suricata
 ```
 	-  정상 실행 안된다면 위 설정 다시 보기
 
-- 테스트
+- 테스트 사이트 접속
 ```
 curl https://testmynids.org/uid/index.html
 ```
