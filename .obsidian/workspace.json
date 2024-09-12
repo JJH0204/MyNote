@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suricata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Suricata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Suricata.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,10 +226,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "790614a316427b87",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "Snort Rule.md",
     "Suricata.md",
+    "Snort Rule.md",
     "Spaces/Temp/Pasted image 20240912121316.png",
     "Spaces/Temp/Pasted image 20240912113609.png",
     "Spaces/Temp/Pasted image 20240912104241.png",
