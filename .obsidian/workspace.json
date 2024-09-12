@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "624ec7c00f9dc7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wordpress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54ce3a63aeb5e825",
             "type": "leaf",
             "state": {
@@ -75,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wordpress.md"
+              }
             }
           },
           {
@@ -226,8 +243,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "624ec7c00f9dc7d4",
   "lastOpenFiles": [
+    "Spaces/Desc/web.md",
+    "Wordpress.md",
     "Suricata.md",
     "Snort Rule.md",
     "Spaces/Temp/Pasted image 20240912121316.png",
@@ -264,7 +283,6 @@
     "Spaces/Home/C++ 프로젝트.md",
     "ACL.md",
     "Spaces/Desc/DHCP.md",
-    "DNS.md",
     "etc",
     "Linux",
     "Spaces/Temp",
