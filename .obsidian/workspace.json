@@ -16,12 +16,24 @@
             }
           },
           {
+            "id": "54ce3a63aeb5e825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/네트워크 보안.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "790614a316427b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sguil.md",
+                "file": "Suricata.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sguil.md",
+                "file": "Suricata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sguil.md",
+                "file": "Suricata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sguil.md"
+                "file": "Suricata.md"
               }
             }
           },
@@ -223,7 +235,10 @@
   "active": "790614a316427b87",
   "lastOpenFiles": [
     "Spaces/Desc/네트워크 보안.md",
-    "Sguil.md",
+    "Spaces/Desc/Spaces/Temp/Pasted image 20240912090340.png",
+    "Spaces/Desc/Spaces/Temp",
+    "Spaces/Desc/Spaces",
+    "Suricata.md",
     "Open VPN.md",
     "Spaces/Temp/Pasted image 20240911205151.png",
     "pfsense.md",
@@ -242,7 +257,6 @@
     "Spaces/Temp/Pasted image 20240911102541.png",
     "Spaces/Temp/Pasted image 20240911102412.png",
     "Spaces/Temp/Pasted image 20240911095102.png",
-    "Spaces/Temp/Pasted image 20240911094941.png",
     "IDS.md",
     "Snort Rule.md",
     "Wireshark.md",
@@ -257,7 +271,6 @@
     "ACL.md",
     "Spaces/Desc/DHCP.md",
     "DNS.md",
-    "Kali IP Setup.md",
     "etc",
     "Linux",
     "Spaces/Temp",
@@ -265,8 +278,6 @@
     "Spaces/text",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
     "Excalidraw/Spaces/Temp",
-    "Excalidraw/Spaces",
-    ".md",
-    "Fonts/나눔손글씨 강부장님체.ttf"
+    "Excalidraw/Spaces"
   ]
 }
