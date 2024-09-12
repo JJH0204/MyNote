@@ -2,6 +2,7 @@
 - https://oisf.net/, https://suricata.io/download/
 
 ## Install of Ubuntu Linux
+- https://daeunnniii.tistory.com/107
 ### 환경 구성
 ---
 - 환경 구성 패키지 설치
@@ -26,7 +27,7 @@ tar xzf suricata-7.0.6.tar.gz
 
 - suricata 환경 설정
 ```
-./configure --enable-efqueue --prefix=/usr --sysconfdir=/etc --localstatedir=/var
+cd ./suricata-7.0.6 && ./configure --enable-efqueue --prefix=/usr --sysconfdir=/etc --localstatedir=/var
 ```
 
 - 컴파일 및 설치
