@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snort Rule.md",
+                "file": "Suricata.md",
                 "mode": "preview",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snort Rule.md",
+                "file": "Suricata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snort Rule.md",
+                "file": "Suricata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snort Rule.md"
+                "file": "Suricata.md"
               }
             }
           },
@@ -233,10 +233,10 @@
   },
   "active": "790614a316427b87",
   "lastOpenFiles": [
+    "Snort Rule.md",
     "Suricata.md",
     "Spaces/Temp/Pasted image 20240912121316.png",
     "Spaces/Temp/Pasted image 20240912113609.png",
-    "Snort Rule.md",
     "Spaces/Temp/Pasted image 20240912104241.png",
     "Spaces/Temp/Pasted image 20240912104047.png",
     "Spaces/Temp/Pasted image 20240912100640.png",
