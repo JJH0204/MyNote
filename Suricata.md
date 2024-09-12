@@ -132,12 +132,7 @@ curl https://testmynids.org/uid/index.html
 ![[Pasted image 20240912104047.png]]
 - 같은 내용이 출력되면 정상
 
-![[Pasted image 20240912104241.png]]
-
-- 침해 상황을 볼 수 있는 로그 파일
-```
-cat /var/log/suricata/fast.log
-```
+![[Pasted image 20240912121316.png]]
 
 - json 툴 설치
 ```
@@ -191,4 +186,7 @@ suricata-update update-sources
 suricata-update list-sources
 
 suricata-update enable-source tgreen/hunting
+suricata-update -o /etc/suricata/rules
+
+systemctl restart suricata
 ```
