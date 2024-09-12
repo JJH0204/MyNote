@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suricata.md",
+                "file": "Snort Rule.md",
                 "mode": "preview",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suricata.md",
+                "file": "Snort Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Suricata.md",
+                "file": "Snort Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Suricata.md"
+                "file": "Snort Rule.md"
               }
             }
           },
@@ -233,10 +233,10 @@
   },
   "active": "790614a316427b87",
   "lastOpenFiles": [
+    "Suricata.md",
     "Spaces/Temp/Pasted image 20240912121316.png",
     "Spaces/Temp/Pasted image 20240912113609.png",
     "Snort Rule.md",
-    "Suricata.md",
     "Spaces/Temp/Pasted image 20240912104241.png",
     "Spaces/Temp/Pasted image 20240912104047.png",
     "Spaces/Temp/Pasted image 20240912100640.png",
@@ -257,7 +257,6 @@
     "무제 파일.md",
     "Spaces/Temp/Pasted image 20240911102949.png",
     "Spaces/Temp/Pasted image 20240911102726.png",
-    "Spaces/Temp/Pasted image 20240911102704.png",
     "IDS.md",
     "Wireshark.md",
     "Spaces/Desc/Web_Hacking.md",
