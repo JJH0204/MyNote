@@ -149,3 +149,18 @@ apt install -y jq
 jq 'select(.alert .signature_id==2100498)' /var/log/suricata/eve.json
 jp '명령어(.요소 .요소==찾는 값)' json 파일 경로
 ```
+
+- 룰 작성
+```
+cd /root/suricata-7.0.6/rules
+vi ./local.rules
+
+# [[Snort Rule]]과 방식이 같음
+alert icmp any any -> $HOME_NET any (msg:"icmp packit";sid:100001;rev:1;)
+```
+
+- 룰 추가
+```
+vi /etc/suricata/suricata.yaml
+2166   - /etc/suricata/rules/local.rules
+```
