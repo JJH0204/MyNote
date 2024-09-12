@@ -60,6 +60,7 @@ enp0s3           UP             192.168.1.118/16 fe80::a00:27ff:fe41:6cb2/64
 
 vi /etc/suricata/suricata.yaml
 
+"""
  18     HOME_NET: "[192.168.0.0/16]" # 사설 IP 대역들이 추가되어 있음
 
  61 default-log-dir: /var/log/suricata/ #로그 적제 디렉토리
@@ -71,7 +72,7 @@ vi /etc/suricata/suricata.yaml
  798       promisc: true
 
  814   - interface: enp0s3 # 패킷 캡쳐할 인터페이스 설정
-
+"""
 :wq 
 
 # 설정 파일 문법 검사
@@ -95,3 +96,26 @@ Notice: suricata: Configuration provided was successfully loaded. Exiting.
 # suricata 실행
 suricata -c /etc/suricata/suricata.yaml -i enp0s3
 ```
+
+- 서비스 추가
+```
+vi /etc/systemd/system/suricata.service
+
+"""
+  1 [Unit]
+  2 Description=Suricata IDS/IPS
+  3 After=network.target
+  4
+  5 [Service]
+  6 ExecStart=/usr/bin/suricata -c /etc/suricata/suricata.yaml -i enp0s3
+  7
+  8 [Install]
+  9 WantedBy=default.target
+:wq 
+"""
+```
+
+```
+systemctl enable suricata
+```
+-  정상 실행 안된다면 위 설정 다시 보기
