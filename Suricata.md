@@ -46,40 +46,31 @@ make && make install-full
 suricata -V
 ```
 
-- 설정 파일 수정
+- 인터페이스 이름 확인
 ```
-systemctl stop suricata
-
-# 인터페이스 설정 확인
-ip --brief
 ip --brief add
-
-""" 결과
+```
+> [!결과]
 lo               UNKNOWN        127.0.0.1/8 ::1/128
 enp0s3           UP             192.168.1.118/16 fe80::a00:27ff:fe41:6cb2/64
-"""
 
+- 설정 파일 수정
+```
 vi /etc/suricata/suricata.yaml
-
-"""
+```
+> [!수정]
  18     HOME_NET: "[192.168.0.0/16]" # 사설 IP 대역들이 추가되어 있음
-
- 61 default-log-dir: /var/log/suricata/ #로그 적제 디렉토리
-
+ 61 default-log-dir: /var/log/suricata/ # 로그 적제 디렉토리
  136       community-id: true
-
  621   - interface: enp0s3 # --brief로 확인한 인터페이스로 변경(패킷 탐지할 인터페이스)
-
  798       promisc: true
-
  814   - interface: enp0s3 # 패킷 캡쳐할 인터페이스 설정
-"""
-:wq 
-
-# 설정 파일 문법 검사
+ 
+- 설정 파일 문법 검사
+```
 suricata -T -c /etc/suricata/suricata.yaml -v
-
-""" 결과
+```
+> [!결과]
 Notice: suricata: This is Suricata version 7.0.6 RELEASE running in SYSTEM mode
 Info: cpu: CPUs/cores online: 2
 Info: suricata: Running suricata under test mode
@@ -92,16 +83,24 @@ Info: detect: 1 rule files processed. 39802 rules successfully loaded, 0 rules f
 Info: threshold-config: Threshold config parsed: 0 rule(s) found
 Info: detect: 39805 signatures processed. 1158 are IP-only rules, 4116 are inspecting packet payload, 34321 inspect application layer, 108 are decoder event only
 Notice: suricata: Configuration provided was successfully loaded. Exiting.
-"""
 
-# suricata 실행
+- suricata 실행
+```
 suricata -c /etc/suricata/suricata.yaml -i enp0s3
 ```
 
 - 서비스 추가
 ```
 vi /etc/systemd/system/suricata.service
-
+```
+> [!수정]
+ 18     HOME_NET: "[192.168.0.0/16]" # 사설 IP 대역들이 추가되어 있음
+ 61 default-log-dir: /var/log/suricata/ # 로그 적제 디렉토리
+ 136       community-id: true
+ 621   - interface: enp0s3 # --brief로 확인한 인터페이스로 변경(패킷 탐지할 인터페이스)
+ 798       promisc: true
+ 814   - interface: enp0s3 # 패킷 캡쳐할 인터페이스 설정
+```
 """
   1 [Unit]
   2 Description=Suricata IDS/IPS
