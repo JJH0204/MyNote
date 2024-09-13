@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "432f3fa61f2db10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "624ec7c00f9dc7d4",
             "type": "leaf",
             "state": {
@@ -91,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "snort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,11 +158,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -165,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/포트폴리오.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/포트폴리오.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/포트폴리오.md"
+                "file": "snort.md"
               }
             }
           },
@@ -245,15 +260,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "432f3fa61f2db10b",
   "lastOpenFiles": [
+    "Spaces/Desc/포트폴리오.md",
+    "snort.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112655.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112533.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112422.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112242.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112100.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913110244.png",
-    "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/네트워크 보안.md",
     "Open VPN.md",
     "Suricata.md",
@@ -265,12 +281,10 @@
     "Spaces/Temp/Pasted image 20240912113609.png",
     "Spaces/Temp/Pasted image 20240912104241.png",
     "Spaces/Temp/Pasted image 20240912104047.png",
-    "Spaces/Temp/Pasted image 20240912100640.png",
     "Spaces/Desc/Spaces/Temp",
     "Spaces/Desc/Spaces",
     "pfsense.md",
     "VPN.md",
-    "snort.md",
     "Firewall.md",
     "zabbix.md",
     "NMS.md",
