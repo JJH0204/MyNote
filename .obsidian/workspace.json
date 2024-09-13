@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snort",
+                "query": "SYN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,10 +250,11 @@
   },
   "active": "432f3fa61f2db10b",
   "lastOpenFiles": [
+    "DDoS.md",
+    "snort.md",
     "Suricata.md",
     "zabbix.md",
     "HIDS.md",
-    "snort.md",
     "NMS.md",
     "Spaces/Desc/네트워크 보안.md",
     "Wordpress.md",
@@ -280,7 +281,6 @@
     "IDS.md",
     "Wireshark.md",
     "Spaces/Desc/Web_Hacking.md",
-    "DDoS.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Kali Linux.md",
     "Spaces/Desc/정보보안자격증.md",
