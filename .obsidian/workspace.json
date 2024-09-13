@@ -11,8 +11,12 @@
             "id": "dd1fa365419d5db4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/포트폴리오.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -87,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open VPN.md",
+                "file": "Spaces/Desc/포트폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open VPN.md",
+                "file": "Spaces/Desc/포트폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open VPN.md"
+                "file": "Spaces/Desc/포트폴리오.md"
               }
             }
           },
@@ -243,10 +245,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39b8ffd8b7b65b06",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "Suricata.md",
+    "Spaces/Desc/Spaces/Temp/Pasted image 20240913110244.png",
+    "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/네트워크 보안.md",
+    "Open VPN.md",
+    "Suricata.md",
     "Wordpress.md",
     "HIDS.md",
     "Spaces/Desc/web.md",
@@ -260,7 +265,6 @@
     "Spaces/Desc/Spaces/Temp/Pasted image 20240912090340.png",
     "Spaces/Desc/Spaces/Temp",
     "Spaces/Desc/Spaces",
-    "Open VPN.md",
     "Spaces/Temp/Pasted image 20240911205151.png",
     "pfsense.md",
     "VPN.md",
@@ -281,8 +285,6 @@
     "ZFW.md",
     "방화벽.md",
     "Spaces/Home/C++ 프로젝트.md",
-    "ACL.md",
-    "Spaces/Desc/DHCP.md",
     "etc",
     "Linux",
     "Spaces/Temp",
