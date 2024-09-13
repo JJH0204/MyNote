@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/포트폴리오.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/포트폴리오.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/포트폴리오.md"
+                "file": "snort.md"
               }
             }
           },
@@ -247,8 +248,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd1fa365419d5db4",
+  "active": "432f3fa61f2db10b",
   "lastOpenFiles": [
+    "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913192226.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913192137.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913192008.png",
@@ -267,10 +269,8 @@
     "Wordpress.md",
     "pfsense.md",
     "Open VPN.md",
-    "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112655.png",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913112533.png",
-    "Spaces/Desc/Spaces/Temp/Pasted image 20240913112422.png",
     "Spaces/Desc/web.md",
     "Snort Rule.md",
     "Spaces/Desc/Spaces/Temp",
