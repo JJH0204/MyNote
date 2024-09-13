@@ -53,7 +53,7 @@ make install # 설치
 snort -V      # 버전 확인
 snort -c /usr/local/etc/snort/snort.lua   # 오류 검출
 ```
-
+- 한 줄 코드
 ```
 cd && wget https://github.com/snort3/snort3/archive/refs/heads/master.zip && unzip master.zip && cd ./snort3-master/ && ./configure_cmake.sh --prefix=/usr/local --enable-tcmalloc && cd ./build && make && make install
 ```
