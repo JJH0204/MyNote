@@ -17,10 +17,10 @@ apt install build-essential libpcap-dev libpcre3-dev libnet1-dev zlib1g-dev luaj
 ![[Pasted image 20240909142850.png]]
 ```
 git clone https://github.com/snort3/libdaq.git # git에서 소스 파일 다운로드
-./libdaq/bootstrap                             # 초기 설정 스크립트 실행
-./libdaq/configure
-make                                           # 소스 컴파일
-make install                                   # 컴파일 된 소스 실행
+cd ./libdaq
+
+./bootstrap && ./configure                     # 초기 설정 스크립트 실행
+make && make install                           # 소스 컴파일, 컴파일 된 소스 실행
 ```
 
 ### gperftools install
@@ -54,6 +54,9 @@ snort -V      # 버전 확인
 snort -c /usr/local/etc/snort/snort.lua   # 오류 검출
 ```
 
+```
+cd && wget https://github.com/snort3/snort3/archive/refs/heads/master.zip && unzip master.zip && cd ./snort3-master/ && ./configure_cmake.sh --prefix=/usr/local --enable-tcmalloc && cd ./build && make && make install
+```
 ### snort setting file
 ---
 ```
