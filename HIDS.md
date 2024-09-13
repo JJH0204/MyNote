@@ -144,3 +144,12 @@ firewall-cmd --permanent --add-port=1514/udp
 firewall-cmd --reload
 
 ```
+
+## 로키 리눅스 설치
+```
+dnf install -y gcc make zlib-devel pcre2-devel libevent-devel openssl-devel zlib-devel sqlite-devel
+
+wget -q -O - https://updates.atomicorp.com/installers/atomic | bash
+
+dnf update
+```
