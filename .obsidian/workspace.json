@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +173,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4811b35bf9b96ba0",
+  "floating": {
+    "id": "21c6f2095cef1036",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cbd8cf59483cbec0",
+        "type": "window",
+        "children": [
+          {
+            "id": "f3945d71c36eb7cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ca4bc37a2a0b2d3",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1720,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
+    "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
+    "Spaces/Desc/포트폴리오.md",
     "Spaces/Pasted image 20240825143620.png",
     "Spaces/Pasted image 20240821220406.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
@@ -186,9 +222,7 @@
     "Spaces/Temp/Pasted image 20240814191404.png",
     "Spaces/Temp/Pasted image 20240816231622.png",
     "Spaces/Temp/Pasted image 20240810171616.png",
-    "Spaces/Temp/Pasted image 20240819213431.png",
     "etc/passwd.md",
-    "Spaces/Desc/포트폴리오.md",
     "snort.md",
     "HIDS.md",
     "Suricata.md",
