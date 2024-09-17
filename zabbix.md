@@ -192,7 +192,22 @@ apt install -y zabbix-agent
 
 - agent 설정 수정
 ```
-Server=#
+vi /etc/zabbix/zabbix_agentd.conf
+###
+Server=#zabbix 서버 ip
+ServerActive=#zabbix 서버 ip
+Hostname=#원하는 이름
+:wq 
+###
+```
+
+- 서비스 재시작
+```
+systemctl start zabbix-agent
+systemctl enable zabbix-agent
+
+firewall-cmd --permanent --add-port=10050/tcp
+firewall-cmd --reload
 ```
 #### agent 추가
 서버 접속
