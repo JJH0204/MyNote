@@ -178,8 +178,21 @@ firewall-cmd --reload
 
 #### Ubuntu linux set
 zabbix 설치
+- repository 설정
+```
+wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_7.0-2+ubuntu24.04_all.deb
+dpkg -i ./zabbix-release_7.0-2+ubuntu24.04_all.deb
 ```
 
+- agent 설치
+```
+apt update
+apt install -y zabbix-agent
+```
+
+- agent 설정 수정
+```
+Server=#
 ```
 #### agent 추가
 서버 접속
