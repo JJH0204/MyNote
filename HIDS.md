@@ -102,12 +102,15 @@ tree /var/ossec/logs # 로그 확인 가능
 tail -f /var/ossec/logs/alerts/alerts.log # 실시간 확인
 ```
 
-## 윈도우 설치
+## 윈도우 Agent 설치
+---
 ![[Pasted image 20240911094941.png]]![[Pasted image 20240911095102.png]]
 ![[Pasted image 20240911102412.png]]![[Pasted image 20240911102949.png]]![[Pasted image 20240911102541.png]]![[Pasted image 20240911102551.png]]![[Pasted image 20240911102636.png]]
 ![[Pasted image 20240911102704.png]]![[Pasted image 20240911102726.png]]
 
 ## 리눅스 agnet 설치
+---
+### Ubuntu Linux Install
 ```
 apt install -y ossec-hids-agent
 
@@ -131,7 +134,14 @@ q
 /var/ossec/bin/ossec-control status
 ```
 
+### Rocky Linux Install
+```
+wget -q -O - https://updates.atomicorp.com/installers/atomic | sudo bash
+dnf install ossec-hids-agent -y
+```
+
 ## rules 설정
+---
 ```
 cd /var/ossec/rules # 정책 관리 디렉토리
 
