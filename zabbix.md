@@ -161,7 +161,7 @@ zabbix_agentd.exe 실행(관리자 권한)
 - firewall-cmd --permanent --add-port=10051/tcp
 - firewall-cmd --reload
 
-#### linux set
+#### CentOS linux set
 zabbix 설치
 ```
 cd /etc/yum.repos.d/
@@ -176,6 +176,11 @@ firewall-cmd --permanent --add-port=10050/tcp
 firewall-cmd --reload
 ```
 
+#### Ubuntu linux set
+zabbix 설치
+```
+
+```
 #### agent 추가
 서버 접속
 ![[Pasted image 20240910153620.png]]
