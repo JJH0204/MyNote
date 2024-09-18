@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png"
               }
             }
           },
@@ -197,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "618bd33f28eb60cf",
+  "active": "b861e0651f906bc8",
   "lastOpenFiles": [
     "Spaces/Desc/포트폴리오.md",
     "snort.md",
