@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zabbix.md",
+                "file": "Suricata.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7ca4bc37a2a0b2d3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png"
               }
             }
           }
@@ -69,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zabbix",
+                "query": "surica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
+                "file": "Suricata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
+                "file": "Suricata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zabbix.md"
+                "file": "Suricata.md"
               }
             }
           },
@@ -186,45 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "21c6f2095cef1036",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cbd8cf59483cbec0",
-        "type": "window",
-        "children": [
-          {
-            "id": "f3945d71c36eb7cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ca4bc37a2a0b2d3",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1720,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4b644ef6155a14cd",
   "lastOpenFiles": [
-    "Spaces/Desc/포트폴리오.md",
+    "zabbix.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
+    "Spaces/Desc/포트폴리오.md",
     "Spaces/Pasted image 20240825143620.png",
     "Spaces/Pasted image 20240821220406.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
@@ -239,7 +216,6 @@
     "HIDS.md",
     "Suricata.md",
     "DDoS.md",
-    "zabbix.md",
     "NMS.md",
     "Spaces/Desc/네트워크 보안.md",
     "Wordpress.md",
