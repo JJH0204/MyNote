@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
+                "file": "Spaces/Desc/포트폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
+                "file": "Spaces/Desc/포트폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png"
+                "file": "Spaces/Desc/포트폴리오.md"
               }
             }
           },
@@ -197,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b861e0651f906bc8",
+  "active": "dd1fa365419d5db4",
   "lastOpenFiles": [
-    "Spaces/Desc/포트폴리오.md",
     "snort.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
+    "Spaces/Desc/포트폴리오.md",
     "Suricata.md",
     "HIDS.md",
     "zabbix.md",
