@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e5c33e914ad080",
+        "id": "013a53b247815e1e",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1fa365419d5db4",
+            "id": "c5741b501438fa86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/포트폴리오.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b861e0651f906bc8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png"
-              }
-            }
-          },
-          {
-            "id": "618bd33f28eb60cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snort.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snort",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "snort.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +166,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "618bd33f28eb60cf",
+  "active": "c5741b501438fa86",
   "lastOpenFiles": [
-    "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "snort.md",
     "Spaces/Desc/포트폴리오.md",
+    "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "Suricata.md",
     "HIDS.md",
     "zabbix.md",
