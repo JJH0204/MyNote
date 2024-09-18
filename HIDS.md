@@ -136,10 +136,12 @@ q
 
 ### Rocky Linux Install
 ```
+dnf install -y gcc make zlib-devel pcre2-devel libevent-devel openssl-devel zlib-devel sqlite-devel
 wget -q -O - https://updates.atomicorp.com/installers/atomic | sudo bash
+dnf update
 dnf install ossec-hids-agent -y
 ```
-
+이후 Ubuntu와 동일
 ## rules 설정
 ---
 ```
@@ -155,11 +157,3 @@ firewall-cmd --reload
 
 ```
 
-## 로키 리눅스 설치
-```
-dnf install -y gcc make zlib-devel pcre2-devel libevent-devel openssl-devel zlib-devel sqlite-devel
-
-wget -q -O - https://updates.atomicorp.com/installers/atomic | bash
-
-dnf update
-```
