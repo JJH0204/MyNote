@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "013a53b247815e1e",
+        "id": "fc8f918edac2ec52",
         "type": "tabs",
         "children": [
           {
-            "id": "c5741b501438fa86",
+            "id": "8f690d618edd1344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snort.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "559745a057fe81d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Suricata.md",
-                "mode": "preview",
+                "file": "시스템 보안.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "시스템 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "시스템 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "시스템 보안.md"
               }
             }
           },
@@ -186,11 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4811b35bf9b96ba0",
+  "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "시스템 보안.md",
+    "Spaces/Desc/리눅스 일반.md",
+    "snort.md",
     "zabbix.md",
     "Suricata.md",
-    "snort.md",
     "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "HIDS.md",
@@ -224,7 +214,6 @@
     "Kali Linux.md",
     "Spaces/Desc/정보보안자격증.md",
     "ZFW.md",
-    "방화벽.md",
     "etc",
     "Linux",
     "Spaces/Temp",
