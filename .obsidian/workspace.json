@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "zabbix.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zabbix.md"
+                "file": "snort.md"
               }
             }
           },
@@ -188,14 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48377f909491284a",
+  "active": "c5741b501438fa86",
   "lastOpenFiles": [
+    "zabbix.md",
     "snort.md",
     "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "Suricata.md",
     "HIDS.md",
-    "zabbix.md",
     "Spaces/Pasted image 20240825143620.png",
     "Spaces/Pasted image 20240821220406.png",
     "Spaces/Temp/Pasted image 20240805211427.png",
