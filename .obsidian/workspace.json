@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "559745a057fe81d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suricata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zabbix",
+                "query": "suri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "Suricata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "Suricata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "Suricata.md"
               }
             }
           },
@@ -187,10 +200,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5741b501438fa86",
+  "active": "559745a057fe81d2",
   "lastOpenFiles": [
-    "zabbix.md",
     "snort.md",
+    "zabbix.md",
     "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "Suricata.md",
