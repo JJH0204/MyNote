@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "48377f909491284a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zabbix.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "559745a057fe81d2",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zabbix.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zabbix.md"
+                "file": "snort.md"
               }
             }
           },
@@ -200,11 +187,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48377f909491284a",
+  "active": "c5741b501438fa86",
   "lastOpenFiles": [
+    "zabbix.md",
     "Suricata.md",
     "snort.md",
-    "zabbix.md",
     "Spaces/Desc/포트폴리오.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "HIDS.md",
