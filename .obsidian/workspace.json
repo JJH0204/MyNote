@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "계정 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,22 +22,43 @@
         ]
       },
       {
-        "id": "3a69f44d0ec0c563",
-        "type": "tabs",
+        "id": "60d94ce086b032e2",
+        "type": "split",
         "children": [
           {
-            "id": "e72aec207d129ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
-                "mode": "source",
-                "source": false
+            "id": "3a69f44d0ec0c563",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e72aec207d129ac7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Spaces/Desc/Linux Basic.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "3af54bf8354c5a8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa5bb9b7c70a8d6f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -113,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/리눅스 일반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Desc/리눅스 일반.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,22 +210,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e72aec207d129ac7",
+  "active": "fa5bb9b7c70a8d6f",
   "lastOpenFiles": [
-    "Linux.md",
-    "시스템 보안.md",
     "계정 관리.md",
+    "암호화.md",
+    "Hashing.md",
+    "Linux.md",
+    "Spaces/Desc/Linux Basic.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "시스템 보안.md",
     "Spaces/Desc/사용자및그룹관리.md",
     "네트워크 관련 자격증.md",
     "네트워크 용어.md",
     "etc/passwd.md",
     "etc",
     "Excalidraw/Linux_Command.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Desc/자료.md",
     "[KISA.md",
     "Shell Script.md",
-    "Spaces/Desc/리눅스 일반.md",
     "snort.md",
     "zabbix.md",
     "Suricata.md",
@@ -229,9 +249,6 @@
     "Spaces/Desc/네트워크 보안.md",
     "Wordpress.md",
     "pfsense.md",
-    "Open VPN.md",
-    "Spaces/Desc/web.md",
-    "Snort Rule.md",
     "Spaces/Desc/Spaces/Temp",
     "Spaces/Desc/Spaces",
     "Linux",
