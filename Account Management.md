@@ -41,7 +41,7 @@ test1:$6$IjZ5ZEIVe1qvJi9G$k2W4sr9OkioC.KXNQbpxG8.QCa.pDiylXkYrAqhfYlYa04yPPTH2PF
 # test와 test1은 같은 비밀번호를 사용하지만 암호화된 패스워드는 달라진 이유
 ```
 
-- \$$6\$: 사이 값을 통해 사용된 해싱 알고리즘을 알 수 있다.
+- \$6$: 사이 값을 통해 사용된 해싱 알고리즘을 알 수 있다.
 
 # [[Permission]]
 > [!Note]
