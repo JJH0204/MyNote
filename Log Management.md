@@ -11,14 +11,29 @@ cron               hawkey.log-20240920  private            sssd
 
 ```
 
-# btmp
-- binary file
-- `lastb` 또는 `last -f /var/log/btmp` 명령어로 확인
+# Log File
+## btmp
+---
 - 접속 실패 기록 저장
+- `lastb` 또는 `last -f /var/log/btmp` 명령어로 확인
 
-# utmp
+## utmp
+---
 - 사용자 기록
 - 현재 시스템에 접속한 사용자 로그
 - `who`, `who am i` 명령어로 확인 가능
 
-# wtmp
+## wtmp
+---
+- 로그인 성공한 기록
+- `last`, `last -f /var/log/wtmp` 명령어로 확인
+
+## lastlog
+---
+- 전체 사용자의 마지막 로그인 기록
+- `lastlog` 명령어로 확인
+- `lastlog -u root` 지정한 사용자의 로그인 기록 출력
+- `lastlog -t 5`: 기간 동안 로그인한 기록
+- `lastlog -b 19`: 지정한 날짜 이전 로그 기록 출력
+
+## messages
