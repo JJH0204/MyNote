@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Account Management.md",
+                "file": "Spaces/Desc/Permission.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/Permission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/Permission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/Permission.md"
+              }
             }
           },
           {
@@ -186,12 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60c1070d9aaca724",
+  "active": "8f690d618edd1344",
   "lastOpenFiles": [
     "Account Management.md",
     "Spaces/Desc/Permission.md",
-    "Backdoor.md",
     "Linux.md",
+    "Backdoor.md",
     "Spaces/Desc/1차 기출 오답.md",
     "Spaces/Desc/Linux Basic.md",
     "무제 파일.md",

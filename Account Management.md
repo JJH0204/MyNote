@@ -42,4 +42,20 @@ test1:$6$IjZ5ZEIVe1qvJi9G$k2W4sr9OkioC.KXNQbpxG8.QCa.pDiylXkYrAqhfYlYa04yPPTH2PF
 # 계정 암호화 적용 여부 수정
 ```
 echo "test:1234" | chpasswd -c NONE # 암호화 적용 안함
+echo "test:1234" | chpasswd -c SHA512 # Linux 기본 알고리즘
 ```
+
+# /etc/login.defs
+- 계정(암호화/권한)관리를 위한 설정 파일
+```
+117 UMASK           022
+144 UID_MIN                  1000
+204 ENCRYPT_METHOD SHA512
+```
+
+# 비밀번호 복잡성 설정
+- 복잡성 설정 파일 설치 여부 확인
+```
+dnf list installed libpwquality
+```
+
