@@ -9,8 +9,7 @@
 
 [tip. 가상머신 복제](https://www.whatwant.com/entry/VirtualBox-Copy)
 [가상 머신 공유 폴더 생성](https://www.wookoa.com/2024/01/how-to-share-and-copy-vmware-virtual-machine-files.html)
-- [day1](Linux_day_1.md)
-- [day2](Linux_day_2.md)
+- [[CentOS Basic Command]]
 
 - [netcat](netcat.md)
 - [SSH](SSH.md)
@@ -22,7 +21,7 @@
 - [mount](mount.md)
 - [vi편집기](vi.md)
 - [와일드카드](와일드카드.md)
-- [[사용자및그룹관리]]
+- [[그룹관리]]
 
 아래 디렉토리 표현은 같음
 `cd /home/jang` = `cd ~jang`

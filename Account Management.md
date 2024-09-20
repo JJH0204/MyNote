@@ -120,5 +120,5 @@ passwd -u sshd
 Unlocking password for user sshd.
 passwd: Warning: unlocked password would be empty.
 passwd: Unsafe operation (use -f to force)
-
 ```
+[awk](https://recipes4dev.tistory.com/171)
