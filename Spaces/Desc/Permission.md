@@ -81,7 +81,7 @@ x = 1
 - 사용자 권한의 s = 4000, 그룹 권한의 s = 2000
 
 [/etc/sudoers](https://mans-daily.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4UbuntuCentOS-etcsudoers-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%88%98%EC%A0%95%ED%95%98%EC%97%AC-sudo-%EA%B6%8C%ED%95%9C-%EB%B0%8F-root-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0)
-## [[Backdoor]]
+## [[Backdoor Attack]]
 
 # 특정 사용자 또는 권한 가진 파일 찾기 
 ```

@@ -84,4 +84,7 @@ crontab -l
 # 크론 로그 확인
 cat /var/log/cron-20240920
 ```
-
+```
+# 사용자의 crontab 삭제
+crontab -r 
+```

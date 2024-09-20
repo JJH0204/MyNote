@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Linux ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10.0016276041667,
   "linkStrength": 0.748819986979167,
   "linkDistance": 100,
-  "scale": 0.47801701982123423,
-  "close": true
+  "scale": 0.67017168663527,
+  "close": false
 }
