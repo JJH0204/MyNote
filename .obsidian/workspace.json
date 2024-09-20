@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Account Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Account Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Account Management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f690d618edd1344",
+  "active": "60c1070d9aaca724",
   "lastOpenFiles": [
-    "Spaces/Desc/Permission.md",
     "Account Management.md",
+    "Spaces/Desc/Permission.md",
     "Linux.md",
     "Backdoor.md",
     "Spaces/Desc/1차 기출 오답.md",

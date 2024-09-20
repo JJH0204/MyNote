@@ -79,4 +79,17 @@ vi /etc/security/pwquality.conf
 
 38 # maxrepeat = 0 # 연속해서 나오는 문자 검사
 
+47 # gecoscheck = 0 # (bool 값) /etc/passwd 5필드 값 검사여부
+
 ```
+
+# 사용자 비밀번호 변경 스크립트
+```sh
+#! /bin/bash
+
+for user in $(awk -F: "$3 >= 1000 {print $1}" /etc/passwd); do
+        chage -d O $user
+done
+```
+- /etc/passwd 파일에 저장된 계정들 중 ID 값이 1000이상 들을 user 변수에 저장
+- 순차적으로 반복하며 user의 비밀번호를 변경
