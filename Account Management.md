@@ -105,6 +105,20 @@ vi /etc/security/faillock.conf
 38 # fail_interval = 900 # 인증 간격 (단위. 초)
 
 45 # unlock_time = 600 # 계정 잠금 시간 (단위. 초)
+```
 
+```
+tss:!!:19964::::::
+# /etc/shadow 의 두번째 필드가 !로 시작하면 잠겨있는 계정
+```
+
+- 직접 잠금 해제
+```sh
+awk -F: '{if ($2 ~ /^!\$/) print $1}' /etc/shadow
+
+passwd -u sshd
+Unlocking password for user sshd.
+passwd: Warning: unlocked password would be empty.
+passwd: Unsafe operation (use -f to force)
 
 ```
