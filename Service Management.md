@@ -24,5 +24,8 @@ ls -l /etc/exports
 - 해당 파일을 수정할 수 있는 권한을 가진 경우 취약해짐으로 확인 필요
 - 일반 사용자도 crontab 을 사용할 수 있다.(내부의 권한을 확인)
 ```
-chmod o-x 'which crontab' # other에서 실행 권한을 제거 (+는 추가)
+chmod o-x '/usr/bin/crontab' # other에서 실행 권한을 제거 (+는 추가)
+# 기타 사용자의 cron 사용 권한 제거
 ```
+### cron.deny
+- 기타 사용자라 crontab을 사용할 수 있는 상황에서 특정 사용자의 권한을 제거할 때 사용
