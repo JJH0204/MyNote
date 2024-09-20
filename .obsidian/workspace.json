@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "Backdoor Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "Backdoor Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "Backdoor Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/Permission.md"
+                "file": "Backdoor Attack.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "60c1070d9aaca724",
   "lastOpenFiles": [
+    "Spaces/Desc/Permission.md",
     "Account Management.md",
     "Linux_Sec.md",
     "시스템 보안.md",
@@ -214,7 +215,6 @@
     "Spaces/Desc/CentOS Basic Command.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "리눅스마스터2급.md",
-    "Remote Access Management.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
