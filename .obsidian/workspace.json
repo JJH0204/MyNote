@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log Management.md",
+                "file": "Service Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log Management.md",
+                "file": "Service Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log Management.md",
+                "file": "Service Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log Management.md"
+                "file": "Service Management.md"
               }
             }
           },
@@ -229,6 +229,10 @@
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
     "Logrotate.md",
+    "Log Management.md",
+    "Linux.md",
+    "Service Management.md",
+    "Remote Access Management.md",
     "Spaces/Desc/1차 기출 오답.md",
     "Spaces/Desc/Network_Protocol.md",
     "Spaces/Desc/DHCP.md",
@@ -238,10 +242,8 @@
     "Kali Linux.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
-    "Log Management.md",
     "Log_File.md",
     "cron.md",
-    "Linux.md",
     "Account Management.md",
     "Spaces/Desc/Shadow_Password.md",
     "Spaces/Desc/Linux Basic.md",
@@ -252,8 +254,6 @@
     "Spaces/Desc/CentOS Basic Command.md",
     "Spaces/Desc/Linux_day_2.md",
     "Spaces/Desc/SSH.md",
-    "Spaces/Desc/Console.md",
-    "Spaces/Desc/Permission.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",

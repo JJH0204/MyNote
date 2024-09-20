@@ -109,4 +109,4 @@ WantedBy=timers.target
 ```
 
 crontab
-ps
+`ps -ef` : 현재 실행 중인 서비스 로그 확인([[Service Management]])
