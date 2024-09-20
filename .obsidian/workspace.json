@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "3c6e37026842f727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a5213bcb8be24e84",
             "type": "leaf",
             "state": {
@@ -70,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/리눅스 마스터 2급.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/리눅스 마스터 2급.md"
+              }
             }
           },
           {
@@ -222,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60c1070d9aaca724",
+  "active": "3c6e37026842f727",
   "lastOpenFiles": [
     "Service Management.md",
     "cron.md",
