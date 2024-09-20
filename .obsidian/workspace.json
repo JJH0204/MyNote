@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log Management.md",
+                "file": "Logrotate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log Management.md",
+                "file": "Logrotate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log Management.md",
+                "file": "Logrotate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log Management.md"
+                "file": "Logrotate.md"
               }
             }
           },
@@ -228,8 +228,9 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
-    "Log_File.md",
     "Log Management.md",
+    "Logrotate.md",
+    "Log_File.md",
     "cron.md",
     "Spaces/Desc/1차 기출 오답.md",
     "Linux.md",
@@ -254,7 +255,6 @@
     "암호화.md",
     "Hashing.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "네트워크 관련 자격증.md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "Spaces/Pasted image 20240825143620.png",
