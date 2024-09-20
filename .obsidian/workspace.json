@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "계정 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spaces/Desc/Linux_day_1.md",
+                    "file": "Spaces/Desc/Linux Basic.md",
                     "mode": "source",
                     "source": false
                   }
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwd",
+                "query": "ㅊ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Spaces/Desc/Linux Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "Spaces/Desc/Linux Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "Spaces/Desc/Linux Basic.md"
               }
             }
           },
@@ -214,14 +213,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f690d618edd1344",
+  "active": "4811b35bf9b96ba0",
   "lastOpenFiles": [
-    "계정 관리.md",
-    "Spaces/Desc/Linux_day_1.md",
+    "Spaces/Desc/관리자권한.md",
     "Spaces/Desc/Linux Basic.md",
+    "Spaces/Desc/Linux_day_1.md",
+    "계정 관리.md",
+    "Linux.md",
+    "Spaces/Desc/퍼미션.md",
     "암호화.md",
     "Hashing.md",
-    "Linux.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "시스템 보안.md",
@@ -251,8 +252,6 @@
     "Spaces/Temp/Pasted image 20240816231622.png",
     "DDoS.md",
     "NMS.md",
-    "Spaces/Desc/네트워크 보안.md",
-    "Wordpress.md",
     "Spaces/Desc/Spaces/Temp",
     "Spaces/Desc/Spaces",
     "Linux",
