@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/Permission.md"
+                "file": "Linux.md"
               }
             }
           },
@@ -216,17 +216,17 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
-    "계정 관리.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
     "Linux.md",
+    ".md",
     "Spaces/Desc/Permission.md",
-    "Spaces/Desc/관리자권한.md",
     "Spaces/Desc/Linux Basic.md",
+    "Spaces/Desc/관리자권한.md",
     "Spaces/Desc/Linux_day_1.md",
     "암호화.md",
     "Hashing.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "시스템 보안.md",
     "Spaces/Desc/사용자및그룹관리.md",
     "네트워크 관련 자격증.md",
     "네트워크 용어.md",
@@ -260,7 +260,6 @@
     "Spaces/text/day2.txt",
     "Spaces/text",
     "Spaces/Desc/리눅스마스터2급 1차 족보(출처미상).pdf",
-    "Excalidraw/Spaces/Temp",
-    "Excalidraw/Spaces"
+    "Excalidraw/Spaces/Temp"
   ]
 }
