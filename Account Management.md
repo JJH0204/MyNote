@@ -39,3 +39,7 @@ test1:$6$IjZ5ZEIVe1qvJi9G$k2W4sr9OkioC.KXNQbpxG8.QCa.pDiylXkYrAqhfYlYa04yPPTH2PF
 > [!Note]
 > 권한 관리는 시스템 보안에서 매우 중요한 사항이다. 시스템 해킹의 주요 목적은 관리자 권한을 빼앗아 시스템을 장악하는 것이 목적이기 때문이다. 그래서 이러한 권한을 어떻게 관리하고 운영 하는지 개념을 익히는 것이 필수이다. 
 
+# 계정 암호화 적용 여부 수정
+```
+echo "test:1234" | chpasswd -c NONE # 암호화 적용 안함
+```
