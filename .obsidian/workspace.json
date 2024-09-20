@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/자료.md",
+                "file": "etc/passwd.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e72aec207d129ac7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/자료.md",
+                "file": "etc/passwd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/자료.md",
+                "file": "etc/passwd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/자료.md"
+                "file": "etc/passwd.md"
               }
             }
           },
@@ -176,10 +184,14 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
-    "[KISA.md",
-    "Spaces/Desc/자료.md",
-    "Spaces/Home/Information_Security.md",
+    "계정 관리.md",
+    "etc/passwd.md",
+    "etc",
+    "Excalidraw/Linux_Command.md",
     "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Desc/자료.md",
+    "[KISA.md",
     "Shell Script.md",
     "Spaces/Desc/리눅스 일반.md",
     "snort.md",
@@ -197,7 +209,6 @@
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "Spaces/Temp/Pasted image 20240816231622.png",
-    "etc/passwd.md",
     "DDoS.md",
     "NMS.md",
     "Spaces/Desc/네트워크 보안.md",
@@ -211,10 +222,6 @@
     "VPN.md",
     "Firewall.md",
     "무제 파일.md",
-    "IDS.md",
-    "Wireshark.md",
-    "Spaces/Desc/Web_Hacking.md",
-    "etc",
     "Linux",
     "Spaces/Temp",
     "Spaces/text/day2.txt",
