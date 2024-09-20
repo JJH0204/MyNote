@@ -80,4 +80,8 @@ crontab -l
 0 0 * * * /var/www/system/disk_check.sh
 #####################
 ```
+```
+# 크론 로그 확인
+cat /var/log/cron-20240920
+```
 

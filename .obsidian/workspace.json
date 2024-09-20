@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8f918edac2ec52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f690d618edd1344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "df.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d4e2a85815cfe64a",
         "type": "tabs",
         "children": [
@@ -104,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -120,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "df.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "df.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "df.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2e69df50add19cd",
+  "active": "60c1070d9aaca724",
   "lastOpenFiles": [
-    "cron.md",
+    "Spaces/Desc/Linux Basic.md",
+    "ICMP.md",
     "df.md",
+    "cron.md",
     "Linux_Sec.md",
     "Log Management.md",
     "Log_File.md",
@@ -216,7 +196,6 @@
     "CVE.md",
     "Spaces/Temp/Pasted image 20240920161521.png",
     "Logrotate.md",
-    "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/CentOS Basic Command.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "리눅스마스터2급.md",
@@ -225,7 +204,6 @@
     "Spaces/Desc/DHCP.md",
     "Dynamic Routing Protocol.md",
     "ARP.md",
-    "ICMP.md",
     "Kali Linux.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
