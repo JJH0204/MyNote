@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계정 관리.md",
+                "file": "Spaces/Desc/Permission.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -133,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Desc/Permission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Desc/Permission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Desc/Permission.md"
+              }
             }
           },
           {
@@ -209,14 +214,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa5bb9b7c70a8d6f",
+  "active": "8f690d618edd1344",
   "lastOpenFiles": [
-    "Spaces/Desc/관리자권한.md",
     "계정 관리.md",
-    "Spaces/Desc/퍼미션.md",
+    "Linux.md",
+    "Spaces/Desc/Permission.md",
+    "Spaces/Desc/관리자권한.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/Linux_day_1.md",
-    "Linux.md",
     "암호화.md",
     "Hashing.md",
     "Spaces/Home/Information_Security.md",

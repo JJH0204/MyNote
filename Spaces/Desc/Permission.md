@@ -57,3 +57,19 @@ x = 1
 - umask 값에 의해 결정된다.
 	- 파일(666) - umask(022) = 644
 - umask 값을 누군가 임의로 바꾼다면 보안에 취약한 상황이 발생함으로 주의해야 한다.
+
+# 관리자 권한 관리
+---
+- [블로그 포스팅](https://velog.io/@lenyleny/Linux-sudosusu-%EC%B0%A8%EC%9D%B4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%99%80-%EC%B0%A8%EC%9D%B4-rootadminuser-%EC%B0%A8%EC%9D%B4)
+- /etc/passwd의 UID, GID를 root와 같은 값을 주었을 때 root와 같은 시스템 권한을 갖는 것을 확인
+- Real(RUID, RGID), Effective(EUID, EGID)로 나눠서 계정을 관리한다.
+
+> [!Real/Effective]
+> Real: 사용자 식별에 사용하는 아이디(또는 그룹)
+> Effective: 사용자의 권한을 식별하는데 사용하는 아이디(또는 그룹)
+- 최초 로그인 시에는 두 값이 같다. (SetUIDbit가 설정된 파일을 실행하기 전까지)
+
+```
+-rwsr-xr-x. 1 root root 32656 May 15  2022 /usr/bin/passwd
+```
+- s: 
