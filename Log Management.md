@@ -1,39 +1,32 @@
+# [[Log_File]]
+---
+
+# Logrotate
+---
 ```
-cd /var/log && ls
+○ logrotate.service - Rotate log files
+     Loaded: loaded (/usr/lib/systemd/system/logrotate.service; static)
+     Active: inactive (dead) since Fri 2024-09-20 09:22:01 KST; 5h 12min ago
+TriggeredBy: ● logrotate.timer  # <- 동작 중임을 알 수 있다.
+       Docs: man:logrotate(8)
+             man:logrotate.conf(5)
+    Process: 678 ExecStart=/usr/sbin/logrotate /etc/logrotate.conf (code=exited, stat>
+   Main PID: 678 (code=exited, status=0/SUCCESS)
+        CPU: 46ms
 
-anaconda           cron-20240920        kdump.log          README            tallylog
-audit              dnf.librepo.log      lastlog            samba             tuned
-boot.log           dnf.log              maillog            secure            wtmp
-boot.log-20240920  dnf.rpm.log          maillog-20240920   secure-20240920
-btmp               firewalld            messages           spooler
-chrony             hawkey.log           messages-20240920  spooler-20240920
-cron               hawkey.log-20240920  private            sssd
-
+Sep 20 09:22:01 Linux1 systemd[1]: Starting Rotate log files...
+Sep 20 09:22:01 Linux1 systemd[1]: logrotate.service: Deactivated successfully.
+Sep 20 09:22:01 Linux1 systemd[1]: Finished Rotate log files.
 ```
+```
+● logrotate.timer - Daily rotation of log files
+     Loaded: loaded (/usr/lib/systemd/system/logrotate.timer; enabled; preset: enable>
+     Active: active (waiting) since Fri 2024-09-20 09:22:00 KST; 5h 14min ago
+      Until: Fri 2024-09-20 09:22:00 KST; 5h 14min ago
+    Trigger: Sat 2024-09-21 00:00:00 KST; 9h left
+   Triggers: ● logrotate.service
+       Docs: man:logrotate(8)
+             man:logrotate.conf(5)
 
-# Log File
-## btmp
----
-- 접속 실패 기록 저장
-- `lastb` 또는 `last -f /var/log/btmp` 명령어로 확인
-
-## utmp
----
-- 사용자 기록
-- 현재 시스템에 접속한 사용자 로그
-- `who`, `who am i` 명령어로 확인 가능
-
-## wtmp
----
-- 로그인 성공한 기록
-- `last`, `last -f /var/log/wtmp` 명령어로 확인
-
-## lastlog
----
-- 전체 사용자의 마지막 로그인 기록
-- `lastlog` 명령어로 확인
-- `lastlog -u root` 지정한 사용자의 로그인 기록 출력
-- `lastlog -t 5`: 기간 동안 로그인한 기록
-- `lastlog -b 19`: 지정한 날짜 이전 로그 기록 출력
-
-## messages
+Sep 20 09:22:00 Linux1 systemd[1]: Started Daily rotation of log files.
+```

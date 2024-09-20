@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "a5213bcb8be24e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/1차 기출 오답.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f5f2a5cc719f8e9",
             "type": "leaf",
             "state": {
@@ -216,10 +228,13 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Log_File.md",
+    "Log Management.md",
+    "cron.md",
+    "Spaces/Desc/1차 기출 오답.md",
     "Linux.md",
     "Account Management.md",
     "Spaces/Desc/Shadow_Password.md",
-    "Log Management.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/그룹관리.md",
     "Spaces/Desc/사용자 조회 명령어.md",
@@ -231,7 +246,6 @@
     "Spaces/Desc/Console.md",
     "Spaces/Desc/Permission.md",
     "Backdoor.md",
-    "Spaces/Desc/1차 기출 오답.md",
     "무제 파일.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -241,8 +255,6 @@
     "Hashing.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "네트워크 관련 자격증.md",
-    "네트워크 용어.md",
-    "etc/passwd.md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "Spaces/Pasted image 20240825143620.png",
