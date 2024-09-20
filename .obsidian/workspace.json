@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patch Management.md",
+                "file": "logwatch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patch Management.md",
+                "file": "logwatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patch Management.md",
+                "file": "logwatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patch Management.md"
+                "file": "logwatch.md"
               }
             }
           },
@@ -205,17 +204,18 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Log Management.md",
+    "logwatch.md",
     "Linux_Sec.md",
+    "Patch Management.md",
+    "Spaces/Desc/1차 기출 오답.md",
     "시스템 보안.md",
     "CVE.md",
     "Spaces/Temp/Pasted image 20240920161521.png",
-    "Patch Management.md",
-    "Log Management.md",
     "Logrotate.md",
     "Service Management.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/CentOS Basic Command.md",
-    "Spaces/Desc/1차 기출 오답.md",
     "Spaces/Desc/리눅스 마스터 2급.md",
     "리눅스마스터2급.md",
     "cron.md",
