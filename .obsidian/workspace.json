@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60c1070d9aaca724",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "dd815ccadcf3fe6e",
             "type": "leaf",
             "state": {
@@ -40,6 +32,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "cfb7bf5ded199c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60c1070d9aaca724",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3917e94938c22326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "브루트 포스 공격.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "브루트 포스 공격.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "브루트 포스 공격.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "브루트 포스 공격.md"
+              }
             }
           },
           {
@@ -190,13 +213,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60c1070d9aaca724",
+  "active": "3917e94938c22326",
   "lastOpenFiles": [
+    "Spaces/Desc/Hacking.md",
+    "브루트 포스 공격.md",
+    "Spaces/Desc/SSH.md",
+    "Backdoor Attack.md",
+    "df.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Backdoor Attack.md",
-    "Spaces/Desc/Hacking.md",
-    "df.md",
     "Storage Management.md",
     "Linux_Sec.md",
     "시스템 보안.md",
@@ -217,8 +242,6 @@
     "Remote Access Management.md",
     "Spaces/Desc/Network_Protocol.md",
     "Spaces/Desc/DHCP.md",
-    "Dynamic Routing Protocol.md",
-    "ARP.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
