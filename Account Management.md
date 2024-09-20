@@ -88,8 +88,23 @@ vi /etc/security/pwquality.conf
 #! /bin/bash
 
 for user in $(awk -F: "$3 >= 1000 {print $1}" /etc/passwd); do
-        chage -d O $user
+        change -d O $user
 done
 ```
 - /etc/passwd 파일에 저장된 계정들 중 ID 값이 1000이상 들을 user 변수에 저장
 - 순차적으로 반복하며 user의 비밀번호를 변경
+
+# 계정 잠금 인계값
+```
+vi /etc/security/faillock.conf
+```
+
+```
+32 # deny = 3 # 로그인 시도 횟수 (횟수 만큼 실패 시 계정 잠금)
+
+38 # fail_interval = 900 # 인증 간격 (단위. 초)
+
+45 # unlock_time = 600 # 계정 잠금 시간 (단위. 초)
+
+
+```
