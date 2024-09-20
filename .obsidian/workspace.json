@@ -14,22 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "Logrotate.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e80e1ffd1a228067",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d4e2a85815cfe64a",
@@ -79,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "protoco",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -155,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logrotate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logrotate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Logrotate.md"
+              }
             }
           },
           {
@@ -231,12 +226,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4811b35bf9b96ba0",
+  "active": "8f690d618edd1344",
   "lastOpenFiles": [
     "Spaces/Desc/1차 기출 오답.md",
+    "Spaces/Desc/Network_Protocol.md",
+    "Spaces/Desc/DHCP.md",
+    "Dynamic Routing Protocol.md",
     "ARP.md",
     "ICMP.md",
-    "Spaces/Desc/DHCP.md",
     "Kali Linux.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
@@ -257,8 +254,6 @@
     "Spaces/Desc/SSH.md",
     "Spaces/Desc/Console.md",
     "Spaces/Desc/Permission.md",
-    "Backdoor.md",
-    "무제 파일.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
