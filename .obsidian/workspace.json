@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Account Management.md",
+                "file": "Log Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/etc/passwd",
+                "query": "btmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Account Management.md",
+                "file": "Log Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Account Management.md",
+                "file": "Log Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Account Management.md"
+                "file": "Log Management.md"
               }
             }
           },
@@ -217,9 +216,12 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Linux.md",
+    "Account Management.md",
+    "Spaces/Desc/Shadow_Password.md",
+    "Log Management.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/그룹관리.md",
-    "Account Management.md",
     "Spaces/Desc/사용자 조회 명령어.md",
     "Spaces/Desc/사용자 계정 관리 명령어.md",
     "Spaces/Desc/사용자 생성 명령어.md",
@@ -228,7 +230,6 @@
     "Spaces/Desc/SSH.md",
     "Spaces/Desc/Console.md",
     "Spaces/Desc/Permission.md",
-    "Linux.md",
     "Backdoor.md",
     "Spaces/Desc/1차 기출 오답.md",
     "무제 파일.md",
@@ -243,8 +244,6 @@
     "네트워크 용어.md",
     "etc/passwd.md",
     "etc",
-    "Excalidraw/Linux_Command.md",
-    "Spaces/Desc/자료.md",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
     "Spaces/Pasted image 20240825143620.png",
     "Spaces/Pasted image 20240821220406.png",
