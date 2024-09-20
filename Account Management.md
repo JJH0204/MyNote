@@ -53,9 +53,30 @@ echo "test:1234" | chpasswd -c SHA512 # Linux 기본 알고리즘
 204 ENCRYPT_METHOD SHA512
 ```
 
-# 비밀번호 복잡성 설정
+# 비밀번호 정책(복잡성) 설정
 - 복잡성 설정 파일 설치 여부 확인
 ```
 dnf list installed libpwquality
 ```
 
+- 비밀번호 정책 파일
+```
+vi /etc/security/pwquality.conf
+```
+
+```
+6 # difok = 1 # 이전에 사용한 비밀번호와 유사성 점검하는 값(문자열 비교)
+
+11 # minlen = 8 # 비밀번호 최소 길이
+
+15 # dcredit = 0 # 숫자 사용 개수 (음수: 최소, 양수: 최대)
+
+20 # ucredit = 0 # 대문자 사용 개수 (음수: 최소, 양수: 최대)
+
+25 # lcredit = 0 # 소문자 사용 개수 (음수: 최소, 양수: 최대)
+
+30 # ocredit = 0 # 특수문자 사용 개수 (음수: 최소, 양수: 최대)
+
+38 # maxrepeat = 0 # 연속해서 나오는 문자 검사
+
+```
