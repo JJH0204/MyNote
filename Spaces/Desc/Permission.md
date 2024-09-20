@@ -77,3 +77,19 @@ x = 1
 - 이 파일을 실행할 때만 지정된 사용자의 권한을 잠시 빌린다.(대부분 root)
 - 사용자 권한의 s = 4000, 그룹 권한의 s = 2000
 
+/etc/sudoers
+
+```
+-rwxr-xr-x. 1 root root 1389024 Apr 30 20:30 /bin/bash
+# setUIDbit가 설정되어 있지 않음
+chmod 4755 ./bash
+# bash 파일에 setUIDbit 설정
+[root@Linux1 test]# su test
+[test@Linux1 test]$ id
+uid=1000(test) gid=1000(test) groups=1000(test) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[test@Linux1 test]$ ./bash
+bash-5.1$ id
+uid=1000(test) gid=1000(test) groups=1000(test) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+# 이후에 root 권한이 지속되지 않는다.
+
+```

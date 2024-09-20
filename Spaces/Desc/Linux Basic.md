@@ -23,7 +23,6 @@
 - [vi편집기](vi.md)
 - [와일드카드](와일드카드.md)
 - [[사용자및그룹관리]]
-- [[Permission]]
 
 아래 디렉토리 표현은 같음
 `cd /home/jang` = `cd ~jang`
