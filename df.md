@@ -65,7 +65,19 @@ tmpfs                  181832       0    181832   0% /run/user/0
 
 ## [[cron]]tab 으로 자동화
 ---
-- [cron web 자료](https://zerostarting.tistory.com/23)
+```shell
+crontab -e
+######################
+0 0 * * * /var/www/system/disk_check.sh
+## 매일 새벽 0 시에 disk_check.sh를 실행해라
+* */2 * * * * /var/www/system/disk_check.sh
+## 2시간 마다 disk_check.sh를 실행해라
+######################
 ```
-crontab -e 
+```shell
+crontab -l
+#####################
+0 0 * * * /var/www/system/disk_check.sh
+#####################
 ```
+

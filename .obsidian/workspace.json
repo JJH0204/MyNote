@@ -100,13 +100,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -202,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f690d618edd1344",
+  "active": "a2e69df50add19cd",
   "lastOpenFiles": [
     "cron.md",
     "df.md",
