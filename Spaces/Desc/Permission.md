@@ -80,3 +80,4 @@ x = 1
 /etc/sudoers
 ### [[Backdoor]]
 
+find / -user root -perm 4000
