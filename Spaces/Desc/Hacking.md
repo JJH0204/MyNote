@@ -20,4 +20,4 @@
 ---
 - [[Backdoor Attack]]
 - [[DDoS]]
-- [[브루트 포스 공격]]
+- [[Brute-force Attack]]
