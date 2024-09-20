@@ -4,4 +4,4 @@
 - [[Log Management]]
 - [[Service Management]]
 - [[Patch Management]]
-- 
+- [[Storage Management]]

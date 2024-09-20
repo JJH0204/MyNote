@@ -1,4 +1,4 @@
-log를 관리자의 이메일로 전송하는 서비스
+log를 보기 쉽게 보고서로 작성하고 관리자의 이메일로 전송하는 서비스
 
 ```
 dnf install -y logwatch
@@ -23,24 +23,7 @@ dnf install -y logwatch
 #
 ########################################################
 
-# NOTE:
-#   All these options are the defaults if you run logwatch with no
-#   command-line arguments.  You can override all of these on the
-#   command-line.
-
-# You can put comments anywhere you want to.  They are effective for the
-# rest of the line.
-
-# this is in the format of <name> = <value>.  Whitespace at the beginning
-# and end of the lines is removed.  Whitespace before and after the = sign
-# is removed.  Everything is case *insensitive*.
-
-# Yes = True  = On  = 1
-# No  = False = Off = 0
-
-# You can override the default temp directory (/tmp) here
-TmpDir = /var/cache/logwatch
-
+(생략)
 #Output/Format Options
 #By default Logwatch will print to stdout in text with no encoding.
 #To make email Default set Output = mail to save to file set Output = file
@@ -64,106 +47,44 @@ Encode = none # 암호화 여부
 # complete email address.  Variable Output should be set to mail, or
 # --output mail should be passed on command line to enable mail feature.
 MailTo = root # (중요) 시스템 관리자의 메일 주소 입력
-# WHen using option --multiemail, it is possible to specify a different
-# email recipient per host processed.  For example, to send the report
-# for hostname host1 to user@example.com, use:
-#Mailto_host1 = user@example.com
-# Multiple recipients can be specified by separating them with a space.
 
-# Default person to mail reports from.  Can be a local account or a
-# complete email address.
-MailFrom = Logwatch
-
-# if set, the results will be saved in <filename> instead of mailed
-# or displayed. Be sure to set Output = file also.
-#Filename = /tmp/logwatch
-
-# Use archives?  If set to 'Yes', the archives of logfiles
-# (i.e. /var/log/messages.1 or /var/log/messages.1.gz) will
-# be searched in addition to the /var/log/messages file.
-# This usually will not do much if your range is set to just
-# 'Yesterday' or 'Today'... it is probably best used with Range = All
-# By default this is now set to Yes. To turn off Archives uncomment this.
-#Archives = No
-
-# The default time range for the report...
-# The current choices are All, Today, Yesterday
-Range = yesterday
+(생략)
 
 # The default detail level for the report.
 # This can either be Low, Med, High or a number.
 # Low = 0
 # Med = 5
 # High = 10
-Detail = Low # 상세 정도
+Detail = Low # log 출력의 상세함 정도 (중요)
+(생략)
+
+```
+
+```
+logwatch --output stdout
 
 
-# The 'Service' option expects either the name of a filter
-# (in /usr/share/logwatch/scripts/services/*) or 'All'.
-# The default service(s) to report on.  This should be left as All for
-# most people.
-Service = All
-# You can also disable certain services (when specifying all)
-Service = "-zz-network"     # Prevents execution of zz-network service, which
-                            # prints useful network configuration info.
-Service = "-zz-sys"         # Prevents execution of zz-sys service, which
-                            # prints useful system configuration info.
-Service = "-eximstats"      # Prevents execution of eximstats service, which
-                            # is a wrapper for the eximstats program.
-# If you only cared about FTP messages, you could use these 2 lines
-# instead of the above:
-#Service = ftpd-messages   # Processes ftpd messages in /var/log/messages
-#Service = ftpd-xferlog    # Processes ftpd messages in /var/log/xferlog
-# Maybe you only wanted reports on PAM messages, then you would use:
-#Service = pam_pwdb        # PAM_pwdb messages - usually quite a bit
-#Service = pam             # General PAM messages... usually not many
+ ################### Logwatch 7.5.5 (01/22/21) ####################
+        Processing Initiated: Fri Sep 20 16:29:54 2024
+        Date Range Processed: yesterday
+                              ( 2024-Sep-19 )
+                              Period is day.
+        Detail Level of Output: 10
+        Type of Output/Format: stdout / text
+        Logfiles for Host: Linux1
+ ##################################################################
 
-# You can also choose to use the 'LogFile' option.  This will cause
-# logwatch to only analyze that one logfile.. for example:
-#LogFile = messages
-# will process /var/log/messages.  This will run all the filters that
-# process that logfile.  This option is probably not too useful to
-# most people.  Setting 'Service' to 'All' above analyzes all LogFiles
-# anyways...
+ --------------------- Disk Space Begin ------------------------
 
-#
-# By default we assume that all Unix systems have sendmail or a sendmail-like MTA.
-# The mailer code prints a header with To: From: and Subject:.
-# At this point you can change the mailer to anything that can handle this output
-# stream.
-# TODO test variables in the mailer string to see if the To/From/Subject can be set
-# From here with out breaking anything. This would allow mail/mailx/nail etc..... -mgt
-mailer = "/usr/sbin/sendmail -t"
+ Filesystem           Size  Used Avail Use% Mounted on
+ /dev/mapper/rl-root   17G  2.1G   15G  13% /
+ /dev/sda1            960M  404M  557M  43% /boot
 
-#
-# With this option set to a comma separated list of hostnames, only log entries
-# for these particular hosts will be processed.  This can allow a log host to
-# process only its own logs, or Logwatch can be run once per a set of hosts
-# included in the logfiles.
-# Example: HostLimit = hosta,hostb,myhost
-#
-# The default is to report on all log entries, regardless of its source host.
-# Note that some logfiles do not include host information and will not be
-# influenced by this setting.
-#
-#HostLimit = myhost
 
-# Default Log Directory
-# All log-files are assumed to be given relative to the LogDir directory.
-# Multiple LogDir statements are possible.  Additional configuration variables
-# to set particular directories follow, so LogDir need not be set.
-#LogDir = /var/log
-#
-# By default /var/adm is searched after LogDir.
-#AppendVarAdmToLogDirs = 1
-#
-# By default /var/log is to be searched after LogDir and /var/adm/ .
-#AppendVarLogToLogDirs = 1
-#
-# The current working directory can be searched after the above.  Not set by
-# default.
-#AppendCWDToLogDirs = 0
+ ---------------------- Disk Space End -------------------------
 
-# vi: shiftwidth=3 tabstop=3 et
+
+ ###################### Logwatch End #########################
+
 
 ```

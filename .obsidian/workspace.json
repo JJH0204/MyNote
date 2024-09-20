@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logwatch.md",
+                "file": "df.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "logwatch.md",
+                "file": "df.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "logwatch.md",
+                "file": "df.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "logwatch.md"
+                "file": "df.md"
               }
             }
           },
@@ -204,9 +204,11 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Storage Management.md",
+    "df.md",
+    "Linux_Sec.md",
     "Log Management.md",
     "logwatch.md",
-    "Linux_Sec.md",
     "Patch Management.md",
     "Spaces/Desc/1차 기출 오답.md",
     "시스템 보안.md",
@@ -229,8 +231,6 @@
     "Kali Linux.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
-    "Account Management.md",
-    "Spaces/Desc/Shadow_Password.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
