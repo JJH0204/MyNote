@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
+                "file": "백도어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,12 +52,8 @@
                 "id": "fa5bb9b7c70a8d6f",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Spaces/Desc/1차 기출 오답.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
@@ -138,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Permission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Desc/Permission.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,9 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f690d618edd1344",
+  "active": "fa5bb9b7c70a8d6f",
   "lastOpenFiles": [
     "Spaces/Desc/1차 기출 오답.md",
+    "백도어.md",
     "Spaces/Desc/Permission.md",
     "Spaces/Desc/Linux Basic.md",
     "Linux.md",
@@ -257,7 +250,6 @@
     "Spaces/Temp/Pasted image 20240807203017.png",
     "Spaces/Temp/Pasted image 20240814191404.png",
     "Spaces/Temp/Pasted image 20240816231622.png",
-    "DDoS.md",
     "Spaces/Desc/Spaces/Temp",
     "Spaces/Desc/Spaces",
     "Linux",
