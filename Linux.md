@@ -1,4 +1,4 @@
 #Linux
 - [[Linux Basic]]
-- [[계]]
+- [[Permission]]
 - 

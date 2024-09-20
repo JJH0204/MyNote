@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Spaces/Desc/Permission.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -95,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/etc/passwd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "b35a1cdfc19af5ec",
@@ -134,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,14 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f690d618edd1344",
+  "active": "4811b35bf9b96ba0",
   "lastOpenFiles": [
+    "Spaces/Desc/Permission.md",
+    "Linux.md",
+    "Spaces/Desc/Linux Basic.md",
+    "무제 파일.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
-    "Linux.md",
     ".md",
-    "Spaces/Desc/Permission.md",
-    "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/관리자권한.md",
     "Spaces/Desc/Linux_day_1.md",
     "암호화.md",
