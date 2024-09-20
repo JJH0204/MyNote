@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계정 관리.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spaces/Desc/Linux Basic.md",
+                    "file": "Spaces/Desc/Linux_day_1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -134,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux.md"
+              }
             }
           },
           {
@@ -210,13 +214,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa5bb9b7c70a8d6f",
+  "active": "8f690d618edd1344",
   "lastOpenFiles": [
     "계정 관리.md",
+    "Spaces/Desc/Linux_day_1.md",
+    "Spaces/Desc/Linux Basic.md",
     "암호화.md",
     "Hashing.md",
     "Linux.md",
-    "Spaces/Desc/Linux Basic.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "시스템 보안.md",
@@ -248,7 +253,6 @@
     "NMS.md",
     "Spaces/Desc/네트워크 보안.md",
     "Wordpress.md",
-    "pfsense.md",
     "Spaces/Desc/Spaces/Temp",
     "Spaces/Desc/Spaces",
     "Linux",
