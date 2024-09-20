@@ -16,12 +16,24 @@
             }
           },
           {
+            "id": "b1bf95cacaf630d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd815ccadcf3fe6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor Attack.md",
+                "file": "브루트 포스.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,11 +204,14 @@
   },
   "active": "60c1070d9aaca724",
   "lastOpenFiles": [
+    "브루트 포스.md",
+    "df.md",
+    "Spaces/Desc/SSH.md",
+    "브루트 포스 공격.md",
+    "Spaces/Desc/Hacking.md",
+    "Backdoor Attack.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Backdoor Attack.md",
-    "Spaces/Desc/Hacking.md",
-    "df.md",
     "Storage Management.md",
     "Linux_Sec.md",
     "시스템 보안.md",
@@ -216,9 +231,6 @@
     "리눅스마스터2급.md",
     "Remote Access Management.md",
     "Spaces/Desc/Network_Protocol.md",
-    "Spaces/Desc/DHCP.md",
-    "Dynamic Routing Protocol.md",
-    "ARP.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
