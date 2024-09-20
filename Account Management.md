@@ -88,7 +88,7 @@ vi /etc/security/pwquality.conf
 #! /bin/bash
 
 for user in $(awk -F: "$3 >= 1000 {print $1}" /etc/passwd); do
-        change -d O $user
+        chage -d O $user
 done
 ```
 - /etc/passwd 파일에 저장된 계정들 중 ID 값이 1000이상 들을 user 변수에 저장
