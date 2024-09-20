@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor.md",
+                "file": "Spaces/Desc/Permission.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backdoor.md",
+                "file": "Spaces/Desc/Permission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backdoor.md",
+                "file": "Spaces/Desc/Permission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backdoor.md"
+                "file": "Spaces/Desc/Permission.md"
               }
             }
           },
@@ -178,10 +178,10 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Account Management.md",
     "Spaces/Desc/Permission.md",
     "Backdoor.md",
     "Linux.md",
-    "계정 관리.md",
     "Spaces/Desc/1차 기출 오답.md",
     "Spaces/Desc/Linux Basic.md",
     "무제 파일.md",

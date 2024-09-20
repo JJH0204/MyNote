@@ -78,4 +78,5 @@ x = 1
 - 사용자 권한의 s = 4000, 그룹 권한의 s = 2000
 
 /etc/sudoers
-## [[Backdoor]]
+### [[Backdoor]]
+

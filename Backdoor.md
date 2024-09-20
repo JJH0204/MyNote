@@ -1,4 +1,4 @@
-# ㅠ
+# Backdoor basic
 ```
 -rwxr-xr-x. 1 root root 1389024 Apr 30 20:30 /bin/bash
 # setUIDbit가 설정되어 있지 않음
