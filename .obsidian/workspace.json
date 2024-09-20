@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ㅊ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/Linux Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/Linux Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Desc/Linux Basic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,14 +209,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4811b35bf9b96ba0",
+  "active": "fa5bb9b7c70a8d6f",
   "lastOpenFiles": [
     "Spaces/Desc/관리자권한.md",
+    "계정 관리.md",
+    "Spaces/Desc/퍼미션.md",
     "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/Linux_day_1.md",
-    "계정 관리.md",
     "Linux.md",
-    "Spaces/Desc/퍼미션.md",
     "암호화.md",
     "Hashing.md",
     "Spaces/Home/Information_Security.md",
