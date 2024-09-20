@@ -3,4 +3,5 @@
 - [[Account Management]]
 - [[Log Management]]
 - [[Service Management]]
+- [[Patch Management]]
 - 

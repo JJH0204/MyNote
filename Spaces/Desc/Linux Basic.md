@@ -32,6 +32,7 @@
 - [[Archive]]
 - [[파일 관련 명령어]]
 - [[cron]]
-
+[[1차 기출 오답]]
+[리눅스 마스터 기출 문제](https://www.ihd.or.kr/guidequestion.do)
 # [[LinuxServer]]
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service Management.md",
+                "file": "Patch Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,48 +35,12 @@
             }
           },
           {
-            "id": "3c6e37026842f727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/리눅스 마스터 2급.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5213bcb8be24e84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/1차 기출 오답.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f5f2a5cc719f8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/Desc/Linux Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "812ee1552da4d575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Desc/CentOS Basic Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/리눅스 마스터 2급.md",
+                "file": "Patch Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/리눅스 마스터 2급.md",
+                "file": "Patch Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/리눅스 마스터 2급.md"
+                "file": "Patch Management.md"
               }
             }
           },
@@ -239,16 +203,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c6e37026842f727",
+  "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Linux_Sec.md",
+    "Patch Management.md",
+    "시스템 보안.md",
+    "Log Management.md",
+    "Logrotate.md",
     "Service Management.md",
+    "Spaces/Desc/Linux Basic.md",
+    "Spaces/Desc/CentOS Basic Command.md",
+    "Spaces/Desc/1차 기출 오답.md",
+    "Spaces/Desc/리눅스 마스터 2급.md",
+    "리눅스마스터2급.md",
     "cron.md",
     "Log_File.md",
-    "Logrotate.md",
-    "Log Management.md",
-    "Linux.md",
     "Remote Access Management.md",
-    "Spaces/Desc/1차 기출 오답.md",
     "Spaces/Desc/Network_Protocol.md",
     "Spaces/Desc/DHCP.md",
     "Dynamic Routing Protocol.md",
@@ -259,14 +229,8 @@
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
     "Account Management.md",
     "Spaces/Desc/Shadow_Password.md",
-    "Spaces/Desc/Linux Basic.md",
     "Spaces/Desc/그룹관리.md",
     "Spaces/Desc/사용자 조회 명령어.md",
-    "Spaces/Desc/사용자 계정 관리 명령어.md",
-    "Spaces/Desc/사용자 생성 명령어.md",
-    "Spaces/Desc/CentOS Basic Command.md",
-    "Spaces/Desc/Linux_day_2.md",
-    "Spaces/Desc/SSH.md",
     ".md",
     "etc",
     "Spaces/Desc/Spaces/Temp/Pasted image 20240913191545.png",
