@@ -1,3 +1,4 @@
+# ㅠ
 ```
 -rwxr-xr-x. 1 root root 1389024 Apr 30 20:30 /bin/bash
 # setUIDbit가 설정되어 있지 않음
@@ -43,5 +44,6 @@ uid=1000(test) gid=1000(test) groups=1000(test) context=unconfined_u:unconfined_
 [root@Linux1 test]# id
 uid=0(root) gid=0(root) groups=0(root),1000(test) context=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
 # root 권한을 탈취 하는데 성공했다.
-
 ```
+
+## vim 명령어 모드를 활용한 백도어
