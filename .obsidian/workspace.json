@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logrotate.md",
+                "file": "Log Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logrotate.md",
+                "file": "Log Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logrotate.md",
+                "file": "Log Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logrotate.md"
+                "file": "Log Management.md"
               }
             }
           },
@@ -228,6 +228,7 @@
   },
   "active": "8f690d618edd1344",
   "lastOpenFiles": [
+    "Logrotate.md",
     "Spaces/Desc/1차 기출 오답.md",
     "Spaces/Desc/Network_Protocol.md",
     "Spaces/Desc/DHCP.md",
@@ -237,7 +238,6 @@
     "Kali Linux.md",
     "Spaces/Desc/칼리 리눅스 환경 설정 for 버추얼박스.md",
     "Excalidraw/인터넷 연결 방식에 따른 정보.md",
-    "Logrotate.md",
     "Log Management.md",
     "Log_File.md",
     "cron.md",
