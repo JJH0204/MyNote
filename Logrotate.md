@@ -1,4 +1,4 @@
-```
+```c
 ○ logrotate.service - Rotate log files
      Loaded: loaded (/usr/lib/systemd/system/logrotate.service; static)
      Active: inactive (dead) since Fri 2024-09-20 09:22:01 KST; 5h 12min ago
@@ -14,7 +14,7 @@ Sep 20 09:22:01 Linux1 systemd[1]: Starting Rotate log files...
 Sep 20 09:22:01 Linux1 systemd[1]: logrotate.service: Deactivated successfully.
 Sep 20 09:22:01 Linux1 systemd[1]: Finished Rotate log files.
 ```
-```
+```c
 ● logrotate.timer - Daily rotation of log files
      Loaded: loaded (/usr/lib/systemd/system/logrotate.timer; enabled; preset: enable>
      Active: active (waiting) since Fri 2024-09-20 09:22:00 KST; 5h 14min ago
@@ -32,7 +32,7 @@ Sep 20 09:22:00 Linux1 systemd[1]: Started Daily rotation of log files.
 
 ## /etc/logrotate.conf
 ---
-```
+```c
 # see "man logrotate" for details
 
 # global options do not affect preceding include directives
@@ -63,5 +63,26 @@ include /etc/logrotate.d # 환경 설정에 따라 실행할 때 포함할 파�
 ## /etc/logrotate.d
 ---
 ```
-
+/etc/logrotate.d
+├── bootlog
+	###
+	/var/log/boot.log
+	{
+	    missingok
+	    daily
+	    copytruncate
+	    rotate 7
+	    notifempty
+	}
+	###
+├── btmp
+├── chrony
+├── dnf
+├── firewalld
+├── kvm_stat
+├── psacct
+├── rsyslog
+├── samba
+├── sssd
+└── wtmp
 ```
