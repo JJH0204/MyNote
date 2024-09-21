@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5def6d0c5f73cf31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "snort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Account Management.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Account Management.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Account Management.md"
+                "file": "snort.md"
               }
             }
           },
@@ -186,14 +200,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60c1070d9aaca724",
+  "active": "5def6d0c5f73cf31",
   "lastOpenFiles": [
-    "Spaces/Desc/Permission.md",
+    "Spaces/Desc/SSH.md",
     "Account Management.md",
+    "Spaces/Desc/Permission.md",
     "Backdoor Attack.md",
     "Linux_Sec.md",
     "시스템 보안.md",
-    "Spaces/Desc/SSH.md",
     "df.md",
     "Brute-force Algorithm.md",
     "Brute-force Attack.md",
