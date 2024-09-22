@@ -68,11 +68,11 @@ x = 1
 > Real: 사용자 식별에 사용하는 아이디(또는 그룹)
 > Effective: 사용자의 권한을 식별하는데 사용하는 아이디(또는 그룹)
 - 최초 로그인 시에는 두 값이 같다. (SetUIDbit가 설정된 파일을 실행하기 전까지)
+- [/etc/sudoers](https://mans-daily.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4UbuntuCentOS-etcsudoers-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%88%98%EC%A0%95%ED%95%98%EC%97%AC-sudo-%EA%B6%8C%ED%95%9C-%EB%B0%8F-root-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0)
 
-# 특수 권한
----
+## 특수 권한
 - https://blog.naver.com/doctor-kick/222158625480
-## SetUIDbit
+### SetUIDbit
 ```
 -rwsr-xr-x. 1 root root 32656 May 15  2022 /usr/bin/passwd
 ```
@@ -80,7 +80,7 @@ x = 1
 - 이 파일을 실행할 때만 지정된 사용자의 권한을 잠시 빌린다.(대부분 root)
 - 사용자 권한의 s = 4000, 그룹 권한의 s = 2000
 
-[/etc/sudoers](https://mans-daily.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4UbuntuCentOS-etcsudoers-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%88%98%EC%A0%95%ED%95%98%EC%97%AC-sudo-%EA%B6%8C%ED%95%9C-%EB%B0%8F-root-%EA%B6%8C%ED%95%9C-%EB%B6%80%EC%97%AC%ED%95%98%EA%B8%B0)
+
 ## [[Backdoor Attack]]
 
 # 특정 사용자 또는 권한 가진 파일 찾기 
