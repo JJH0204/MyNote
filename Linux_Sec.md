@@ -1,5 +1,6 @@
 #Linux
 - [[Linux Basic]]
+- [[Shell Script]]
 - [[Account Management]]
 - [[Log Management]]
 - [[Service Management]]
