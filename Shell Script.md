@@ -294,6 +294,41 @@ done
 
 ## 배열
 ---
-```
+```bash
+#!/usr/bin/bash
 
+function main()
+{
+        # declare -a array
+        array=("Linux" "Windows" "MaxOS")
+
+        echo ${array[1]}
+}
+
+main
 ```
+```
+Windows
+```
+- 전체 배열 출력
+```bash
+echo ${array[*]} # echo ${array[@]}
+```
+```
+Linux Windows MaxOS
+```
+- 배열 길이 출력
+```bash
+echo ${#array[*]}
+```
+```
+3
+```
+- 배열의 일부만 출력
+```bash
+echo ${array[@]:1:3}
+```
+```
+Windows MaxOS Unix
+```
+> 1차원 배엶
