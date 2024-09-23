@@ -331,4 +331,33 @@ echo ${array[@]:1:3}
 ```
 Windows MaxOS Unix
 ```
-> 1차원 배엶
+> 1차원 배열만 지원한다.
+
+
+```
+function two()
+{
+        array=(1 2 3 4 5 6)
+        remove=(3)
+
+        array=( "${array[@]/$remove}" )
+        echo ${array[@]}
+}
+# main
+two
+```
+```
+1 2 4 5 6
+```
+```
+unset array[3]
+```
+```
+1 2 5 6
+```
+```
+unset array
+```
+```
+
+```
