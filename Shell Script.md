@@ -168,7 +168,7 @@ let file2=${2}
 let size1=$(stat -c%s "$file1")
 let size2=$(stat -c%s "$file2")
 
-if [ -f "$file"1 ] && [ -f "$file2" ]; then
+if [ -f "$file1" ] && [ -f "$file2" ]; then
         echo "file1 equal file2"
         if [[ "$size1" -gt 5 && "$size2" -lt 5 ]]; then
                 echo "True"
@@ -186,7 +186,9 @@ fi
 ```
 `-f`: `파일`인지 검사
 `-d`: `디렉토리`인지 검사
-`-a`: 파일 존재 확인, 논리 AND 비교
+`-a`: 파일 존재 확인, 논리 AND 비교(&&)
+`-gt`: 보다 큰지
+`-lt`: 보다 작은지
 ```bash
 if [ ${1} -lt ${2} ]; then
         echo "small"
@@ -200,7 +202,33 @@ fi
 ./if.sh 5 4 # big
 ./if.sh 5 5 # equal
 ```
-
+`-eq`: 같은지
+```bash
+case ${1} in
+        "Linux") echo "Linux" ;;
+        "Windows") echo "Windows" ;;
+        "Mac") echo "MacOS" ;;
+esac
+```
+```
+./case.sh Mac # MacOS
 ```
 
+## 반복문
+---
+```bash
+#!/usr/bin/bash
+
+# for
+for ((i=0; i<4;i++)); do
+        echo $i
+done
 ```
+```
+./for.sh
+0
+1
+2
+3
+```
+- break, contine
