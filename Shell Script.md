@@ -93,3 +93,32 @@ export: 매개변수
 
 ## 연산
 ---
+```
+#!/usr/bin/bash
+
+# result=num1+num2
+plus=`expr ${1} + ${2}`
+minus=`expr ${1} - ${2}`
+mul=`expr ${1} \* ${2}`
+div=`expr ${1} / ${2}`
+rem=`expr ${1} % ${2}`
+
+echo "Plus: ${plus}"
+echo "Minus: ${minus}"
+echo "Mul: ${mul}"
+echo "Div: ${div}"
+echo "Rem: ${rem}"
+```
+```
+./oper.sh 10 5
+Plus: 15
+Minus: 5
+Mul: 50
+Div: 2
+Rem: 0
+```
+
+### let 연산자
+```
+
+```
