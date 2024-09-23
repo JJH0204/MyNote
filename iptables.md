@@ -37,9 +37,40 @@ target     prot opt source               destination
 ```
 
 **정책 추가**
-```
+```sh
 iptables -A INPUT -s 192.168.1.8 -j DROP
 ```
 - 출발지(192.168.1.8)에서 들어오는 패킷은 DROP한다.
-- IP는 대역으로 설정가능(192.168.0.0/16)
-- 
+- IP는 대역으로 설정 가능(192.168.0.0/16)
+- 목적지도 설정가능하다.
+  `iptables -A INPUT -s 192.168.1.8 -d 192.168.1.110 -j DROP`
+- 프로토콜도 설정 가능
+- 추가 후 서비스 재시작 해야 함
+
+```sh
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination
+ACCEPT     all  --  anywhere             anywhere             state RELATED,ESTABLISHED
+ACCEPT     icmp --  anywhere             anywhere
+ACCEPT     all  --  anywhere             anywhere
+ACCEPT     tcp  --  anywhere             anywhere             state NEW tcp dpt:ssh
+REJECT     all  --  anywhere             anywhere             reject-with icmp-host-prohibited
+DROP       all  --  192.168.1.8          anywhere # 추가된 것을 확인가능
+# 정책은 위에서 아래로 순차적으로 적용되기 떄문에 불필요한 정책은 제거해야 한다.
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination
+REJECT     all  --  anywhere             anywhere             reject-with icmp-host-prohibited
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination
+```
+
+**정책 삭제**
+- 정책 파일을 열어서 직접 삭제 가능
+
+**설정 파일**
+```
+/etc/sysconfig/iptables
+```
+- 방화벽 정책 파일(iptables)
+- 방화벽 환경 설정 파일(iptables-config)
