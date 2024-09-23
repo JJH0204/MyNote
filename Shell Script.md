@@ -237,17 +237,13 @@ done
 
 for x in ${num} # 1 2 3 4 5
 do
-        echo "${x}"
+        printf "${x}"
 done
 # x에 1부터 5까지 순차적으로 대입하며 지정된 코드를 반복하는 방법
 # 대입할 값이 없으면 반복 종료
 ```
 ```
-1
-2
-3
-4
-5
+12345
 ```
 ``` bash
 num=(1 2 3 4 5)
@@ -262,30 +258,42 @@ done
 ```bash
 for y in `seq 1 5`
 do
-        echo $y
+        printf $y
 done
 ```
 ```
-1
-2
-3
-4
-5
+12345
 ```
 ```bash
 for z in {1..9}
 do
-        echo $z
+        printf $z
 done
 ```
 ```
-1
-2
-3
-4
-5
-6
-7
-8
-9
+123456789
+```
+
+```bash
+count=1
+while [ ${count} -le 5 ];
+do
+        printf ${count}
+        count=$(( ${count} + 1 ))
+done
+
+```
+
+```bash
+until [ ${count} -le 10 ];
+do
+        echo ${count}
+        count=$(( ${count} + 1 ))
+done
+```
+
+## 배열
+---
+```
+
 ```
