@@ -424,3 +424,10 @@ echo "I'm in `pwd`" # echo "I'm in $(pwd)"
 Mon Sep 23 04:31:15 PM KST 2024
 I'm in /shell
 ```
+
+## 연습: 구구단
+---
+```
+
+
+```
