@@ -12,16 +12,23 @@ csh > 버클리대학에서 개발한 shell
 **bash** > 호환성이 뛰어난 shell
 zsh 등등 다양한 종류의 shell이 있다.
 
-출력 함수
 ``` bash
 echo $(which bash) #명령어 실행 결과를 텍스트로 출력
 # /usr/bin/bash
 ```
 
-씨방: 쉘 선언문을 의미한다.
 ```bash
-#!/usr/bin/bash # 씨방이라 한다.
+#!/usr/bin/bash # 셔뱅(해시뱅): 쉘 선언문을 의미한다.
 
-echo $(which bash)
+mkdir /shell
+touch /shell/testsc.txt
+chmod 755 /shell/testsc.txt
+ls -l /shell
 ```
 
+## 변수(variable)
+---
+- 지역(로컬), 전역(글로벌), 예약, 매개 등등
+- `대소문자 구분`, 변수 이름 시작을 숫자로 할 수 없다.
+- `자료형`을 지정하지 않는다.
+- 사용할 때 `$변수명` 형태로 사용한다.
