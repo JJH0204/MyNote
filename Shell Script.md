@@ -231,4 +231,61 @@ done
 2
 3
 ```
-- break, contine
+- break, contine 사용 가능
+```bash
+# num="1 2 3 4 5"
+
+for x in ${num} # 1 2 3 4 5
+do
+        echo "${x}"
+done
+# x에 1부터 5까지 순차적으로 대입하며 지정된 코드를 반복하는 방법
+# 대입할 값이 없으면 반복 종료
+```
+```
+1
+2
+3
+4
+5
+```
+``` bash
+num=(1 2 3 4 5)
+for x in "${num[0]}"
+do
+        echo "${x}"
+done
+```
+```
+1
+```
+```bash
+for y in `seq 1 5`
+do
+        echo $y
+done
+```
+```
+1
+2
+3
+4
+5
+```
+```bash
+for z in {1..9}
+do
+        echo $z
+done
+```
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
