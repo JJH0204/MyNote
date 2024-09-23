@@ -68,12 +68,25 @@ Global Export Word
 ### 매개 변수
 `./test a b c d -> $0 $1 $2 $3 $4`로 각각 대입
 `$# -> 매개변수 개수`
-```
+```bash
 vi ./date.sh
 ########################
+#!/usr/bin/bash
+
+echo "${0}: ${1}-${2}-${3}"
 ########################
 chmod 755 ./date.sh
 ./date.sh 2024 9 23
 ./date.sh: 2024-9-23
-
 ```
+
+### 예약 변수(키워드)
+- `HOME` `PATH` `LANG` `UID` `SHELL` `USER` `TERM` 등등
+- 이미 예약된 기능이 있는 변수
+- 사용 불가능
+
+### 명령어
+set: 변수 출력
+env: 환경 변수 출력
+unset:
+export: 매개변수
