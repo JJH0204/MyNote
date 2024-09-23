@@ -141,3 +141,7 @@ firewall-cmd --reload
 firewall-cmd --permanent --zone=public --add-rich-rule='rule family="ipv4" source address="192.168.1.8" service name="ssh" accept'
 ```
 
+address: 네트워크 대역도 가능
+accept: 허용
+drop: 차단
+reject: 차단하되 메세지 전달(접속하려는 대상에게)
