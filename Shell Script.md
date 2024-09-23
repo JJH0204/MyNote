@@ -547,5 +547,21 @@ dan
 ```
 ## 연습: 자동화
 ```bash
+#!/usr/bin/bash
 
+list=`ls *.txt`
+
+`chmod ${1} ${list}`
+
+echo "Success"
+```
+```
+./Auto.sh 755 # Success
+ls -al *.txt
+##############
+-rwxr-xr-x. 1 root root 0 Sep 23 17:01 test1.txt
+-rwxr-xr-x. 1 root root 0 Sep 23 17:01 test2.txt
+-rwxr-xr-x. 1 root root 0 Sep 23 17:01 test3.txt
+-rwxr-xr-x. 1 root root 0 Sep 23 12:13 testsc.txt
+##############
 ```
