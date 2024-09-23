@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/CentOS Basic Command.md",
+                "file": "Spaces/Home/TODO LIST.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,20 +180,20 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
+    "Spaces/Home/TODO LIST.md",
+    "Spaces/Desc/CentOS Basic Command.md",
+    "Shell Script.md",
     "Linux_Sec.md",
     "접근제어.md",
     "tcpwrapper.md",
     "iptables.md",
     "SELinux.md",
-    "Spaces/Desc/CentOS Basic Command.md",
     "Spaces/Desc/Linux Basic.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "firewalld.md",
-    "Spaces/Home/TODO LIST.md",
     "2024-09-23.md",
     "Spaces/Temp/Pasted image 20240923091158.png",
-    "Shell Script.md",
     "Spaces/Home/컴퓨터 과학.md",
     "Spaces/Home/Server.md",
     "Spaces/Desc/SSH.md",

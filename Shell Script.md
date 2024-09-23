@@ -364,3 +364,15 @@ unset array
 ```
 ## 연관 배열(딕셔너리)
 ---
+```bash
+declare -A map=([hello]='world' [long]='long string')
+declare -p map
+echo "map[hello]=${map[hello]}"
+```
+```
+./arrh.sh
+declare -A map=([long]="long string" [hello]="world" )
+map[hello]=world
+```
+## 함수
+---

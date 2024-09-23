@@ -23,3 +23,4 @@ sticker: lucide//check-check
 - [ ] snort rules 공부하기
 - [ ] vpn 공부하기
 - [ ] Linux 시스템 보안 복습하기
+- [ ] 형 노트북 백업하고 포맷하기
