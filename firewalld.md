@@ -118,5 +118,26 @@ firewall-cmd --permanent --zone=test --add-source=192.168.0.0/16
 ```sh
 firewall-cmd --permanent --zone=test --remove-source=192.168.1.8
 ```
+
+- 도움말
+```sh
+firewall-cmd --help
+```
 ## rich rules
 ---
+- 좀 더 세부 정책을 설정하기 위해 사용하는 rule
+
+```sh
+firewall-cmd --permanent --zone=public --add-rich-rule='룰'
+firewall-cmd --reload
+```
+
+- 룰 문법
+```sh
+'rule family="ipv4" source address="192.168.1.8" service name="ssh" accept'
+```
+> 192.168.1.8에서 22port(ssh)로 접근하는 ipv4 패킷을 허용
+```sh
+firewall-cmd --permanent --zone=public --add-rich-rule='rule family="ipv4" source address="192.168.1.8" service name="ssh" accept'
+```
+
