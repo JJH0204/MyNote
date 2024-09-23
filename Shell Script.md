@@ -165,25 +165,28 @@ fi
 let file1=${1}
 let file2=${2}
 
-if [ -f $file1 -a -f $file2 ]; then
+let size1=$(stat -c%s "$file1")
+let size2=$(stat -c%s "$file2")
+
+if [ -f "$file"1 ] && [ -f "$file2" ]; then
         echo "file1 equal file2"
-        if [[ $file1 -gt 5 && $file2 -lt 5 ]]; then
+        if [[ "$size1" -gt 5 && "$size2" -lt 5 ]]; then
                 echo "True"
         else
                 echo "False"
         fi
 else
         echo "file1 not equal file2"
-        if [[ $file1 -gt 5 || $file2 -lt 5 ]]; then
+        if [[ "$size1" -gt 5 || "$size2" -lt 5 ]]; then
                 echo "True"
         else
                 echo "False"
         fi
 fi
 ```
--f: 파일 지정 옵션
--d: 디렉토리 지정 옵션
--a: 두 파일을 검사 
+`-f`: `파일`인지 검사
+`-d`: `디렉토리`인지 검사
+`-a`: 파일 존재 확인, 논리 AND 비교
 ```bash
 if [ ${1} -lt ${2} ]; then
         echo "small"
@@ -196,4 +199,8 @@ fi
 ```
 ./if.sh 5 4 # big
 ./if.sh 5 5 # equal
+```
+
+```
+
 ```
