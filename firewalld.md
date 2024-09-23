@@ -97,3 +97,20 @@ cat /usr/lib/firewalld/zones/public.xml
   <forward/>
 </zone>
 ```
+
+- zone 생성
+```sh
+firewall-cmd --permanent --new-zone=test
+```
+
+- 특정 zone에 서비스 설정
+```sh
+firewall-cmd --permanent --add-service=httpd --zone=test
+```
+
+- 소스 IP를 기준으로 패킷 허용
+```
+firewall-cmd --permanent --zone=test --add-source=192.168.1.254
+```
+## rich rules
+---
