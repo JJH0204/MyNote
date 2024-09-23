@@ -93,7 +93,8 @@ export: 매개변수
 
 ## 연산
 ---
-```
+### usr 연산자
+```bash
 #!/usr/bin/bash
 
 # result=num1+num2
@@ -119,6 +120,26 @@ Rem: 0
 ```
 
 ### let 연산자
+```bash
+#!/usr/bin/bash
+let result=${1}+${2}
+echo "Add : $result"
+let result=${1}*${2}
+echo "Mul : $result"
+```
+```bash
+echo add:$((${1}+${2}))
 ```
 
+## 주석
+---
+```bash
+# 한 줄 주석
+
+: << "END"
+# 블럭 주석
+code 1
+code 2
+code 3
+END 
 ```
