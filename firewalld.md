@@ -108,9 +108,15 @@ firewall-cmd --permanent --new-zone=test
 firewall-cmd --permanent --add-service=httpd --zone=test
 ```
 
-- 소스 IP를 기준으로 패킷 허용
+- 소스 IP(네트워크 대역)를 기준으로 모든 패킷 허용
+```sh
+firewall-cmd --permanent --zone=test --add-source=192.168.1.8
+firewall-cmd --permanent --zone=test --add-source=192.168.0.0/16
 ```
-firewall-cmd --permanent --zone=test --add-source=192.168.1.254
+
+- 적용한 정책 제거
+```sh
+firewall-cmd --permanent --zone=test --remove-source=192.168.1.8
 ```
 ## rich rules
 ---
