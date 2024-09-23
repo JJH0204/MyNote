@@ -1,4 +1,5 @@
 > 커널에서 동작하는 Linux용 보안 아키텍처
+> [관련자료](https://velog.io/@ujeongoh/SELinux-Security-Enhanced-Linux)
 
 **상태 확인**
 ```sh
@@ -90,15 +91,16 @@ SELINUXTYPE=targeted
 # 바이너리 파일이기 때문에 읽을 수는 없다.
 ```
 
-**정책 세부 정보 보기**
+**Label(Context)정보 보기**
+- **Security Policy가 접근 제어 Policy를 적용하는데 사용**되는 **Label**이라는 것을 SELinux가 각 파일에 할당한다.
 ```
  ls -Zl /etc/selinux/targeted/policy/
 total 3384
 -rw-r--r--. 1 root root unconfined_u:object_r:semanage_store_t:s0 3462772 Aug 30 09:01 policy.33
 ```
-- unconfined_u: selinux의 사용자
+- unconfined_u: selinux의 사용자 **User**
   (policy.33에 정의되어 있음, shell에서 생성 불가능)
-- object_r: 사용자의 역할
+- object_r: 사용자가 수행할 수 있는 역할 **Roles**
 - semanage_store_t: 타입
   (httpd_sys_connect_t: httpd 접근 허용)
 - s0: 보안 레벨
