@@ -78,9 +78,28 @@ SELINUX=enforcing # 이 값을 disabled로 바꿔야 적용된다.
 SELINUXTYPE=targeted
 ```
 
-### 명령어로 설정 끄기
-	grubby --update-kernel ALL --args selinux=0
+**명령어로 설정 끄기**
+`grubby --update-kernel ALL --args selinux=0`
 
-### 명령어로 설정 켜기
-	grubby --update-kernel ALL --remove-args selinux
+**명령어로 설정 켜기**
+`grubby --update-kernel ALL --remove-args selinux`
 
+**정책 세부 설정 파일**
+```sh
+/etc/selinux/targeted/policy/policy.33
+# 바이너리 파일이기 때문에 읽을 수는 없다.
+```
+
+**정책 세부 정보 보기**
+```
+ ls -Zl /etc/selinux/targeted/policy/
+total 3384
+-rw-r--r--. 1 root root unconfined_u:object_r:semanage_store_t:s0 3462772 Aug 30 09:01 policy.33
+```
+- unconfined_u: selinux의 사용자
+  (policy.33에 정의되어 있음, shell에서 생성 불가능)
+- object_r: 사용자의 역할
+- semanage_store_t: 타입
+  (httpd_sys)
+- s0: 보안 레벨
+  (default = 0, 
