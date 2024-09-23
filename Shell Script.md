@@ -273,7 +273,6 @@ done
 ```
 123456789
 ```
-
 ```bash
 count=1
 while [ ${count} -le 5 ];
@@ -283,7 +282,7 @@ do
 done
 
 ```
-
+- 조건에 해당하지 않을 때 반복
 ```bash
 until [ ${count} -le 10 ];
 do
@@ -333,8 +332,8 @@ Windows MaxOS Unix
 ```
 > 1차원 배열만 지원한다.
 
-
-```
+- 인덱스 값으로 요소 삭제
+``` bash
 function two()
 {
         array=(1 2 3 4 5 6)
@@ -349,15 +348,19 @@ two
 ```
 1 2 4 5 6
 ```
-```
+- 요소 삭제
+```bash
 unset array[3]
 ```
 ```
 1 2 5 6
 ```
-```
+- 전체 삭제
+```bash
 unset array
 ```
 ```
 
 ```
+## 연관 배열(딕셔너리)
+---
