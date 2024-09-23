@@ -100,6 +100,18 @@ total 3384
   (policy.33에 정의되어 있음, shell에서 생성 불가능)
 - object_r: 사용자의 역할
 - semanage_store_t: 타입
-  (httpd_sys)
+  (httpd_sys_connect_t: httpd 접근 허용)
 - s0: 보안 레벨
   (default = 0, 
+
+```sh
+touch test.html
+chcon -t admin_home_t test.html # 타입을 지정해서 파일 생성
+```
+```sh
+-rw-r--r--. 1 root root unconfined_u:object_r:admin_home_t:s0   0 Sep 23 10:46 test.html
+```
+```sh
+restorecon test.html # 타입 초기화
+```
+
