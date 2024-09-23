@@ -161,3 +161,18 @@ fi
 ./if.sh -3 10 # 30
 ```
 
+```
+let file1=${1}
+let file2=${2}
+
+if [ -f ${file1} -a -f ${file2} ]; then
+        echo "file1 equal file2"
+else
+        echo "file1 not equal file2"
+fi
+
+```
+
+-f: 파일 지정 옵션
+-d: 디렉토리 지정 옵션
+-a: 두 파일을 검사 
