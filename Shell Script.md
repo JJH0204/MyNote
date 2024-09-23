@@ -376,3 +376,32 @@ map[hello]=world
 ```
 ## 함수
 ---
+```bash
+#!/usr/bin/bash
+
+function _fun1()
+{
+        echo "func1"
+        echo "${1}. ${2}"
+}
+
+function _main()
+{
+        echo "func_main()"
+        _fun1 "hello" "world"
+}
+
+_main
+```
+```
+./function.sh
+func_main()
+func1
+hello. world
+```
+
+## 쉘 종료 코드
+---
+|code|설명|
+|:--:|:--|
+|0
