@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tcpwrapper.md",
+                "file": "Shell Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tcpwrapper.md",
+                "file": "Shell Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tcpwrapper.md",
+                "file": "Shell Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tcpwrapper.md"
+                "file": "Shell Script.md"
               }
             }
           }
@@ -180,13 +180,13 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
+    "Linux_Sec.md",
     "접근제어.md",
     "tcpwrapper.md",
     "iptables.md",
     "SELinux.md",
     "Spaces/Desc/CentOS Basic Command.md",
     "Spaces/Desc/Linux Basic.md",
-    "Linux_Sec.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "firewalld.md",
