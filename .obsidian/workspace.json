@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell Script.md",
+                "file": "firewalld.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script.md",
+                "file": "firewalld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script.md",
+                "file": "firewalld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script.md"
+                "file": "firewalld.md"
               }
             }
           }
@@ -167,7 +167,12 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240923091158.png",
+    "접근제어.md",
+    "firewalld.md",
+    "tcpwarpper.md",
     "Linux_Sec.md",
+    "Shell Script.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Home/컴퓨터 과학.md",
