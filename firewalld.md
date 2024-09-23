@@ -33,6 +33,16 @@ firewall-cmd --get-zones
 firewall-cmd --zone=home --list-all
 ```
 
+- 특정 정보만 확인
+```sh
+firewall-cmd --zone=public --list-services(ports)
+```
+
+- permanent 설정만 확인
+```sh
+firewall-cmd --zone=public --list-services --permanent
+```
+
 - 인터페이스에 zone 할당
 ```sh
 firewall-cmd --zone=home --change-interface=enp0s3
@@ -73,7 +83,7 @@ cat /usr/lib/firewalld/services/ssh.xml
 block.xml      drop.xml       home.xml       nm-shared.xml  trusted.xml
 dmz.xml        external.xml   internal.xml   public.xml     work.xml
 ```
-```
+```sh
 cat /usr/lib/firewalld/zones/public.xml
 ```
 ```xml
