@@ -143,3 +143,21 @@ code 2
 code 3
 END 
 ```
+
+## 조건문
+---
+```bash
+#!/usr/bin/bash
+
+if ((${1}>0)); then
+        # any code 1
+        echo $((${1}*${2}))
+else
+        # any code 2
+        echo $((${1}*-1*${2}))
+fi
+
+./if.sh 3 10 # 30
+./if.sh -3 10 # 30
+```
+
