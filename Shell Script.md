@@ -22,6 +22,6 @@ echo $(which bash) #명령어 실행 결과를 텍스트로 출력
 ```bash
 #!/usr/bin/bash # 씨방이라 한다.
 
-echo$(which bash)
+echo $(which bash)
 ```
 
