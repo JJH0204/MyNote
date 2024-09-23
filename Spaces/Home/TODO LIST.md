@@ -24,3 +24,4 @@ sticker: lucide//check-check
 - [ ] vpn 공부하기
 - [ ] Linux 시스템 보안 복습하기
 - [ ] 형 노트북 백업하고 포맷하기
+- [ ] Shell Script를 활용해 서버 세팅을 자동화

@@ -565,3 +565,7 @@ ls -al *.txt
 -rwxr-xr-x. 1 root root 0 Sep 23 12:13 testsc.txt
 ##############
 ```
+
+## 과제
+- /var/log log 파일 중 2일 이상 지난 파일들은 압축 보관
+- 3이상 지난 파일들은 삭제

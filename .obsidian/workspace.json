@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,9 +180,10 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
+    "Spaces/Desc/파일 관련 명령어.md",
+    "Shell Script.md",
     "Spaces/Home/TODO LIST.md",
     "Spaces/Desc/CentOS Basic Command.md",
-    "Shell Script.md",
     "Linux_Sec.md",
     "접근제어.md",
     "tcpwrapper.md",
