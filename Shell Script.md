@@ -569,3 +569,6 @@ ls -al *.txt
 ## 과제
 - /var/log log 파일 중 2일 이상 지난 파일들은 압축 보관
 - 3이상 지난 파일들은 삭제
+- [find -time](https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-find-%EB%AA%85%EB%A0%B9-mtime-ctime-atime-%EC%98%B5%EC%85%98-n-n-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
+- find /var/log -mtime +1 -name *.log
+  .log로 끝나는 파일들 중 3일 이상 방치된 파일
