@@ -32,3 +32,27 @@ ls -l /shell
 - `대소문자 구분`, 변수 이름 시작을 숫자로 할 수 없다.
 - `자료형`을 지정하지 않는다.
 - 사용할 때 `$변수명` 형태로 사용한다.
+```bash
+#!/usr/bin/bash
+
+str="Hello Global" # 전역변수
+
+function print_str() # 함수선언
+{
+        local str="Hello local" # 지역변수
+        echo ${str} #출력 (c > put(), /n포함)
+}
+
+print_str # 함수 호출
+echo ${str} # 전역변수 출력
+
+unset str # 메모리 초기화
+```
+
+### 환경 변수
+export \[변수 이름]
+```bash
+#!/usr/bin/bash
+
+
+```
