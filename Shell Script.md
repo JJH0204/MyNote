@@ -50,9 +50,30 @@ unset str # 메모리 초기화
 ```
 
 ### 환경 변수
-export \[변수 이름]
+export \[변수 이름]=\[값]
 ```bash
 #!/usr/bin/bash
 
+echo ${hello_world}
+
+:wq
+
+export hello_world="Global Export Word" # 환경변수 선언
+chmod 755 ./export.sh 
+
+./export.sh
+Global Export Word
+```
+
+### 매개 변수
+`./test a b c d -> $0 $1 $2 $3 $4`로 각각 대입
+`$# -> 매개변수 개수`
+```
+vi ./date.sh
+########################
+########################
+chmod 755 ./date.sh
+./date.sh 2024 9 23
+./date.sh: 2024-9-23
 
 ```
