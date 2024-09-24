@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sysstat.md",
+                "file": "서버 점검 스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sysstat.md",
+                "file": "서버 점검 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sysstat.md",
+                "file": "서버 점검 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sysstat.md"
+                "file": "서버 점검 스크립트.md"
               }
             }
           }
@@ -188,10 +188,11 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
+    "Spaces/Desc/netstat.md",
     "서버 점검 스크립트.md",
+    "sysstat.md",
     "smart tool.md",
     "Spaces/Desc/파일 관련 명령어.md",
-    "sysstat.md",
     "Shell Script.md",
     "find_time.md",
     "Spaces/Home/TODO LIST.md",
