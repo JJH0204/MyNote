@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script.md",
+                "file": "서버 점검 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script.md",
+                "file": "서버 점검 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script.md"
+                "file": "서버 점검 스크립트.md"
               }
             }
           }
@@ -203,11 +203,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dd31b479f305d39d",
+  "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
+    "Shell Script.md",
     "서버 점검 스크립트.md",
     "Spaces/Desc/netstat.md",
-    "Shell Script.md",
     "smart tool.md",
     "sysstat.md",
     "Spaces/Desc/파일 관련 명령어.md",
