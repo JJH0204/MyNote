@@ -49,6 +49,19 @@ DELAY_RANGE=0
 # security standards).
 UMASK=0022
 ```
+## sar
+---
+```bash
+sar 1 3
+Linux 5.14.0-427.33.1.el9_4.x86_64 (Linux1)     09/24/2024      _x86_64_        (1 CPU)
 
-- iostate
-- sar
+10:17:23 AM     CPU     %user     %nice   %system   %iowait    %steal     %idle
+10:17:24 AM     all      0.00      0.00      0.00      0.00      0.00    100.00
+10:17:25 AM     all      0.00      0.00      1.00      0.00      0.00     99.00
+10:17:26 AM     all      0.00      0.00      1.00      0.00      0.00     99.00
+Average:        all      0.00      0.00      0.67      0.00      0.00     99.33
+
+```
+- 1회 실행에 3번 검사한 결과 출력
+## iostate
+---

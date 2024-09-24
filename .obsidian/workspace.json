@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서버 점검 스크립트.md",
+                "file": "sysstat.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "서버 점검 스크립트.md",
+                "file": "sysstat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "서버 점검 스크립트.md",
+                "file": "sysstat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서버 점검 스크립트.md"
+                "file": "sysstat.md"
               }
             }
           }
@@ -192,8 +192,8 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
-    "sysstat.md",
     "서버 점검 스크립트.md",
+    "sysstat.md",
     "Shell Script.md",
     "find_time.md",
     "Spaces/Desc/파일 관련 명령어.md",
