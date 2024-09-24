@@ -589,10 +589,12 @@ zipLog=`find ${dir} -mtime 1 -name *.log` # 여긴가?
 # 3일 이상 방치된 .log 파일 삭제
 find /var/log -type f -name "*.log" -mtime +1 -exec rm -f {} \; 
 # 2일 이상 방치된 .log 파일 압축 
-find /var/log -type f -name "*.log" -mtime +0 ! -mtime +1 -exec gzip {} \;
+find /var/log -type f -name "*.log" -mtime 1 -exec gzip {} \;
 ```
 - `-type f`: 타입이 파일인 것을 찾는다.
 - `-name "*.log"`: 파일 이름이 ".log"로 끝나는 것을 찾는다.
 - `-mtime +n`: 파일의 마지막 수정 날짜가 n이상인 파일을 찾는다.
 - `-exec`: 찾은 파일들을 대상으로 수행할 작업을 지정한다.
 [[find_time]]
+## [[서버 점검 스크립트]]
+---
