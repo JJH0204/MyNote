@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell Script.md",
+                "file": "find_time.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script.md",
+                "file": "find_time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script.md",
+                "file": "find_time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script.md"
+                "file": "find_time.md"
               }
             }
           }
@@ -180,8 +180,9 @@
   },
   "active": "492af7d1faec4a0a",
   "lastOpenFiles": [
-    "Spaces/Desc/파일 관련 명령어.md",
     "Shell Script.md",
+    "find_time.md",
+    "Spaces/Desc/파일 관련 명령어.md",
     "Spaces/Home/TODO LIST.md",
     "Spaces/Desc/CentOS Basic Command.md",
     "Linux_Sec.md",

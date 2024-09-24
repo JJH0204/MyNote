@@ -572,7 +572,7 @@ ls -al *.txt
 - [find -time](https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-find-%EB%AA%85%EB%A0%B9-mtime-ctime-atime-%EC%98%B5%EC%85%98-n-n-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 - find /var/log -mtime +1 -name *.log
   .log로 끝나는 파일들 중 3일 이상 방치된 파일
-```
+```bash
 #!/usr/bin/bash
 
 dir=/var/log
@@ -595,3 +595,4 @@ find /var/log -type f -name "*.log" -mtime +2 ! -mtime +3 -exec gzip {} \;
 - `-name "*.log"`: 파일 이름이 ".log"로 끝나는 것을 찾는다.
 - `-mtime +n`: 파일의 마지막 수정 날짜가 n이상인 파일을 찾는다.
 - `-exec`: 찾은 파일들을 대상으로 수행할 작업을 지정한다.
+[[find_time]]
