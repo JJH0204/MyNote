@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b756686f9f108053",
-        "type": "split",
+        "id": "b2782c4f675646f2",
+        "type": "tabs",
         "children": [
           {
-            "id": "b2782c4f675646f2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "492af7d1faec4a0a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "서버 점검 스크립트.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "967e03d81d44c32d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Spaces/Home/TODO LIST.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "492af7d1faec4a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "서버 점검 스크립트.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "47a9fc473b99e904",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dd31b479f305d39d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Shell Script.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "967e03d81d44c32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/TODO LIST.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "dd31b479f305d39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell Script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
