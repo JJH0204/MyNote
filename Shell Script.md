@@ -587,9 +587,9 @@ zipLog=`find ${dir} -mtime 1 -name *.log` # 여긴가?
 ```
 ```bash
 # 3일 이상 방치된 .log 파일 삭제
-find /var/log -type f -name "*.log" -mtime +3 -exec rm -f {} \; 
+find /var/log -type f -name "*.log" -mtime +1 -exec rm -f {} \; 
 # 2일 이상 방치된 .log 파일 압축 
-find /var/log -type f -name "*.log" -mtime +2 ! -mtime +3 -exec gzip {} \;
+find /var/log -type f -name "*.log" -mtime +0 ! -mtime +1 -exec gzip {} \;
 ```
 - `-type f`: 타입이 파일인 것을 찾는다.
 - `-name "*.log"`: 파일 이름이 ".log"로 끝나는 것을 찾는다.
