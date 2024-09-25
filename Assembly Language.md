@@ -30,5 +30,36 @@
 
 ### 포인터 레지스터
 - EIP(Instruction)
-  : 다음에 실행할 명령어의 주솔
-- ESP, EBP
+  : 다음에 실행할 명령어를 가지는 레지스터
+- ESP(Stack)
+  : 가장 최근에 저장된 메모리의 주소를 가지는 레지스터
+- EBP(Base)
+  : 가장 마지막 바닥 메모리의 주소를 가지는 레지스터
+
+## Assembly
+---
+![[Pasted image 20240925110748.png]]
+```c
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    int a = 1;
+    int b = 2;
+    int c = a + b;
+
+    printf("a: %d, b: %d, c: %d\n", a, b, c);
+
+    return 0;
+}
+```
+```bash
+[root@Linux1 tmp]# vi ./addtest.c
+[root@Linux1 tmp]# gcc -o addtest addtest.c
+[root@Linux1 tmp]# ./addtest
+a: 1, b: 2, c: 3
+```
+### 어셈블리어 예제
+```
+
+```

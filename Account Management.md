@@ -40,7 +40,7 @@ test:$6$3qbYuf1Yd.5HptnY$xAirZpuUJzS9ftdrWxjBJOK7xaEQp0xPCDNkPGPqhgvJxIVDQ8ZPioT
 test1:$6$IjZ5ZEIVe1qvJi9G$k2W4sr9OkioC.KXNQbpxG8.QCa.pDiylXkYrAqhfYlYa04yPPTH2PF3u4jaal50fw.0LyAVB65n6I1xodZ3uX/:19986:0:99999:7:::
 # test와 test1은 같은 비밀번호를 사용하지만 암호화된 패스워드는 달라진 이유
 ```
-
+![[Pasted image 20240925110611.png]]
 - \$6$: 사이 값을 통해 사용된 해싱 알고리즘을 알 수 있다.
 
 # [[Permission]]

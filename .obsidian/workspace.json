@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe53dd59a8da5929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Account Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "salt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +217,11 @@
   },
   "active": "b819b4523261ba57",
   "lastOpenFiles": [
-    "BOF.md",
+    "Spaces/Temp/Pasted image 20240925110748.png",
+    "Account Management.md",
+    "Spaces/Temp/Pasted image 20240925110611.png",
     "Assembly Language.md",
+    "BOF.md",
     "gdb.md",
     "conflict-files-obsidian-git.md",
     "시스템 해킹 기법.md",
@@ -229,8 +244,6 @@
     "Spaces/Desc/Linux Basic.md",
     "firewalld.md",
     "2024-09-23.md",
-    "Spaces/Temp/Pasted image 20240923091158.png",
-    "Spaces/Home/컴퓨터 과학.md",
-    "Spaces/Home/Server.md"
+    "Spaces/Temp/Pasted image 20240923091158.png"
   ]
 }
