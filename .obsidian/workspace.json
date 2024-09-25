@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "967e03d81d44c32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/TODO LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd31b479f305d39d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shell Script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b819b4523261ba57",
             "type": "leaf",
             "state": {
@@ -62,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Shell Script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f454b8149a6c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "해킹과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,11 +111,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -151,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "해킹과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "해킹과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/CTF.md"
+                "file": "해킹과정.md"
               }
             }
           }
@@ -214,12 +203,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b819b4523261ba57",
+  "active": "75f454b8149a6c15",
   "lastOpenFiles": [
-    "Shell Script.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "해킹과정.md",
+    "Spaces/Home/Information_Security.md",
     "시스템 보안.md",
-    "Account Management.md",
     "Spaces/Desc/CTF.md",
+    "서버 점검 스크립트.md",
+    "Spaces/Home/TODO LIST.md",
+    "Shell Script.md",
+    "Account Management.md",
     "시스템 해킹 기법.md",
     "BOF.md",
     "Assembly Language.md",
@@ -228,9 +222,6 @@
     "Spaces/Temp/Pasted image 20240925110611.png",
     "gdb.md",
     "conflict-files-obsidian-git.md",
-    "Spaces/Home/Information_Security.md",
-    "서버 점검 스크립트.md",
-    "Spaces/Home/TODO LIST.md",
     "Spaces/Desc/netstat.md",
     "smart tool.md",
     "sysstat.md",
@@ -243,8 +234,6 @@
     "iptables.md",
     "SELinux.md",
     "Spaces/Desc/Linux Basic.md",
-    "firewalld.md",
-    "2024-09-23.md",
     "Spaces/Temp/Pasted image 20240923091158.png"
   ]
 }
