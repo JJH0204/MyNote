@@ -100,3 +100,4 @@ cd root
 ls
 root_flag.txt 확인 -> root 사용자의 flag 확인
 ```
+![[{C3D5F161-A336-4C6D-9B32-0929D9E52BEA}.png]]![[{11163887-E97A-449B-BA64-8216940778B3}.png]]
