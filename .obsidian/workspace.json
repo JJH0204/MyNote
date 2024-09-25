@@ -205,8 +205,9 @@
   },
   "active": "b819b4523261ba57",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "gdb.md",
     "BOF.md",
+    "conflict-files-obsidian-git.md",
     "시스템 해킹 기법.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -230,7 +231,6 @@
     "Spaces/Temp/Pasted image 20240923091158.png",
     "Spaces/Home/컴퓨터 과학.md",
     "Spaces/Home/Server.md",
-    "Spaces/Desc/SSH.md",
-    "Excalidraw/네트워크와 프로토콜의 관계.md"
+    "Spaces/Desc/SSH.md"
   ]
 }
