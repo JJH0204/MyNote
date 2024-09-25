@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b819b4523261ba57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script.md",
+                "file": "BOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script.md",
+                "file": "BOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script.md"
+                "file": "BOF.md"
               }
             }
           }
@@ -191,16 +203,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dd31b479f305d39d",
+  "active": "b819b4523261ba57",
   "lastOpenFiles": [
+    "시스템 해킹 기법.md",
+    "BOF.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
     "서버 점검 스크립트.md",
+    "Spaces/Home/TODO LIST.md",
     "Shell Script.md",
     "Spaces/Desc/netstat.md",
     "smart tool.md",
     "sysstat.md",
     "Spaces/Desc/파일 관련 명령어.md",
     "find_time.md",
-    "Spaces/Home/TODO LIST.md",
     "Spaces/Desc/CentOS Basic Command.md",
     "Linux_Sec.md",
     "접근제어.md",
@@ -208,8 +224,6 @@
     "iptables.md",
     "SELinux.md",
     "Spaces/Desc/Linux Basic.md",
-    "시스템 보안.md",
-    "Spaces/Home/Information_Security.md",
     "firewalld.md",
     "2024-09-23.md",
     "Spaces/Temp/Pasted image 20240923091158.png",
@@ -217,7 +231,6 @@
     "Spaces/Home/Server.md",
     "Spaces/Desc/SSH.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/네트워크와 프로토콜의 관계.md",
-    "Spaces/Desc/Hacking.md"
+    "Excalidraw/네트워크와 프로토콜의 관계.md"
   ]
 }
