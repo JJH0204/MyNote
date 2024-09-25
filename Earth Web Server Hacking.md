@@ -34,4 +34,10 @@
 - 브라우저의 기능을 활용해 https의 설정(key)를 볼 수 있다.![[{B2B64A99-A38F-4882-B150-5AA6D6654A6F}.png]]![[{E29A501C-1B1D-43A1-A18D-EA84783989D1}.png]]![[{E607599B-3B8D-45DF-A199-C803C42EA692}.png]]
 - 찾은 도메인 이름으로 사이트에 접속할 수 있도록 host파일 수정한다.
 	- `sudo vi /etc/hosts`
-	- 
+	- `192.168.56.104 earth.local`, `192.168.56.104 terratest.earth.local` 추가
+	- 저장
+- 도메인 이름으로 웹 서비스에 접속한다.![[{DA2C17DA-7807-4E49-8AA6-BB630C44C4E4}.png]]![[{95FDB3AA-A84A-4E4C-9BDA-37FD1D21A23A}.png]]
+> [!Note]
+> https ssl key 설정을 통해 알아낸 도메인 이름(earth.local/terratest.earth.local)으로 웹 서비스 접속에 성공했다.
+> http://earth.local/, http://terratest.earth.local/, https://earth.local/ > 웹 서비스 페이지로 접속
+> https://terratest.earth.local/ > 더미 페이지로 접속
