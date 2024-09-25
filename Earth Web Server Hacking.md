@@ -25,7 +25,7 @@
 ---
 > victim server에서 서비스 중인 웹 서비스를 활용해 접속을 시도한다.
 - browser 접속: `http://192.168.56.104/`![[{A4990424-8C50-484E-B93C-5ED7441EF255}.png]]
-- browser 접속: `https://192.168.56.104/`![[{B05F8D55-B9BD-4510-99E4-FADA7F1FB17A}.png]]![[{9FDE5F88-F1C5-4AF5-95DE-47F74DE38D0A}.png]]
+- browser 접속: `https://192.168.56.104/`![[{9FDE5F88-F1C5-4AF5-95DE-47F74DE38D0A}.png]]
 > [!Note]
 > `http://(또는 https://)ip/`를 활용한 웹 서비스 접속이 원활하지 않다.
 > 다른 접속 방법을 찾아야 한다.
@@ -41,3 +41,7 @@
 > https ssl key 설정을 통해 알아낸 도메인 이름(earth.local/terratest.earth.local)으로 웹 서비스 접속에 성공했다.
 > http://earth.local/, http://terratest.earth.local/, https://earth.local/ > 웹 서비스 페이지로 접속
 > https://terratest.earth.local/ > 더미 페이지로 접속
+
+### 서비스 분석
+- 실제 기능을 사용(또는 F12, 개발자 툴을 활용)하며 서비스 특징을 분석한다.
+- 

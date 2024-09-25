@@ -50,7 +50,7 @@ nmap을 활용한 더 자세한 scaning
 - `https://terratest.earth.local/testdata.txt`![[Pasted image 20240925161446.png]]
 - https://gchq.github.io/CyberChef/ 사이트를 활용해 복호화 시도![[Pasted image 20240925162816.png]]
   - 암호화에 사용되는 키 값 입력하고 암호화 결과물을 인풋에 입력
-- `earthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimatechangebad4humansearthclimat`
+- `earthclimatechangebad4humans`
 - 찾은 값을 활용해 로그인 시도![[Pasted image 20240925163151.png]]
 - 접속을 갖게 되었다.![[Pasted image 20240925163213.png]]
 - `cat /var/earth_web/user_flag.txt`에서 user flag를 획득했다.![[Pasted image 20240925163653.png]]
