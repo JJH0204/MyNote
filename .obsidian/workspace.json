@@ -30,21 +30,27 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3f041657f6948a3a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "75f454b8149a6c15",
+            "id": "f432c3560494bbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "해킹과정.md",
+                "file": "Earth Web Server Hacking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "해킹과정.md",
+                "file": "Earth Web Server Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "해킹과정.md",
+                "file": "Earth Web Server Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "해킹과정.md"
+                "file": "Earth Web Server Hacking.md"
               }
             }
           }
@@ -191,10 +197,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b819b4523261ba57",
+  "active": "f432c3560494bbd4",
   "lastOpenFiles": [
-    "Spaces/Desc/CTF.md",
     "해킹과정.md",
+    "CTF_1.md",
+    "Earth Web Server Hacking.md",
+    "Spaces/Desc/CTF.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Spaces/Home/Information_Security.md",
     "서버 점검 스크립트.md",
     "Shell Script.md",
     "Spaces/Temp/Pasted image 20240925170947.png",
@@ -209,8 +219,6 @@
     "Spaces/Temp/Pasted image 20240925163213.png",
     "Spaces/Temp/Pasted image 20240925163151.png",
     "robots.txt.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Home/Information_Security.md",
     "시스템 보안.md",
     "Spaces/Home/TODO LIST.md",
     "Account Management.md",
@@ -226,7 +234,6 @@
     "find_time.md",
     "Spaces/Desc/CentOS Basic Command.md",
     "Linux_Sec.md",
-    "접근제어.md",
-    "tcpwrapper.md"
+    "접근제어.md"
   ]
 }
