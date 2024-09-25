@@ -91,6 +91,7 @@ Segmentation fault (core dumped)
 ```
 
 #### 디버깅 도구를 활용
+- [[gdb]]
 ```
 dnf install -y gdb
 
