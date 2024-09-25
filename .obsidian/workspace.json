@@ -205,6 +205,9 @@
   },
   "active": "75f454b8149a6c15",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240925165056.png",
+    "Spaces/Temp/Pasted image 20240925165021.png",
+    "Spaces/Temp/Pasted image 20240925164333.png",
     "Spaces/Desc/netcat.md",
     "Shell Script.md",
     "해킹과정.md",
@@ -216,8 +219,6 @@
     "Spaces/Temp/Pasted image 20240925162119.png",
     "Spaces/Temp/Pasted image 20240925161924.png",
     "Spaces/Temp/Pasted image 20240925161848.png",
-    "Spaces/Temp/Pasted image 20240925161559.png",
-    "Spaces/Temp/Pasted image 20240925161446.png",
     "robots.txt.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/Information_Security.md",
@@ -239,7 +240,6 @@
     "Spaces/Desc/CentOS Basic Command.md",
     "Linux_Sec.md",
     "접근제어.md",
-    "tcpwrapper.md",
-    "iptables.md"
+    "tcpwrapper.md"
   ]
 }
