@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Account Management.md",
+                "file": "Shell Script.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salt",
+                "query": "shell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "Shell Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "Shell Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/CTF.md"
+                "file": "Shell Script.md"
               }
             }
           }
@@ -215,15 +214,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b819b4523261ba57",
+  "active": "fe53dd59a8da5929",
   "lastOpenFiles": [
     "시스템 보안.md",
+    "Account Management.md",
+    "Spaces/Desc/CTF.md",
     "시스템 해킹 기법.md",
     "BOF.md",
     "Assembly Language.md",
     "Spaces/Temp/Pasted image 20240925113138.png",
     "Spaces/Temp/Pasted image 20240925110748.png",
-    "Account Management.md",
     "Spaces/Temp/Pasted image 20240925110611.png",
     "gdb.md",
     "conflict-files-obsidian-git.md",
