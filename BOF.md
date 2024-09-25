@@ -92,7 +92,6 @@ Segmentation fault (core dumped)
 
 #### 디버깅 도구를 활용
 - [[gdb]]
-- 어셈블리어
 
 ### \[실습 2]
 #### 예제 코드
@@ -175,5 +174,6 @@ End of assembler dump.
 x/s 0x401050
 0x401050 <read@plt>:    "\377%\322/"
 ```
+- %rsi 이런 형태로 표시된 것이 메모리 레지스터이다.
 
-%rsi 이런 형태로 표시된 것이 메모리 레지스터이다.
+#### [[Assembly Language]]
