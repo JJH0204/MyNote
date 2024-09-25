@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "해킹과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "해킹과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "해킹과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/CTF.md"
+                "file": "해킹과정.md"
               }
             }
           }
@@ -193,9 +193,9 @@
   },
   "active": "b819b4523261ba57",
   "lastOpenFiles": [
+    "Spaces/Desc/CTF.md",
     "해킹과정.md",
     "서버 점검 스크립트.md",
-    "Spaces/Desc/CTF.md",
     "Shell Script.md",
     "Spaces/Temp/Pasted image 20240925170947.png",
     "Spaces/Temp/Pasted image 20240925170741.png",
