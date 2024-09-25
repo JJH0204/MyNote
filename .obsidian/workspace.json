@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assembly Language.md",
+                "file": "Spaces/Desc/CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assembly Language.md",
+                "file": "Spaces/Desc/CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assembly Language.md",
+                "file": "Spaces/Desc/CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assembly Language.md"
+                "file": "Spaces/Desc/CTF.md"
               }
             }
           }
@@ -217,16 +217,16 @@
   },
   "active": "b819b4523261ba57",
   "lastOpenFiles": [
+    "시스템 보안.md",
+    "시스템 해킹 기법.md",
+    "BOF.md",
+    "Assembly Language.md",
     "Spaces/Temp/Pasted image 20240925113138.png",
     "Spaces/Temp/Pasted image 20240925110748.png",
     "Account Management.md",
     "Spaces/Temp/Pasted image 20240925110611.png",
-    "Assembly Language.md",
-    "BOF.md",
     "gdb.md",
     "conflict-files-obsidian-git.md",
-    "시스템 해킹 기법.md",
-    "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "서버 점검 스크립트.md",
     "Spaces/Home/TODO LIST.md",
