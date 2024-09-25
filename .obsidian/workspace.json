@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "fe53dd59a8da5929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shell Script.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "75f454b8149a6c15",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "해킹과정.md",
+                "file": "Spaces/Desc/CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "해킹과정.md",
+                "file": "Spaces/Desc/CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "해킹과정.md"
+                "file": "Spaces/Desc/CTF.md"
               }
             }
           }
@@ -203,8 +191,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "75f454b8149a6c15",
+  "active": "b819b4523261ba57",
   "lastOpenFiles": [
+    "해킹과정.md",
+    "서버 점검 스크립트.md",
+    "Spaces/Desc/CTF.md",
+    "Shell Script.md",
     "Spaces/Temp/Pasted image 20240925170947.png",
     "Spaces/Temp/Pasted image 20240925170741.png",
     "Spaces/Temp/Pasted image 20240925170451.png",
@@ -213,18 +205,13 @@
     "Spaces/Temp/Pasted image 20240925165021.png",
     "Spaces/Temp/Pasted image 20240925164333.png",
     "Spaces/Desc/netcat.md",
-    "Shell Script.md",
-    "해킹과정.md",
     "Spaces/Temp/Pasted image 20240925163653.png",
     "Spaces/Temp/Pasted image 20240925163213.png",
     "Spaces/Temp/Pasted image 20240925163151.png",
-    "Spaces/Temp/Pasted image 20240925162830.png",
     "robots.txt.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/Information_Security.md",
     "시스템 보안.md",
-    "Spaces/Desc/CTF.md",
-    "서버 점검 스크립트.md",
     "Spaces/Home/TODO LIST.md",
     "Account Management.md",
     "시스템 해킹 기법.md",
