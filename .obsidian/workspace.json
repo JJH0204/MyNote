@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "해킹과정.md",
+                "file": "CTF_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,9 +199,10 @@
   },
   "active": "f432c3560494bbd4",
   "lastOpenFiles": [
-    "해킹과정.md",
+    "Spaces/Temp/{502F8A71-3DD0-4168-9BC5-DEA47F1F3170}.png",
     "CTF_1.md",
     "Earth Web Server Hacking.md",
+    "해킹과정.md",
     "Spaces/Desc/CTF.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/Information_Security.md",
@@ -233,7 +234,6 @@
     "Spaces/Desc/파일 관련 명령어.md",
     "find_time.md",
     "Spaces/Desc/CentOS Basic Command.md",
-    "Linux_Sec.md",
-    "접근제어.md"
+    "Linux_Sec.md"
   ]
 }
