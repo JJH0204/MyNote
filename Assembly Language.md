@@ -61,36 +61,40 @@ a: 1, b: 2, c: 3
 ```
 ### 어셈블리어 예제
 ```assembly
-push        ebp  
-mov         ebp,esp  
-sub         esp,0E4h  
-push        ebx  
-push        esi  
-push        edi  
+push        ebp                         # 스택에서 가장 바닥(ebp)를 먼저 할당
+mov         ebp,esp                     # 스택의 값(esp)을 ebp에 옮긴다. (esp에 값을 저장하기 위해)
+sub         esp,0E4h                    # 16진수(0E4h)만큼 바닥(ebp)과 머리(esp) 사이 공간을 할당
+push        ebx                         # 주소
+push        esi                         # 만드는
+push        edi                         # 과정
 lea         edi,[ebp+FFFFFF1Ch]  
 mov         ecx,39h  
 mov         eax,0CCCCCCCCh  
-rep stos    dword ptr es:[edi]  
+rep stos    dword ptr es:[edi]          # dword 자료형을 저장할 메모리 할당
 mov         ecx,9AC003h  
-call        009A1316  
-mov         dword ptr [ebp-8],1  
-mov         dword ptr [ebp-14h],2  
-mov         eax,dword ptr [ebp-8]  
-add         eax,dword ptr [ebp-14h]  
-mov         dword ptr [ebp-20h],eax  
-mov         eax,dword ptr [ebp-20h]  
+call        009A1316                    # 함수 호출
+mov         dword ptr [ebp-8],1         # 1 입력
+mov         dword ptr [ebp-14h],2       # 2 입력
+mov         eax,dword ptr [ebp-8]       # 메모리 8 할당
+add         eax,dword ptr [ebp-14h]     # 1과 2 덧셈 진행
+mov         dword ptr [ebp-20h],eax     # 
+mov         eax,dword ptr [ebp-20h]     # eax 에 결과 저장
 push        eax  
 push        9A7D08h  
-call        009A10CD  
+call        009A10CD                    # 결과값 가져와서
 add         esp,8  
 xor         eax,eax  
-pop         edi  
+pop         edi                         # 결과값 pop 
 pop         esi  
 pop         ebx  
 add         esp,0E4h  
-cmp         ebp,esp  
-call        009A123F  
+cmp         ebp,esp                     # 
+call        009A123F                    # printf 함수 호출
 mov         esp,ebp  
-pop         ebp  
+pop         ebp                         # 호출 결과 반환
 ret
 ```
+
+### 온라인 Assambly 컴파일러
+- https://godbolt.org/
+![[Pasted image 20240925113138.png]]
