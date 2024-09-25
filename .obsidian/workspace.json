@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell Script.md",
+                "file": "Spaces/Desc/CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell Script.md",
+                "file": "Spaces/Desc/CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell Script.md"
+                "file": "Spaces/Desc/CTF.md"
               }
             }
           }
@@ -214,8 +214,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fe53dd59a8da5929",
+  "active": "b819b4523261ba57",
   "lastOpenFiles": [
+    "Shell Script.md",
     "시스템 보안.md",
     "Account Management.md",
     "Spaces/Desc/CTF.md",
@@ -230,7 +231,6 @@
     "Spaces/Home/Information_Security.md",
     "서버 점검 스크립트.md",
     "Spaces/Home/TODO LIST.md",
-    "Shell Script.md",
     "Spaces/Desc/netstat.md",
     "smart tool.md",
     "sysstat.md",
