@@ -60,6 +60,37 @@ int main(int argc, char* argv[])
 a: 1, b: 2, c: 3
 ```
 ### 어셈블리어 예제
-```
-
+```assembly
+push        ebp  
+mov         ebp,esp  
+sub         esp,0E4h  
+push        ebx  
+push        esi  
+push        edi  
+lea         edi,[ebp+FFFFFF1Ch]  
+mov         ecx,39h  
+mov         eax,0CCCCCCCCh  
+rep stos    dword ptr es:[edi]  
+mov         ecx,9AC003h  
+call        009A1316  
+mov         dword ptr [ebp-8],1  
+mov         dword ptr [ebp-14h],2  
+mov         eax,dword ptr [ebp-8]  
+add         eax,dword ptr [ebp-14h]  
+mov         dword ptr [ebp-20h],eax  
+mov         eax,dword ptr [ebp-20h]  
+push        eax  
+push        9A7D08h  
+call        009A10CD  
+add         esp,8  
+xor         eax,eax  
+pop         edi  
+pop         esi  
+pop         ebx  
+add         esp,0E4h  
+cmp         ebp,esp  
+call        009A123F  
+mov         esp,ebp  
+pop         ebp  
+ret
 ```
