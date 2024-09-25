@@ -205,6 +205,9 @@
   },
   "active": "75f454b8149a6c15",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240925153947.png",
+    "Spaces/Temp/Pasted image 20240925153513.png",
+    "Spaces/Temp/Pasted image 20240925153425.png",
     "Spaces/Temp/Pasted image 20240925152944.png",
     "Spaces/Temp/Pasted image 20240925152735.png",
     "Spaces/Temp/Pasted image 20240925152403.png",
@@ -237,7 +240,6 @@
     "접근제어.md",
     "tcpwrapper.md",
     "iptables.md",
-    "SELinux.md",
-    "Spaces/Temp/Pasted image 20240923091158.png"
+    "SELinux.md"
   ]
 }
