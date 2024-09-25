@@ -114,3 +114,66 @@ int main(int argc, char* argv[])
     return 0;
 }
 ```
+- 컴파일 후 실행
+```
+./sbof1
+qwerqwerqwerqwerqwer
+Your Name: Your Name is qwerqwerqwersecret message # (1)
+[root@Linux1 tmp]# qwerqwer # (2)
+-bash: qwerqwer: command not found
+```
+	1) 12 바이트만 읽고 뒤에 secret message가 출력된다.
+	2) 12 바이트를 초과한 문자열은 bash 쉘로 넘어가 실행되었다.
+- 이를 활용한 공격 방법
+```
+./sbof1
+123456789012pwd # (1)
+Your Name: Your Name is 123456789012secret message
+[root@Linux1 tmp]# pwd (2)
+/tmp
+```
+	1) 의도적으로 12바이트를 초과한 문자부터 실행할 명령어를 작성
+	2) 해당 명령어를 실행한 결과가 자동으로 출력되는 것을 알수있다.
+
+```
+disas main
+Dump of assembler code for function main:
+   0x0000000000401146 <+0>:     push   %rbp
+   0x0000000000401147 <+1>:     mov    %rsp,%rbp
+   0x000000000040114a <+4>:     sub    $0x30,%rsp
+   0x000000000040114e <+8>:     mov    %edi,-0x24(%rbp)
+   0x0000000000401151 <+11>:    mov    %rsi,-0x30(%rbp)
+   0x0000000000401155 <+15>:    movabs $0x6d20746572636573,%rax
+   0x000000000040115f <+25>:    movabs $0x656761737365,%rdx
+   0x0000000000401169 <+35>:    mov    %rax,-0x10(%rbp)
+   0x000000000040116d <+39>:    mov    %rdx,-0x8(%rbp)
+   0x0000000000401171 <+43>:    movl   $0x0,-0x14(%rbp)
+   0x0000000000401178 <+50>:    movq   $0x0,-0x1c(%rbp)
+   0x0000000000401180 <+58>:    lea    -0x14(%rbp),%rax
+   0x0000000000401184 <+62>:    mov    $0x4,%edx
+   0x0000000000401189 <+67>:    mov    $0x0,%esi
+   0x000000000040118e <+72>:    mov    %rax,%rdi
+   0x0000000000401191 <+75>:    call   0x401040 <memset@plt>
+   0x0000000000401196 <+80>:    mov    $0x402010,%edi
+   0x000000000040119b <+85>:    mov    $0x0,%eax
+   0x00000000004011a0 <+90>:    call   0x401030 <printf@plt>
+   0x00000000004011a5 <+95>:    lea    -0x1c(%rbp),%rax
+   0x00000000004011a9 <+99>:    mov    $0xc,%edx
+   0x00000000004011ae <+104>:   mov    %rax,%rsi
+   0x00000000004011b1 <+107>:   mov    $0x0,%edi
+   0x00000000004011b6 <+112>:   call   0x401050 <read@plt>
+   0x00000000004011bb <+117>:   lea    -0x1c(%rbp),%rax
+   0x00000000004011bf <+121>:   mov    %rax,%rsi
+   0x00000000004011c2 <+124>:   mov    $0x40201c,%edi
+   0x00000000004011c7 <+129>:   mov    $0x0,%eax
+   0x00000000004011cc <+134>:   call   0x401030 <printf@plt>
+   0x00000000004011d1 <+139>:   mov    $0x0,%eax
+   0x00000000004011d6 <+144>:   leave
+   0x00000000004011d7 <+145>:   ret
+End of assembler dump.
+
+x/s 0x401050
+0x401050 <read@plt>:    "\377%\322/"
+```
+
+%rsi 이런 형태로 표시된 것이 메모리 레지스터이다.
