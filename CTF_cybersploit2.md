@@ -5,4 +5,7 @@
   ![[Pasted image 20240926142943.png]]
   ROT47 알고리즘에 대한 언급이 있다. 무슨 연관이 있을까?
 - `dirb http://192.168.56.106/`: 접근 가능한 웹 디렉터리 조사
-- http://192.168.56.106/noindex/common/css/styles
+- `http://192.168.56.106/noindex/common/css/styles`에 접근 가능함 > 코드 분석
+```
+
+```
