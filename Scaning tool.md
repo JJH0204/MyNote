@@ -58,3 +58,27 @@
 --scan-delay "시간":
 -D(가짜 ip 생성)
 
+---
+nmap 
+0-1023(Well-Known Port)
+1024-49151 : 등록된 포트
+49152-65535 : 비등록된 포트(사설 포트)
+
+TCP Scan : -sT
+(-sS / -sN / -sF / -sX / -sM / -sA / -sW / -sl)
+UDP Scan : -sU
+(-F(Fast) / -r
+
+Timing Option
+0 : 매 5분, 1 : 매 15초, 2 : 매 0.4초, 3 : 다중 대상에 다중 탐색(기본옵션)
+4 : 5분 동안만, 5 : 대상 스캔 간격이 75초만
+
+NSE(Nmap Script Engine)
+- 인증, 기본(-sC, -A), 발견, 익스플로잇, DoS, 침투, 취약점 점검 등
+
+방화벽 / IDS 등의 장비 우회 옵션
+-f(패킷 세분화)
+--source-ports, -g(출발지 포트 속이기)
+--data-length
+--scan-delay 
+-D(가짜 IP 생성)
