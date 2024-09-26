@@ -86,4 +86,20 @@ Apache/2.2.22의 취약점:
 ## \[1-4] 디렉터리 접속
 ![[Pasted image 20240926112010.png]]
 - base64 방식으로 인코딩된 것으로 예상되는 텍스트 발견
-- https://dencode.com/ < dlqf
+- https://dencode.com/ < 입력, 분석 진행
+
+## \[1-5] 디코딩
+![[Pasted image 20240926112407.png]]
+플래그를 찾았다.:cybersploit{youtube.com/c/cybersploit}
+
+## \[1-6] index.html 소스 분석
+![[Pasted image 20240926112629.png]]
+계정을 찾았다.: itsskv
+
+## \[1-7] 원격 접속 시도
+```
+ssh itsskv@192.168.56.105
+```
+![[Pasted image 20240926113044.png]]
+- 암호화 되어 있던 비밀번호를 입력하니 원격 접속에 성공했다.
+
