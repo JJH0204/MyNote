@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersploit_css_styles.md",
+                "file": "CTF_cybersploit2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cybersploit_css_styles.md",
+                "file": "CTF_cybersploit2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cybersploit_css_styles.md"
+                "file": "CTF_cybersploit2.md"
               }
             }
           }
@@ -217,10 +217,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e3648b05041dc2c2",
+  "active": "1518fa728c558967",
   "lastOpenFiles": [
-    "CTF_cybersploit2.md",
+    "Spaces/Temp/Pasted image 20240926153800.png",
     "cybersploit_css_styles.md",
+    "CTF_cybersploit2.md",
     "CTF_cybersploit.md",
     "nikto_cybersploit2_result.md",
     "CTF_1.md",
@@ -253,7 +254,6 @@
     "nmap.md",
     "서버 점검 스크립트.md",
     "Spaces/Desc/netcat.md",
-    "Shell Script.md",
-    "robots.txt.md"
+    "Shell Script.md"
   ]
 }
