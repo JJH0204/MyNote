@@ -103,3 +103,22 @@ ssh itsskv@192.168.56.105
 ![[Pasted image 20240926113044.png]]
 - 암호화 되어 있던 비밀번호를 입력하니 원격 접속에 성공했다.
 
+## \[1-8] 파일 탐색
+![[Pasted image 20240926113524.png]]
+![[Pasted image 20240926113444.png]]
+- 두 번째 플래그를 찾았다.: cybersploit{https:t.me/cybersploit1}
+
+## \[1-9] 운영체제 취약점 탐색
+### 1) 커널 버전 탐색
+```
+uname -a
+Linux cybersploit-CTF 3.13.0-32-generic #57~precise1-Ubuntu SMP Tue Jul 15 03:50:54 UTC 2014 i686 i686 i386 GNU/Linux
+```
+
+### 2) 커널 버전의 취약점 탐색
+`searchsploit linux 3.13.0`[[searchsploit_cybersploit_result]]
+해당 버전의 악성 코드를 찾았다.
+```
+Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37292.c
+Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37293.txt
+```
