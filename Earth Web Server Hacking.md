@@ -39,9 +39,18 @@
 - 도메인 이름으로 웹 서비스에 접속한다.![[{DA2C17DA-7807-4E49-8AA6-BB630C44C4E4}.png]]![[{95FDB3AA-A84A-4E4C-9BDA-37FD1D21A23A}.png]]
 > [!Note]
 > https ssl key 설정을 통해 알아낸 도메인 이름(earth.local/terratest.earth.local)으로 웹 서비스 접속에 성공했다.
-> http://earth.local/, http://terratest.earth.local/, https://earth.local/ > 웹 서비스 페이지로 접속
-> https://terratest.earth.local/ > 더미 페이지로 접속
+> `http://earth.local/`, `http://terratest.earth.local/`, `https://earth.local/` > 웹 서비스 페이지로 접속
+> `https://terratest.earth.local/` > 더미 페이지로 접속
 
 ### 서비스 분석
 - 실제 기능을 사용(또는 F12, 개발자 툴을 활용)하며 서비스 특징을 분석한다.
-- 
+- 텍스트 입력
+  ![[Pasted image 20240926085614.png]]
+  지구로 보낼 메시지를 입력할 수 있는 입력 칸이 활성화 되어 있다.
+- 암호 입력
+  ![[Pasted image 20240926090043.png]]
+- 전송 버튼
+  ![[Pasted image 20240926090126.png]]
+- 이전 메시지 기록
+  ![[Pasted image 20240926090147.png]]
+

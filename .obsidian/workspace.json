@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_1.md",
+                "file": "Earth Web Server Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_1.md",
+                "file": "Earth Web Server Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_1.md"
+                "file": "Earth Web Server Hacking.md"
               }
             }
           }
@@ -197,10 +197,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b819b4523261ba57",
+  "active": "f432c3560494bbd4",
   "lastOpenFiles": [
-    "Earth Web Server Hacking.md",
+    "Spaces/Temp/Pasted image 20240926090147.png",
+    "Spaces/Temp/Pasted image 20240926090126.png",
+    "Spaces/Temp/Pasted image 20240926090043.png",
+    "Spaces/Temp/Pasted image 20240926085614.png",
     "CTF_1.md",
+    "Earth Web Server Hacking.md",
     "Spaces/Temp/{11163887-E97A-449B-BA64-8216940778B3}.png",
     "Spaces/Temp/{C3D5F161-A336-4C6D-9B32-0929D9E52BEA}.png",
     "Spaces/Desc/netcat.md",
@@ -209,9 +213,6 @@
     "Spaces/Temp/{DA2C17DA-7807-4E49-8AA6-BB630C44C4E4}.png",
     "Spaces/Temp/{E29A501C-1B1D-43A1-A18D-EA84783989D1} 3.png",
     "Spaces/Temp/{E29A501C-1B1D-43A1-A18D-EA84783989D1} 2.png",
-    "Spaces/Temp/{E29A501C-1B1D-43A1-A18D-EA84783989D1} 1.png",
-    "Spaces/Temp/{E29A501C-1B1D-43A1-A18D-EA84783989D1}.png",
-    "Spaces/Temp/{B2B64A99-A38F-4882-B150-5AA6D6654A6F}.png",
     "해킹과정.md",
     "Spaces/Desc/CTF.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
