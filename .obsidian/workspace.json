@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy tool.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1518fa728c558967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_2.md",
+                "file": "CTF_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "386ccdb34a25102f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1518fa728c558967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +198,13 @@
   },
   "active": "1518fa728c558967",
   "lastOpenFiles": [
-    "해킹과정.md",
-    "CTF_2.md",
     "CTF_1.md",
+    "해킹과정.md",
+    "Spaces/Desc/CTF.md",
     "Earth Web Server Hacking.md",
+    "시스템 보안.md",
     "Proxy tool.md",
+    "CTF_2.md",
     "Spaces/Temp/Pasted image 20240926102734.png",
     "Spaces/Temp/Pasted image 20240926102558.png",
     "Spaces/Temp/Pasted image 20240926102341.png",
@@ -208,8 +215,6 @@
     "Spaces/Temp/Pasted image 20240926101115.png",
     "Spaces/Temp/Pasted image 20240926101058.png",
     "Spaces/Temp/Pasted image 20240926100835.png",
-    "Spaces/Desc/CTF.md",
-    "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "Scaning tool.md",
     "scripts.md",
