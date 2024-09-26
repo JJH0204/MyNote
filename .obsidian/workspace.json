@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_1.md",
+                "file": "CTF_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proxy tool.md",
+                "file": "CTF_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proxy tool.md",
+                "file": "CTF_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proxy tool.md"
+                "file": "CTF_2.md"
               }
             }
           }
@@ -190,8 +191,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b819b4523261ba57",
+  "active": "1518fa728c558967",
   "lastOpenFiles": [
+    "해킹과정.md",
+    "CTF_2.md",
+    "CTF_1.md",
+    "Earth Web Server Hacking.md",
+    "Proxy tool.md",
+    "Spaces/Temp/Pasted image 20240926102734.png",
+    "Spaces/Temp/Pasted image 20240926102558.png",
+    "Spaces/Temp/Pasted image 20240926102341.png",
     "Spaces/Temp/Pasted image 20240926102058.png",
     "Spaces/Temp/Pasted image 20240926102009.png",
     "Spaces/Temp/Pasted image 20240926101740.png",
@@ -199,21 +208,13 @@
     "Spaces/Temp/Pasted image 20240926101115.png",
     "Spaces/Temp/Pasted image 20240926101058.png",
     "Spaces/Temp/Pasted image 20240926100835.png",
-    "Spaces/Temp/Pasted image 20240926100719.png",
-    "Earth Web Server Hacking.md",
-    "CTF_1.md",
-    "해킹과정.md",
     "Spaces/Desc/CTF.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
-    "Proxy tool.md",
-    "Spaces/Temp/Pasted image 20240926095201.png",
-    "Spaces/Temp/Pasted image 20240926095130.png",
     "Scaning tool.md",
     "scripts.md",
     "Spaces/Desc/netstat.md",
     "scripts 1.md",
-    "Spaces/Temp/Pasted image 20240926094254.png",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "nmap.md",
     "서버 점검 스크립트.md",
