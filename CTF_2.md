@@ -19,7 +19,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ## \[1-1] 사이트 접속
 ![[Pasted image 20240926111016.png]]
 - 다른 기능을 실행되지 않는다.
-- dirb를 사용해서 접속하능한 웹 서버 디렉토리를 스캔한다.
+- 디렉터리 또는 웹 서비스를 스캐닝한다.
 
 ## \[1-2] 디렉터리 스캐닝
 ```
@@ -52,3 +52,38 @@ END_TIME: Wed Sep 25 22:11:20 2024
 DOWNLOADED: 4612 - FOUND: 7
                                                    
 ```
+
+## \[1-3] 웹 서비스 스캐닝
+```
+nikto -h 192.168.56.105 -C all
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          192.168.56.105
++ Target Hostname:    192.168.56.105
++ Target Port:        80
++ Start Time:         2024-09-25 22:13:17 (GMT-4)
+---------------------------------------------------------------------------
++ Server: Apache/2.2.22 (Ubuntu)
++ /: Server may leak inodes via ETags, header found with file /, inode: 153327, size: 2333, mtime: Sat Jun 27 00:46:41 2020. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ Apache/2.2.22 appears to be outdated (current is at least Apache/2.4.54). Apache 2.2.34 is the EOL for the 2.x branch.
++ /index: Uncommon header 'tcn' found, with contents: list.
++ /index: Apache mod_negotiation is enabled with MultiViews, which allows attackers to easily brute force file names. The following alternatives for 'index' were found: index.html. See: http://www.wisec.it/sectou.php?id=4698ebdc59d15,https://exchange.xforce.ibmcloud.com/vulnerabilities/8275
++ OPTIONS: Allowed HTTP Methods: GET, HEAD, POST, OPTIONS .
++ /icons/README: Apache default file found. See: https://www.vntweb.co.uk/apache-restricting-access-to-iconsreadme/
++ /#wp-config.php#: #wp-config.php# file found. This file contains the credentials.
++ 26640 requests: 0 error(s) and 9 item(s) reported on remote host
++ End Time:           2024-09-25 22:14:11 (GMT-4) (54 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
+
+```
+발견된 취약점: anti-clickjacking, X-Content-Type-Options
+Apache/2.2.22의 취약점: 
+`#wp-config.php#`: 워드프레스로 웹 서버 구축한 것으로 보인다.
+
+## \[1-4] 디렉터리 접속
+![[Pasted image 20240926112010.png]]
+- base64 방식으로 인코딩된 것으로 예상되는 텍스트 발견
+- https://dencode.com/ < dlqf
