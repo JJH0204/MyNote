@@ -50,14 +50,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "386ccdb34a25102f",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1518fa728c558967",
             "type": "leaf",
@@ -70,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
