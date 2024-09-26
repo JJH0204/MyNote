@@ -26,5 +26,5 @@
 
 # CTF 리스트
 ---
-- [[Earth Web Server Hacking]]
-- 
+- [[CTF_Earth]]
+- [[CTF_cybersploit]]
