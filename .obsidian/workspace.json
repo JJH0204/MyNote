@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_cybersploit.md",
+                "file": "해킹과정.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "해킹과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "해킹과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "해킹과정.md"
+              }
             }
           }
         ]
@@ -213,7 +217,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8bd8b73c14fe5880",
+  "active": "1518fa728c558967",
   "lastOpenFiles": [
     "CTF_cybersploit.md",
     "searchsploit_cybersploit_result.md",
