@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scaning tool.md",
+                "file": "프록시 tool.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scaning tool.md",
+                "file": "프록시 tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scaning tool.md",
+                "file": "프록시 tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scaning tool.md"
+                "file": "프록시 tool.md"
               }
             }
           }
@@ -186,13 +186,19 @@
   },
   "active": "b819b4523261ba57",
   "lastOpenFiles": [
-    "Earth Web Server Hacking.md",
+    "Spaces/Temp/Pasted image 20240926095201.png",
+    "Spaces/Temp/Pasted image 20240926095130.png",
+    "시스템 보안.md",
+    "프록시 tool.md",
     "Scaning tool.md",
-    "Spaces/Desc/netstat.md",
     "Spaces/Home/Information_Security.md",
+    "scripts.md",
+    "Spaces/Desc/netstat.md",
+    "scripts 1.md",
+    "Spaces/Temp/Pasted image 20240926094254.png",
+    "Earth Web Server Hacking.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "nmap.md",
-    "시스템 보안.md",
     "CTF_1.md",
     "서버 점검 스크립트.md",
     "Spaces/Temp/Pasted image 20240926090147.png",
@@ -204,8 +210,6 @@
     "Spaces/Desc/netcat.md",
     "Spaces/Temp/{95FDB3AA-A84A-4E4C-9BDA-37FD1D21A23A}.png",
     "Spaces/Temp/{5142E0C6-A269-4FA7-9420-10B3C793D937}.png",
-    "Spaces/Temp/{DA2C17DA-7807-4E49-8AA6-BB630C44C4E4}.png",
-    "Spaces/Temp/{E29A501C-1B1D-43A1-A18D-EA84783989D1} 3.png",
     "해킹과정.md",
     "Spaces/Desc/CTF.md",
     "Shell Script.md",
@@ -217,10 +221,6 @@
     "Assembly Language.md",
     "gdb.md",
     "conflict-files-obsidian-git.md",
-    "smart tool.md",
-    "sysstat.md",
-    "Spaces/Desc/파일 관련 명령어.md",
-    "find_time.md",
-    "Spaces/Desc/CentOS Basic Command.md"
+    "smart tool.md"
   ]
 }
