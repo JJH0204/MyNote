@@ -22,66 +22,16 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 - 디렉터리 또는 웹 서비스를 스캐닝한다.
 
 ## \[1-2] 디렉터리 스캐닝
-```
-dirb http://192.168.56.105/
-
------------------
-DIRB v2.22    
-By The Dark Raver
------------------
-
-START_TIME: Wed Sep 25 22:11:18 2024
-URL_BASE: http://192.168.56.105/
-WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
-
------------------
-
-                                                                             GENERATED WORDS: 4612
-
----- Scanning URL: http://192.168.56.105/ ----
-                                                                             + http://192.168.56.105/cgi-bin/ (CODE:403|SIZE:290)                        
-+ http://192.168.56.105/hacker (CODE:200|SIZE:3757743)                      
-+ http://192.168.56.105/index (CODE:200|SIZE:2333)                          
-+ http://192.168.56.105/index.html (CODE:200|SIZE:2333)                     
-+ http://192.168.56.105/robots (CODE:200|SIZE:79)                           
-+ http://192.168.56.105/robots.txt (CODE:200|SIZE:79)                       
-+ http://192.168.56.105/server-status (CODE:403|SIZE:295)                   
-                                                                               
------------------
-END_TIME: Wed Sep 25 22:11:20 2024
-DOWNLOADED: 4612 - FOUND: 7
-                                                   
-```
+`dirb http://192.168.56.105/`[[dirb_cybersploit_result]]
 
 ## \[1-3] 웹 서비스 스캐닝
-```
-nikto -h 192.168.56.105 -C all
-- Nikto v2.5.0
----------------------------------------------------------------------------
-+ Target IP:          192.168.56.105
-+ Target Hostname:    192.168.56.105
-+ Target Port:        80
-+ Start Time:         2024-09-25 22:13:17 (GMT-4)
----------------------------------------------------------------------------
-+ Server: Apache/2.2.22 (Ubuntu)
-+ /: Server may leak inodes via ETags, header found with file /, inode: 153327, size: 2333, mtime: Sat Jun 27 00:46:41 2020. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418
-+ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
-+ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
-+ Apache/2.2.22 appears to be outdated (current is at least Apache/2.4.54). Apache 2.2.34 is the EOL for the 2.x branch.
-+ /index: Uncommon header 'tcn' found, with contents: list.
-+ /index: Apache mod_negotiation is enabled with MultiViews, which allows attackers to easily brute force file names. The following alternatives for 'index' were found: index.html. See: http://www.wisec.it/sectou.php?id=4698ebdc59d15,https://exchange.xforce.ibmcloud.com/vulnerabilities/8275
-+ OPTIONS: Allowed HTTP Methods: GET, HEAD, POST, OPTIONS .
-+ /icons/README: Apache default file found. See: https://www.vntweb.co.uk/apache-restricting-access-to-iconsreadme/
-+ /#wp-config.php#: #wp-config.php# file found. This file contains the credentials.
-+ 26640 requests: 0 error(s) and 9 item(s) reported on remote host
-+ End Time:           2024-09-25 22:14:11 (GMT-4) (54 seconds)
----------------------------------------------------------------------------
-+ 1 host(s) tested
+`nikto -h 192.168.56.105 -C all`[[nikto_cybersploit_result]]
 
-```
-발견된 취약점: anti-clickjacking, X-Content-Type-Options
-Apache/2.2.22의 취약점: 
-`#wp-config.php#`: 워드프레스로 웹 서버 구축한 것으로 보인다.
+발견된 취약점
+: anti-clickjacking, X-Content-Type-Options, Apache/2.2.22의 취약점, ubuntu Linux 버전에 따른 취약점
+
+`#wp-config.php#`
+: 워드프레스로 웹 서버 구축한 것으로 보인다.
 
 ## \[1-4] 디렉터리 접속
 ![[Pasted image 20240926112010.png]]
@@ -132,4 +82,9 @@ Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37293.txt
 - 사용 방법도 잘 설명되어 있다.
 - 로컬 타입임으로 victim으로 옮겨야 된다.
 
-## \[2]
+# \[2] 공격 환경 구축
+- 자료 조사를 통해 얻은 정보와 악성코드를 활용해 victim 장치에 악성 코드를 실행하한다.
+- 이때 악성 코드는 local에서 구동 됨으로 victim에서 직접 실행할 수 있도록 악성 코드 파일을 victim으로 옮겨야 한다.
+- 그러기 위해서는 공격자 pc를 파일 공유를 위한 웹 서버로 만들어 victim에서 wget을 통해 다운로드 받도록 한다.
+
+## \[2-1] 서버 구축
