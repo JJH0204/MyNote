@@ -28,4 +28,5 @@
 ---
 - [[CTF_Earth]]
 - [[CTF_cybersploit]]
-- [[CTF_ROT47]]
+- [[CTF_cybersploit2]]
+- 
