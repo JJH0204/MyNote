@@ -122,3 +122,14 @@ Linux cybersploit-CTF 3.13.0-32-generic #57~precise1-Ubuntu SMP Tue Jul 15 03:50
 Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37292.c
 Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37293.txt
 ```
+
+### 3) 악성 코드 정보 조사
+![[Pasted image 20240926114543.png]]
+- 로컬에서 사용자의 권한 상승이 가능한 악성 코드인 점 확인
+![[Pasted image 20240926114704.png]]
+- 마음에 들어서 설치했다.
+![[Pasted image 20240926114945.png]]
+- 사용 방법도 잘 설명되어 있다.
+- 로컬 타입임으로 victim으로 옮겨야 된다.
+
+## \[2]
