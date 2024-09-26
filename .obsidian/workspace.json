@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_2.md",
+                "file": "CTF_cybersploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_2.md",
+                "file": "CTF_cybersploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_2.md",
+                "file": "CTF_cybersploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_2.md"
+                "file": "CTF_cybersploit.md"
               }
             }
           }
@@ -199,7 +199,7 @@
   "active": "1518fa728c558967",
   "lastOpenFiles": [
     "dirb_cybersploit_result.md",
-    "CTF_2.md",
+    "CTF_cybersploit.md",
     "nikto_cybersploit_result.md",
     "Spaces/Temp/Pasted image 20240926114945.png",
     "Spaces/Temp/Pasted image 20240926114704.png",
