@@ -66,21 +66,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "6b471283942ecea4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "firewalld.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           },
           {
             "id": "3811013baa761ae7",
@@ -250,6 +238,11 @@
   },
   "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240927134250.png",
+    "Spaces/Temp/Pasted image 20240927134111.png",
+    "Spaces/Temp/Pasted image 20240927134032.png",
+    "Spaces/Temp/Pasted image 20240927133945.png",
+    "Spaces/Temp/Pasted image 20240927133618.png",
     "firewalld.md",
     "시스템보안과제.md",
     "Spaces/Temp/Pasted image 20240927132843.png",
@@ -267,10 +260,6 @@
     "Storage Management.md",
     "df.md",
     "cron.md",
-    "Spaces/Temp/Pasted image 20240927110357.png",
-    "Spaces/Temp/Pasted image 20240927110211.png",
-    "Spaces/Temp/Pasted image 20240927110102.png",
-    "Spaces/Temp/Pasted image 20240927105457.png",
     "Service Management.md",
     "Remote Access Management.md",
     "iptables.md",
