@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "snort.md"
               }
             }
           }
@@ -236,10 +236,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15fbeee582ea1c85",
+  "active": "874a47a7af5afd9b",
   "lastOpenFiles": [
-    "snort.md",
     "시스템보안과제.md",
+    "snort.md",
     "Spaces/Temp/Pasted image 20240927134514.png",
     "Spaces/Temp/Pasted image 20240927134250.png",
     "Spaces/Temp/Pasted image 20240927134111.png",
