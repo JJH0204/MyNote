@@ -1,0 +1,1 @@
+https://minddoodle.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4Linux-%EC%82%BC%EB%B0%94samba-%EC%84%A4%EC%A0%95
