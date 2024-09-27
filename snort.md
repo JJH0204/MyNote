@@ -10,7 +10,31 @@
 ```
 apt install build-essential libpcap-dev libpcre3-dev libnet1-dev zlib1g-dev luajit hwloc libdumbnet-dev bison flex liblzma-dev openssl libssl-dev pkg-config libhwloc-dev cmake cpputest libsqlite3-dev uuid-dev libcmocka-dev libnetfilter-queue-dev libmnl-dev autotools-dev libluajit-5.1-dev libunwind-dev libfl-dev -y
 ```
-
+```
+sudo apt update
+sudo apt install -y \
+  build-essential \
+  libpcap-dev \
+  libpcre3-dev \
+  zlib1g-dev \
+  libdumbnet-dev \
+  bison \
+  flex \
+  liblzma-dev \
+  openssl \
+  libssl-dev \
+  pkg-config \
+  libhwloc-dev \
+  cmake \
+  libsqlite3-dev \
+  uuid-dev \
+  libnetfilter-queue-dev \
+  libmnl-dev \
+  libluajit-5.1-dev \
+  libdaq-dev \
+  autoconf \
+  libtool
+```
 ### Source File install
 ---
 - 깃(git)을 활용해 프로그램 설치

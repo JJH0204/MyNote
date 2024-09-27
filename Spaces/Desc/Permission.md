@@ -72,6 +72,7 @@ x = 1
 
 ## 특수 권한
 - https://blog.naver.com/doctor-kick/222158625480
+- https://eunguru.tistory.com/115
 ### SetUIDbit
 ```
 -rwsr-xr-x. 1 root root 32656 May 15  2022 /usr/bin/passwd
