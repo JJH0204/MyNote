@@ -137,7 +137,10 @@ passwd: Unsafe operation (use -f to force)
 chage -l 계정이름 | grep -i "^password expires"
 ```
 
-- 계정 패스워드 만료일 갱신
+- 계정 패스워드 변경일 갱신
 ```
-chage -d 날짜 계정이름
+chage -d날짜 계정이름
 ```
+
+- 계정 패스워드 만료일 설정
+![[Pasted image 20240927105457.png]]
