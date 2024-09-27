@@ -74,7 +74,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Account Management.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "Account Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "Account Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "Account Management.md"
               }
             }
           }
@@ -248,13 +248,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15fbeee582ea1c85",
+  "active": "6b471283942ecea4",
   "lastOpenFiles": [
+    "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927104036.png",
+    "Spaces/Temp/Pasted image 20240927103543.png",
     "Account Management.md",
     "Linux_Sec.md",
     "Service Management.md",
     "Remote Access Management.md",
-    "시스템보안과제.md",
     "Spaces/Temp/Pasted image 20240927102533.png",
     "Spaces/Temp/Pasted image 20240927102409.png",
     "Spaces/Temp/Pasted image 20240927102316.png",
@@ -275,8 +277,6 @@
     "CTF_1.md",
     "CTF_cybersploit2.md",
     "Spaces/Temp/Pasted image 20240926174923.png",
-    "Spaces/Temp/Pasted image 20240926174857.png",
-    "Spaces/Temp/Pasted image 20240926174838.png",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
