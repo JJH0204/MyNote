@@ -73,14 +73,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "cron.md",
-                    "mode": "preview",
+                    "file": "Linux_Sec.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d68d6d8d54f91863",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Spaces/Desc/Permission.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "3811013baa761ae7",
@@ -130,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SetUID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,12 +168,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -185,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cron.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cron.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cron.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -248,13 +259,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b471283942ecea4",
+  "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
-    "시스템보안과제.md",
-    "cron.md",
-    "df.md",
-    "Storage Management.md",
+    "Spaces/Desc/Permission.md",
+    "snort.md",
     "Linux_Sec.md",
+    "Storage Management.md",
+    "df.md",
+    "cron.md",
+    "시스템보안과제.md",
     "Account Management.md",
     "Spaces/Temp/Pasted image 20240927110357.png",
     "Spaces/Temp/Pasted image 20240927110211.png",
@@ -273,7 +286,6 @@
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Home/컴퓨터 과학.md",
-    "snort.md",
     "CTF_Earth.md",
     "Scaning tool.md",
     "Spaces/Desc/CTF.md",
@@ -284,7 +296,6 @@
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
     "searchsploit_cybersploit_result.md",
-    "dirb_cybersploit_result.md",
-    "nikto_cybersploit_result.md"
+    "dirb_cybersploit_result.md"
   ]
 }
