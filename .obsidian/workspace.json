@@ -85,14 +85,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Backdoor Attack.md",
+                    "file": "Spaces/Desc/Permission.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "3811013baa761ae7",
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "snort.md"
               }
             }
           }
@@ -260,12 +260,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15fbeee582ea1c85",
+  "active": "874a47a7af5afd9b",
   "lastOpenFiles": [
+    "Spaces/Desc/Permission.md",
     "Backdoor Attack.md",
     "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927123152.png",
+    "Spaces/Temp/Pasted image 20240927123057.png",
     "snort.md",
-    "Spaces/Desc/Permission.md",
     "Linux_Sec.md",
     "Storage Management.md",
     "df.md",
@@ -281,8 +283,6 @@
     "Service Management.md",
     "Remote Access Management.md",
     "Spaces/Temp/Pasted image 20240927102533.png",
-    "Spaces/Temp/Pasted image 20240927102409.png",
-    "Spaces/Temp/Pasted image 20240927102316.png",
     "접근제어.md",
     "iptables.md",
     "시스템 보안.md",
@@ -296,7 +296,6 @@
     "CTF_cybersploit2.md",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md",
-    "nikto_cybersploit2_result.md",
-    "searchsploit_cybersploit_result.md"
+    "nikto_cybersploit2_result.md"
   ]
 }
