@@ -73,7 +73,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Account Management.md",
+                    "file": "df.md",
                     "mode": "source",
                     "source": false
                   }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Account Management.md",
+                "file": "df.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Account Management.md",
+                "file": "df.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Account Management.md"
+                "file": "df.md"
               }
             }
           }
@@ -251,10 +251,13 @@
   "active": "6b471283942ecea4",
   "lastOpenFiles": [
     "시스템보안과제.md",
+    "df.md",
+    "Storage Management.md",
+    "Linux_Sec.md",
+    "Account Management.md",
+    "Spaces/Temp/Pasted image 20240927110357.png",
     "Spaces/Temp/Pasted image 20240927110211.png",
     "Spaces/Temp/Pasted image 20240927110102.png",
-    "Account Management.md",
-    "Linux_Sec.md",
     "Spaces/Temp/Pasted image 20240927105457.png",
     "Spaces/Temp/Pasted image 20240927104509.png",
     "Spaces/Temp/Pasted image 20240927104036.png",
@@ -264,7 +267,6 @@
     "Spaces/Temp/Pasted image 20240927102533.png",
     "Spaces/Temp/Pasted image 20240927102409.png",
     "Spaces/Temp/Pasted image 20240927102316.png",
-    "Spaces/Temp/Pasted image 20240927100800.png",
     "접근제어.md",
     "iptables.md",
     "시스템 보안.md",
@@ -283,7 +285,6 @@
     "searchsploit_cybersploit_result.md",
     "dirb_cybersploit_result.md",
     "nikto_cybersploit_result.md",
-    "nmap_cybersploit_d.md",
-    "nmap_cybersploit.md"
+    "nmap_cybersploit_d.md"
   ]
 }
