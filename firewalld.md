@@ -1,3 +1,4 @@
+https://server-talk.tistory.com/334
 - 서비스 활성 여부
 ```sh
 firewall-cmd --state
