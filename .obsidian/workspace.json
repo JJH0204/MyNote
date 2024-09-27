@@ -4,67 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "b2782c4f675646f2",
-        "type": "tabs",
+        "id": "2aba7554fec3ca65",
+        "type": "split",
         "children": [
           {
-            "id": "8bd8b73c14fe5880",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "b2782c4f675646f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8bd8b73c14fe5880",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f432c3560494bbd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CTF_Earth.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7f658ce048448bcc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CTF_cybersploit.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1518fa728c558967",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CTF_cybersploit2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "f432c3560494bbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_Earth.md",
-                "mode": "source",
-                "source": false
+            "id": "503f7505551222ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "15fbeee582ea1c85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "시스템보안과제.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "7f658ce048448bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_cybersploit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1518fa728c558967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_cybersploit2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15fbeee582ea1c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "시스템보안과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 4
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -213,10 +226,11 @@
   },
   "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "CTF_cybersploit2.md",
+    "시스템보안과제.md",
     "Spaces/Temp/Pasted image 20240927162233.png",
     "CTF_cybersploit.md",
     "CTF_Earth.md",
-    "시스템보안과제.md",
     "Spaces/Temp/Pasted image 20240927162100.png",
     "Spaces/Temp/Pasted image 20240927161627.png",
     "Spaces/Temp/Pasted image 20240927161524.png",
@@ -226,9 +240,7 @@
     "Spaces/Temp/Pasted image 20240927154320.png",
     "Spaces/Temp/Pasted image 20240927154257.png",
     "Spaces/Temp/Pasted image 20240927154227.png",
-    "CTF_cybersploit2.md",
     "Spaces/Temp/Pasted image 20240927152819.png",
-    "Spaces/Temp/Pasted image 20240927152325.png",
     "snort.md",
     "firewalld.md",
     "접근제어.md",
