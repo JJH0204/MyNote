@@ -4,91 +4,104 @@
     "type": "split",
     "children": [
       {
-        "id": "b2782c4f675646f2",
-        "type": "tabs",
+        "id": "5ac617e4db6ece12",
+        "type": "split",
         "children": [
           {
-            "id": "8bd8b73c14fe5880",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "id": "b2782c4f675646f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8bd8b73c14fe5880",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f432c3560494bbd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CTF_Earth.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7f658ce048448bcc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CTF_cybersploit.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1518fa728c558967",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CTF_cybersploit2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "874a47a7af5afd9b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "snort.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6b471283942ecea4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Remote Access Management.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
           },
           {
-            "id": "f432c3560494bbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_Earth.md",
-                "mode": "source",
-                "source": false
+            "id": "3811013baa761ae7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "15fbeee582ea1c85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "시스템보안과제.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "7f658ce048448bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_cybersploit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1518fa728c558967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_cybersploit2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "874a47a7af5afd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15fbeee582ea1c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "시스템보안과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b471283942ecea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Account Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 6
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Account Management.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Account Management.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Account Management.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -235,13 +248,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b471283942ecea4",
+  "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "Remote Access Management.md",
+    "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927100800.png",
+    "Spaces/Temp/Pasted image 20240927100654.png",
+    "Service Management.md",
     "Linux_Sec.md",
+    "Account Management.md",
     "접근제어.md",
     "iptables.md",
-    "Account Management.md",
-    "시스템보안과제.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Temp/Pasted image 20240927095755.png",
@@ -260,8 +277,6 @@
     "Spaces/Temp/Pasted image 20240926174816.png",
     "Spaces/Temp/Pasted image 20240926174749.png",
     "Spaces/Temp/Pasted image 20240926174654.png",
-    "Spaces/Temp/Pasted image 20240926174606.png",
-    "Spaces/Temp/Pasted image 20240926174548.png",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
@@ -269,9 +284,6 @@
     "dirb_cybersploit_result.md",
     "nikto_cybersploit_result.md",
     "nmap_cybersploit_d.md",
-    "nmap_cybersploit.md",
-    "Proxy tool.md",
-    "scripts.md",
-    "Spaces/Desc/netstat.md"
+    "nmap_cybersploit.md"
   ]
 }
