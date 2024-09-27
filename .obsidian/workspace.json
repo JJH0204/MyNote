@@ -50,7 +50,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c4fe364e880eb4a6",
+        "type": "tabs",
+        "children": [
           {
             "id": "15fbeee582ea1c85",
             "type": "leaf",
@@ -63,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Earth.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Earth.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Earth.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -211,11 +217,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f432c3560494bbd4",
+  "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
-    "시스템보안과제.md",
-    "Spaces/Temp/Pasted image 20240927151041.png",
     "CTF_cybersploit2.md",
+    "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927152325.png",
+    "CTF_Earth.md",
+    "Spaces/Temp/Pasted image 20240927151041.png",
     "Spaces/Temp/Pasted image 20240927141216.png",
     "snort.md",
     "Spaces/Temp/Pasted image 20240927134514.png",
@@ -226,7 +234,6 @@
     "Spaces/Temp/Pasted image 20240927133618.png",
     "firewalld.md",
     "Spaces/Temp/Pasted image 20240927132843.png",
-    "Spaces/Temp/Pasted image 20240927132330.png",
     "접근제어.md",
     "Linux_Sec.md",
     "Account Management.md",
@@ -241,7 +248,6 @@
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Home/컴퓨터 과학.md",
-    "CTF_Earth.md",
     "Scaning tool.md",
     "Spaces/Desc/CTF.md",
     "해킹과정.md",
