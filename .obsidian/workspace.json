@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15fbeee582ea1c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "시스템보안과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -211,11 +223,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "874a47a7af5afd9b",
+  "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "Spaces/Temp/systemsecurity.png",
+    "시스템 보안.md",
+    "시스템보안과제.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Home/컴퓨터 과학.md",
+    "snort.md",
     "CTF_Earth.md",
     "Scaning tool.md",
-    "시스템 보안.md",
     "Spaces/Desc/CTF.md",
     "해킹과정.md",
     "CTF_1.md",
@@ -239,14 +256,10 @@
     "nmap_cybersploit_d.md",
     "nmap_cybersploit.md",
     "Proxy tool.md",
-    "Spaces/Home/Information_Security.md",
     "scripts.md",
     "Spaces/Desc/netstat.md",
     "scripts 1.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "nmap.md",
-    "서버 점검 스크립트.md",
-    "Spaces/Desc/netcat.md",
-    "Shell Script.md"
+    "nmap.md"
   ]
 }
