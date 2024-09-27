@@ -74,7 +74,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Account Management.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -251,9 +251,10 @@
   "active": "6b471283942ecea4",
   "lastOpenFiles": [
     "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927104509.png",
+    "Account Management.md",
     "Spaces/Temp/Pasted image 20240927104036.png",
     "Spaces/Temp/Pasted image 20240927103543.png",
-    "Account Management.md",
     "Linux_Sec.md",
     "Service Management.md",
     "Remote Access Management.md",
@@ -276,7 +277,6 @@
     "해킹과정.md",
     "CTF_1.md",
     "CTF_cybersploit2.md",
-    "Spaces/Temp/Pasted image 20240926174923.png",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
