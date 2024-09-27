@@ -54,21 +54,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "874a47a7af5afd9b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "snort.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "3811013baa761ae7",
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snort.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snort.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snort.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -236,9 +224,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "874a47a7af5afd9b",
+  "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "CTF_cybersploit2.md",
     "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927141216.png",
     "snort.md",
     "Spaces/Temp/Pasted image 20240927134514.png",
     "Spaces/Temp/Pasted image 20240927134250.png",
@@ -250,7 +240,6 @@
     "Spaces/Temp/Pasted image 20240927132843.png",
     "Spaces/Temp/Pasted image 20240927132330.png",
     "Spaces/Temp/Pasted image 20240927132018.png",
-    "Spaces/Temp/Pasted image 20240927131355.png",
     "접근제어.md",
     "Linux_Sec.md",
     "Account Management.md",
@@ -270,7 +259,6 @@
     "Spaces/Desc/CTF.md",
     "해킹과정.md",
     "CTF_1.md",
-    "CTF_cybersploit2.md",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md"
   ]
