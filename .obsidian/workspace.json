@@ -250,6 +250,9 @@
   },
   "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240927132330.png",
+    "Spaces/Temp/Pasted image 20240927132018.png",
+    "Spaces/Temp/Pasted image 20240927131355.png",
     "firewalld.md",
     "접근제어.md",
     "Linux_Sec.md",
@@ -269,10 +272,8 @@
     "Spaces/Temp/Pasted image 20240927105457.png",
     "Spaces/Temp/Pasted image 20240927104509.png",
     "Spaces/Temp/Pasted image 20240927104036.png",
-    "Spaces/Temp/Pasted image 20240927103543.png",
     "Service Management.md",
     "Remote Access Management.md",
-    "Spaces/Temp/Pasted image 20240927102533.png",
     "iptables.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -284,7 +285,6 @@
     "CTF_1.md",
     "CTF_cybersploit2.md",
     "CTF_cybersploit.md",
-    "cybersploit_css_styles.md",
-    "nikto_cybersploit2_result.md"
+    "cybersploit_css_styles.md"
   ]
 }
