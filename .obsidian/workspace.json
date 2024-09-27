@@ -73,7 +73,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Remote Access Management.md",
+                    "file": "Account Management.md",
                     "mode": "source",
                     "source": false
                   }
@@ -250,14 +250,16 @@
   },
   "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20240927102316.png",
+    "Account Management.md",
+    "Linux_Sec.md",
+    "Service Management.md",
     "Remote Access Management.md",
     "시스템보안과제.md",
+    "Spaces/Temp/Pasted image 20240927102533.png",
+    "Spaces/Temp/Pasted image 20240927102409.png",
+    "Spaces/Temp/Pasted image 20240927102316.png",
     "Spaces/Temp/Pasted image 20240927100800.png",
     "Spaces/Temp/Pasted image 20240927100654.png",
-    "Service Management.md",
-    "Linux_Sec.md",
-    "Account Management.md",
     "접근제어.md",
     "iptables.md",
     "시스템 보안.md",
@@ -275,9 +277,6 @@
     "Spaces/Temp/Pasted image 20240926174923.png",
     "Spaces/Temp/Pasted image 20240926174857.png",
     "Spaces/Temp/Pasted image 20240926174838.png",
-    "Spaces/Temp/Pasted image 20240926174816.png",
-    "Spaces/Temp/Pasted image 20240926174749.png",
-    "Spaces/Temp/Pasted image 20240926174654.png",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
