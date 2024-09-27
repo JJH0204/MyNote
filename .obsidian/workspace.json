@@ -56,7 +56,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "503f7505551222ed",
@@ -106,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SetUID",
+                "query": "searchsp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,10 +226,10 @@
   },
   "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
-    "CTF_cybersploit2.md",
-    "시스템보안과제.md",
-    "Spaces/Temp/Pasted image 20240927162233.png",
     "CTF_cybersploit.md",
+    "시스템보안과제.md",
+    "CTF_cybersploit2.md",
+    "Spaces/Temp/Pasted image 20240927162233.png",
     "CTF_Earth.md",
     "Spaces/Temp/Pasted image 20240927162100.png",
     "Spaces/Temp/Pasted image 20240927161627.png",
