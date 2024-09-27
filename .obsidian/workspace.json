@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CTF_Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CTF_Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CTF_Earth.md"
+              }
             }
           }
         ]
@@ -194,7 +199,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8bd8b73c14fe5880",
+  "active": "f432c3560494bbd4",
   "lastOpenFiles": [
     "Scaning tool.md",
     "시스템 보안.md",
