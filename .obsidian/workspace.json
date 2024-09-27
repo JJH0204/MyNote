@@ -62,7 +62,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "snort.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -92,7 +92,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "3811013baa761ae7",
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "snort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "snort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "snort.md"
               }
             }
           }
@@ -259,15 +260,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15fbeee582ea1c85",
+  "active": "874a47a7af5afd9b",
   "lastOpenFiles": [
+    "시스템보안과제.md",
     "Spaces/Desc/Permission.md",
     "snort.md",
     "Linux_Sec.md",
     "Storage Management.md",
     "df.md",
     "cron.md",
-    "시스템보안과제.md",
     "Account Management.md",
     "Spaces/Temp/Pasted image 20240927110357.png",
     "Spaces/Temp/Pasted image 20240927110211.png",

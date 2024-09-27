@@ -1,8 +1,8 @@
 - IDS: 침입 탐지 시스템 구축을 위해 사용되는 우분투 리눅스 기반 엔진
 - [관련자료](https://velog.io/@2jinu/Snort-%EC%84%A4%EC%B9%98-0nl990xy)
 ## **Ubuntu snort install**
-- Ubuntu 가 설치되어 있어야 함
-- 원활한 작업을 위해 (`iputils-ping`, `vim`, `wget`, `unzip`, `git` 미리 설치)
+- 원활한 작업을 위해 
+  (`iputils-ping`, `vim`, `wget`, `unzip`, `git` 미리 설치)
   `apt-get install -y iputils-ping vim wget unzip git`
 
 ### 의존성 파일 설치
