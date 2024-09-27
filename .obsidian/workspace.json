@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b471283942ecea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Account Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "Account Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "Account Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "Account Management.md"
               }
             }
           }
@@ -223,12 +235,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15fbeee582ea1c85",
+  "active": "6b471283942ecea4",
   "lastOpenFiles": [
-    "Spaces/Temp/systemsecurity.png",
-    "시스템 보안.md",
+    "Linux_Sec.md",
+    "접근제어.md",
+    "iptables.md",
+    "Account Management.md",
     "시스템보안과제.md",
+    "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
+    "Spaces/Temp/Pasted image 20240927095755.png",
+    "Spaces/Temp/systemsecurity.png",
     "Spaces/Home/컴퓨터 과학.md",
     "snort.md",
     "CTF_Earth.md",
@@ -245,8 +262,6 @@
     "Spaces/Temp/Pasted image 20240926174654.png",
     "Spaces/Temp/Pasted image 20240926174606.png",
     "Spaces/Temp/Pasted image 20240926174548.png",
-    "Spaces/Temp/Pasted image 20240926174416.png",
-    "Spaces/Temp/Pasted image 20240926160307.png",
     "CTF_cybersploit.md",
     "cybersploit_css_styles.md",
     "nikto_cybersploit2_result.md",
@@ -257,9 +272,6 @@
     "nmap_cybersploit.md",
     "Proxy tool.md",
     "scripts.md",
-    "Spaces/Desc/netstat.md",
-    "scripts 1.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "nmap.md"
+    "Spaces/Desc/netstat.md"
   ]
 }
