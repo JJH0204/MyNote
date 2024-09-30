@@ -51,4 +51,4 @@
 - 로그인 과정에서 주고 받은 패킷 정보![[Pasted image 20240930165013.png]]![[Pasted image 20240930170443.png]]![[Pasted image 20240930170514.png]]
 - guest; Z3Vlc3Q6dGhyZmc=; guest:thrfg
 - venus; dmVudXM6aXJhaGY=; venus:irahf
-- 
+- magellan; dmVudXM6aXJhaGY=
