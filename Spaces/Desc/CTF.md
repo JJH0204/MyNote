@@ -29,4 +29,6 @@
 - [[CTF_Earth]]
 - [[CTF_cybersploit]]
 - [[CTF_cybersploit2]]
+- [[CTF_TechSupport]]
+- [[CTF_Mercury]]
 - 
