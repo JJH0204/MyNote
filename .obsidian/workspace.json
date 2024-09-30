@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ba104f707ba47f84",
@@ -211,17 +211,18 @@
   },
   "active": "8bd8b73c14fe5880",
   "lastOpenFiles": [
+    "CTF_Wordpress.md",
+    "CTF_Mercury.md",
+    "CTF_Venus.md",
+    "Spaces/Temp/Pasted image 20240930163719.png",
     "Spaces/Temp/Pasted image 20240930163120.png",
     "Spaces/Temp/Pasted image 20240930162719.png",
     "Spaces/Temp/Pasted image 20240930162545.png",
     "Spaces/Temp/Pasted image 20240930162024.png",
-    "CTF_Mercury.md",
     "Spaces/Desc/CTF.md",
     "CTF_cybersploit.md",
     "시스템보안과제.md",
-    "CTF_Wordpress.md",
     "브루트 포스 공격.md",
-    "CTF_Venus.md",
     "브루트 포스.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -231,8 +232,6 @@
     "Spaces/Temp/Pasted image 20240930144352.png",
     "Spaces/Temp/Pasted image 20240930143731.png",
     "Spaces/Temp/Pasted image 20240930143510.png",
-    "Spaces/Temp/Pasted image 20240930143420.png",
-    "Spaces/Temp/Pasted image 20240930143355.png",
     "slitaz linux set.md",
     "Spaces/Home/TODO LIST.md",
     "Zap.md",
