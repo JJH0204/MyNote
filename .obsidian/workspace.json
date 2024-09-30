@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -179,6 +180,8 @@
   },
   "active": "8bd8b73c14fe5880",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240930114904.png",
+    "Spaces/Temp/Pasted image 20240930114855.png",
     "Spaces/Temp/Pasted image 20240930114046.png",
     "Spaces/Temp/Pasted image 20240930113945.png",
     "Spaces/Temp/Pasted image 20240930113646.png",
@@ -193,8 +196,6 @@
     "CTF_Mercury.md",
     "Spaces/Temp/Pasted image 20240930110757.png",
     "Spaces/Temp/Pasted image 20240930110701.png",
-    "Spaces/Temp/Pasted image 20240930110621.png",
-    "Spaces/Temp/Pasted image 20240930110446.png",
     "Spaces/Home/TODO LIST.md",
     "시스템보안과제.md",
     "Zap.md",

@@ -14,6 +14,8 @@
 `readme.html`에서 버전을 확인
 ![[Pasted image 20240930113945.png]]
 
-
 # \[웹 접속]
 ![[Pasted image 20240930113020.png]]
+![[Pasted image 20240930114904.png]] 힌트
+
+# \[Password Attack]
