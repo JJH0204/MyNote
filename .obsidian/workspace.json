@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4a7046366159cbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_cybersploit2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c0dbf248646ce16",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "ba104f707ba47f84",
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Venus.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Venus.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Venus.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -220,16 +207,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83a8efac81d04f2e",
+  "active": "15fbeee582ea1c85",
   "lastOpenFiles": [
+    "CTF_cybersploit2.md",
+    "CTF_Wordpress.md",
+    "CTF_Venus.md",
     "Spaces/Desc/CTF.md",
     "CTF_Mercury.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
-    "CTF_cybersploit2.md",
-    "CTF_Wordpress.md",
     "시스템보안과제.md",
-    "CTF_Venus.md",
     "Spaces/Temp/Pasted image 20240930190307.png",
     "CTF_cybersploit.md",
     "Spaces/Temp/Pasted image 20240930181625.png",
