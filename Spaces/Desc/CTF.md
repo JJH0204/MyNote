@@ -31,4 +31,5 @@
 - [[CTF_cybersploit2]]
 - [[CTF_TechSupport]]
 - [[CTF_Mercury]]
+- [[CTF_Wordpress]]
 - 

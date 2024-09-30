@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Mercury.md",
+                "file": "CTF_Wordpress.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Mercury.md",
+                "file": "CTF_Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Mercury.md",
+                "file": "CTF_Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Mercury.md"
+                "file": "CTF_Wordpress.md"
               }
             }
           }
@@ -179,6 +179,13 @@
   },
   "active": "8bd8b73c14fe5880",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20240930112524.png",
+    "Spaces/Desc/CTF.md",
+    "CTF_Wordpress.md",
+    "시스템 보안.md",
+    "slitaz linux set.md",
+    "Spaces/Temp/Pasted image 20240930111919.png",
+    "CTF_Mercury.md",
     "Spaces/Temp/Pasted image 20240930110757.png",
     "Spaces/Temp/Pasted image 20240930110701.png",
     "Spaces/Temp/Pasted image 20240930110621.png",
@@ -188,15 +195,10 @@
     "Spaces/Temp/Pasted image 20240930104225.png",
     "Spaces/Temp/Pasted image 20240930104054.png",
     "Spaces/Temp/Pasted image 20240930103909.png",
-    "Spaces/Temp/Pasted image 20240930103701.png",
-    "Spaces/Temp/Pasted image 20240930103348.png",
     "Spaces/Home/TODO LIST.md",
     "시스템보안과제.md",
-    "CTF_Mercury.md",
     "Zap.md",
-    "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
-    "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "CTF_Earth.md",
     "CTF_cybersploit.md",
@@ -212,8 +214,6 @@
     "Storage Management.md",
     "df.md",
     "cron.md",
-    "Service Management.md",
-    "Remote Access Management.md",
-    "iptables.md"
+    "Service Management.md"
   ]
 }
