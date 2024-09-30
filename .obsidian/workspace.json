@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "CTF_Venus.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "CTF_Venus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "CTF_Venus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/CTF.md"
+                "file": "CTF_Venus.md"
               }
             }
           }
@@ -193,16 +193,17 @@
   },
   "active": "9c6638c130417d2c",
   "lastOpenFiles": [
+    "Spaces/Desc/CTF.md",
+    "CTF-Custom.md",
+    "시스템보안과제.md",
     "CTF_Venus.md",
     "CTF_Earth.md",
-    "시스템보안과제.md",
     "Spaces/Temp/{A301CA31-E0D9-4690-87D8-8B2346EBCB40}.png",
     "Spaces/Temp/{D402A44B-7A8F-4ABA-A275-B9DE443A63BC}.png",
     "Spaces/Temp/{6FE372E8-75EC-4804-8411-40A42C4886E7}.png",
     "Spaces/Temp/{AD2EA223-A75E-4C4F-BA82-B1B97BFB0481}.png",
     "Spaces/Temp/{F48FBC79-B02B-4AA7-A18D-EEECD77409DC}.png",
     "Spaces/Temp/{BBCC6A66-29A2-49DD-9608-67BE9F51E43D}.png",
-    "Spaces/Desc/CTF.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "CTF_cybersploit2.md",
