@@ -20,6 +20,12 @@
 
 워드프래스 스캔
 ![[Pasted image 20240930120427.png]]
-
+![[Pasted image 20240930120847.png]]
+![[Pasted image 20240930120753.png]]
+- admin에 대한 로그인 정보가 있다는 것을 알 수 있다.
 
 # \[Password Attack]
+프록시를 설정하고 로그인 페이지와 내가 주고 받는 정보를 볼 수 있다.
+![[Pasted image 20240930121424.png]]
+parameter='value'& 구조로 되어 있다.
+
