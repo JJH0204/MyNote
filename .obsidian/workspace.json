@@ -43,25 +43,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ba104f707ba47f84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8bd8b73c14fe5880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_Venus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -144,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "CTF_Venus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "CTF_Venus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "CTF_Venus.md"
               }
             }
           }
@@ -207,8 +191,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15fbeee582ea1c85",
+  "active": "83a8efac81d04f2e",
   "lastOpenFiles": [
+    "시스템보안과제.md",
     "CTF_cybersploit2.md",
     "CTF_Wordpress.md",
     "CTF_Venus.md",
@@ -216,7 +201,6 @@
     "CTF_Mercury.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
-    "시스템보안과제.md",
     "Spaces/Temp/Pasted image 20240930190307.png",
     "CTF_cybersploit.md",
     "Spaces/Temp/Pasted image 20240930181625.png",
