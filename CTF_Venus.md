@@ -51,9 +51,10 @@
 - 찾은 계정 이름과 패스워드로 로그인![[Pasted image 20240930164944.png]]
 - 로그인 과정에서 주고 받은 패킷 정보![[Pasted image 20240930165013.png]]![[Pasted image 20240930170443.png]]![[Pasted image 20240930170514.png]]
 - [쿠키](cookie.md) 값 형태가 이상하다.(의도적으로 쿠키를 암호화한 것 같다.)
-- guest:guest > Z3Vlc3Q6dGhyZmc= > (base64)guest:thrfg
+- guest:guest > Z3Vlc3Q6dGhyZmc= > (base64)guest:thrfg![[{F48FBC79-B02B-4AA7-A18D-EEECD77409DC}.png]]
 ![[{BBCC6A66-29A2-49DD-9608-67BE9F51E43D}.png]]
-- venus:thrfg > 
+- venus:123456 > ![[{AD2EA223-A75E-4C4F-BA82-B1B97BFB0481}.png]] 쿠키에 변화가 없다
+- 
 - venus; dmVudXM6aXJhaGY=; venus:irahf > magellan:irahf
 - magellan; bWFnZWxsYW46aXJhaGZ2bmF0cmJ5YnRsMTk4OQ==; magellan:irahfvnatrbybtl1989 > ROT13 디코딩
 - 
@@ -65,6 +66,8 @@ find / -perm -u=s -type f 2>/dev/null
 ![[Pasted image 20240930181625.png]]
 
 취약점이 있는 프로그램을 찾는다.
+
+
 해당 프로그램에서 사용할 수 있는 악성코드를 설치한다.
 
 칼리 웹 서버를 통해 피해자 서버로 악성코드를 옮긴다.
