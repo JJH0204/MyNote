@@ -26,5 +26,21 @@ gobuster
 # \[사이트 접속]
 ![[Pasted image 20240930094802.png]]
 
+![[Pasted image 20240930100543.png]]
+- 파이썬을 활용해 웹을 만들었구나
+
+![[Pasted image 20240930100642.png]]
+
+![[Pasted image 20240930100715.png]]
+- 인젝션에 취약한 서버라고 한다.
+![[Pasted image 20240930100925.png]]
+- 잘못된 구문이라도 서버에서 반응하면 sql 인젝션에 취약할 가능성이 높다
+- 수동 점검과 자동 점검이 있다.
+
+## sql 자동 점검
+![[Pasted image 20240930101249.png]]
+
+
 # \[zap active scaning]
 [[Zap]]
+![[Pasted image 20240930100500.png]]
