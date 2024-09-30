@@ -47,4 +47,6 @@
 - `weakuser.txt` 파일 생성
 - guest, venus, magellan 추가 저장
 ![[Pasted image 20240930163719.png]]
-`"/:csrfmiddlewaretoken=fxXgR9ODXvujCbtePqtUWig2kHKn9VXfe239wRefjDSPESfwdyRdljyvEMkq2mEa&username=guest&password=guest&next=%2Fadmin%2Flost%2Bfound:Server Error (500)"`
+- 찾은 계정 이름과 패스워드로 로그인![[Pasted image 20240930164944.png]]
+- 로그인 과정에서 주고 받은 패킷 정보![[Pasted image 20240930165013.png]]
+- Z3Vlc3Q6dGhyZmc= 쿠키 정보
