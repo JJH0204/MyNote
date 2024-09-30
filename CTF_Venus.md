@@ -49,7 +49,7 @@
 ![[Pasted image 20240930163719.png]]
 - 찾은 계정 이름과 패스워드로 로그인![[Pasted image 20240930164944.png]]
 - 로그인 과정에서 주고 받은 패킷 정보![[Pasted image 20240930165013.png]]![[Pasted image 20240930170443.png]]![[Pasted image 20240930170514.png]]
-- guest; Z3Vlc3Q6dGhyZmc=; guest:thrfg
-- venus:thrfg
-- venus; dmVudXM6aXJhaGY=; venus:irahf
-- magellan; dmVudXM6aXJhaGY=
+- guest; Z3Vlc3Q6dGhyZmc=; guest:thrfg > venus:thrfg
+- venus; dmVudXM6aXJhaGY=; venus:irahf > magellan:irahf
+- magellan; bWFnZWxsYW46aXJhaGZ2bmF0cmJ5YnRsMTk4OQ==; magellan:irahfvnatrbybtl1989
+
