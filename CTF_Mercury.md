@@ -183,8 +183,13 @@ vim 편집기의 명령어 모드를 활용해 root 권한을 넣기 위해 tail
 ![[Pasted image 20240930104820.png]]
 현재 디렉토리를 환경변수에 저장
 ![[Pasted image 20240930105106.png]]
-환경 변수에 실행
-![[Pasted image 20240930110446.png]]
+환경 변수에 실행![[Pasted image 20240930110621.png]]
+![[Pasted image 20240930110701.png]]
+- vim 명령어를 활용해 root 권한으로 쉘을 실행한다.
+![[Pasted image 20240930110757.png]]
+
+tail 명령어로 vi 를 실행할 수 있으면 유사하게 사용할 수 있다.
+
 
 # \[zap active scaning]
 [[Zap]]
