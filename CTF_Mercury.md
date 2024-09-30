@@ -179,6 +179,11 @@ sudo -l 로 root 계정으로 할 수 있는 작업을 표시
 `/usr/bin/check_syslog.sh`가 실행할 수 있는 명령이라고 한다.
 ![[Pasted image 20240930104225.png]]
 
+vim 편집기의 명령어 모드를 활용해 root 권한을 넣기 위해 tail 명령어 실행시 vim 이 실행되도록 링크를 설정한다.
+![[Pasted image 20240930104820.png]]
+현재 디렉토리를 환경변수에 저장
+![[Pasted image 20240930105106.png]]
+
 
 # \[zap active scaning]
 [[Zap]]
