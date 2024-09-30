@@ -163,6 +163,21 @@ Table: users
 리눅스 버전 확인
 ![[Pasted image 20240930103221.png]]
 
+루트 계정을 접근 가능한 작업
+sudo -l
+
+노트 파일에서 암호화된 계정과 비밀번호를 찾았다.
+![[Pasted image 20240930103348.png]]
+- bWVyY3VyeW (암호화에 사용한 알고리즘을 의미하는 것 같다.)
+![[Pasted image 20240930103701.png]]
+- 알고리즘을 의미하는 것은 아니고 같은 단어였다.
+![[Pasted image 20240930103909.png]]
+- linuxmaster 계정으로 접속했다.
+
+sudo -l 로 root 계정으로 할 수 있는 작업을 표시
+![[Pasted image 20240930104054.png]]
+`/usr/bin/check_syslog.sh`가 실행할 수 있는 명령이라고 한다.
+![[Pasted image 20240930104225.png]]
 
 
 # \[zap active scaning]
