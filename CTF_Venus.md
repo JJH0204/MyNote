@@ -12,6 +12,7 @@
 - django 관리자 로그인 페이지: `http://192.168.56.112:8080/admin`
 - 일반 사용자 로그인 페이지: `http://192.168.56.112:8080/`
 `nikto -h http://192.168.56.112:8080/`
+`gobuster dir -u http://192.169.56.112:8080/ -w /usr/share/dirb/wordlists/common.txt/admin`
 
 # \[브루트 포스 공격]
 - `weakuser.txt` 파일 생성
