@@ -8,24 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bd8b73c14fe5880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_Venus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15fbeee582ea1c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "시스템보안과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a7046366159cbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF_Earth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ba104f707ba47f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd8b73c14fe5880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF_Venus.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +199,10 @@
   },
   "active": "8bd8b73c14fe5880",
   "lastOpenFiles": [
+    "CTF_Earth.md",
     "Spaces/Desc/CTF.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
     "CTF_Venus.md",
     "시스템보안과제.md",
     "CTF_Wordpress.md",
@@ -195,14 +217,11 @@
     "Spaces/Temp/Pasted image 20240930142744.png",
     "Spaces/Temp/Pasted image 20240930142648.png",
     "브루트 포스 공격.md",
-    "시스템 보안.md",
     "slitaz linux set.md",
     "CTF_Mercury.md",
     "Spaces/Home/TODO LIST.md",
     "Zap.md",
     "CTF_TechSupport.md",
-    "Spaces/Home/Information_Security.md",
-    "CTF_Earth.md",
     "CTF_cybersploit.md",
     "CTF_cybersploit2.md",
     "snort.md",
