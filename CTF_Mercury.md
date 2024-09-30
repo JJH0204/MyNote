@@ -41,7 +41,18 @@ gobuster
 ![[Pasted image 20240930101249.png]]
 - 일반 점검에서는 별 다른 정보를 얻지 못했다.
 ![[Pasted image 20240930101733.png]]
-- 상세한 점검
+상세한 점검
+- DB 정보 확인하는 방법
+![[Pasted image 20240930102341.png]]
+![[Pasted image 20240930102354.png]]
+	- 데이터 베이스 목록을 찾는데 성공
+
+- 테이블 정보 확인하는 방법
+![[Pasted image 20240930102559.png]]
+![[Pasted image 20240930102624.png]]
+
+- users 테이블의 데이터를 확인
+![[Pasted image 20240930102655.png]]
 ```
 ┌──(jaeho㉿Attacker)-[~]
 └─$ sudo sqlmap -u http://192.168.56.110:8080/mercuryfacts/1 -D mercury -T users --dump
@@ -139,7 +150,20 @@ Table: users
 - db 사용자 계정을 찾았다.
 ![[Pasted image 20240930102048.png]]
 
-![[Pasted image 20240930102341.png]]
+# \[ssh 접속]
+![[Pasted image 20240930102913.png]]
+- 찾은 계정과 비밀번호로 ssh 접속을 시도한다.
+
+![[Pasted image 20240930103024.png]]
+- user 플래그를 찾았다.
+
+리눅스 커널 버전 확인
+![[Pasted image 20240930103149.png]]
+
+리눅스 버전 확인
+![[Pasted image 20240930103221.png]]
+
+
 
 # \[zap active scaning]
 [[Zap]]
