@@ -18,4 +18,8 @@
 ![[Pasted image 20240930113020.png]]
 ![[Pasted image 20240930114904.png]] 힌트
 
+워드프래스 스캔
+![[Pasted image 20240930120427.png]]
+
+
 # \[Password Attack]
