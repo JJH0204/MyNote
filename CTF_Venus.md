@@ -28,10 +28,20 @@
 
 # \[웹 접속]
 ## `http://192.168.56.112:8080/`
+### login page
 ![[Pasted image 20240930162545.png]]
-- 
+- Credentials guest:guest can be used to access the guest account.
+  (guest / guest 를 통해 guest 계정으로 로그인 가능하다고 한다.)
 
+### enter page
+![[Pasted image 20240930162719.png]]
+- Venus에 대한 설명이 적혀있다.
+- 온도: 464C, 표면 압력: 93bar, 대기 조성: 이산화탄소 96.5%, 질소 3.5%
+- 별다른 내용은 없다.
+![[Pasted image 20240930163120.png]]
+- 로그인 과정에서 오고가는 패킷 중 보내는 패킷에 대한 내용이다.
+- 웹 페이지의 관리자 권한으로 로그인할 수 있는 방법으로 보내는 패킷을 변조하는 것이 가능할 것 같다.
 # \[브루트 포스 공격]
 - `weakuser.txt` 파일 생성
 - guest, venus, magellan 추가 저장
-`hydra 192.168.56.112:8080 http-form-post "/:username=^USER^&pwd=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
+`hydra 192.168.56.112 -s 8080 http-form-post "/:username=^USER^&password=^PASS^:Invalid username." -L weakuser.txt -P weakpass.txt`
