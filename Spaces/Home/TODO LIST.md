@@ -25,4 +25,5 @@ sticker: lucide//check-check
 - [ ] Linux 시스템 보안 복습하기
 - [ ] 형 노트북 백업하고 포맷하기
 - [ ] Shell Script를 활용해 서버 세팅을 자동화
-- [ ] Shell Script를 활용해 취약점 점검 자동화
+- [x] Shell Script를 활용해 취약점 점검 자동화 ✅ 2024-09-30
+- [ ] 취약점 점검 자동화 프로그램 v2 개발(시스템최적화)

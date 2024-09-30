@@ -1,19 +1,21 @@
 # \[자료 조사]
 ## IP 탐색
+> `arp-scan -l`
 ![[Pasted image 20240930092029.png]]
 ![[Pasted image 20240930092144.png]]
 
-fping
+> `fping -g 192.168.56.0/24 --ipv4 -s`
 ![[Pasted image 20240930092506.png]]
 ![[Pasted image 20240930092622.png]]
-nmap
+
+## 서비스 탐색
+> `nmap 192.168.56.110 -sV -v -p- -sC`
 ![[Pasted image 20240930092835.png]]
 
-
-dirb
+> `dirb http://192.168.56.110:8080/`
 ![[Pasted image 20240930093942.png]]
 
-nikto
+> `nikto -h 192.168.56.110:8080 -C all`
 ![[Pasted image 20240930094208.png]]
 
 gobuster
