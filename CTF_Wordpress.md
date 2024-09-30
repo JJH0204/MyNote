@@ -43,3 +43,4 @@ parameter='value'& 구조로 되어 있다.
 # \[Web Shell]
 힌트에서 나왔듯 웹 쉘을 활용해 서버에 언제든 접속 가능하게 할 수 있다.
 ![[Pasted image 20240930124813.png]]
+![[Pasted image 20240930125025.png]]
