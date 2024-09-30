@@ -51,7 +51,7 @@
 - 로그인 과정에서 주고 받은 패킷 정보![[Pasted image 20240930165013.png]]![[Pasted image 20240930170443.png]]![[Pasted image 20240930170514.png]]
 - guest; Z3Vlc3Q6dGhyZmc=; guest:thrfg > venus:thrfg
 - venus; dmVudXM6aXJhaGY=; venus:irahf > magellan:irahf
-- magellan; bWFnZWxsYW46aXJhaGZ2bmF0cmJ5YnRsMTk4OQ==; magellan:irahfvnatrbybtl1989 > ROT13 해싱
+- magellan; bWFnZWxsYW46aXJhaGZ2bmF0cmJ5YnRsMTk4OQ==; magellan:irahfvnatrbybtl1989 > ROT13 디코딩
 - 
 
 ![[Pasted image 20240930181250.png]]

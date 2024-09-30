@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_cybersploit2.md",
+                "file": "CTF_Venus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_cybersploit2.md",
+                "file": "CTF_Venus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_cybersploit2.md"
+                "file": "CTF_Venus.md"
               }
             }
           }
@@ -209,8 +209,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4a7046366159cbe9",
+  "active": "8bd8b73c14fe5880",
   "lastOpenFiles": [
+    "CTF_cybersploit2.md",
     "Spaces/Desc/CTF.md",
     "CTF_cybersploit.md",
     "CTF_Mercury.md",
@@ -236,7 +237,6 @@
     "Spaces/Home/TODO LIST.md",
     "Zap.md",
     "CTF_TechSupport.md",
-    "CTF_cybersploit2.md",
     "snort.md",
     "Samba.md",
     "firewalld.md",
