@@ -24,3 +24,12 @@ normal > good > great > ecellent 순으로 성공 확률이 높다.
 ![[Pasted image 20241001143240.png]]
 required 값이 yes면 필수로 값을 입력해야 한다.
 
+back > 취소
+
+![[Pasted image 20241001143444.png]]
+![[Pasted image 20241001143544.png]]
+경로를 다 입력하지 않아도 적용이 된다.
+
+![[Pasted image 20241001144103.png]]
+
+![[Pasted image 20241001144212.png]]
