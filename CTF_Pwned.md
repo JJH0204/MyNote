@@ -84,3 +84,13 @@ ID 와 Password를 찾았으니 ftp 접속을 해보자(이제는 가능할 것 
 ## ftp 접속 2차 시도
 ![[Pasted image 20241001111609.png]]
 id: ftpuser / pw: B0ss_B!TcH
+![[Pasted image 20241001112221.png]]
+공유 받을 수 있는 디렉터리를 찾았지만 정확한 정보를 확인할 수 없다.
+![[Pasted image 20241001112327.png]]
+
+ssh에 ftpuser 계정으로 접속을 시도하여 파일 정보를 알아낸다.
+![[Pasted image 20241001112517.png]]
+
+ftp로 ssh key 파일을 다운 받았다.
+![[Pasted image 20241001112735.png]]
+![[Pasted image 20241001112839.png]]
