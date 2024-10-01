@@ -99,3 +99,10 @@ ftp로 ssh key 파일을 다운 받았다.
 
 더 얻을 수 있는 정보가 없는지 더 찾아 다닌다.
 ![[Pasted image 20241001113551.png]]
+ftpuser 계정으로 알아낼 수 있는 정보는 이제 없는 것 같다. 
+다른 계정으로 로그인 하자
+ftp에서 가져온 ssh_key 값을 활용하기로 했다.
+![[Pasted image 20241001115405.png]]
+- user_flag를 찾았다.(ㅅㅂ...)![[Pasted image 20241001115440.png]]
+- ![[Pasted image 20241001115700.png]]
+
