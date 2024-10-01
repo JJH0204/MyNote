@@ -69,3 +69,6 @@
 
 ### gobuster wordlist 변경
 ![[Pasted image 20241001105411.png]]
+![[Pasted image 20241001105854.png]]
+- 뭔가 새로운 정보가 찾아 진다.
+![[Pasted image 20241001105946.png]]
