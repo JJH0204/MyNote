@@ -15,3 +15,27 @@
                    이제 그들은 이것에 대해 걱정합니다. 저를 찾기 전에 먼저 직원들을 조사하세요. (LOL) 그런 다음 저를 Boomers XD를 찾아주세요..!!!
 
 
+![[Pasted image 20241001091528.png]]
+- 주석에서 힌트 같은 것을 획득했다.
+> <!-- I forgot to add this on last note
+     You are pretty smart as i thought 
+     so here i left it for you 
+     She sings very well. l loved it  -->
+> <!-- 마지막 메모에 추가하는 것을 잊었습니다
+     당신은 생각대로 꽤 똑똑합니다 
+     그래서 당신을 위해 남겨두었습니다 
+     그녀는 노래를 매우 잘합니다. 정말 좋았어요 -->
+
+### 접속 가능한 웹 디렉터리 탐색
+![[Pasted image 20241001091730.png]]
+- `http://192.168.56.113/index.html` (CODE:200|SIZE:3065)
+  (기존 웹 페이지)
++ `http://192.168.56.113/robots.txt` (CODE:200|SIZE:41)![[Pasted image 20241001091947.png]]
++ `http://192.168.56.113/server-status` (CODE:403|SIZE:279)![[Pasted image 20241001091919.png]]
+
+서버와 클라이언트가 주고 받는 액션이 없어 쿠키나 그 외 다른 장치는 의미 없는 것 같다.
+
+## ftp 접속 시도
+- 웹 페이지에서 획득한 정보를 활용해 ftp 서버에 접속을 시도한다.
+- 실패할 경우 웹 페이지에서 추가 정보를 찾아본다.
+
