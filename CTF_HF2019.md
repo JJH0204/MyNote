@@ -92,12 +92,16 @@
 - 이 암호를 직접 검색해서 풀거나 명령어로 해독한다.![[Pasted image 20241001170403.png]]
 - john --wordlist=/usr/share/wordlists/rockyou.txt ./hf2019.txt 로 암호ㄹ 해독하려고 하는데 rockyou.txt가 없다고 한다.
 - (경로로 이동해서 rockyou.tar.gz를 압축 해제 한다.)
-- kittykat1
+- ./hf2019.txt 파일에 암호화된 비밀번호를 저장하고 위 명령어를 실행하면 아래 비밀ㄴ호 가 나온다.
+- `kittykat1`
 
-#### ftp 접속 시도
-- 계정이 필요해 보였는데 아닌가?
-![[Pasted image 20241001170258.png]]
-
+#### ssh 접속
+![[Pasted image 20241001172705.png]]
+- ssh 접속에 성공했다.
+- 이제 root 권한을 탈취해 root_flag를 찾으면 된다.
+![[Pasted image 20241001172911.png]]
+- 금방 root 권한을 탈취했다.
+- ![[Pasted image 20241001173004.png]]
 
 
 
