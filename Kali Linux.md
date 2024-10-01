@@ -2,4 +2,5 @@
 - [[Kali IP Setup]]
 - [[DDoS]]
 - [[Wireshark]]
+- [[kali 한글]]
 - 
