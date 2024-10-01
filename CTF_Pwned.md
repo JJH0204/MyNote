@@ -67,3 +67,5 @@
 ![[Pasted image 20241001103920.png]]
 - 굉장히 자세히 조사하는 만큼 시간도 매우 오래 걸린다.
 
+### gobuster wordlist 변경
+![[Pasted image 20241001105411.png]]
