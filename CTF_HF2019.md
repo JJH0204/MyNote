@@ -89,15 +89,14 @@
 - ![[Pasted image 20241001165207.png]]
 - 뭔가 정보를 얻었다. 아이디와 비밀번호로 보이는 정보다.
   비밀번호는 암호화가 되어 있는 것 같다.
-- ![[Pasted image 20241001170403.png]]
-- 
+- 이 암호를 직접 검색해서 풀거나 명령어로 해독한다.![[Pasted image 20241001170403.png]]
+- john --wordlist=/usr/share/wordlists/rockyou.txt ./hf2019.txt 로 암호ㄹ 해독하려고 하는데 rockyou.txt가 없다고 한다.
+- (경로로 이동해서 rockyou.tar.gz를 압축 해제 한다.)
+- kittykat1
 
 #### ftp 접속 시도
-- 계정이 필요해 보였는데 아닌 것 같은데?
+- 계정이 필요해 보였는데 아닌가?
 ![[Pasted image 20241001170258.png]]
-
-
-
 
 
 
