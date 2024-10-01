@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Mercury.md",
+                "file": "CTF_cybersploit2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Pwned.md",
+                "file": "CTF_cybersploit2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Pwned.md",
+                "file": "CTF_cybersploit2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Pwned.md"
+                "file": "CTF_cybersploit2.md"
               }
             }
           }
@@ -177,8 +178,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c6638c130417d2c",
+  "active": "3a3a1a2169c5a659",
   "lastOpenFiles": [
+    "CTF_Pwned.md",
+    "Spaces/Temp/Pasted image 20241001123754.png",
+    "CTF_cybersploit2.md",
+    "Spaces/Temp/Pasted image 20241001123217.png",
+    "Spaces/Temp/Pasted image 20241001123117.png",
+    "Spaces/Desc/CTF.md",
+    "CTF_Mercury.md",
+    "CTF_1.md",
     "Spaces/Temp/Pasted image 20241001122911.png",
     "Spaces/Temp/Pasted image 20241001122609.png",
     "Spaces/Temp/Pasted image 20241001121246.png",
@@ -186,17 +195,8 @@
     "Spaces/Temp/Pasted image 20241001120852.png",
     "Spaces/Temp/Pasted image 20241001120654.png",
     "Spaces/Temp/Pasted image 20241001120259.png",
-    "Spaces/Temp/Pasted image 20241001115700.png",
-    "Spaces/Temp/Pasted image 20241001115440.png",
-    "Spaces/Temp/Pasted image 20241001115405.png",
-    "Spaces/Temp/Pasted image 20241001113551.png",
-    "CTF_Mercury.md",
-    "CTF_1.md",
-    "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
-    "CTF_cybersploit2.md",
     "CTF_cybersploit.md",
-    "CTF_Pwned.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "시스템보안과제.md",
