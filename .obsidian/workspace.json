@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_HF2019.md",
+                "file": "Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_HF2019.md",
+                "file": "Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_HF2019.md"
+                "file": "Metasploit.md"
               }
             }
           }
@@ -208,14 +209,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "02443048a7ee432e",
+  "active": "ea76b85425ebb4b2",
   "lastOpenFiles": [
+    "CTF_HF2019.md",
+    "Spaces/Temp/Pasted image 20241001165207.png",
     "Spaces/Temp/Pasted image 20241001164129.png",
     "Metasploit.md",
     "시스템 보안.md",
     "Spaces/Desc/CTF.md",
     "Spaces/Home/Information_Security.md",
-    "CTF_HF2019.md",
     "Spaces/Temp/Pasted image 20241001163737.png",
     "Spaces/Temp/Pasted image 20241001163119.png",
     "CTF_Wordpress.md",
@@ -226,8 +228,6 @@
     "Spaces/Temp/Pasted image 20241001160609.png",
     "Spaces/Temp/Pasted image 20241001160548.png",
     "Spaces/Temp/Pasted image 20241001160011.png",
-    "Spaces/Temp/Pasted image 20241001155707.png",
-    "Spaces/Temp/Pasted image 20241001155432.png",
     "CTF_Pwned.md",
     "CTF_cybersploit2.md",
     "CTF_TechSupport.md",

@@ -85,3 +85,16 @@
 ![[Pasted image 20241001163737.png]]
 ![[Pasted image 20241001164129.png]]
 - Wordpress table prefix: 워드프레스 테이블 접두사???
+- ??? 서버에 접근 하지 않고 알 수 있는 거야 ??? -> 일단 값이 들어있으니 rhosts만 채우고 공격을 해보자
+- ![[Pasted image 20241001165207.png]]
+- 
+
+
+
+
+
+
+
+
+
+https://medium.com/@andr3w_hilton/hacker-fest-2019-vulnhub-com-b1a92417c8b5
