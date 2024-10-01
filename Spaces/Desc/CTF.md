@@ -22,6 +22,8 @@
 ## 관련 사이트
 - [https://ctftime.org/](https://ctftime.org/) 전세계 CTF 일정과 팀 별 레이팅 등을 볼 수 있는 사이트입니다.
 - [https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown](https://github.com/pwning/docs/blob/master/suggestions-for-running-a-ctf.markdown) CTF 관련 자세한 설명이 기술된 문서입니다.
+- CTFTIME(https://ctftime.org/)
+- 데프콘()
 - [[해킹과정]]
 
 # CTF 리스트
