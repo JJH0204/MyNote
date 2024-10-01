@@ -139,3 +139,9 @@ selena의 쉘을 가져오는데 성공했다.
 이전에 docker를 이용해 root 쉘을 강탈한 적 있다.
 똑같이 해보자
 https://flast101.github.io/docker-privesc/
+privesc 이미지가 설치 되어 있어
+![[Pasted image 20241001131325.png]]
+위 스크립트를 victim 서버에서 test.sh로 만들어 실행 시켰다.
+
+![[Pasted image 20241001131403.png]]
+![[Pasted image 20241001131444.png]]
