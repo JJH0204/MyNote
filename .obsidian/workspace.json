@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Mercury.md",
+                "file": "CTF_Pwned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Mercury.md",
+                "file": "CTF_Pwned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Mercury.md"
+                "file": "CTF_Pwned.md"
               }
             }
           }
@@ -178,10 +177,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3a3a1a2169c5a659",
+  "active": "9c6638c130417d2c",
   "lastOpenFiles": [
-    "CTF_1.md",
+    "Spaces/Temp/Pasted image 20241001103920.png",
     "CTF_Mercury.md",
+    "CTF_1.md",
     "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
     "CTF_cybersploit2.md",
@@ -214,7 +214,6 @@
     "firewalld.md",
     "접근제어.md",
     "Linux_Sec.md",
-    "Account Management.md",
-    "Spaces/Desc/Permission.md"
+    "Account Management.md"
   ]
 }

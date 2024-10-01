@@ -61,3 +61,9 @@
   [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418)
 
 - `http://192.168.56.113/icons/README`에 접속할 수 있음을 확인![[Pasted image 20241001094906.png]]
+
+### dirbuster
+- dirb 의 강화 버전으로 유의미한 정보를 찾을 수 없어 사용하게 되었다.
+![[Pasted image 20241001103920.png]]
+- 굉장히 자세히 조사하는 만큼 시간도 매우 오래 걸린다.
+
