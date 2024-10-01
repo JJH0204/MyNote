@@ -94,3 +94,8 @@ ssh에 ftpuser 계정으로 접속을 시도하여 파일 정보를 알아낸다
 ftp로 ssh key 파일을 다운 받았다.
 ![[Pasted image 20241001112735.png]]
 ![[Pasted image 20241001112839.png]]
+
+임시 관리자 권한을 받아 올 수 없다고 한다. ![[Pasted image 20241001113146.png]]
+
+더 얻을 수 있는 정보가 없는지 더 찾아 다닌다.
+![[Pasted image 20241001113551.png]]
