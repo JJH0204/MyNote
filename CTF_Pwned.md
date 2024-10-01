@@ -119,3 +119,6 @@ selena로 로그인을 시도하려는데 막혀있다.
 home 디렉터리 아래에 ![[Pasted image 20241001120654.png]] 파일이 의심스럽다.
 ![[Pasted image 20241001120923.png]]
 ![[Pasted image 20241001120852.png]]
+![[Pasted image 20241001122609.png]]
+그렇다는데
+![[Pasted image 20241001122911.png]]
