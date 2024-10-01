@@ -39,3 +39,10 @@ back > 취소
 
 ![[Pasted image 20241001144810.png]]
 ![[Pasted image 20241001145103.png]]
+
+
+![[Pasted image 20241001150209.png]]
+- 공격 과정을 로그로 관리할 수 있다.
+- ![[Pasted image 20241001150328.png]]
+- ![[Pasted image 20241001150406.png]]
+- 

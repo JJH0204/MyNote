@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +215,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "35b43cb5c7d4d275",
+  "active": "02443048a7ee432e",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241001150406.png",
+    "Spaces/Temp/Pasted image 20241001150328.png",
+    "Spaces/Temp/Pasted image 20241001150209.png",
+    "시스템 보안.md",
+    "시스템보안과제.md",
+    "CTF_cybersploit2.md",
+    "Spaces/Desc/CTF.md",
+    "Metasploit.md",
+    "Kali Linux.md",
     "Spaces/Temp/Pasted image 20241001145103.png",
     "Spaces/Temp/Pasted image 20241001144810.png",
     "Spaces/Temp/Pasted image 20241001144603.png",
@@ -225,19 +234,10 @@
     "Spaces/Temp/Pasted image 20241001144103.png",
     "Spaces/Temp/Pasted image 20241001143544.png",
     "Spaces/Temp/Pasted image 20241001143444.png",
-    "Spaces/Temp/Pasted image 20241001143240.png",
-    "Spaces/Temp/Pasted image 20241001143212.png",
-    "Spaces/Temp/Pasted image 20241001143041.png",
-    "시스템 보안.md",
-    "Metasploit.md",
     "Spaces/Home/Information_Security.md",
-    "Kali Linux.md",
-    "Spaces/Desc/CTF.md",
-    "시스템보안과제.md",
     "kali 한글.md",
     "CTF-Custom.md",
     "windows 10 CTF.md",
-    "CTF_cybersploit2.md",
     "CTF_Pwned.md",
     "CTF_Mercury.md",
     "CTF_1.md",
