@@ -138,4 +138,4 @@ selena의 쉘을 가져오는데 성공했다.
 셀레나는 docker를 사용할 수 있는 사용자이다.
 이전에 docker를 이용해 root 쉘을 강탈한 적 있다.
 똑같이 해보자
-
+https://flast101.github.io/docker-privesc/
