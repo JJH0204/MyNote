@@ -73,4 +73,9 @@
 - README.md
   ![[Pasted image 20241001161554.png]]Readme.md 파일에서 플러그인의 버전을 확인했다.
 - 해당 버전에 대한 정보를 얻기 위해 검색![[Pasted image 20241001162215.png]]sql injection 취약점이 있는 것 같다.
+- ![[Pasted image 20241001162723.png]]
+- ![[Pasted image 20241001163119.png]]
+- 영어: CVE-2016-01-01: [CVE-2019-10692](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10692/)
+- 익스플로잇 디비: [48918](https://www.exploit-db.com/exploits/48918/)
+- 취약점 정보는 얻었는데 어떻게 웹 서버에서 실행하도록 할까?
 - 
