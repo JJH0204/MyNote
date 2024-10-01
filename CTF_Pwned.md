@@ -66,7 +66,7 @@
 - dirb 의 강화 버전으로 유의미한 정보를 찾을 수 없어 사용하게 되었다.
 ![[Pasted image 20241001103920.png]]
 - 굉장히 자세히 조사하는 만큼 시간도 매우 오래 걸린다.
-
+![[Pasted image 20241001131753.png]]
 ### gobuster wordlist 변경
 ![[Pasted image 20241001105411.png]]
 ![[Pasted image 20241001105854.png]]
@@ -138,6 +138,7 @@ selena의 쉘을 가져오는데 성공했다.
 셀레나는 docker를 사용할 수 있는 사용자이다.
 이전에 docker를 이용해 root 쉘을 강탈한 적 있다.
 똑같이 해보자
+https://www.google.com/search?q=docker+privesc&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQwxNjQ2MTIyMmowajeoAgiwAgE&sourceid=chrome&ie=UTF-8
 https://flast101.github.io/docker-privesc/
 privesc 이미지가 설치 되어 있어
 ![[Pasted image 20241001131325.png]]
@@ -145,3 +146,6 @@ privesc 이미지가 설치 되어 있어
 
 ![[Pasted image 20241001131403.png]]
 ![[Pasted image 20241001131444.png]]
+
+
+https://medium.com/@z6157881/pwned-1-vulnhub-walkthorugh-46dce5337e06

@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,6 +179,7 @@
   },
   "active": "9c6638c130417d2c",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241001131753.png",
     "Spaces/Temp/Pasted image 20241001131444.png",
     "Spaces/Temp/Pasted image 20241001131403.png",
     "Spaces/Temp/Pasted image 20241001131325.png",
@@ -194,7 +195,6 @@
     "Spaces/Temp/Pasted image 20241001122911.png",
     "Spaces/Temp/Pasted image 20241001122609.png",
     "Spaces/Temp/Pasted image 20241001121246.png",
-    "Spaces/Temp/Pasted image 20241001120923.png",
     "CTF_TechSupport.md",
     "CTF_cybersploit.md",
     "시스템 보안.md",
