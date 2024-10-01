@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15fbeee582ea1c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "시스템보안과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83a8efac81d04f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_Earth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9c6638c130417d2c",
             "type": "leaf",
             "state": {
@@ -42,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a3a1a2169c5a659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF_cybersploit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "697a40d1efc0650f",
@@ -193,29 +179,29 @@
   },
   "active": "9c6638c130417d2c",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241001094139.png",
+    "Spaces/Temp/Pasted image 20241001094110.png",
+    "CTF_cybersploit.md",
+    "Spaces/Desc/CTF.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "시스템보안과제.md",
+    "CTF_Earth.md",
+    "CTF_Pwned.md",
     "Spaces/Temp/Pasted image 20241001093437.png",
     "Spaces/Temp/Pasted image 20241001093141.png",
     "Spaces/Temp/Pasted image 20241001092634.png",
-    "CTF_Earth.md",
-    "시스템보안과제.md",
-    "CTF_Pwned.md",
     "Spaces/Temp/Pasted image 20241001091947.png",
     "Spaces/Temp/Pasted image 20241001091919.png",
     "Spaces/Temp/Pasted image 20241001091751.png",
     "Spaces/Temp/Pasted image 20241001091730.png",
     "Spaces/Temp/Pasted image 20241001091540.png",
     "Spaces/Temp/Pasted image 20241001091528.png",
-    "Spaces/Temp/Pasted image 20241001091212.png",
-    "Spaces/Temp/Pasted image 20241001091017.png",
-    "Spaces/Desc/CTF.md",
     "CTF_Venus.md",
     "CTF-Custom.md",
-    "시스템 보안.md",
-    "Spaces/Home/Information_Security.md",
     "CTF_cybersploit2.md",
     "CTF_Wordpress.md",
     "CTF_Mercury.md",
-    "CTF_cybersploit.md",
     "브루트 포스 공격.md",
     "브루트 포스.md",
     "slitaz linux set.md",
