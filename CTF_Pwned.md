@@ -72,3 +72,15 @@
 ![[Pasted image 20241001105854.png]]
 - 뭔가 새로운 정보가 찾아 진다.
 ![[Pasted image 20241001105946.png]]
+- 숨겨진 디렉토리 경로 리스트 인 것 같다. (하나씩 대입해서 접속 가능한지 확인해 보자)
+
+![[Pasted image 20241001110929.png]]
+- 리스트 중 유일하게 접속 가능한 페이지를 발견했다.
+- ![[Pasted image 20241001111201.png]]
+- 주석 내용을 읽어보니 ID 와 Password를 찾을 수 있었다.
+  `$un=='ftpuser' && $pw=='B0ss_B!TcH'`
+ID 와 Password를 찾았으니 ftp 접속을 해보자(이제는 가능할 것 같다.)
+
+## ftp 접속 2차 시도
+![[Pasted image 20241001111609.png]]
+id: ftpuser / pw: B0ss_B!TcH
