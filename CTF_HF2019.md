@@ -69,4 +69,8 @@
 ![[Pasted image 20241001152804.png]]
   - wp-google-maps: 구글 지도 관련 플러그인 정보인 것 같다.
 
-##### google
+##### google map plugin
+- README.md
+  ![[Pasted image 20241001161554.png]]Readme.md 파일에서 플러그인의 버전을 확인했다.
+- 해당 버전에 대한 정보를 얻기 위해 검색![[Pasted image 20241001162215.png]]sql injection 취약점이 있는 것 같다.
+- 
