@@ -58,4 +58,6 @@
 ![[Pasted image 20241001094110.png]]
 ![[Pasted image 20241001094139.png]]
 - 웹 사이트 내 취약점 탐색
-- 
+  [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418)
+
+- `http://192.168.56.113/icons/README`에 접속할 수 있음을 확인![[Pasted image 20241001094906.png]]
