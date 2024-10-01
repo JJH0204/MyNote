@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,6 +180,8 @@
   },
   "active": "3a3a1a2169c5a659",
   "lastOpenFiles": [
+    "CTF_1.md",
+    "CTF_Mercury.md",
     "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
     "CTF_cybersploit2.md",
@@ -202,7 +204,6 @@
     "CTF_Venus.md",
     "CTF-Custom.md",
     "CTF_Wordpress.md",
-    "CTF_Mercury.md",
     "브루트 포스 공격.md",
     "브루트 포스.md",
     "slitaz linux set.md",
