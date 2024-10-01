@@ -33,6 +33,7 @@
 - [[CTF_Mercury]]
 - [[CTF_Wordpress]]
 - [[CTF_Venus]]
+- [[CTF_Pwned]]
 
 # 자체 제작 CTF
 ---

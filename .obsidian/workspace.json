@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Venus.md",
+                "file": "CTF_Pwned.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Venus.md",
+                "file": "CTF_Pwned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Venus.md",
+                "file": "CTF_Pwned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Venus.md"
+                "file": "CTF_Pwned.md"
               }
             }
           }
@@ -193,10 +193,13 @@
   },
   "active": "9c6638c130417d2c",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241001091212.png",
+    "Spaces/Temp/Pasted image 20241001091017.png",
     "Spaces/Desc/CTF.md",
+    "CTF_Pwned.md",
+    "CTF_Venus.md",
     "CTF-Custom.md",
     "시스템보안과제.md",
-    "CTF_Venus.md",
     "CTF_Earth.md",
     "Spaces/Temp/{A301CA31-E0D9-4690-87D8-8B2346EBCB40}.png",
     "Spaces/Temp/{D402A44B-7A8F-4ABA-A275-B9DE443A63BC}.png",
@@ -213,7 +216,6 @@
     "CTF_cybersploit.md",
     "Spaces/Temp/Pasted image 20240930181625.png",
     "Spaces/Temp/Pasted image 20240930181420.png",
-    "Spaces/Temp/Pasted image 20240930181250.png",
     "브루트 포스 공격.md",
     "브루트 포스.md",
     "slitaz linux set.md",
@@ -226,8 +228,6 @@
     "접근제어.md",
     "Linux_Sec.md",
     "Account Management.md",
-    "Spaces/Desc/Permission.md",
-    "Backdoor Attack.md",
-    "Storage Management.md"
+    "Spaces/Desc/Permission.md"
   ]
 }
