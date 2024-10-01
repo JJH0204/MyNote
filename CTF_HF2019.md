@@ -32,50 +32,30 @@
  |  - https://www.rapid7.com/db/modules/auxiliary/dos/http/wordpress_xmlrpc_dos/
  |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_xmlrpc_login/
  |  - https://www.rapid7.com/db/modules/auxiliary/scanner/http/wordpress_pingback_access/
-
+```
+![[Pasted image 20241001160548.png]]
+```
 [+] WordPress readme found: http://192.168.56.115/readme.html
  | Found By: Direct Access (Aggressive Detection)
  | Confidence: 100%
-
+```
+![[Pasted image 20241001160609.png]]
+```
 [+] Upload directory has listing enabled: http://192.168.56.115/wp-content/uploads/
  | Found By: Direct Access (Aggressive Detection)
  | Confidence: 100%
-
+```
+![[Pasted image 20241001152646.png]]
+```
 [+] The external WP-Cron seems to be enabled: http://192.168.56.115/wp-cron.php
  | Found By: Direct Access (Aggressive Detection)
  | Confidence: 60%
  | References:
  |  - https://www.iplocation.net/defend-wordpress-from-ddos
  |  - https://github.com/wpscanteam/wpscan/issues/1299
+```
 
-[+] WordPress version 5.2.3 identified (Insecure, released on 2019-09-04).
- | Found By: Rss Generator (Passive Detection)
- |  - http://192.168.56.115/?feed=rss2, <generator>https://wordpress.org/?v=5.2.3</generator>
- |  - http://192.168.56.115/?feed=comments-rss2, <generator>https://wordpress.org/?v=5.2.3</generator>
-
-[+] WordPress theme in use: twentyseventeen
- | Location: http://192.168.56.115/wp-content/themes/twentyseventeen/
- | Last Updated: 2024-07-16T00:00:00.000Z
- | Readme: http://192.168.56.115/wp-content/themes/twentyseventeen/README.txt
- | [!] The version is out of date, the latest version is 3.7
- | Style URL: http://192.168.56.115/wp-content/themes/twentyseventeen/style.css?ver=5.2.3
- | Style Name: Twenty Seventeen
- | Style URI: https://wordpress.org/themes/twentyseventeen/
- | Description: Twenty Seventeen brings your site to life with header video and immersive featured images. With a fo...
- | Author: the WordPress team
- | Author URI: https://wordpress.org/
- |
- | Found By: Css Style In Homepage (Passive Detection)
- |
- | Version: 2.2 (80% confidence)
- | Found By: Style (Passive Detection)
- |  - http://192.168.56.115/wp-content/themes/twentyseventeen/style.css?ver=5.2.3, Match: 'Version: 2.2'
-
-[+] Enumerating Most Popular Plugins (via Passive Methods)
-[+] Checking Plugin Versions (via Passive and Aggressive Methods)
-
-[i] Plugin(s) Identified:
-
+```
 [+] wp-google-maps
  | Location: http://192.168.56.115/wp-content/plugins/wp-google-maps/
  | Latest Version: 9.0.40
@@ -85,32 +65,8 @@
  |
  | The version could not be determined.
 
-[+] Enumerating Users (via Passive and Aggressive Methods)
- Brute Forcing Author IDs - Time: 00:00:00 <======================================> (10 / 10) 100.00% Time: 00:00:00
-
-[i] User(s) Identified:
-
-[+] webmaster
- | Found By: Author Posts - Display Name (Passive Detection)
- | Confirmed By:
- |  Rss Generator (Passive Detection)
- |  Author Id Brute Forcing - Author Pattern (Aggressive Detection)
-
-[!] No WPScan API Token given, as a result vulnerability data has not been output.
-[!] You can get a free API token with 25 daily requests by registering at https://wpscan.com/register
-
-[+] Finished: Tue Oct  1 03:03:22 2024
-[+] Requests Done: 62
-[+] Cached Requests: 7
-[+] Data Sent: 18.341 KB
-[+] Data Received: 523.76 KB
-[+] Memory used: 265.371 MB
-[+] Elapsed time: 00:00:08
-
 ```
-  ![[Pasted image 20241001152646.png]]
-  - 디렉터리에 별다른 내용은 없었다.
-  ![[Pasted image 20241001152804.png]]
+![[Pasted image 20241001152804.png]]
   - wp-google-maps: 구글 지도 관련 플러그인 정보인 것 같다.
-  - 확인할 내용이 많으니 다음에 하자
-- 
+
+##### google
