@@ -113,6 +113,9 @@ selena로 로그인을 시도하려는데 막혀있다.
 
 다시 아리아나로 로그인해 방법을 찾는다.
 
-home 디렉터리 아래에 ![[Pasted image 20241001120654.png]] 파일이 의심스럽다.
+아리아나 계정이 ./messenger.sh 를 실행할 권한을 가졌다.
+![[Pasted image 20241001121246.png]]
 
+home 디렉터리 아래에 ![[Pasted image 20241001120654.png]] 파일이 의심스럽다.
+![[Pasted image 20241001120923.png]]
 ![[Pasted image 20241001120852.png]]
