@@ -11,4 +11,5 @@ sticker: lucide//github
 - [[git_LF_commit]]
 - [[git_commant_add]]
 - [[git_team_add]]
+- [[git_web]]
 - 
