@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_HF2019.md",
+                "file": "CTF_Quaoar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_HF2019.md",
+                "file": "CTF_Quaoar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_HF2019.md"
+                "file": "CTF_Quaoar.md"
               }
             }
           }
@@ -178,8 +177,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "370bd2995e7b3d45",
+  "active": "52cd745cad96d366",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241002120809.png",
+    "CTF_HF2019.md",
     "Spaces/Desc/CTF.md",
     "CTF_Mercury.md",
     "CTF_Pwned.md",
@@ -201,7 +202,6 @@
     "포맷 스트링 공격.md",
     "Spaces/Desc/SegmentationFault.md",
     "CTF_cybersploit2.md",
-    "CTF_HF2019.md",
     "Metasploit.md",
     "CTF_1.md",
     "해킹과정.md",

@@ -60,3 +60,4 @@ This XML file does not appear to have any style information associated with it. 
 ![[Pasted image 20241002115212.png]]
 - 메일 관련 플러그인에 취약점 확인
 
+![[Pasted image 20241002120809.png]]
