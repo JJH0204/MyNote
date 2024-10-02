@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "CTF_Mercury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "CTF_Mercury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Quaoar.md"
+                "file": "CTF_Mercury.md"
               }
             }
           }
@@ -190,12 +191,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52cd745cad96d366",
+  "active": "370bd2995e7b3d45",
   "lastOpenFiles": [
+    "CTF_Quaoar.md",
     "CTF_Mercury.md",
     "CTF_Wordpress.md",
     "브루트 포스 공격.md",
-    "CTF_Quaoar.md",
     "Spaces/Temp/Pasted image 20241002130730.png",
     "Spaces/Temp/Pasted image 20241002130708.png",
     "Spaces/Temp/Pasted image 20241002130512.png",
