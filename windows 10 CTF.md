@@ -1,3 +1,4 @@
 - 외부 장치로 부터 windows 시스템을 해킹 당하는 시나리오로 동작하기 위해서 취약한 windows 장치를 만든다.
 - [참고자료](https://newstroyblog.tistory.com/54)
 
+https://ssv.skill.or.kr/cloud-security/windows-pc-security-vulnerability

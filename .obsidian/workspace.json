@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "windows 10 CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "windows 10 CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "windows 10 CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Desc/CTF.md"
+                "file": "windows 10 CTF.md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "52cd745cad96d366",
   "lastOpenFiles": [
+    "CTF-Custom.md",
+    "Spaces/Desc/CTF.md",
     "CTF_Quaoar.md",
     "Spaces/Temp/Pasted image 20241002144505.png",
     "Spaces/Temp/Pasted image 20241002144436.png",
@@ -206,7 +208,6 @@
     "Spaces/Temp/Pasted image 20241002130708.png",
     "Spaces/Temp/Pasted image 20241002130512.png",
     "Spaces/Temp/Pasted image 20241002125106.png",
-    "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -225,7 +226,6 @@
     "Kali Linux.md",
     "시스템보안과제.md",
     "kali 한글.md",
-    "CTF-Custom.md",
     "windows 10 CTF.md"
   ]
 }
