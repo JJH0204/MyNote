@@ -82,3 +82,5 @@ https://github.com/p0dalirius/CVE-2016-10956-mail-masta
 ![[Pasted image 20241002130730.png]]
 
 wpadmin으로 ssh 접속을 시도했지만 취약한 비밀번호는 사용하지 않는 것 같다.
+
+웹 셸을 이용해서 시스템에 접근하려 했지만 차단된 것 같다.
