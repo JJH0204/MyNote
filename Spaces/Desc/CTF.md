@@ -37,6 +37,7 @@
 - [[CTF_Venus]]
 - [[CTF_Pwned]]
 - [[CTF_HF2019]]
+- [[CTF_Quaoar]]
 
 # 자체 제작 CTF
 ---
