@@ -80,3 +80,5 @@ https://github.com/p0dalirius/CVE-2016-10956-mail-masta
 ![[Pasted image 20241002130512.png]]
 ![[Pasted image 20241002130708.png]]
 ![[Pasted image 20241002130730.png]]
+
+wpadmin으로 ssh 접속을 시도했지만 취약한 비밀번호는 사용하지 않는 것 같다.
