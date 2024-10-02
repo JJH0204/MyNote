@@ -80,12 +80,16 @@ Warning: require_once(actions.inc.php): failed to open stream: No such file or d
 ==> DIRECTORY: http://192.168.56.116/upload/page/posts/   
 #### DIRECTORY: http://192.168.56.116/upload/templates/
 ==> DIRECTORY: http://192.168.56.116/upload/templates/blank/            
+
+
+
 ### DIRECTORY: http://192.168.56.116/wordpress/
 #### http://192.168.56.116/wordpress/index.php
 ![[Pasted image 20241002105038.png]]
 
 #### DIRECTORY: http://192.168.56.116/wordpress/index/
-
+(!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
+    (Try using FineTunning: '-f')
 #### http://192.168.56.116/wordpress/license
 ```
 WordPress - Web publishing software
@@ -528,89 +532,23 @@ This XML file does not appear to have any style information associated with it. 
 ![[Pasted image 20241002105610.png]]
 
 # ㅁㄴㅇㄹ
-```
-                                               
----- Entering directory: http://192.168.56.116/wordpress/index/ ----
-(!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
-    (Try using FineTunning: '-f')
-                                                                                                                   
+
+
 ---- Entering directory: http://192.168.56.116/wordpress/wp-admin/ ----
-+ http://192.168.56.116/wordpress/wp-admin/about (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/wordpress/wp-admin/admin (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/wordpress/wp-admin/admin.php (CODE:302|SIZE:0)                                             
-+ http://192.168.56.116/wordpress/wp-admin/comment (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/wordpress/wp-admin/credits (CODE:302|SIZE:0)                                               
+                                            
 ==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/css/                                                       
-+ http://192.168.56.116/wordpress/wp-admin/customize (CODE:302|SIZE:0)                                             
-+ http://192.168.56.116/wordpress/wp-admin/edit (CODE:302|SIZE:0)                                                  
-+ http://192.168.56.116/wordpress/wp-admin/export (CODE:302|SIZE:0)                                                
+                                             
 ==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/images/                                                    
-+ http://192.168.56.116/wordpress/wp-admin/import (CODE:302|SIZE:0)                                                
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/includes/                                                  
-+ http://192.168.56.116/wordpress/wp-admin/index (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/wordpress/wp-admin/index.php (CODE:302|SIZE:0)                                             
-+ http://192.168.56.116/wordpress/wp-admin/install (CODE:200|SIZE:1080)                                            
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/js/                                                        
-+ http://192.168.56.116/wordpress/wp-admin/link (CODE:302|SIZE:0)                                                  
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/maint/                                                     
-+ http://192.168.56.116/wordpress/wp-admin/media (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/wordpress/wp-admin/menu (CODE:500|SIZE:0)                                                  
-+ http://192.168.56.116/wordpress/wp-admin/moderation (CODE:302|SIZE:0)                                            
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/network/                                                   
-+ http://192.168.56.116/wordpress/wp-admin/options (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/wordpress/wp-admin/plugins (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/wordpress/wp-admin/post (CODE:302|SIZE:0)                                                  
-+ http://192.168.56.116/wordpress/wp-admin/profile (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/wordpress/wp-admin/themes (CODE:302|SIZE:0)                                                
-+ http://192.168.56.116/wordpress/wp-admin/tools (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/wordpress/wp-admin/update (CODE:302|SIZE:0)                                                
-+ http://192.168.56.116/wordpress/wp-admin/upgrade (CODE:200|SIZE:1173)                                            
-+ http://192.168.56.116/wordpress/wp-admin/upload (CODE:302|SIZE:0)                                                
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/user/                                                      
-+ http://192.168.56.116/wordpress/wp-admin/users (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/wordpress/wp-admin/widgets (CODE:302|SIZE:0)                                               
-                                                                                                                   
----- Entering directory: http://192.168.56.116/wordpress/wp-content/ ----
-+ http://192.168.56.116/wordpress/wp-content/index (CODE:200|SIZE:0)                                               
-+ http://192.168.56.116/wordpress/wp-content/index.php (CODE:200|SIZE:0)                                           
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-content/plugins/                                                 
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-content/themes/                                                  
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-content/upgrade/                                                 
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-content/uploads/                                                 
-                                                                                                                   
----- Entering directory: http://192.168.56.116/wordpress/wp-includes/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/account/css/ ----
-+ http://192.168.56.116/upload/account/css/frontend (CODE:200|SIZE:1931)                                           
-+ http://192.168.56.116/upload/account/css/index (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/upload/account/css/index.php (CODE:302|SIZE:0)                                             
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/account/templates/ ----
-+ http://192.168.56.116/upload/account/templates/index (CODE:302|SIZE:0)                                           
-+ http://192.168.56.116/upload/account/templates/index.php (CODE:302|SIZE:0)                                       
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/admins/access/ ----
-+ http://192.168.56.116/upload/admins/access/index (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/upload/admins/access/index.php (CODE:302|SIZE:0)                                           
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/admins/addons/ ----
-+ http://192.168.56.116/upload/admins/addons/index (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/upload/admins/addons/index.php (CODE:302|SIZE:0)                                           
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/admins/admintools/ ----
-+ http://192.168.56.116/upload/admins/admintools/index (CODE:302|SIZE:0)                                           
-+ http://192.168.56.116/upload/admins/admintools/index.php (CODE:302|SIZE:0)                                       
-+ http://192.168.56.116/upload/admins/admintools/tool (CODE:302|SIZE:0)                                            
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/admins/groups/ ----
-+ http://192.168.56.116/upload/admins/groups/add (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/upload/admins/groups/groups (CODE:302|SIZE:0)                                              
-+ http://192.168.56.116/upload/admins/groups/index (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/upload/admins/groups/index.php (CODE:302|SIZE:0)                                           
-+ http://192.168.56.116/upload/admins/groups/save (CODE:302|SIZE:0)                                                
-                                                                                                                   
+                                              
+==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/includes/                                               
+==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/js/                                                           
+==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/maint/
+
+---- Entering directory: http://192.168.56.116/wordpress/wp-includes/ --
+
+
+
+                                                                                                    
 ---- Entering directory: http://192.168.56.116/upload/admins/interface/ ----
 + http://192.168.56.116/upload/admins/interface/index (CODE:302|SIZE:0)                                            
 + http://192.168.56.116/upload/admins/interface/index.php (CODE:302|SIZE:0)                                        
@@ -873,4 +811,3 @@ This XML file does not appear to have any style information associated with it. 
 -----------------
 END_TIME: Tue Oct  1 21:28:56 2024
 DOWNLOADED: 258272 - FOUND: 252
-```
