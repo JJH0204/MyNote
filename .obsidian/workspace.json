@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "브루트 포스 공격.md",
+                "file": "CTF_Wordpress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "CTF_Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "CTF_Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Quaoar.md"
+                "file": "CTF_Wordpress.md"
               }
             }
           }
@@ -190,18 +191,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52cd745cad96d366",
+  "active": "8f2a3d4a234f06cd",
   "lastOpenFiles": [
+    "브루트 포스 공격.md",
+    "CTF_Quaoar.md",
     "Spaces/Temp/Pasted image 20241002130730.png",
     "Spaces/Temp/Pasted image 20241002130708.png",
     "Spaces/Temp/Pasted image 20241002130512.png",
     "Spaces/Temp/Pasted image 20241002125106.png",
     "Spaces/Temp/Pasted image 20241002125017.png",
     "Spaces/Temp/Pasted image 20241002125000.png",
-    "브루트 포스 공격.md",
     "Spaces/Temp/Pasted image 20240930123858.png",
     "CTF_Wordpress.md",
-    "CTF_Quaoar.md",
     "CTF_Mercury.md",
     "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
@@ -214,7 +215,6 @@
     "Spaces/Temp/Pasted image 20241002120809.png",
     "Spaces/Temp/Pasted image 20241002115212.png",
     "Spaces/Temp/Pasted image 20241002114900.png",
-    "Spaces/Temp/Pasted image 20241002110039.png",
     "포맷 스트링 공격.md",
     "Spaces/Desc/SegmentationFault.md",
     "CTF_cybersploit2.md",
