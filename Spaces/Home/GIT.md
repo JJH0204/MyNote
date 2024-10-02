@@ -8,4 +8,7 @@ sticker: lucide//github
 - [사용하지 않는 PC에서 git연결 해제하기](git_unset.md)
 - [git_pull_error](https://goddaehee.tistory.com/253)
 - [git_stash_clear](https://iiii.tistory.com/156)
+- [[git_LF_commit]]
+- [[git_commant_add]]
+- [[git_team_add]]
 - 
