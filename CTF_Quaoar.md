@@ -60,9 +60,27 @@ LICENSE Terms
 
 ### DIRECTORY: http://192.168.56.116/upload/
 #### DIRECTORY: http://192.168.56.116/upload/account/
+##### http://192.168.56.116/upload/account/index.php
+![[Pasted image 20241002110039.png]]
+##### DIRECTORY: http://192.168.56.116/upload/account/templates/           
 
 #### DIRECTORY: http://192.168.56.116/upload/admins/
-
+                                              
+==> DIRECTORY: http://192.168.56.116/upload/admins/interface/                                                      
+==> DIRECTORY: http://192.168.56.116/upload/admins/languages/                                                      
+==> DIRECTORY: http://192.168.56.116/upload/admins/login/                                                          
+==> DIRECTORY: http://192.168.56.116/upload/admins/logout/                                                         
+==> DIRECTORY: http://192.168.56.116/upload/admins/media/                                                          
+==> DIRECTORY: http://192.168.56.116/upload/admins/modules/                                                        
+==> DIRECTORY: http://192.168.56.116/upload/admins/pages/                                                          
+==> DIRECTORY: http://192.168.56.116/upload/admins/preferences/                                                    
+==> DIRECTORY: http://192.168.56.116/upload/admins/profiles/                                                       
+==> DIRECTORY: http://192.168.56.116/upload/admins/service/                                                        
+==> DIRECTORY: http://192.168.56.116/upload/admins/settings/                                                       
+==> DIRECTORY: http://192.168.56.116/upload/admins/start/                                                          
+==> DIRECTORY: http://192.168.56.116/upload/admins/support/                                                        
+==> DIRECTORY: http://192.168.56.116/upload/admins/templates/                                                      
+==> DIRECTORY: http://192.168.56.116/upload/admins/users/
 #### DIRECTORY: http://192.168.56.116/upload/framework/  
 
 #### DIRECTORY: http://192.168.56.116/upload/include/
@@ -507,49 +525,29 @@ This XML file does not appear to have any style information associated with it. 
                                             
 #### http://192.168.56.116/wordpress/wp-login
 ![[Pasted image 20241002105350.png]]
-+ http://192.168.56.116/wordpress/wp-mail (CODE:500|SIZE:3011)                                                     
-+ http://192.168.56.116/wordpress/wp-settings (CODE:500|SIZE:0)                                                    
-+ http://192.168.56.116/wordpress/wp-signup (CODE:302|SIZE:0)                                                      
-+ http://192.168.56.116/wordpress/wp-trackback (CODE:200|SIZE:135)                                                 
-+ http://192.168.56.116/wordpress/xmlrpc (CODE:200|SIZE:42)                                                        
-+ http://192.168.56.116/wordpress/xmlrpc.php (CODE:200|SIZE:42)
+#### http://192.168.56.116/wordpress/wp-mail
+![[Pasted image 20241002105442.png]]
+
+#### http://192.168.56.116/wordpress/wp-signup
+- 관리자 페이지에 로그인 할 수 있으면 접속 가능한 페이지 인 것 같다.
+#### http://192.168.56.116/wordpress/wp-trackback
 ```
----- Entering directory: http://192.168.56.116/upload/account/ ----
-==> DIRECTORY: http://192.168.56.116/upload/account/css/                                                           
-+ http://192.168.56.116/upload/account/forgot (CODE:302|SIZE:0)                                                    
-+ http://192.168.56.116/upload/account/index (CODE:302|SIZE:0)                                                     
-+ http://192.168.56.116/upload/account/index.php (CODE:302|SIZE:0)                                                 
-+ http://192.168.56.116/upload/account/login (CODE:302|SIZE:0)                                                     
-+ http://192.168.56.116/upload/account/logout (CODE:302|SIZE:0)                                                    
-+ http://192.168.56.116/upload/account/preferences (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/upload/account/signup (CODE:302|SIZE:0)                                                    
-==> DIRECTORY: http://192.168.56.116/upload/account/templates/           
+This XML file does not appear to have any style information associated with it. The document tree is shown below.  
+
+<response>
+
+<error>1</error>
+
+<message>I really need an ID for this to work.</message>
+
+</response>
 ```
 
-```
----- Entering directory: http://192.168.56.116/upload/admins/ ----
-==> DIRECTORY: http://192.168.56.116/upload/admins/access/                                                         
-==> DIRECTORY: http://192.168.56.116/upload/admins/addons/                                                         
-==> DIRECTORY: http://192.168.56.116/upload/admins/admintools/                                                     
-==> DIRECTORY: http://192.168.56.116/upload/admins/groups/                                                         
-+ http://192.168.56.116/upload/admins/index (CODE:302|SIZE:0)                                                      
-+ http://192.168.56.116/upload/admins/index.php (CODE:302|SIZE:0)                                                  
-==> DIRECTORY: http://192.168.56.116/upload/admins/interface/                                                      
-==> DIRECTORY: http://192.168.56.116/upload/admins/languages/                                                      
-==> DIRECTORY: http://192.168.56.116/upload/admins/login/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/logout/                                                         
-==> DIRECTORY: http://192.168.56.116/upload/admins/media/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/modules/                                                        
-==> DIRECTORY: http://192.168.56.116/upload/admins/pages/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/preferences/                                                    
-==> DIRECTORY: http://192.168.56.116/upload/admins/profiles/                                                       
-==> DIRECTORY: http://192.168.56.116/upload/admins/service/                                                        
-==> DIRECTORY: http://192.168.56.116/upload/admins/settings/                                                       
-==> DIRECTORY: http://192.168.56.116/upload/admins/start/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/support/                                                        
-==> DIRECTORY: http://192.168.56.116/upload/admins/templates/                                                      
-==> DIRECTORY: http://192.168.56.116/upload/admins/users/                
-```
+#### http://192.168.56.116/wordpress/xmlrpc
+![[Pasted image 20241002105610.png]]
+
+# ㅁㄴㅇㄹ
+
 
 ```
 ---- Entering directory: http://192.168.56.116/upload/framework/ ----
