@@ -12,78 +12,14 @@
 ## dirb
 - 추가로 접속 가능한 페이지가 있는지 탐색하기 위해 명령어 실행
 - `dirb http://192.168.56.116/`
-### http://192.168.56.116/LICENSE
-```
-License
-=======
-LEPTON Core is released under the GNU General Public License,
-Copyright (C) 2010-2016 LEPTON CMS Project
-http://www.gnu.org/licenses/gpl.txt
 
 
-LICENSE INFORMATION
-
-LEPTON Core is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 3
-of the License, or (at your option) any later version.
-
-Notice: LEPTON CMS package files are released under several different licences.
-Please see the individual license in the header of each single file or info.php of modules and templates..
-
-LEPTON CMS is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA. 
-
-
-LICENSE Terms
-
-1. All existing copyright notices in every single file have to stay untouched
-2. Following text and links in the backend must stay visible and untouched:
-
- <a href="http://www.LEPTON-cms.org" title="LEPTON CMS" target="_blank">LEPTON Core</a> is released under the
- <a href="http://www.gnu.org/licenses/gpl.html" title="LEPTON Core is GPL" target="_blank">GNU General Public License</a>.
- <br /><a href="http://www.LEPTON-cms.org" title="LEPTON Package" target="_blank">LEPTON CMS Package</a> is released under several different licenses. 
-
-3. A frontend-link to 
-	http://www.lepton-cms.org 
-   is aprecciated.
-```
 
 ### http://192.168.56.116/robots
 ![[Pasted image 20241002103414.png]]
-
-### DIRECTORY: http://192.168.56.116/upload/
-#### DIRECTORY: http://192.168.56.116/upload/account/
-##### http://192.168.56.116/upload/account/index.php
-![[Pasted image 20241002110039.png]]
-##### DIRECTORY: http://192.168.56.116/upload/account/templates/           
-
-#### DIRECTORY: http://192.168.56.116/upload/admins/
-##### DIRECTORY: http://192.168.56.116/upload/admins/profiles/
-```
-Warning: require_once(actions.inc.php): failed to open stream: No such file or directory in /var/www/upload/admins/profiles/index.php on line 99 Fatal error: require_once(): Failed opening required 'actions.inc.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/upload/admins/profiles/index.php on line 99
-```
-#### DIRECTORY: http://192.168.56.116/upload/framework/  
-##### DIRECTORY: http://192.168.56.116/upload/framework/functions/
-##### http://192.168.56.116/upload/framework/summary
-**ACCESS DENIED!** - Invalid call of _/upload/framework/summary.utf8.php_
-#### DIRECTORY: http://192.168.56.116/upload/include/
-==> DIRECTORY: http://192.168.56.116/upload/include/yui/
-
-#### DIRECTORY: http://192.168.56.116/upload/page/       
-==> DIRECTORY: http://192.168.56.116/upload/page/posts/   
-#### DIRECTORY: http://192.168.56.116/upload/templates/
-==> DIRECTORY: http://192.168.56.116/upload/templates/blank/            
+       
 
 
-
-### DIRECTORY: http://192.168.56.116/wordpress/
 #### http://192.168.56.116/wordpress/index.php
 ![[Pasted image 20241002105038.png]]
 
@@ -484,9 +420,6 @@ included with WordPress can be freely obtained at the following URL:
 
 #### DIRECTORY: http://192.168.56.116/wordpress/wp-admin/
 
-#### DIRECTORY: http://192.168.56.116/wordpress/wp-content/ 
-
-#### DIRECTORY: http://192.168.56.116/wordpress/wp-includes/
 #### http://192.168.56.116/wordpress/wp-links-opml
 ```
 This XML file does not appear to have any style information associated with it. The document tree is shown below.  
@@ -507,96 +440,10 @@ This XML file does not appear to have any style information associated with it. 
 
 </opml>
 ```
-                                            
-#### http://192.168.56.116/wordpress/wp-login
-![[Pasted image 20241002105350.png]]
-#### http://192.168.56.116/wordpress/wp-mail
-![[Pasted image 20241002105442.png]]
 
-#### http://192.168.56.116/wordpress/wp-signup
-- 관리자 페이지에 로그인 할 수 있으면 접속 가능한 페이지 인 것 같다.
-#### http://192.168.56.116/wordpress/wp-trackback
-```
-This XML file does not appear to have any style information associated with it. The document tree is shown below.  
-
-<response>
-
-<error>1</error>
-
-<message>I really need an ID for this to work.</message>
-
-</response>
-```
-
-#### http://192.168.56.116/wordpress/xmlrpc
-![[Pasted image 20241002105610.png]]
-
-# ㅁㄴㅇㄹ
-
-
----- Entering directory: http://192.168.56.116/wordpress/wp-admin/ ----
-                                            
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/css/                                                       
-                                             
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/images/                                                    
-                                              
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/includes/                                               
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/js/                                                           
-==> DIRECTORY: http://192.168.56.116/wordpress/wp-admin/maint/
-
----- Entering directory: http://192.168.56.116/wordpress/wp-includes/ --
-http://192.168.56.116/upload/admins/settings/setting                    
-
-http://192.168.56.116/upload/include/yui/README (CODE:200|SIZE:8488)                    
----- Entering directory: http://192.168.56.116/wordpress/wp-admin/css/ -
-                       
----- Entering directory: http://192.168.56.116/wordpress/wp-admin/image                          
----- Entering directory: http://192.168.56.116/wordpress/wp-admin/includes/ ----                                                 
----- Entering directory: http://192.168.56.116/wordpress/wp-admin/js/ --
-               
----- Entering directory: http://192.168.56.116/wordpress/wp-admin/                                     
-                                                                                                                           
-                                                                                                                   
-                                                                                   
-
-+ http://192.168.56.116/upload/include/yui/event/event (CODE:200|SIZE:87537)                                       
-+ http://192.168.56.116/upload/include/yui/event/index (CODE:302|SIZE:0)                                           
-+ http://192.168.56.116/upload/include/yui/event/index.php (CODE:302|SIZE:0)                                       
-+ http://192.168.56.116/upload/include/yui/event/README (CODE:200|SIZE:9807)                                       
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/include/yui/yahoo/ ----
-+ http://192.168.56.116/upload/include/yui/yahoo/index (CODE:302|SIZE:0)                                           
-+ http://192.168.56.116/upload/include/yui/yahoo/index.php (CODE:302|SIZE:0)                                       
-+ http://192.168.56.116/upload/include/yui/yahoo/README (CODE:200|SIZE:2889)                                       
-+ http://192.168.56.116/upload/include/yui/yahoo/yahoo (CODE:200|SIZE:35223)                                       
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/news/css/ ----
-+ http://192.168.56.116/upload/modules/news/css/backend (CODE:200|SIZE:1416)                                       
-+ http://192.168.56.116/upload/modules/news/css/frontend (CODE:200|SIZE:1771)                                      
-+ http://192.168.56.116/upload/modules/news/css/index (CODE:302|SIZE:0)                                            
-+ http://192.168.56.116/upload/modules/news/css/index.php (CODE:302|SIZE:0)                                        
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/news/languages/ ----
-+ http://192.168.56.116/upload/modules/news/languages/index (CODE:302|SIZE:0)                                      
-+ http://192.168.56.116/upload/modules/news/languages/index.php (CODE:302|SIZE:0)                                  
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/news/templates/ ----
-==> DIRECTORY: http://192.168.56.116/upload/modules/news/templates/backend/                                        
-+ http://192.168.56.116/upload/modules/news/templates/index (CODE:302|SIZE:0)                                      
-+ http://192.168.56.116/upload/modules/news/templates/index.php (CODE:302|SIZE:0)                                  
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/wysiwyg/languages/ ----
-+ http://192.168.56.116/upload/modules/wysiwyg/languages/index (CODE:302|SIZE:0)                                   
-+ http://192.168.56.116/upload/modules/wysiwyg/languages/index.php (CODE:302|SIZE:0)                               
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/wysiwyg/templates/ ----
-+ http://192.168.56.116/upload/modules/wysiwyg/templates/index (CODE:302|SIZE:0)                                   
-+ http://192.168.56.116/upload/modules/wysiwyg/templates/index.php (CODE:302|SIZE:0)                               
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/news/templates/backend/ ----
-+ http://192.168.56.116/upload/modules/news/templates/backend/index (CODE:302|SIZE:0)                              
-+ http://192.168.56.116/upload/modules/news/templates/backend/index.php (CODE:302|SIZE:0)                          
-                                                                                                                   
------------------
-END_TIME: Tue Oct  1 21:28:56 2024
-DOWNLOADED: 258272 - FOUND: 252
+- http://192.168.56.116/upload/include/yui/README
+- http://192.168.56.116/wordpress/wp-admin/      
++ http://192.168.56.116/upload/include/yui/event/event
++ http://192.168.56.116/upload/include/yui/event/README
++ http://192.168.56.116/upload/include/yui/yahoo/README                    
++ http://192.168.56.116/upload/include/yui/yahoo/yahoo                                   
