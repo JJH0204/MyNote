@@ -61,3 +61,7 @@ This XML file does not appear to have any style information associated with it. 
 - 메일 관련 플러그인에 취약점 확인
 
 ![[Pasted image 20241002120809.png]]
+
+로그인 정보를 갖기 위해 브루트 포스 공격 실행
+
+프록시를 설정해 로그인 시 페이지와 주고 받는 데이터 확인
