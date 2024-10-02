@@ -65,40 +65,21 @@ LICENSE Terms
 ##### DIRECTORY: http://192.168.56.116/upload/account/templates/           
 
 #### DIRECTORY: http://192.168.56.116/upload/admins/
-                                              
-==> DIRECTORY: http://192.168.56.116/upload/admins/interface/                                                      
-==> DIRECTORY: http://192.168.56.116/upload/admins/languages/                                                      
-==> DIRECTORY: http://192.168.56.116/upload/admins/login/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/logout/                                                         
-==> DIRECTORY: http://192.168.56.116/upload/admins/media/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/modules/                                                        
-==> DIRECTORY: http://192.168.56.116/upload/admins/pages/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/preferences/                                                    
-==> DIRECTORY: http://192.168.56.116/upload/admins/profiles/                                                       
-==> DIRECTORY: http://192.168.56.116/upload/admins/service/                                                        
-==> DIRECTORY: http://192.168.56.116/upload/admins/settings/                                                       
-==> DIRECTORY: http://192.168.56.116/upload/admins/start/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/admins/support/                                                        
-==> DIRECTORY: http://192.168.56.116/upload/admins/templates/                                                      
-==> DIRECTORY: http://192.168.56.116/upload/admins/users/
+##### DIRECTORY: http://192.168.56.116/upload/admins/profiles/
+```
+Warning: require_once(actions.inc.php): failed to open stream: No such file or directory in /var/www/upload/admins/profiles/index.php on line 99 Fatal error: require_once(): Failed opening required 'actions.inc.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/upload/admins/profiles/index.php on line 99
+```
 #### DIRECTORY: http://192.168.56.116/upload/framework/  
-
+##### DIRECTORY: http://192.168.56.116/upload/framework/functions/
+##### http://192.168.56.116/upload/framework/summary
+**ACCESS DENIED!** - Invalid call of _/upload/framework/summary.utf8.php_
 #### DIRECTORY: http://192.168.56.116/upload/include/
+==> DIRECTORY: http://192.168.56.116/upload/include/yui/
 
-#### DIRECTORY: http://192.168.56.116/upload/languages/
-
-#### DIRECTORY: http://192.168.56.116/upload/media/
-
-#### DIRECTORY: http://192.168.56.116/upload/modules/
-
-#### DIRECTORY: http://192.168.56.116/upload/page/
-
-#### DIRECTORY: http://192.168.56.116/upload/search/
-
-#### DIRECTORY: http://192.168.56.116/upload/temp/
-
+#### DIRECTORY: http://192.168.56.116/upload/page/       
+==> DIRECTORY: http://192.168.56.116/upload/page/posts/   
 #### DIRECTORY: http://192.168.56.116/upload/templates/
-
+==> DIRECTORY: http://192.168.56.116/upload/templates/blank/            
 ### DIRECTORY: http://192.168.56.116/wordpress/
 #### http://192.168.56.116/wordpress/index.php
 ![[Pasted image 20241002105038.png]]
@@ -547,58 +528,8 @@ This XML file does not appear to have any style information associated with it. 
 ![[Pasted image 20241002105610.png]]
 
 # ㅁㄴㅇㄹ
-
-
 ```
----- Entering directory: http://192.168.56.116/upload/framework/ ----
-==> DIRECTORY: http://192.168.56.116/upload/framework/functions/                                                   
-+ http://192.168.56.116/upload/framework/index (CODE:302|SIZE:0)                                                   
-+ http://192.168.56.116/upload/framework/index.php (CODE:302|SIZE:0)                                               
-+ http://192.168.56.116/upload/framework/summary (CODE:403|SIZE:88)          
-
-```
-
-```
----- Entering directory: http://192.168.56.116/upload/include/ ----
-+ http://192.168.56.116/upload/include/index (CODE:302|SIZE:0)                                                     
-+ http://192.168.56.116/upload/include/index.php (CODE:302|SIZE:0)                                                 
-==> DIRECTORY: http://192.168.56.116/upload/include/yui/                                                           
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/languages/ ----
-+ http://192.168.56.116/upload/languages/index (CODE:302|SIZE:0)                                                   
-+ http://192.168.56.116/upload/languages/index.php (CODE:302|SIZE:0)                                               
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/media/ ----
-+ http://192.168.56.116/upload/media/index (CODE:302|SIZE:0)                                                       
-+ http://192.168.56.116/upload/media/index.php (CODE:302|SIZE:0)                                                   
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/modules/ ----
-+ http://192.168.56.116/upload/modules/admin (CODE:403|SIZE:79)                                                    
-+ http://192.168.56.116/upload/modules/admin.php (CODE:403|SIZE:79)                                                
-+ http://192.168.56.116/upload/modules/index (CODE:302|SIZE:0)                                                     
-+ http://192.168.56.116/upload/modules/index.php (CODE:302|SIZE:0)                                                 
-==> DIRECTORY: http://192.168.56.116/upload/modules/news/                                                          
-==> DIRECTORY: http://192.168.56.116/upload/modules/wysiwyg/                                                       
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/page/ ----
-+ http://192.168.56.116/upload/page/index (CODE:200|SIZE:0)                                                        
-+ http://192.168.56.116/upload/page/index.php (CODE:200|SIZE:0)                                                    
-==> DIRECTORY: http://192.168.56.116/upload/page/posts/                                                            
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/search/ ----
-+ http://192.168.56.116/upload/search/index (CODE:200|SIZE:3627)                                                   
-+ http://192.168.56.116/upload/search/index.php (CODE:200|SIZE:3627)                                               
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/temp/ ----
-+ http://192.168.56.116/upload/temp/index (CODE:302|SIZE:0)                                                        
-+ http://192.168.56.116/upload/temp/index.php (CODE:302|SIZE:0)                                                    
-==> DIRECTORY: http://192.168.56.116/upload/temp/search/                                                           
-                                                                                                                   
----- Entering directory: http://192.168.56.116/upload/templates/ ----
-==> DIRECTORY: http://192.168.56.116/upload/templates/blank/                                                       
-+ http://192.168.56.116/upload/templates/index (CODE:302|SIZE:0)                                                   
-+ http://192.168.56.116/upload/templates/index.php (CODE:302|SIZE:0)                                               
-                                                                                                                   
+                                               
 ---- Entering directory: http://192.168.56.116/wordpress/index/ ----
 (!) WARNING: NOT_FOUND[] not stable, unable to determine correct URLs {30X}.
     (Try using FineTunning: '-f')
