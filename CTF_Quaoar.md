@@ -55,35 +55,36 @@ LICENSE Terms
    is aprecciated.
 ```
 
+### http://192.168.56.116/robots
+![[Pasted image 20241002103414.png]]
+
+### DIRECTORY: http://192.168.56.116/upload/
+#### DIRECTORY: http://192.168.56.116/upload/account/
+
+
+#### DIRECTORY: http://192.168.56.116/upload/admins/
+
+#### DIRECTORY: http://192.168.56.116/upload/framework/  
+
+#### DIRECTORY: http://192.168.56.116/upload/include/
+
+#### DIRECTORY: http://192.168.56.116/upload/languages/                                                             
+#### DIRECTORY: http://192.168.56.116/upload/media/                                                                 
+#### DIRECTORY: http://192.168.56.116/upload/modules/                                                               
+#### DIRECTORY: http://192.168.56.116/upload/page/                                                                  
+#### DIRECTORY: http://192.168.56.116/upload/search/                                                                
+#### DIRECTORY: http://192.168.56.116/upload/temp/                                                                  
+#### DIRECTORY: http://192.168.56.116/upload/templates/
+```
 
 
 ```
----- Scanning URL: http://192.168.56.116/ ----                                                          
-+ http://192.168.56.116/hacking (CODE:200|SIZE:616848)                                                             
-+ http://192.168.56.116/index (CODE:200|SIZE:100)                                                                  
-+ http://192.168.56.116/index.html (CODE:200|SIZE:100)                                                             
-+  (CODE:200|SIZE:1672)                                                               
-+ http://192.168.56.116/robots (CODE:200|SIZE:271)                                                                 
-+ http://192.168.56.116/robots.txt (CODE:200|SIZE:271)                                               
-==> DIRECTORY: http://192.168.56.116/upload/                                                                       
-==> DIRECTORY: http://192.168.56.116/wordpress/ # 워드프레스 사용중인 것 같다.
 
----- Entering directory: http://192.168.56.116/upload/ ----
-==> DIRECTORY: http://192.168.56.116/upload/account/                                                               
-==> DIRECTORY: http://192.168.56.116/upload/admins/ # 관리자 폴더로 추측된다.                                  
-+ http://192.168.56.116/upload/config (CODE:200|SIZE:0)                                                            
-==> DIRECTORY: http://192.168.56.116/upload/framework/                                                             
-==> DIRECTORY: http://192.168.56.116/upload/include/                                                               
-+ http://192.168.56.116/upload/index (CODE:200|SIZE:3040)                                                          
-+ http://192.168.56.116/upload/index.php (CODE:200|SIZE:3040)                                                      
-==> DIRECTORY: http://192.168.56.116/upload/languages/                                                             
-==> DIRECTORY: http://192.168.56.116/upload/media/                                                                 
-==> DIRECTORY: http://192.168.56.116/upload/modules/                                                               
-==> DIRECTORY: http://192.168.56.116/upload/page/                                                                  
-==> DIRECTORY: http://192.168.56.116/upload/search/                                                                
-==> DIRECTORY: http://192.168.56.116/upload/temp/                                                                  
-==> DIRECTORY: http://192.168.56.116/upload/templates/                                                             
-                                                                                                                   
+### DIRECTORY: http://192.168.56.116/wordpress/
+
+
+
+```
 ---- Entering directory: http://192.168.56.116/wordpress/ ----
 ==> DIRECTORY: http://192.168.56.116/wordpress/index/                                                              
 + http://192.168.56.116/wordpress/index.php (CODE:301|SIZE:0)                                                      
