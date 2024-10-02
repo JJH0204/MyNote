@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "Spaces/Desc/CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "Spaces/Desc/CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Quaoar.md",
+                "file": "Spaces/Desc/CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Quaoar.md"
+                "file": "Spaces/Desc/CTF.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "52cd745cad96d366",
   "lastOpenFiles": [
+    "CTF_Quaoar.md",
     "Spaces/Temp/Pasted image 20241002144505.png",
     "Spaces/Temp/Pasted image 20241002144436.png",
     "Spaces/Temp/Pasted image 20241002144412.png",
@@ -199,14 +200,12 @@
     "Spaces/Temp/Pasted image 20241002144244.png",
     "Spaces/Temp/Pasted image 20241002143339.png",
     "CTF_Mercury.md",
-    "CTF_Quaoar.md",
     "CTF_Wordpress.md",
     "브루트 포스 공격.md",
     "Spaces/Temp/Pasted image 20241002130730.png",
     "Spaces/Temp/Pasted image 20241002130708.png",
     "Spaces/Temp/Pasted image 20241002130512.png",
     "Spaces/Temp/Pasted image 20241002125106.png",
-    "Spaces/Temp/Pasted image 20241002125017.png",
     "Spaces/Desc/CTF.md",
     "CTF_TechSupport.md",
     "시스템 보안.md",
