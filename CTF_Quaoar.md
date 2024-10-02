@@ -72,3 +72,11 @@ post 데이터를 활용해 브루트 포스 공격 시도
 ![[Pasted image 20241002125000.png]]
 admin:admin 인 것을 확인
 ![[Pasted image 20241002125106.png]]
+
+플러그인 관련 취약점을 활용한 소스코드 다운 받는다.
+https://github.com/p0dalirius/CVE-2016-10956-mail-masta
+
+실행 결과
+![[Pasted image 20241002130512.png]]
+![[Pasted image 20241002130708.png]]
+![[Pasted image 20241002130730.png]]
