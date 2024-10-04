@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "1631dd402ef73a0b",
+            "id": "e919f1a4b3c0af7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDoS.md",
+                "file": "시스템보안과제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "343ab5e7d695dc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log_File.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DDoS",
+                "query": "wtmp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -116,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDoS.md",
+                "file": "Log_File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDoS.md",
+                "file": "Log_File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDoS.md"
+                "file": "Log_File.md"
               }
             }
           }
@@ -179,9 +190,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1631dd402ef73a0b",
+  "active": "343ab5e7d695dc5d",
   "lastOpenFiles": [
+    "시스템보안과제.md",
     "시스템 보안.md",
+    "DDoS.md",
     "Linux_Sec.md",
     "Spaces/Desc/CTF.md",
     "CTF_Wordpress.md",
