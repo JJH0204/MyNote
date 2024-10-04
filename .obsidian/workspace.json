@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "Account Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log_File.md",
+                "file": "Account Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log_File.md",
+                "file": "Account Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log_File.md"
+                "file": "Account Management.md"
               }
             }
           }
@@ -190,9 +191,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "343ab5e7d695dc5d",
+  "active": "e919f1a4b3c0af7f",
   "lastOpenFiles": [
     "시스템보안과제.md",
+    "Log_File.md",
     "시스템 보안.md",
     "DDoS.md",
     "Linux_Sec.md",
