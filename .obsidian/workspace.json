@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e919f1a4b3c0af7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Account Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "343ab5e7d695dc5d",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Account Management.md",
+                "file": "Log_File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Account Management.md",
+                "file": "Log_File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Account Management.md"
+                "file": "Log_File.md"
               }
             }
           }
@@ -191,8 +179,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e919f1a4b3c0af7f",
+  "active": "343ab5e7d695dc5d",
   "lastOpenFiles": [
+    "Account Management.md",
     "시스템보안과제.md",
     "Log_File.md",
     "시스템 보안.md",
