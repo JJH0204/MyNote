@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "sudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "343ab5e7d695dc5d",
+  "active": "04f2ec9f33108032",
   "lastOpenFiles": [
     "Log_File.md",
     "Account Management.md",
