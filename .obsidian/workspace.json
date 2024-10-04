@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f0cd3a53abcc6a4d",
+            "id": "f7badce915f1b3d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "firewalld.md",
+                "file": "시스템보안과제.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firewall",
+                "query": "Set uid bit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "firewalld.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "firewalld.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "firewalld.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -191,9 +190,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f0cd3a53abcc6a4d",
+  "active": "f7badce915f1b3d7",
   "lastOpenFiles": [
     "시스템보안과제.md",
+    "firewalld.md",
     "시스템 보안.md",
     "Log_File.md",
     "Account Management.md",
