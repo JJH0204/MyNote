@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0cd3a53abcc6a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "firewalld.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo",
+                "query": "firewall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "firewalld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템보안과제.md",
+                "file": "firewalld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템보안과제.md"
+                "file": "firewalld.md"
               }
             }
           }
@@ -178,12 +190,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "04f2ec9f33108032",
+  "active": "f0cd3a53abcc6a4d",
   "lastOpenFiles": [
-    "Log_File.md",
-    "Account Management.md",
     "시스템보안과제.md",
     "시스템 보안.md",
+    "Log_File.md",
+    "Account Management.md",
     "DDoS.md",
     "Linux_Sec.md",
     "Spaces/Desc/CTF.md",
