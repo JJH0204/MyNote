@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOF.md",
+                "file": "CTF_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BoF",
+                "query": "Earth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOF.md",
+                "file": "CTF_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BOF.md",
+                "file": "CTF_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BOF.md"
+                "file": "CTF_1.md"
               }
             }
           }
@@ -192,6 +193,9 @@
   },
   "active": "f7badce915f1b3d7",
   "lastOpenFiles": [
+    "해킹과정.md",
+    "Spaces/Desc/CTF.md",
+    "BOF.md",
     "시스템보안과제.md",
     "firewalld.md",
     "시스템 보안.md",
@@ -199,7 +203,6 @@
     "Account Management.md",
     "DDoS.md",
     "Linux_Sec.md",
-    "Spaces/Desc/CTF.md",
     "CTF_Wordpress.md",
     "브루트 포스 공격.md",
     "Spaces/Home/Information_Security.md",
