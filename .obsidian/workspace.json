@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Wordpress.md",
+                "file": "브루트 포스 공격.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Wordpress.md",
+                "file": "브루트 포스 공격.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Wordpress.md",
+                "file": "브루트 포스 공격.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Wordpress.md"
+                "file": "브루트 포스 공격.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "3c1dfffdea48037a",
   "lastOpenFiles": [
+    "CTF_Wordpress.md",
     "Spaces/Desc/CTF.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
