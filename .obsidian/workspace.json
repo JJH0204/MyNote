@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log_File.md",
+                "file": "시스템보안과제.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wtmp",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log_File.md",
+                "file": "시스템보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log_File.md",
+                "file": "시스템보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log_File.md"
+                "file": "시스템보안과제.md"
               }
             }
           }
@@ -181,9 +180,9 @@
   },
   "active": "343ab5e7d695dc5d",
   "lastOpenFiles": [
+    "Log_File.md",
     "Account Management.md",
     "시스템보안과제.md",
-    "Log_File.md",
     "시스템 보안.md",
     "DDoS.md",
     "Linux_Sec.md",
