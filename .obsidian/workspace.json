@@ -11,8 +11,12 @@
             "id": "bccd4ac28f4a81e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "시스템 보안.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,13 +33,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e61d4621ceb224d6",
+            "id": "90b3f1ed1d7ce0be",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "mk-path-view",
+              "state": {}
             }
           },
           {
@@ -44,11 +46,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Earth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e61d4621ceb224d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -60,21 +72,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "90b3f1ed1d7ce0be",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 240.5,
     "collapsed": true
   },
   "right": {
@@ -99,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "시스템 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "시스템 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "시스템 보안.md"
+              }
             }
           }
         ]
@@ -160,6 +167,8 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Home/Information_Security.md",
+    "Excalidraw/Drawing 2024-10-07 08.48.14.excalidraw.md",
     "시스템 보안.md",
     "시스템보안과제.md",
     "CTF_1.md",
@@ -173,7 +182,6 @@
     "Linux_Sec.md",
     "CTF_Wordpress.md",
     "브루트 포스 공격.md",
-    "Spaces/Home/Information_Security.md",
     "git_web.md",
     "Spaces/Home/GIT.md",
     "git_LF_commit.md",
