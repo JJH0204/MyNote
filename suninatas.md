@@ -125,3 +125,8 @@ hash를 md5로 설정하고 해싱
 frm의 submit() 을 실행하면 직접 클릭을 하지 않아도 버튼을 누를 수 있다.
 ![[Pasted image 20241007155422.png]]
 ![[Pasted image 20241007155759.png]]
+
+## 8
+![[Pasted image 20241007160404.png]]![[Pasted image 20241007160418.png]]![[Pasted image 20241007160613.png]]
+인트루트 기능을 사용하면 규칙적으로 변경되는 값을 자동으로 넣을 수 있다.
+![[Pasted image 20241007160810.png]]![[Pasted image 20241007160734.png]]
