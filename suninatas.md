@@ -88,3 +88,6 @@ SQL Injection - 쿼리에 대해 참인 결과 값을 이용해 DB의 응답을 
 suninatastopofworld!
 
 ![[Pasted image 20241007151652.png]]
+
+hash를 md5로 설정하고 해싱
+
