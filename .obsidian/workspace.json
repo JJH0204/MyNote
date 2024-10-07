@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File_Inclusion.md",
+                "file": "suninatas.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File_Inclusion.md",
+                "file": "suninatas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File_Inclusion.md",
+                "file": "suninatas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File_Inclusion.md"
+                "file": "suninatas.md"
               }
             }
           }
@@ -175,6 +175,13 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241007123142.png",
+    "Spaces/Temp/Pasted image 20241007123017.png",
+    "Spaces/Desc/Wargame.md",
+    "suninatas.md",
+    "dvwa.md",
+    "File_Inclusion.md",
+    "Spaces/Temp/Pasted image 20241007122848.png",
     "Spaces/Temp/Pasted image 20241007122548.png",
     "Spaces/Temp/Pasted image 20241007122344.png",
     "Spaces/Temp/Pasted image 20241007122116.png",
@@ -184,12 +191,7 @@
     "Spaces/Temp/Pasted image 20241007120517.png",
     "Spaces/Temp/Pasted image 20241007115139.png",
     "Spaces/Temp/Pasted image 20241007115129.png",
-    "Spaces/Temp/Pasted image 20241007114813.png",
-    "File_Inclusion.md",
     "LFI.md",
-    "Spaces/Temp/Pasted image 20241007114539.png",
-    "Spaces/Temp/Pasted image 20241007114342.png",
-    "dvwa.md",
     "CSRF.md",
     "Command_Injection.md",
     "Brute Force Attack.md",
@@ -208,8 +210,6 @@
     "해킹과정.md",
     "BOF.md",
     "firewalld.md",
-    "Log_File.md",
-    "Account Management.md",
-    "DDoS.md"
+    "Log_File.md"
   ]
 }

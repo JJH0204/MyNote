@@ -20,3 +20,5 @@
 # 드림핵 워게임의 준비물
 - Ubuntu Linux 
 - nc(netcat)
+
+[[suninatas]]
