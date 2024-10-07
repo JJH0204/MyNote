@@ -62,3 +62,7 @@ http://kioptrix3.com/cache/index.html ![[Pasted image 20241007165254.png]]
 - 로그인 페이지에 가볍게 sql injection 구문 입력
 - 로그인 성공 한 것은 아닌 것 같고 어떤 사용자든 DB에 접속 가능한 것 같다.
 ![[Pasted image 20241007172539.png]]
+
+## msfconsole
+![[Pasted image 20241007173332.png]]
+![[Pasted image 20241007173918.png]]
