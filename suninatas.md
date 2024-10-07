@@ -97,3 +97,29 @@ hash를 md5로 설정하고 해싱
 ![[Pasted image 20241007153657.png]]
 
 ## 7
+스크롤을 빨리 내려서 yes 를 눌러야 하는 워게임
+![[Pasted image 20241007154212.png]]
+![[Pasted image 20241007154337.png]]
+```
+
+        function noEvent() {
+            if (event.keyCode == 116 || event.keyCode == 9) {
+                alert('No!');
+                return false;
+            }
+            else if (event.ctrlKey && (event.keyCode = 78 || event.keyCode == 82)) {
+                return false;
+            }
+        }
+        document.onkeydown = noEvent;
+    
+```
+
+9 = tab
+116 = f5
+78 = n
+82 = r
+
+![[Pasted image 20241007154658.png]]
+![[Pasted image 20241007154911.png]]
+frm의 
