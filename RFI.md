@@ -5,3 +5,4 @@ local의 파일이 아닌 공격자의 PC의 파일을 실행
 
 ![[Pasted image 20241007115129.png]]![[Pasted image 20241007115139.png]]
 취약점 확인
+

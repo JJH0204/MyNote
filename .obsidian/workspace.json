@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RFI.md",
+                "file": "File_Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RFI.md",
+                "file": "File_Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RFI.md",
+                "file": "File_Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RFI.md"
+                "file": "File_Inclusion.md"
               }
             }
           }
@@ -175,11 +175,13 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241007120655.png",
+    "RFI.md",
+    "Spaces/Temp/Pasted image 20241007120517.png",
     "Spaces/Temp/Pasted image 20241007115139.png",
     "Spaces/Temp/Pasted image 20241007115129.png",
     "Spaces/Temp/Pasted image 20241007114813.png",
     "File_Inclusion.md",
-    "RFI.md",
     "LFI.md",
     "Spaces/Temp/Pasted image 20241007114539.png",
     "Spaces/Temp/Pasted image 20241007114342.png",
@@ -187,8 +189,6 @@
     "Spaces/Temp/Pasted image 20241007114150.png",
     "Spaces/Temp/Pasted image 20241007114049.png",
     "Spaces/Temp/Pasted image 20241007114037.png",
-    "Spaces/Temp/Pasted image 20241007114028.png",
-    "Spaces/Temp/Pasted image 20241007114020.png",
     "dvwa.md",
     "CSRF.md",
     "Command_Injection.md",
