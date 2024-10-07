@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "suninatas.md",
+                "file": "CTF_KIOPTRIX_Level_1.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "suninatas.md",
+                "file": "CTF_KIOPTRIX_Level_1.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "suninatas.md",
+                "file": "CTF_KIOPTRIX_Level_1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "suninatas.md"
+                "file": "CTF_KIOPTRIX_Level_1.2.md"
               }
             }
           }
@@ -175,6 +175,17 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Desc/CTF.md",
+    "CTF_KIOPTRIX_Level_1.2.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "앱 보안.md",
+    "웹 보안.md",
+    "dvwa.md",
+    "Spaces/Desc/Wargame.md",
+    "suninatas.md",
+    "Spaces/Temp/Pasted image 20241007161152.png",
+    "Spaces/Temp/Pasted image 20241007160949.png",
     "Spaces/Temp/Pasted image 20241007160810.png",
     "Spaces/Temp/Pasted image 20241007160734.png",
     "Spaces/Temp/Pasted image 20241007160613.png",
@@ -183,12 +194,6 @@
     "Spaces/Temp/Pasted image 20241007155759.png",
     "Spaces/Temp/Pasted image 20241007155422.png",
     "Spaces/Temp/Pasted image 20241007154911.png",
-    "Spaces/Temp/Pasted image 20241007154658.png",
-    "Spaces/Temp/Pasted image 20241007154337.png",
-    "Spaces/Temp/Pasted image 20241007154212.png",
-    "Spaces/Desc/Wargame.md",
-    "suninatas.md",
-    "dvwa.md",
     "File_Inclusion.md",
     "RFI.md",
     "LFI.md",
@@ -196,13 +201,8 @@
     "Command_Injection.md",
     "Brute Force Attack.md",
     "dvwa_setup.md",
-    "웹 보안.md",
     "OWASP.md",
-    "Spaces/Home/Information_Security.md",
-    "앱 보안.md",
     "Spaces/Home/TODO LIST.md",
-    "시스템 보안.md",
-    "Spaces/Desc/CTF.md",
     "WebServiceSec.md",
     "Excalidraw/Drawing 2024-10-07 08.48.14.excalidraw.md",
     "시스템보안과제.md",

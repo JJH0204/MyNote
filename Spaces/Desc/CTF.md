@@ -39,6 +39,8 @@
 - [[CTF_Pwned]]
 - [[CTF_HF2019]]
 - [[CTF_Quaoar]]
+- [[CTF_KIOPTRIX_Level_1.2]]
+- 
 
 # 자체 제작 CTF
 ---
