@@ -63,3 +63,12 @@ function PASS(n)
 ```
 ![[Pasted image 20241007145311.png]]
 ![[Pasted image 20241007145300.png]]
+
+## 6
+![[Pasted image 20241007150505.png]]
+![[Pasted image 20241007150543.png]]
+SQL Injection - 쿼리에 대해 참인 결과 값을 이용해 DB의 응답을 유발하는 공격
+': 문자 데이터 구분 기호
+;: 쿼리 구분 기호
+--, #: 해당 라인 주석 기호
+/* */: /*와 */사이 구문 주석 기호
