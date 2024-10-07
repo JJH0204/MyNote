@@ -14,4 +14,10 @@
 
 ![[Pasted image 20241007121602.png]]
 - file에 저장된 값이 리스틍 포함되어 있는지 검사
-- 
+- file로 시작하고 include.php가 아닌 
+- ![[Pasted image 20241007122116.png]]
+- file로 시작하는 프로토콜은 해결 못함
+
+![[Pasted image 20241007122344.png]]
+- 실행되는 파일만 지정했다.
+![[Pasted image 20241007122548.png]]
