@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSRF.md",
+                "file": "File_Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSRF.md",
+                "file": "File_Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSRF.md",
+                "file": "File_Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSRF.md"
+                "file": "File_Inclusion.md"
               }
             }
           }
@@ -175,20 +175,20 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "dvwa.md",
+    "File_Inclusion.md",
+    "CSRF.md",
+    "Spaces/Temp/Pasted image 20241007113344.png",
+    "Spaces/Temp/Pasted image 20241007113148.png",
+    "Spaces/Temp/Pasted image 20241007112856.png",
     "Spaces/Temp/Pasted image 20241007112144.png",
     "Spaces/Temp/Pasted image 20241007112007.png",
     "Spaces/Temp/Pasted image 20241007111451.png",
     "Spaces/Temp/Pasted image 20241007110811.png",
-    "dvwa.md",
-    "CSRF.md",
     "Command_Injection.md",
     "Spaces/Temp/Pasted image 20241007104730.png",
     "Spaces/Temp/Pasted image 20241007104640.png",
     "Spaces/Temp/Pasted image 20241007104405.png",
-    "Spaces/Temp/Pasted image 20241007104358.png",
-    "Spaces/Temp/Pasted image 20241007104138.png",
-    "Spaces/Temp/Pasted image 20241007104108.png",
-    "Spaces/Temp/Pasted image 20241007104038.png",
     "Brute Force Attack.md",
     "dvwa_setup.md",
     "웹 보안.md",
