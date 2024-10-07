@@ -6,4 +6,12 @@
 - 값의 확인 없이 바로 실행
 
 ![[Pasted image 20241007120655.png]]
+- /에 대한 공백 처리가 없어 lfi 공격이 가능하다
+- http:// https:// 덕분에 rfi 공격이 불가능해졌다.
+- html / 브라우저의 취약점으로 공략 가능
+	- Http, httP, HTTP 모두 http로 인식
+
+
+![[Pasted image 20241007121602.png]]
+- file에 저장된 값이 리스틍 포함되어 있는지 검사
 - 
