@@ -90,4 +90,10 @@ suninatastopofworld!
 ![[Pasted image 20241007151652.png]]
 
 hash를 md5로 설정하고 해싱
+![[Pasted image 20241007152936.png]]
+![[Pasted image 20241007153134.png]]
+이후 페이지 소스를 보면 다른 힌트를 얻을 수 있다.
+![[Pasted image 20241007153535.png]]
+![[Pasted image 20241007153657.png]]
 
+## 7
