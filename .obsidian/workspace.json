@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "38ffe96d15deff19",
+        "id": "7062edb07940a3bd",
         "type": "tabs",
         "children": [
           {
-            "id": "bccd4ac28f4a81e7",
+            "id": "578dc01c2c74b1fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CTF_KIOPTRIX_Level_1.2.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "95cee6909a94b474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d06287163ab0e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF_KIOPTRIX_Level_1.2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,8 +183,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bccd4ac28f4a81e7",
+  "active": "578dc01c2c74b1fe",
   "lastOpenFiles": [
+    "Spaces/Desc/CTF.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "CTF_KIOPTRIX_Level_1.2.md",
     "Spaces/Temp/Pasted image 20241007164327.png",
     "Spaces/Temp/Pasted image 20241007164216.png",
     "Spaces/Temp/Pasted image 20241007164009.png",
@@ -174,11 +196,7 @@
     "Spaces/Temp/Pasted image 20241007163708.png",
     "Spaces/Temp/Pasted image 20241007163414.png",
     "Spaces/Temp/Pasted image 20241007163335.png",
-    "Spaces/Desc/CTF.md",
-    "CTF_KIOPTRIX_Level_1.2.md",
     "Spaces/Temp/Pasted image 20241007162432.png",
-    "시스템 보안.md",
-    "Spaces/Home/Information_Security.md",
     "앱 보안.md",
     "웹 보안.md",
     "dvwa.md",
@@ -186,7 +204,6 @@
     "suninatas.md",
     "Spaces/Temp/Pasted image 20241007161152.png",
     "Spaces/Temp/Pasted image 20241007160949.png",
-    "Spaces/Temp/Pasted image 20241007160810.png",
     "File_Inclusion.md",
     "RFI.md",
     "LFI.md",

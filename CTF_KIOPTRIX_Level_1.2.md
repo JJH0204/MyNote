@@ -1,5 +1,4 @@
 # README.txt
-***
 DISCLAIMER!
 We at Kioptrix are not responsible for any damaged directly, or indirectly, 
 caused by using this system. We suggest you do not connect this installation
@@ -111,32 +110,7 @@ GENERATED WORDS: 4612
 + http://kioptrix3.com/core/model/index.php (CODE:200|SIZE:0)                                                                                                           
                                                                                                                                                                         
 ---- Entering directory: http://kioptrix3.com/core/view/ ----
-+ http://kioptrix3.com/core/view/index.php (CODE:200|SIZE:0)                                                                                                            
-                                                                                                                                                                        
----- Entering directory: http://kioptrix3.com/gallery/photos/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                                                                                                                        
----- Entering directory: http://kioptrix3.com/gallery/themes/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                                                                                                                        
----- Entering directory: http://kioptrix3.com/phpmyadmin/js/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                                                                                                                        
----- Entering directory: http://kioptrix3.com/phpmyadmin/lang/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                                                                                                                        
----- Entering directory: http://kioptrix3.com/phpmyadmin/scripts/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                                                                                                                        
----- Entering directory: http://kioptrix3.com/phpmyadmin/themes/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
-    (Use mode '-w' if you want to scan it anyway)
-                                                                               
++ http://kioptrix3.com/core/view/index.php (CODE:200|SIZE:0)            
 -----------------
 END_TIME: Mon Oct  7 03:45:10 2024
 DOWNLOADED: 46120 - FOUND: 17
