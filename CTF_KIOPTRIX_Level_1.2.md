@@ -43,3 +43,15 @@ vmw 파일을 버츄얼 머신에서 구동하는 방법은 없을까?
 ## dirb http://kioptrix3.com/
 http://kioptrix3.com/phpmyadmin/index.php ![[Pasted image 20241007165104.png]]
 http://kioptrix3.com/cache/index.html ![[Pasted image 20241007165254.png]]
+
+## nikto -h http://kioptrix3.com/
+
+`+ /favicon.ico: Server may leak inodes via ETags, header found with file /favicon.ico, inode: 631780, size: 23126, mtime: Fri Jun  5 15:22:00 2009. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418
+`
+`+ /icons/README: Apache default file found. See: https://www.vntweb.co.uk/apache-restricting-access-to-iconsreadme/
+/phpmyadmin/: phpMyAdmin directory found.
+/phpmyadmin/Documentation.html: phpMyAdmin is for managing MySQL databases, and should be protected or limited to authorized hosts.`
+
+## search CVE-2003-1418
+> 해당 정보에 대한 액세스 권한이 명시적으로 부여되지 않은 행위자에게 민감한 정보를 노출합니다. 영향으로 기밀성에 영향을 미치는 것으로 알려져 있습니다.
+> 이 공격은 원격으로 시작할 수 있습니다. 이 익스플로잇에는 어떠한 형태의 인증도 필요하지 않습니다.
