@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 보안.md",
+                "file": "dvwa.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹 보안.md",
+                "file": "dvwa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹 보안.md",
+                "file": "dvwa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹 보안.md"
+                "file": "dvwa.md"
               }
             }
           }
@@ -175,6 +175,16 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "dvwa_setup.md",
+    "dvwa.md",
+    "Spaces/Temp/Pasted image 20241007093440.png",
+    "Spaces/Temp/Pasted image 20241007093429.png",
+    "Spaces/Temp/Pasted image 20241007093413.png",
+    "Spaces/Temp/Pasted image 20241007093355.png",
+    "Spaces/Temp/Pasted image 20241007093341.png",
+    "Spaces/Temp/Pasted image 20241007093211.png",
+    "Spaces/Temp/Pasted image 20241007093042.png",
+    "Spaces/Temp/Pasted image 20241007092941.png",
     "웹 보안.md",
     "OWASP.md",
     "Spaces/Home/Information_Security.md",
@@ -198,8 +208,6 @@
     "git_web.md",
     "Spaces/Home/GIT.md",
     "git_LF_commit.md",
-    "git_team_add.md",
-    "git_commant_add.md",
-    "CTF-Custom.md"
+    "git_team_add.md"
   ]
 }
