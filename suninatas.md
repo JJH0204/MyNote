@@ -26,3 +26,9 @@ i = in
 ![[Pasted image 20241007140902.png]]
 
 ![[Pasted image 20241007142533.png]]
+## 4
+![[Pasted image 20241007142852.png]]
+![[Pasted image 20241007142838.png]]
+![[Pasted image 20241007143315.png]]
+리피터를 사용해 반복작업을 자동화
+![[Pasted image 20241007143450.png]]
