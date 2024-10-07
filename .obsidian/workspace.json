@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command_Injection.md",
+                "file": "CSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command_Injection.md",
+                "file": "CSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command_Injection.md",
+                "file": "CSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command_Injection.md"
+                "file": "CSRF.md"
               }
             }
           }
@@ -175,6 +175,9 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "dvwa.md",
+    "CSRF.md",
+    "Command_Injection.md",
     "Spaces/Temp/Pasted image 20241007104730.png",
     "Spaces/Temp/Pasted image 20241007104640.png",
     "Spaces/Temp/Pasted image 20241007104405.png",
@@ -185,9 +188,6 @@
     "Spaces/Temp/Pasted image 20241007103936.png",
     "Spaces/Temp/Pasted image 20241007103903.png",
     "Spaces/Temp/Pasted image 20241007103830.png",
-    "Spaces/Temp/Pasted image 20241007103810.png",
-    "dvwa.md",
-    "Command_Injection.md",
     "Brute Force Attack.md",
     "dvwa_setup.md",
     "웹 보안.md",
