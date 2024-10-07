@@ -27,4 +27,5 @@ sticker: lucide//check-check
 - [ ] Shell Script를 활용해 서버 세팅을 자동화
 - [x] Shell Script를 활용해 취약점 점검 자동화 ✅ 2024-09-30
 - [ ] 취약점 점검 자동화 프로그램 v2 개발(시스템최적화)
-- [ ] CTF_TechSupport 해결
+- [x] CTF_TechSupport 해결 ✅ 2024-10-07
+- [ ] 일주일에 2~3개 ctf 풀이
