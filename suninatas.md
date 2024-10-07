@@ -4,7 +4,6 @@ i = in
 
 ![[Pasted image 20241007124552.png]]
 ```
-
 	function chk_form(){
 		var id = document.web02.id.value ;
 		var pw = document.web02.pw.value ;
@@ -20,6 +19,5 @@ i = in
 			document.web02.submit();
 		}
 	}
-
 ```
 ![[Pasted image 20241007124955.png]]
