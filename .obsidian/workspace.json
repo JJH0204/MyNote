@@ -175,6 +175,7 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241007162432.png",
     "Spaces/Desc/CTF.md",
     "CTF_KIOPTRIX_Level_1.2.md",
     "시스템 보안.md",
@@ -209,7 +210,6 @@
     "CTF_1.md",
     "해킹과정.md",
     "BOF.md",
-    "firewalld.md",
-    "Log_File.md"
+    "firewalld.md"
   ]
 }
