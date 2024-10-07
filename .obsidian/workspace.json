@@ -18,14 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a7bcc78d985fd999",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -175,6 +167,9 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241007164327.png",
+    "Spaces/Temp/Pasted image 20241007164216.png",
+    "Spaces/Temp/Pasted image 20241007164009.png",
     "Spaces/Temp/Pasted image 20241007163919.png",
     "Spaces/Temp/Pasted image 20241007163708.png",
     "Spaces/Temp/Pasted image 20241007163414.png",
@@ -192,9 +187,6 @@
     "Spaces/Temp/Pasted image 20241007161152.png",
     "Spaces/Temp/Pasted image 20241007160949.png",
     "Spaces/Temp/Pasted image 20241007160810.png",
-    "Spaces/Temp/Pasted image 20241007160734.png",
-    "Spaces/Temp/Pasted image 20241007160613.png",
-    "Spaces/Temp/Pasted image 20241007160418.png",
     "File_Inclusion.md",
     "RFI.md",
     "LFI.md",
