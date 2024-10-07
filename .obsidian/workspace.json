@@ -175,6 +175,9 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241007115139.png",
+    "Spaces/Temp/Pasted image 20241007115129.png",
+    "Spaces/Temp/Pasted image 20241007114813.png",
     "File_Inclusion.md",
     "RFI.md",
     "LFI.md",
@@ -188,8 +191,6 @@
     "Spaces/Temp/Pasted image 20241007114020.png",
     "dvwa.md",
     "CSRF.md",
-    "Spaces/Temp/Pasted image 20241007113344.png",
-    "Spaces/Temp/Pasted image 20241007113148.png",
     "Command_Injection.md",
     "Brute Force Attack.md",
     "dvwa_setup.md",
@@ -209,7 +210,6 @@
     "firewalld.md",
     "Log_File.md",
     "Account Management.md",
-    "DDoS.md",
-    "Linux_Sec.md"
+    "DDoS.md"
   ]
 }
