@@ -1,4 +1,5 @@
 # README.txt
+```
 DISCLAIMER!
 We at Kioptrix are not responsible for any damaged directly, or indirectly, 
 caused by using this system. We suggest you do not connect this installation
@@ -16,6 +17,7 @@ comms[at]kioptrix.com
 
 Hope you enjoy this challenge.
 -Kioptrix Team
+```
 
 
 ![[Pasted image 20241007162432.png]]
@@ -66,3 +68,4 @@ http://kioptrix3.com/cache/index.html ![[Pasted image 20241007165254.png]]
 ## msfconsole
 ![[Pasted image 20241007173332.png]]
 ![[Pasted image 20241007173918.png]]
+

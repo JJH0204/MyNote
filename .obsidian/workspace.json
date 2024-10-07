@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "95cee6909a94b474",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86d06287163ab0e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTF_KIOPTRIX_Level_1.2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
