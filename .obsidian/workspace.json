@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dvwa.md",
+                "file": "Brute Force Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dvwa.md",
+                "file": "Brute Force Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dvwa.md",
+                "file": "Brute Force Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dvwa.md"
+                "file": "Brute Force Attack.md"
               }
             }
           }
@@ -175,8 +175,12 @@
   },
   "active": "bccd4ac28f4a81e7",
   "lastOpenFiles": [
-    "dvwa_setup.md",
+    "Spaces/Temp/Pasted image 20241007094516.png",
+    "Spaces/Temp/Pasted image 20241007094221.png",
+    "Spaces/Temp/Pasted image 20241007094041.png",
+    "Spaces/Temp/Pasted image 20241007093855.png",
     "dvwa.md",
+    "dvwa_setup.md",
     "Spaces/Temp/Pasted image 20241007093440.png",
     "Spaces/Temp/Pasted image 20241007093429.png",
     "Spaces/Temp/Pasted image 20241007093413.png",
@@ -184,7 +188,6 @@
     "Spaces/Temp/Pasted image 20241007093341.png",
     "Spaces/Temp/Pasted image 20241007093211.png",
     "Spaces/Temp/Pasted image 20241007093042.png",
-    "Spaces/Temp/Pasted image 20241007092941.png",
     "웹 보안.md",
     "OWASP.md",
     "Spaces/Home/Information_Security.md",
@@ -204,10 +207,9 @@
     "DDoS.md",
     "Linux_Sec.md",
     "CTF_Wordpress.md",
-    "브루트 포스 공격.md",
+    "Brute Force Attack.md",
     "git_web.md",
     "Spaces/Home/GIT.md",
-    "git_LF_commit.md",
-    "git_team_add.md"
+    "git_LF_commit.md"
   ]
 }

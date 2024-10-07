@@ -21,7 +21,7 @@
 - [[Backdoor Attack]]
 - [[DDoS]]
 <<<<<<< HEAD
-- [[브루트 포스 공격]]
+- [[Brute Force Attack]]
 =======
 - [[Brute-force Attack]]
 >>>>>>> 69011e4badc7e1d20a284ad2dcdf3eb59c416754
