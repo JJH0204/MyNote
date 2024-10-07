@@ -61,3 +61,5 @@ function PASS(n)
 	return(result==''?'0':result)
 }
 ```
+![[Pasted image 20241007145311.png]]
+![[Pasted image 20241007145300.png]]
