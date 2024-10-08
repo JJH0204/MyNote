@@ -192,6 +192,7 @@
   },
   "active": "c573a991a1995b60",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241008143607.png",
     "dvwa.md",
     "XSS.md",
     "SQL Injection.md",
@@ -226,7 +227,6 @@
     "앱 보안.md",
     "Spaces/Desc/Wargame.md",
     "suninatas.md",
-    "File_Inclusion.md",
-    "RFI.md"
+    "File_Inclusion.md"
   ]
 }
