@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XSS.md",
+                "file": "웹 보안.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XSS.md",
+                "file": "웹 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XSS.md",
+                "file": "웹 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XSS.md"
+                "file": "웹 보안.md"
               }
             }
           }
@@ -192,6 +192,8 @@
   },
   "active": "c573a991a1995b60",
   "lastOpenFiles": [
+    "dvwa.md",
+    "XSS.md",
     "Spaces/Temp/Pasted image 20241008154844.png",
     "Spaces/Temp/Pasted image 20241008154102.png",
     "Spaces/Temp/Pasted image 20241008154036.png",
@@ -202,10 +204,7 @@
     "Spaces/Temp/Pasted image 20241008153324.png",
     "Spaces/Temp/Pasted image 20241008153314.png",
     "Spaces/Temp/Pasted image 20241008153218.png",
-    "Spaces/Temp/Pasted image 20241008153018.png",
-    "dvwa.md",
     "SQL Injection.md",
-    "XSS.md",
     "Zap.md",
     "git_team_add.md",
     "Spaces/Home/GIT.md",
