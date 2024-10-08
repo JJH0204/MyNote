@@ -256,5 +256,6 @@
 - `5' union select user, password from dvwa.users#`![[Pasted image 20241008114000.png]]패스워드가 암호화 되어 있어 크랙 툴이 필요하다
 - 일괄 hashing 코드 작성
 ![[Pasted image 20241008114438.png]]
-- 암호화 정보 확인![[Pasted image 20241008114729.png]]
+- 암호화 정보 확인![[Pasted image 20241008114729.png]]![[Pasted image 20241008114842.png]]
+- 일괄 암호화 크랙킹`john --format=Raw-MD5 users.txt`![[Pasted image 20241008115126.png]]
 - 
