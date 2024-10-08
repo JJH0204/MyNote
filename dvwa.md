@@ -8,4 +8,4 @@
 - [[File_Upload]]
 - [[Insecure CAPTCHA]]
 - [[SQL Injection]]
-- 
+- [[XSS]]

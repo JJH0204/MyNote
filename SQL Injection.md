@@ -336,3 +336,5 @@ impossible
 - 문법에 대한 오류가 표시되지 않는다.
 - 경우의 수를 전부 넣어 봐야 한다.
 
+
+zap 에서 취약한 파라미터를 찾고 sqlmap을 활용해 sql injection (과제)
