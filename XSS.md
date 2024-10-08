@@ -42,3 +42,18 @@ impossible
 
 low
 ![[Pasted image 20241008153018.png]]
+![[Pasted image 20241008153218.png]]
+- 개발자 도구로 입력 가능한 텍스트 수를 늘린다.
+![[Pasted image 20241008153314.png]]
+![[Pasted image 20241008153419.png]]
+![[Pasted image 20241008153324.png]]
+![[Pasted image 20241008153404.png]]
+- 두 필드 모두 xss 취약점이 있다
+- 이전에 저장한 스크립트가 먼저 실행된다.
+![[Pasted image 20241008153659.png]]
+
+medium
+![[Pasted image 20241008154036.png]]
+![[Pasted image 20241008153953.png]]![[Pasted image 20241008154102.png]]
+- 대소문자, 변형, 에러 유도에 여전히 취약함
+
