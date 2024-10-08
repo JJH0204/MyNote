@@ -69,3 +69,8 @@ http://kioptrix3.com/cache/index.html ![[Pasted image 20241007165254.png]]
 ![[Pasted image 20241007173332.png]]
 ![[Pasted image 20241007173918.png]]
 
+## sqlmap
+![[Pasted image 20241008090012.png]]
+- 흠... sql DB라서 sqlmap으로 검색하면 뭔가 있을 것 같아서 실행했지만 결과는 아쉬웠다.
+
+## gobuster
