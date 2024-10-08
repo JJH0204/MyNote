@@ -28,7 +28,17 @@ hight
 ![[Pasted image 20241008151755.png]]
 - 단일 문자는 전부 공백(대소문자 관계없이)으로 preg_replace()로 처리하도록 되어있다.
 
+`<img src=x onerror=prompt()>`
+![[Pasted image 20241008152641.png]]
+
+impossible
+![[Pasted image 20241008152720.png]]
+- htmlspecialchars(): html에 사용되는 모든 특수 문자 삭제
+![[Pasted image 20241008152815.png]]
 
 
 ![[Pasted image 20241008150742.png]]
 - 다용성(저장형) 스크립트
+
+low
+![[Pasted image 20241008153018.png]]
