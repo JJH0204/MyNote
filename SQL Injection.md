@@ -287,3 +287,14 @@ impossible
 - 사용자 토큰이 있어서 URL를 바꿔서 넣어도 응답하지 않는다.
 - sql injection 만으로는 공략이 어렵다.(다른 취약점과 함께 사용하면 공략할 수도 있다.)
 ## 자동 점검 툴
+[[zap]]
+![[Pasted image 20241008123845.png]]
+프록시 툴이지만 취약점 점검이 가능하다
+공격방법과 취약점에대한 내용 등 상세한 정보를 확인할 수 있다.
+
+[[sqlmap]]
+
+![[Pasted image 20241008124445.png]]
+- id 라는 파라미터가 취약하다는 것을 알고 있다.
+
+![[Pasted image 20241008124727.png]]`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id`
