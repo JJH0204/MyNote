@@ -268,5 +268,22 @@ medium
 ![[Pasted image 20241008121104.png]]![[Pasted image 20241008121154.png]]
 `id=1&Submit=Submit` 에 값을 변조하는 방법으로 sql injection을 테스트 할 수 있다.
 - `id=1 or 1=1&Submit=Submit`![[Pasted image 20241008121318.png]]
-- `id=1' union select user,password form dvwa.users#&Submit=Submit`![[Pasted image 20241008121737.png]]
+- `id=1 or 1=1 union select user,password from dvwa.users&Submit=Submit`![[Pasted image 20241008121737.png]]
+![[Pasted image 20241008121836.png]]
+\
+high
+![[Pasted image 20241008121937.png]]
+![[Pasted image 20241008121953.png]]
+- 세션으로 검증하는 기능이 추가됨
+![[Pasted image 20241008122147.png]]
+- 하지만 주석에 대해서는 아직 취약하다
+![[Pasted image 20241008122241.png]]
+(주의) --(공백) : 주석
+
+impossible
+![[Pasted image 20241008122402.png]]
+- ' 를 넣어도 아무 반응이 없다.
+![[Pasted image 20241008122522.png]]
+- 사용자 토큰이 있어서 URL를 바꿔서 넣어도 응답하지 않는다.
+- sql injection 만으로는 공략이 어렵다.(다른 취약점과 함께 사용하면 공략할 수도 있다.)
 ## 자동 점검 툴
