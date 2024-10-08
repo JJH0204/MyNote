@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dvwa.md",
+                "file": "File_Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dvwa.md",
+                "file": "File_Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dvwa.md",
+                "file": "File_Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dvwa.md"
+                "file": "File_Upload.md"
               }
             }
           }
@@ -192,9 +192,12 @@
   },
   "active": "c573a991a1995b60",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241008091644.png",
+    "dvwa.md",
+    "File_Upload.md",
+    "CTF_KIOPTRIX_Level_1.2.md",
     "웹 보안.md",
     "Spaces/Home/Information_Security.md",
-    "CTF_KIOPTRIX_Level_1.2.md",
     "무제 파일.md",
     "Spaces/Temp/Pasted image 20241008090012.png",
     "windows 10 CTF.md",
@@ -211,7 +214,6 @@
     "Spaces/Temp/Pasted image 20241007164216.png",
     "Spaces/Temp/Pasted image 20241007164009.png",
     "앱 보안.md",
-    "dvwa.md",
     "Spaces/Desc/Wargame.md",
     "suninatas.md",
     "File_Inclusion.md",
@@ -225,8 +227,6 @@
     "Spaces/Home/TODO LIST.md",
     "WebServiceSec.md",
     "Excalidraw/Drawing 2024-10-07 08.48.14.excalidraw.md",
-    "시스템보안과제.md",
-    "CTF_1.md",
-    "해킹과정.md"
+    "시스템보안과제.md"
   ]
 }
