@@ -18,6 +18,10 @@
 ![[Pasted image 20241008104846.png]]
 - cookie 정보를 이용해 세션을 흉내
 ![[Pasted image 20241008105111.png]]
-- 세션을 빌려 요청 웹 정보를 요청![[Pasted image 20241008105151.png]]
+- 세션을 빌려 요청 웹 정보를 요청
+  ![[Pasted image 20241008110430.png]]
 - 수동 점검이 가능한 것으로 확인
-- 
+- union select 구문을 활용하면 2개 이상의 sql 구문을 결합해서 사용할 수 있게 해준다.
+  ![[Pasted image 20241008110603.png]]![[Pasted image 20241008110612.png]]
+- 칼럼의 수는 1이 아닌 것을 알 수 있다.
+- ![[Pasted image 20241008110733.png]]
