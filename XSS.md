@@ -8,6 +8,25 @@
 ```
 ![[Pasted image 20241008151019.png]]
 ![[Pasted image 20241008151154.png]]
+- 받은 입력을 name 에 저장하고 비엇는지만 검사하고 비지 않았다면 출력
+
+medium
+![[Pasted image 20241008151337.png]]
+![[Pasted image 20241008151403.png]]
+- `<script>`를 공백으로 바꿔줌으로 방어
+- 소문자 스크립트 또는 변형된 스트립트는 적용된다.
+```
+<sCript>alert(document.cookie)</script>
+```
+![[Pasted image 20241008151617.png]]
+```
+<sc<script>ript>alert(document.cookie)</script>
+```
+
+hight
+![[Pasted image 20241008151739.png]]
+![[Pasted image 20241008151755.png]]
+- 단일 문자는 전부 공백(대소문자 관계없이)으로 preg_replace()로 처리하도록 되어있다.
 
 
 
