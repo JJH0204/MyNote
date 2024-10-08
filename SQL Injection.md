@@ -24,4 +24,9 @@
 - union select 구문을 활용하면 2개 이상의 sql 구문을 결합해서 사용할 수 있게 해준다.
   ![[Pasted image 20241008110603.png]]![[Pasted image 20241008110612.png]]
 - 칼럼의 수는 1이 아닌 것을 알 수 있다.
-- ![[Pasted image 20241008110733.png]]
+- ![[Pasted image 20241008110733.png]]![[Pasted image 20241008110744.png]]1번 칼럼이 First name 2번째 칼럼이 Surname인 것을 알 수 있다.
+- 1번 칼럼에 First name, 2번 칼럼에는 다른 데이터가 출력 되도록 구문을 작성할 수 있다.
+- ![[Pasted image 20241008111046.png]]`5' union select 1,@@version#`![[Pasted image 20241008111131.png]]
+- 버전을 검색해서 DB 정보를 획득할 수 있다.![[Pasted image 20241008111243.png]]
+- DB 정보와 버전을 알면 취약점을 찾을 수 있다.![[Pasted image 20241008111340.png]]
+- `5' union select 1,table_name from information_schema` = 
