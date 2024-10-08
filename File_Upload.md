@@ -42,4 +42,5 @@ Hight
 - exif tool 설치
 - [[exiftool]] 파일경로 > 메타데이터 확인 가능![[Pasted image 20241008101004.png]]
 - 기존의 메타 데이터(Encoding Process)를 조작해 php 코드를 넣을 수 있다.![[Pasted image 20241008101613.png]]
+- 사진을 촬영할 때 사용한 기종을 확인할 수 있다.![[Pasted image 20241008102407.png]]
 - 
