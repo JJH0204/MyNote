@@ -55,5 +55,8 @@ low
 medium
 ![[Pasted image 20241008154036.png]]
 ![[Pasted image 20241008153953.png]]![[Pasted image 20241008154102.png]]
-- 대소문자, 변형, 에러 유도에 여전히 취약함
+- message는 htmlspecialchars()를 통해 특수문자를 일반 문자로 변형했다.
+- name필드는 여전히 대소문자/변형외곡/에러 유도에 취약함
 
+high
+![[Pasted image 20241008154844.png]]
