@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File_Upload.md",
+                "file": "SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File_Upload.md",
+                "file": "SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File_Upload.md",
+                "file": "SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File_Upload.md"
+                "file": "SQL Injection.md"
               }
             }
           }
@@ -192,21 +192,22 @@
   },
   "active": "c573a991a1995b60",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20241008102407.png",
-    "exiftool.md",
+    "dvwa.md",
+    "SQL Injection.md",
+    "Insecure CAPTCHA.md",
+    "Spaces/Temp/Pasted image 20241008103554.png",
     "File_Upload.md",
+    "Spaces/Temp/Pasted image 20241008103352.png",
+    "Spaces/Temp/Pasted image 20241008103342.png",
+    "exiftool.md",
+    "Spaces/Temp/Pasted image 20241008102945.png",
+    "Spaces/Temp/Pasted image 20241008102918.png",
+    "Spaces/Temp/Pasted image 20241008102842.png",
+    "Spaces/Temp/Pasted image 20241008102407.png",
     "Spaces/Temp/Pasted image 20241008101827.png",
     "Spaces/Temp/Pasted image 20241008101613.png",
     "Spaces/Temp/Pasted image 20241008101004.png",
-    "Spaces/Temp/Pasted image 20241008100844.png",
-    "Spaces/Temp/Pasted image 20241008100756.png",
     "windows 10 CTF.md",
-    "Spaces/Temp/Pasted image 20241008095004.png",
-    "Spaces/Temp/Pasted image 20241008094919.png",
-    "Spaces/Temp/Pasted image 20241008094602.png",
-    "Spaces/Temp/Pasted image 20241008094509.png",
-    "Spaces/Temp/Pasted image 20241008094139.png",
-    "dvwa.md",
     "Spaces/Desc/VS_Code Github 연동하기.md",
     "Spaces/Desc/FDISK.md",
     "Spaces/Desc/Front_end.md",
@@ -226,7 +227,6 @@
     "LFI.md",
     "CSRF.md",
     "Command_Injection.md",
-    "Brute Force Attack.md",
-    "dvwa_setup.md"
+    "Brute Force Attack.md"
   ]
 }

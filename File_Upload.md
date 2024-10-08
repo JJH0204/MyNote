@@ -41,6 +41,8 @@ Hight
 - 다운받은 이미지는 업로드가 가능한 것을 확인![[Pasted image 20241008100844.png]]
 - exif tool 설치
 - [[exiftool]] 파일경로 > 메타데이터 확인 가능![[Pasted image 20241008101004.png]]
-- 기존의 메타 데이터(Encoding Process)를 조작해 php 코드를 넣을 수 있다.![[Pasted image 20241008101613.png]]
-- 사진을 촬영할 때 사용한 기종을 확인할 수 있다.![[Pasted image 20241008102407.png]]
-- 
+
+impossible
+![[Pasted image 20241008103342.png]]![[Pasted image 20241008103352.png]]
+- 사용자 1회성 토큰을 활용해 우회가 어렵게 만들었다.
+- 업로드 취약점 외 다른 취약점을 활용하면 공략이 가능할 것 같다.

@@ -6,4 +6,6 @@
 - [[File_Inclusion]]
 - [[Wargame]]
 - [[File_Upload]]
+- [[Insecure CAPTCHA]]
+- [[SQL Injection]]
 - 
