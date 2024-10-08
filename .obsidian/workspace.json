@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -192,6 +191,9 @@
   },
   "active": "c573a991a1995b60",
   "lastOpenFiles": [
+    "git_team_add.md",
+    "Spaces/Home/GIT.md",
+    "SQL Injection.md",
     "Spaces/Temp/Pasted image 20241008115126.png",
     "Spaces/Temp/Pasted image 20241008114842.png",
     "Spaces/Temp/Pasted image 20241008114729.png",
@@ -202,9 +204,7 @@
     "Spaces/Temp/Pasted image 20241008112310.png",
     "Spaces/Temp/Pasted image 20241008111340.png",
     "Spaces/Temp/Pasted image 20241008111243.png",
-    "Spaces/Temp/Pasted image 20241008111131.png",
     "dvwa.md",
-    "SQL Injection.md",
     "Insecure CAPTCHA.md",
     "File_Upload.md",
     "exiftool.md",
@@ -226,7 +226,6 @@
     "File_Inclusion.md",
     "RFI.md",
     "LFI.md",
-    "CSRF.md",
-    "Command_Injection.md"
+    "CSRF.md"
   ]
 }
