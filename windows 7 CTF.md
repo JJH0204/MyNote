@@ -6,3 +6,7 @@ https://ssv.skill.or.kr/cloud-security/windows-pc-security-vulnerability
 윈도우 권한 상승 취약점을 활용해 guest 사용자에서 관리자로 권산 상승을 시도하는 CTF
 
 [Internet Archive](https://archive.org/search?query=windows+10) - Old Version Windows 10 iso search
+
+https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2019-0787
+https://blog.naver.com/hong0303/221258116325
+https://easy7.tistory.com/491

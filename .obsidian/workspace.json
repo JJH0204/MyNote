@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows 10 CTF.md",
+                "file": "windows 7 CTF.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows 10 CTF.md",
+                "file": "windows 7 CTF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows 10 CTF.md",
+                "file": "windows 7 CTF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows 10 CTF.md"
+                "file": "windows 7 CTF.md"
               }
             }
           }
@@ -181,7 +181,7 @@
   "active": "a9ca1b8694a3c365",
   "lastOpenFiles": [
     "CTF_KIOPTRIX_Level_1.2.md",
-    "windows 10 CTF.md",
+    "windows 7 CTF.md",
     "웹 보안.md",
     "dvwa.md",
     "XSS.md",
