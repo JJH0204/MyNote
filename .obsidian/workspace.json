@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML Injection - Reflected_GET.md",
+                "file": "HTML Injection - Reflected_POST.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML Injection - Reflected_GET.md",
+                "file": "HTML Injection - Reflected_POST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML Injection - Reflected_GET.md",
+                "file": "HTML Injection - Reflected_POST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML Injection - Reflected_GET.md"
+                "file": "HTML Injection - Reflected_POST.md"
               }
             }
           }
@@ -167,21 +167,22 @@
   },
   "active": "e8bb71365e8a7871",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241010112345.png",
+    "A1-Injection.md",
+    "HTML Injection - Reflected_GET.md",
+    "HTML Injection - Reflected_POST.md",
+    "Spaces/Temp/Pasted image 20241010112315.png",
+    "Spaces/Temp/Pasted image 20241010112242.png",
+    "Spaces/Temp/Pasted image 20241010112234.png",
+    "Spaces/Temp/Pasted image 20241010111951.png",
+    "Spaces/Temp/Pasted image 20241010111748.png",
+    "Spaces/Temp/Pasted image 20241010111637.png",
+    "Spaces/Temp/Pasted image 20241010111441.png",
     "Spaces/Temp/Pasted image 20241010111000.png",
     "Spaces/Temp/Pasted image 20241010110935.png",
     "Spaces/Temp/Pasted image 20241010110909.png",
-    "Spaces/Temp/Pasted image 20241010110814.png",
-    "Spaces/Temp/Pasted image 20241010110606.png",
-    "Spaces/Temp/Pasted image 20241010110445.png",
-    "Spaces/Temp/Pasted image 20241010110315.png",
-    "Spaces/Temp/Pasted image 20241010105258.png",
-    "Spaces/Temp/Pasted image 20241010105208.png",
-    "A1-Injection.md",
     "Bee-Box.md",
     "bee-box setup.md",
-    "Spaces/Temp/Pasted image 20241010105009.png",
-    "Spaces/Temp/Pasted image 20241010104831.png",
-    "HTML Injection - Reflected_GET.md",
     "웹 보안.md",
     "HTTP Method.md",
     "HTTP Status Code.md",
@@ -201,7 +202,6 @@
     "Spaces/Desc/FDISK.md",
     "Spaces/Desc/Front_end.md",
     "Spaces/Desc/git_unset.md",
-    "무제 파일.md",
-    "CTF-Custom.md"
+    "무제 파일.md"
   ]
 }
