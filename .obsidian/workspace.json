@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7062edb07940a3bd",
+        "id": "02bcb63f57c1f477",
         "type": "tabs",
         "children": [
           {
-            "id": "578dc01c2c74b1fe",
+            "id": "e8bb71365e8a7871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_KIOPTRIX_Level_1.2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9ca1b8694a3c365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "windows 7 CTF.md",
+                "file": "HTTP Status Code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows 7 CTF.md",
+                "file": "HTTP Status Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows 7 CTF.md",
+                "file": "HTTP Status Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows 7 CTF.md"
+                "file": "HTTP Status Code.md"
               }
             }
           }
@@ -178,12 +165,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9ca1b8694a3c365",
+  "active": "e8bb71365e8a7871",
   "lastOpenFiles": [
+    "웹 보안.md",
+    "HTTP Status Code.md",
+    "dvwa.md",
+    "Spaces/Home/Information_Security.md",
     "CTF_KIOPTRIX_Level_1.2.md",
     "windows 7 CTF.md",
-    "웹 보안.md",
-    "dvwa.md",
     "XSS.md",
     "Spaces/Temp/Pasted image 20241008154844.png",
     "Spaces/Temp/Pasted image 20241008154102.png",
@@ -206,7 +195,6 @@
     "Spaces/Desc/FDISK.md",
     "Spaces/Desc/Front_end.md",
     "Spaces/Desc/git_unset.md",
-    "Spaces/Home/Information_Security.md",
     "무제 파일.md",
     "CTF-Custom.md",
     "Spaces/Desc/CTF.md",
