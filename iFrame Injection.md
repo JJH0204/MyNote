@@ -11,3 +11,14 @@ http://192.168.56.122/bWAPP/iframei.php?ParamUrl=robots.txt%22%3E%3C/iframe%3E%3
 ```
 ![[Pasted image 20241010122331.png]]
 ![[Pasted image 20241010122347.png]]
+
+![[Pasted image 20241010122600.png]]
+![[Pasted image 20241010122635.png]]
+
+![[Pasted image 20241010123205.png]]
+- high 레벨에서는 작동하지 않는다.
+
+![[Pasted image 20241010123253.png]]
+- 공격자의 피싱 사이트를 넣을 수도 있다.
+
+
