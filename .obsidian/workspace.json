@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP_Injection.md",
+                "file": "SSI_Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP_Injection.md",
+                "file": "SSI_Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP_Injection.md",
+                "file": "SSI_Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP_Injection.md"
+                "file": "SSI_Injection.md"
               }
             }
           }
@@ -167,21 +167,23 @@
   },
   "active": "e8bb71365e8a7871",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241010140949.png",
+    "Spaces/Temp/Pasted image 20241010140942.png",
     "A1-Injection.md",
+    "SSI_Injection.md",
     "PHP_Injection.md",
+    "Spaces/Temp/Pasted image 20241010140659.png",
+    "Spaces/Temp/Pasted image 20241010140602.png",
+    "Spaces/Temp/Pasted image 20241010140514.png",
+    "Spaces/Temp/Pasted image 20241010140425.png",
+    "Spaces/Temp/Pasted image 20241010140413.png",
     "OS_Command_Injection.md",
     "Spaces/Temp/Pasted image 20241010124636.png",
     "Spaces/Temp/Pasted image 20241010124524.png",
     "Spaces/Temp/Pasted image 20241010124310.png",
     "Spaces/Temp/Pasted image 20241010123910.png",
-    "Spaces/Temp/Pasted image 20241010123815.png",
-    "Spaces/Temp/Pasted image 20241010123749.png",
-    "Spaces/Temp/Pasted image 20241010123709.png",
     "LDAP.md",
     "iFrame Injection.md",
-    "Spaces/Temp/Pasted image 20241010123253.png",
-    "Spaces/Temp/Pasted image 20241010123205.png",
-    "Spaces/Temp/Pasted image 20241010122635.png",
     "HTML Injection - Stored_Blog.md",
     "HTML Injection - Reflected_GET.md",
     "HTML Injection - Reflected_URL.md",
@@ -200,8 +202,6 @@
     "SQL Injection.md",
     "Zap.md",
     "git_team_add.md",
-    "Spaces/Home/GIT.md",
-    "Insecure CAPTCHA.md",
-    "File_Upload.md"
+    "Spaces/Home/GIT.md"
   ]
 }
