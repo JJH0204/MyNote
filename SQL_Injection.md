@@ -86,3 +86,8 @@ AJAX: Asynchronous JavaScript and XML(비동기 자바스크립트 xml)
 
 # Drupal SQL Injection (Drupageddon)
 ![[Pasted image 20241010153555.png]]
+![[Pasted image 20241010154456.png]]
+![[Pasted image 20241010154601.png]]
+![[Pasted image 20241010154658.png]]
+![[Pasted image 20241010155001.png]]
+![[Pasted image 20241010155052.png]]
