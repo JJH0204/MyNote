@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL_Injection.md",
+                "file": "meterpreter.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL_Injection.md",
+                "file": "meterpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL_Injection.md",
+                "file": "meterpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL_Injection.md"
+                "file": "meterpreter.md"
               }
             }
           }
@@ -179,6 +179,10 @@
   },
   "active": "e8bb71365e8a7871",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241010160327.png",
+    "Spaces/Temp/Pasted image 20241010160301.png",
+    "SQL_Injection.md",
+    "meterpreter.md",
     "Spaces/Temp/Pasted image 20241010155052.png",
     "Spaces/Temp/Pasted image 20241010155001.png",
     "Spaces/Temp/Pasted image 20241010154658.png",
@@ -188,10 +192,7 @@
     "Spaces/Temp/Pasted image 20241010153341.png",
     "Spaces/Temp/Pasted image 20241010153326.png",
     "Spaces/Temp/Pasted image 20241010153121.png",
-    "Spaces/Temp/Pasted image 20241010153110.png",
-    "Spaces/Temp/Pasted image 20241010153021.png",
     "SQL Injection.md",
-    "SQL_Injection.md",
     "dvwa.md",
     "웹 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -213,7 +214,6 @@
     "CTF_KIOPTRIX_Level_1.2.md",
     "windows 7 CTF.md",
     "XSS.md",
-    "Zap.md",
-    "git_team_add.md"
+    "Zap.md"
   ]
 }
