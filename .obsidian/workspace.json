@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43399e2a819d53fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL_Injection.md",
+                "file": "SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL_Injection.md",
+                "file": "SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL_Injection.md"
+                "file": "SQL Injection.md"
               }
             }
           }
@@ -165,8 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8bb71365e8a7871",
+  "active": "43399e2a819d53fe",
   "lastOpenFiles": [
+    "SQL_Injection.md",
+    "SQL Injection.md",
+    "dvwa.md",
+    "웹 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Temp/Pasted image 20241010144726.png",
     "Spaces/Temp/Pasted image 20241010144349.png",
     "Spaces/Temp/Pasted image 20241010144049.png",
     "Spaces/Temp/Pasted image 20241010143813.png",
@@ -176,10 +194,7 @@
     "Spaces/Temp/Pasted image 20241010142620.png",
     "Spaces/Temp/Pasted image 20241010142503.png",
     "Spaces/Temp/Pasted image 20241010142313.png",
-    "Spaces/Temp/Pasted image 20241010142253.png",
-    "Spaces/Temp/Pasted image 20241010142202.png",
     "A1-Injection.md",
-    "SQL_Injection.md",
     "SSI_Injection.md",
     "PHP_Injection.md",
     "OS_Command_Injection.md",
@@ -192,15 +207,11 @@
     "더블 인코딩.md",
     "Bee-Box.md",
     "bee-box setup.md",
-    "웹 보안.md",
     "HTTP Method.md",
     "HTTP Status Code.md",
-    "dvwa.md",
-    "Spaces/Home/Information_Security.md",
     "CTF_KIOPTRIX_Level_1.2.md",
     "windows 7 CTF.md",
     "XSS.md",
-    "SQL Injection.md",
     "Zap.md",
     "git_team_add.md"
   ]

