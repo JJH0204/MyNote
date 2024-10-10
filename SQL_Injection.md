@@ -45,4 +45,9 @@ medium
 # SQL Injection (GET/Select)
 ---
 ![[Pasted image 20241010144726.png]]
- 
+
+
+# SQL Injection (AJAX/JSON/jQuery)
+---
+AJAX: Asynchronous JavaScript and XML(비동기 자바스크립트 xml)
+![[Pasted image 20241010151347.png]]
