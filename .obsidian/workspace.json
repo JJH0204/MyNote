@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDAP.md",
+                "file": "OS_Command_Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDAP.md",
+                "file": "OS_Command_Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDAP.md",
+                "file": "OS_Command_Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDAP.md"
+                "file": "OS_Command_Injection.md"
               }
             }
           }
@@ -167,7 +167,13 @@
   },
   "active": "e8bb71365e8a7871",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241010124310.png",
+    "Spaces/Temp/Pasted image 20241010123910.png",
+    "Spaces/Temp/Pasted image 20241010123815.png",
+    "Spaces/Temp/Pasted image 20241010123749.png",
+    "Spaces/Temp/Pasted image 20241010123709.png",
     "A1-Injection.md",
+    "OS_Command_Injection.md",
     "LDAP.md",
     "iFrame Injection.md",
     "Spaces/Temp/Pasted image 20241010123253.png",
@@ -176,10 +182,6 @@
     "Spaces/Temp/Pasted image 20241010122600.png",
     "Spaces/Temp/Pasted image 20241010122347.png",
     "Spaces/Temp/Pasted image 20241010122331.png",
-    "Spaces/Temp/Pasted image 20241010121712.png",
-    "Spaces/Temp/Pasted image 20241010121659.png",
-    "Spaces/Temp/Pasted image 20241010121604.png",
-    "Spaces/Temp/Pasted image 20241010120625.png",
     "HTML Injection - Stored_Blog.md",
     "HTML Injection - Reflected_GET.md",
     "HTML Injection - Reflected_URL.md",
@@ -200,8 +202,6 @@
     "git_team_add.md",
     "Spaces/Home/GIT.md",
     "Insecure CAPTCHA.md",
-    "File_Upload.md",
-    "exiftool.md",
-    "Spaces/Desc/VS_Code Github 연동하기.md"
+    "File_Upload.md"
   ]
 }
