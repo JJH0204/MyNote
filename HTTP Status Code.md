@@ -66,22 +66,24 @@
 ## 4xx: Client Error(클라이언트 에러)
 ---
 - 없는 페이지를 요청하거나, 요청 내용이 잘못되었을 때 서버 응답
-- 400: Bad Request
+- **400**: Bad Request
 	- 잘못된 요청
-- 401: Unauthentication
+- **401**: Unauthentication
 	- 잘못된 인증/권한 없음
-- 402: Payment Required
+- **402**: Payment Required
 	- 결제 필요
 - 403: Forbidden
 	- 금지된 접근
-- 404: Not Found
+- **404**: Not Found
 	- 찾을 수 없음
 - 405: Method Not Allowed
 	- 허용되지 않은 메소드
-- 406: Proxy Authentication Required
+- 406: Not Acceptable
+	- 수용할 수 없는 요청
+- 407: Proxy Authentication Required
 	- 프록시 서버에 인증 필요
-- 407
-- 408
+- **408**: Request Time Out
+	- 응답 시간 초과
 - 409~417
 - 418~421: Unassigned
 - 422~429
@@ -91,3 +93,20 @@
 ---
 - 서버 자체에 에러로 인해 클라이언트에 전달하는 응답
   (과부화, DB 처리 과정에서 에러 등)
+- 500: Internal Server Error
+	- 내부 서버 오류
+- 501: Not Implemented
+	- 구현되지 않음
+- 502: Bad Gateway
+	- 불량 게이트웨이
+	- 게이트웨이/프록시에서 잘못된 정보를 받아 응답을 할 수 없는 경우
+- 503: Service Unavailable
+	- 서비스 제공 불가
+- 504: Gateway Time Out
+	- 게이트웨이 응답 시간 초과
+- 505: Http version Not Supported
+	- http 버전 미지원
+- 506: Unassigned
+- 507: Insuffcient Storage
+	- 용량 부족
+- 512~599: Unassigned
