@@ -10,3 +10,4 @@ html 코드의 삽입 취약점이 있는 것을 알 수 있음
 
 # Check
 ![[Pasted image 20241010105258.png]]
+![[Pasted image 20241010110315.png]]
