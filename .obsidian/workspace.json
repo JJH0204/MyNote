@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML Injection - Stored_Blog.md",
+                "file": "iFrame Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML Injection - Stored_Blog.md",
+                "file": "iFrame Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML Injection - Stored_Blog.md",
+                "file": "iFrame Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML Injection - Stored_Blog.md"
+                "file": "iFrame Injection.md"
               }
             }
           }
@@ -167,10 +167,13 @@
   },
   "active": "e8bb71365e8a7871",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20241010114345.png",
     "A1-Injection.md",
-    "HTML Injection - Reflected_GET.md",
+    "iFrame Injection.md",
     "HTML Injection - Stored_Blog.md",
+    "Spaces/Temp/Pasted image 20241010114713.png",
+    "Spaces/Temp/Pasted image 20241010114549.png",
+    "Spaces/Temp/Pasted image 20241010114345.png",
+    "HTML Injection - Reflected_GET.md",
     "Spaces/Temp/Pasted image 20241010114207.png",
     "Spaces/Temp/Pasted image 20241010114156.png",
     "Spaces/Temp/Pasted image 20241010113953.png",
@@ -180,10 +183,7 @@
     "Spaces/Temp/Pasted image 20241010113649.png",
     "Spaces/Temp/Pasted image 20241010113444.png",
     "Spaces/Temp/Pasted image 20241010113325.png",
-    "Spaces/Temp/Pasted image 20241010113246.png",
     "더블 인코딩.md",
-    "Spaces/Temp/Pasted image 20241010112604.png",
-    "Spaces/Temp/Pasted image 20241010112345.png",
     "Bee-Box.md",
     "bee-box setup.md",
     "웹 보안.md",
