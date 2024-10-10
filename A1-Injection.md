@@ -2,3 +2,5 @@
 ---
 # [[HTML Injection - Reflected_POST]]
 ---
+# [[HTML Injection - Reflected_URL]]
+---

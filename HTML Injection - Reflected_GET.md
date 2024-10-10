@@ -19,7 +19,7 @@ html 코드의 삽입 취약점이 있는 것을 알 수 있음
 ![[Pasted image 20241010110909.png]]
 <: gt
 \>: lt
-[아스크코드](https://www.ascii-code.com/)로 인코딩해 입력하면 될 것 같다.
+[아스크코드](https://www.ascii-code.com/)로 인코딩해 입력하면 될 것 같다. = [[URL 인코딩]]
 ![[Pasted image 20241010111637.png]]
 ![[Pasted image 20241010111441.png]]
 ```
