@@ -4,3 +4,5 @@
 ---
 # [[HTML Injection - Reflected_URL]]
 ---
+# [[HTML Injection - Stored_Blog]]
+---
