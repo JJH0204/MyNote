@@ -3,7 +3,7 @@
 - 요청에 대한 서버의 상태를 응답하는데 이때 응답하는 내용을 **Status Code**라고 한다.
 - 요청 매소드: GET, POST
 
-https://hongong.hanbit.co.kr/http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C-%ED%91%9C-1xx-5xx-%EC%A0%84%EC%B2%B4-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC/
+[자료링크](https://hongong.hanbit.co.kr/http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C-%ED%91%9C-1xx-5xx-%EC%A0%84%EC%B2%B4-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC/)
 ## 1xx: Information(정보 제공)
 ---
 - 요청에 필요한 정보 제공
@@ -54,12 +54,40 @@ https://hongong.hanbit.co.kr/http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C-%ED%91%9
 - 304: Not Modified
 	- 수정되지 않음
 	- 클라이언트가 서버에 요청한 웹 페이지가 요청 이후 수정되지 않음을 의미
-- 305:
-- 306:
-- 307:
-- 308~399:
-4xx: Client Error(클라이언트 에러)
+- 305: Use Proxy
+	- 프록시 사용
+	- 클라이언트의 요청에 응답에 특정 콘텐츠가 프록시 서버에서 데이터를 가져와야 할 경우
+- 306: Unused
+	- 이전 버전에서 사용
+- 307: Temporary Redirect
+	- 임시 리다이렉션
+	- 영구적이지 않은 경로 이동
+- 308~399: Unassigned
+## 4xx: Client Error(클라이언트 에러)
+---
 - 없는 페이지를 요청하거나, 요청 내용이 잘못되었을 때 서버 응답
-5xx: Server Error(서버 에러)
+- 400: Bad Request
+	- 잘못된 요청
+- 401: Unauthentication
+	- 잘못된 인증/권한 없음
+- 402: Payment Required
+	- 결제 필요
+- 403: Forbidden
+	- 금지된 접근
+- 404: Not Found
+	- 찾을 수 없음
+- 405: Method Not Allowed
+	- 허용되지 않은 메소드
+- 406: Proxy Authentication Required
+	- 프록시 서버에 인증 필요
+- 407
+- 408
+- 409~417
+- 418~421: Unassigned
+- 422~429
+- 431, 444, 451
+- 452~499: Unassigned
+## 5xx: Server Error(서버 에러)
+---
 - 서버 자체에 에러로 인해 클라이언트에 전달하는 응답
   (과부화, DB 처리 과정에서 에러 등)
