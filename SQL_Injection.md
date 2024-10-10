@@ -72,3 +72,14 @@ AJAX: Asynchronous JavaScript and XML(비동기 자바스크립트 xml)
 
 # SQL Injection (Login Form/User)
 ---
+
+# SQL Injection (SQLite)
+---
+![[Pasted image 20241010152538.png]]
+![[Pasted image 20241010152640.png]]![[Pasted image 20241010152655.png]]
+![[Pasted image 20241010153021.png]]
+딱히 보여주는 정보는 없다.
+
+![[Pasted image 20241010153121.png]]
+![[Pasted image 20241010153110.png]]![[Pasted image 20241010153341.png]]
+![[Pasted image 20241010153326.png]]
