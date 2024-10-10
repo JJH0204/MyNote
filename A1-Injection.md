@@ -18,3 +18,5 @@
 ---
 # [[SQL_Injection]]
 ---
+# [[XML/XPath Injection]]
+---

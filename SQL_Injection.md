@@ -97,3 +97,11 @@ AJAX: Asynchronous JavaScript and XML(비동기 자바스크립트 xml)
 ## Self
 
 
+# SQL Injection - Stored (User-Agent)
+---
+![[Pasted image 20241010162459.png]]
+다운로드시 proxy tool로 주고 받는 파라미터에 sql 인젝션 시도
+
+# SQL Injection - Stored (XML)
+---
+![[Pasted image 20241010162628.png]]

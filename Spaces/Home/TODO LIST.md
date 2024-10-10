@@ -29,3 +29,6 @@ sticker: lucide//check-check
 - [ ] 취약점 점검 자동화 프로그램 v2 개발(시스템최적화)
 - [x] CTF_TechSupport 해결 ✅ 2024-10-07
 - [ ] 일주일에 2~3개 ctf 풀이
+- [ ] 써니카타 워게임 모두 풀어보기
+- [ ] Bee-Box 취약점 정리(A1)
+- [ ] 
