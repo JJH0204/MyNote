@@ -1,7 +1,6 @@
 - 클라이언트와 서버 간의 무수한 패킷 송/수신을 통해 하나의 웹 페이지가 화면에 표시된다.
 - 요청과 응답으로 구성된다.
 - 요청에 대한 서버의 상태를 응답하는데 이때 응답하는 내용을 **Status Code**라고 한다.
-- 요청 매소드: GET, POST
 
 [자료링크](https://hongong.hanbit.co.kr/http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C-%ED%91%9C-1xx-5xx-%EC%A0%84%EC%B2%B4-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC/)
 ## 1xx: Information(정보 제공)
@@ -110,3 +109,4 @@
 - 507: Insuffcient Storage
 	- 용량 부족
 - 512~599: Unassigned
+
