@@ -67,7 +67,7 @@ Mac: Github Desktop>Preferences
 
 # Git Bash
 ---
-![[{2EA156A4-74B1-4601-810F-00F2E63A86F4}.png]]
+![]({2EA156A4-74B1-4601-810F-00F2E63A86F4}.png)
 - Git을 사용하는 전통적인 방법으로 CMD 창에서 사용하는 명령어는 Git Bash 명령어입니다.
 
 ## Git 명령어
