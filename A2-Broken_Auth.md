@@ -128,4 +128,17 @@ medium
 # Cookies
 ---
 [[cookie]]
+![[Pasted image 20241011112303.png]]
+![[Pasted image 20241011112248.png]]
+![[Pasted image 20241011112338.png]]
+![[Pasted image 20241011112533.png]]
+
+(좌)일반 계정 (우)관리자 계정 접속
+![[Pasted image 20241011112844.png]]![[Pasted image 20241011112913.png]]
+![[Pasted image 20241011113008.png]]
+관리자 세션의 쿠키로 변경
+
+- 일반 계정이 없어서 발생한 에러
+![[Pasted image 20241011113026.png]]
+- 일반 계정이 있다면 관리자로 로그인이 가능할 것이다.
 
