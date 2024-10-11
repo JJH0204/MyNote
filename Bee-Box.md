@@ -7,3 +7,4 @@
 2017년도[[OWASP]]top 10의 기준에 따라 순서대로 점검이 가능하도록 열거됨
 
 # [[A1-Injection]]
+# [[A2-Broken_Auth]]
