@@ -21,4 +21,19 @@ Windows: File>Accounts
 Mac: Github Desktop>Preferences
 - Git 계정으로 로그인 합니다.
 
+### Create a New Repository...
+- 보유한 깃 레포지토리가 없다면 생성하여 깃 로컬 저장소를 만들 수 있습니다.
+- 여기서 생성한 깃 레포지토리는 자동으로 github에도 생성됩니다.
 
+### Clone a Repository...
+- 보유한 깃 리포지토리가 있거나 불러올 리포지토리가 있을 경우 로컬 저장소와 깃 허브 저장소를 동기화 할 수 있습니다.
+
+### Add an Existing Repository...
+- 이미 깃 허브 저장소와 로컬 저장소의 동기화가 완료된 폴더(디렉터리)를 Git Desktop에 등록해 저장소 관리를 편하게 할 수 있습니다.
+
+## Git Desktop tool
+### Current repository
+![]({D6BA75C7-B1A0-4F0A-9D53-A9602FB6C555}.png)
+- 현재 Desktop에서 관리되는 리포지토리 리스트를 확인할 수 있습니다.
+![]({1868DD3A-25D8-48B2-B911-72113AFA2C68}.png)
+- 우 클릭 시 
