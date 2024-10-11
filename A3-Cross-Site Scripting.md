@@ -33,3 +33,8 @@ medium
 ---
 ![[Pasted image 20241011115023.png]]
 ![[Pasted image 20241011120214.png]]
+```
+Referer: http://192.168.56.122/bWAPP/xss_back_button.php
+```
+- 뒤로가기로 넘어가는 사이트
+![[Pasted image 20241011120402.png]]
