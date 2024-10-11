@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Suni",
+                "query": "Cookie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,19 +180,19 @@
   },
   "active": "4086df546485f677",
   "lastOpenFiles": [
+    "cookie.md",
+    "A2-Broken_Auth.md",
+    "Spaces/Temp/Pasted image 20241011111852.png",
+    "Spaces/Temp/Pasted image 20241011111829.png",
+    "Spaces/Temp/Pasted image 20241011111733.png",
+    "Spaces/Temp/Pasted image 20241011111715.png",
+    "Spaces/Temp/Pasted image 20241011111648.png",
+    "Spaces/Temp/Pasted image 20241011111640.png",
     "Spaces/Temp/Pasted image 20241011105014.png",
     "Spaces/Temp/Pasted image 20241011104750.png",
     "Spaces/Temp/Pasted image 20241011104608.png",
     "Spaces/Temp/Pasted image 20241011103042.png",
-    "Spaces/Temp/Pasted image 20241011102845.png",
-    "Spaces/Temp/Pasted image 20241011102750.png",
-    "Spaces/Temp/Pasted image 20241011102659.png",
-    "Spaces/Temp/Pasted image 20241011102626.png",
-    "Spaces/Temp/Pasted image 20241011102449.png",
-    "Spaces/Temp/Pasted image 20241011102356.png",
-    "Spaces/Temp/Pasted image 20241011102325.png",
     "Bee-Box.md",
-    "A2-Broken_Auth.md",
     "웹 보안.md",
     "Spaces/Home/Information_Security.md",
     "suninatas.md",

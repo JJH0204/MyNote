@@ -111,3 +111,21 @@ medium 이상에서는 함수로 세션을 처리하는 것 같다.
 # Weak Passwords
 ---
 ![[Pasted image 20241011105014.png]]
+
+# Administrative Portals
+---
+![[Pasted image 20241011111640.png]]![[Pasted image 20241011111648.png]]
+```
+http://192.168.56.122/bWAPP/smgmt_admin_portal.php?admin=1
+```
+![[Pasted image 20241011111715.png]]
+
+medium
+![[Pasted image 20241011111733.png]]
+![[Pasted image 20241011111829.png]]
+![[Pasted image 20241011111852.png]]
+
+# Cookies
+---
+[[cookie]]
+
