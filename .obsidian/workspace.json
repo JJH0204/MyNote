@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote-SSH.md",
+                "file": "How2UseGit.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote-SSH.md",
+                "file": "How2UseGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote-SSH.md",
+                "file": "How2UseGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote-SSH.md"
+                "file": "How2UseGit.md"
               }
             }
           }
@@ -166,10 +166,10 @@
   },
   "active": "77edcd80a024be23",
   "lastOpenFiles": [
-    "Spaces/Home/VScode.md",
-    "Remote-SSH.md",
-    "Spaces/Desc/vscode for mac.md",
     "Spaces/Home/GIT.md",
+    "Remote-SSH.md",
+    "Spaces/Home/VScode.md",
+    "Spaces/Desc/vscode for mac.md",
     "How2UseGit.md",
     "Spaces/Temp/{54C2A394-A6B1-4E50-BE45-8C7D92CBBC2F}.png",
     "Spaces/Temp/{2EA156A4-74B1-4601-810F-00F2E63A86F4}.png",
