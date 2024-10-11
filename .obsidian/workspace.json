@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A3-Cross-Site Scripting.md",
+                "file": "A4-Insecure_DOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A3-Cross-Site Scripting.md",
+                "file": "A4-Insecure_DOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A3-Cross-Site Scripting.md",
+                "file": "A4-Insecure_DOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A3-Cross-Site Scripting.md"
+                "file": "A4-Insecure_DOR.md"
               }
             }
           }
@@ -180,20 +180,21 @@
   },
   "active": "4086df546485f677",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241011140527.png",
+    "Spaces/Temp/Pasted image 20241011140445.png",
+    "Spaces/Temp/Pasted image 20241011140411.png",
+    "Bee-Box.md",
+    "A4-Insecure_DOR.md",
+    "A3-Cross-Site Scripting.md",
     "Spaces/Temp/Pasted image 20241011123950.png",
     "Spaces/Temp/Pasted image 20241011123815.png",
     "Spaces/Temp/Pasted image 20241011123757.png",
     "PHP_SELF.md",
-    "A3-Cross-Site Scripting.md",
     "Spaces/Temp/Pasted image 20241011123549.png",
     "Spaces/Temp/Pasted image 20241011123243.png",
     "Spaces/Temp/Pasted image 20241011123055.png",
     "Spaces/Temp/Pasted image 20241011122948.png",
     "Spaces/Temp/Pasted image 20241011122935.png",
-    "Spaces/Temp/Pasted image 20241011122900.png",
-    "Spaces/Temp/Pasted image 20241011122842.png",
-    "Spaces/Temp/Pasted image 20241011122540.png",
-    "Bee-Box.md",
     "A2-Broken_Auth.md",
     "cookie.md",
     "웹 보안.md",
@@ -217,7 +218,6 @@
     "XML/Spaces/Temp",
     "XML/Spaces",
     "A1-Injection.md",
-    "XML",
-    "meterpreter.md"
+    "XML"
   ]
 }

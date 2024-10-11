@@ -10,3 +10,5 @@ https://blog.naver.com/emmaeunji/221761093736
 # [[A1-Injection]]
 # [[A2-Broken_Auth]]
 # [[A3-Cross-Site Scripting]]
+# [[A4-Insecure_DOR]]
+
