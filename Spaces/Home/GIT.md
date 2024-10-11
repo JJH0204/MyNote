@@ -12,4 +12,5 @@ sticker: lucide//github
 - [[git_commant_add]]
 - [[git_team_add]]
 - [[git_web]]
+- [GIT 간단 사용법](How2UseGit.md)
 - 

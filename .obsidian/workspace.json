@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4086df546485f677",
+            "id": "77edcd80a024be23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bee-Box.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6abad19f95670b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "suninatas.md",
+                "file": "How2UseGit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bee-Box.md",
+                "file": "How2UseGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bee-Box.md",
+                "file": "How2UseGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bee-Box.md"
+                "file": "How2UseGit.md"
               }
             }
           }
@@ -178,8 +165,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4086df546485f677",
+  "active": "77edcd80a024be23",
   "lastOpenFiles": [
+    "Spaces/Temp/{D8C29681-9E20-444D-8120-ECFE3BCBA65F}.png",
+    "Spaces/Home/GIT.md",
+    "How2UseGit.md",
+    "git_commant_add.md",
+    "suninatas.md",
+    "Bee-Box.md",
     "A4-Insecure_DOR.md",
     "Spaces/Temp/Pasted image 20241011141816.png",
     "Spaces/Temp/Pasted image 20241011141713.png",
@@ -189,10 +182,8 @@
     "Spaces/Temp/Pasted image 20241011141319.png",
     "Spaces/Temp/Pasted image 20241011141156.png",
     "Spaces/Temp/Pasted image 20241011141119.png",
-    "suninatas.md",
     "Spaces/Temp/Pasted image 20241011140730.png",
     "Spaces/Temp/Pasted image 20241011140527.png",
-    "Bee-Box.md",
     "A3-Cross-Site Scripting.md",
     "PHP_SELF.md",
     "A2-Broken_Auth.md",
@@ -212,11 +203,8 @@
     "앱 보안.md",
     "HTTP Method.md",
     "SQL Injection.md",
-    "Spaces/Home/TODO LIST.md",
-    "XML/XPath Injection.md",
     "XML/Spaces/Temp",
     "XML/Spaces",
-    "A1-Injection.md",
     "XML"
   ]
 }
