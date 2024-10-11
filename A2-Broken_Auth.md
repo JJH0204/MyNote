@@ -89,4 +89,16 @@ medium 이상에서는 함수로 세션을 처리하는 것 같다.
 # Password Attacks
 ---
 1) 브루트 포스 패스워드 공격으로 확인 가능
-2) 
+2) 또 다른 방법
+![[Pasted image 20241011102206.png]]
+![[Pasted image 20241011102309.png]]
+![[Pasted image 20241011102325.png]]
+![[Pasted image 20241011102449.png]]
+- 비밀번호를 어렵게 만들어야 하는 이유
+- 조합이 다양해 질 수록 경우의 수가 기하급수적으로 상승한다.
+- 테스트를 위해 값을 수정
+![[Pasted image 20241011102626.png]]
+![[Pasted image 20241011102659.png]]
+![[Pasted image 20241011102750.png]]![[Pasted image 20241011102845.png]]
+- Sucessfull login! 과 같은 결과가 나올때까지 진행
+![[Pasted image 20241011103042.png]]
