@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A4-Insecure_DOR.md",
+                "file": "Bee-Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4-Insecure_DOR.md",
+                "file": "Bee-Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A4-Insecure_DOR.md",
+                "file": "Bee-Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A4-Insecure_DOR.md"
+                "file": "Bee-Box.md"
               }
             }
           }
@@ -180,21 +180,20 @@
   },
   "active": "4086df546485f677",
   "lastOpenFiles": [
+    "A4-Insecure_DOR.md",
+    "Spaces/Temp/Pasted image 20241011141816.png",
+    "Spaces/Temp/Pasted image 20241011141713.png",
+    "Spaces/Temp/Pasted image 20241011141630.png",
     "Spaces/Temp/Pasted image 20241011141544.png",
     "Spaces/Temp/Pasted image 20241011141410.png",
     "Spaces/Temp/Pasted image 20241011141319.png",
     "Spaces/Temp/Pasted image 20241011141156.png",
     "Spaces/Temp/Pasted image 20241011141119.png",
     "suninatas.md",
-    "A4-Insecure_DOR.md",
     "Spaces/Temp/Pasted image 20241011140730.png",
     "Spaces/Temp/Pasted image 20241011140527.png",
-    "Spaces/Temp/Pasted image 20241011140445.png",
-    "Spaces/Temp/Pasted image 20241011140411.png",
     "Bee-Box.md",
     "A3-Cross-Site Scripting.md",
-    "Spaces/Temp/Pasted image 20241011123950.png",
-    "Spaces/Temp/Pasted image 20241011123815.png",
     "PHP_SELF.md",
     "A2-Broken_Auth.md",
     "cookie.md",

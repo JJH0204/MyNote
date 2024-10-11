@@ -23,3 +23,10 @@ send 값에 bee 값이 상수로 설정되어 있어 이 값을 변경하면 원
 # Order Tickets
 ---
 ![[Pasted image 20241011141544.png]]
+![[Pasted image 20241011141630.png]]
+
+![[Pasted image 20241011141713.png]]
+히든 태그를 발견 value를 변경하면 가격을 조정하여 싼 값에 티켓을 살 수 있다
+![[Pasted image 20241011141816.png]]
+버퍼에서 가격과 구입 수량을 조정할 수도 있다.
+
