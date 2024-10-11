@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How2UseGit.md",
+                "file": "Remote-SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How2UseGit.md",
+                "file": "Remote-SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How2UseGit.md",
+                "file": "Remote-SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How2UseGit.md"
+                "file": "Remote-SSH.md"
               }
             }
           }
@@ -167,6 +166,11 @@
   },
   "active": "77edcd80a024be23",
   "lastOpenFiles": [
+    "Spaces/Home/VScode.md",
+    "Remote-SSH.md",
+    "Spaces/Desc/vscode for mac.md",
+    "Spaces/Home/GIT.md",
+    "How2UseGit.md",
     "Spaces/Temp/{54C2A394-A6B1-4E50-BE45-8C7D92CBBC2F}.png",
     "Spaces/Temp/{2EA156A4-74B1-4601-810F-00F2E63A86F4}.png",
     "Spaces/Temp/{305F31F2-FFFD-4EEF-92FF-3C56C4271CE9}.png",
@@ -177,9 +181,6 @@
     "Spaces/Temp/{CC68BBB3-D082-41E6-B73E-3F8DF6B17719}.png",
     "Spaces/Temp/{869F4B00-1CEE-42E2-AEC0-BB5BA4553DB4}.png",
     "Spaces/Temp/{02484323-70B4-40EA-B800-F3FF86496E79}.png",
-    "Spaces/Temp/{5B30E5ED-0D18-44B6-8AB2-8D598F2F14CB}.png",
-    "Spaces/Home/GIT.md",
-    "How2UseGit.md",
     "git_commant_add.md",
     "suninatas.md",
     "Bee-Box.md",
@@ -201,8 +202,6 @@
     "시스템 보안.md",
     "Spaces/Desc/CTF.md",
     "앱 보안.md",
-    "HTTP Method.md",
-    "SQL Injection.md",
     "XML/Spaces/Temp",
     "XML/Spaces",
     "XML"
