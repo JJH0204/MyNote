@@ -80,7 +80,55 @@ Mac: Github Desktop>Preferences
 git clone <리포지토리 링크>
 ```
 - `<>`는 값을 대입할 때 생략합니다.
-- 클론을 원하는 리포지토리의 UR
+- 클론을 원하는 리포지토리의 URL 경로가 필요합니다.
+- 브라우저 또는 깃 저장소에서 Code 버튼을 눌러 확인할 수 있습니다.
+![]({54C2A394-A6B1-4E50-BE45-8C7D92CBBC2F}.png)
+
+```
+git clone https://github.com/JJH0204/MyNote.git
+```
 ### add
+
+```
+git add <커밋할 변경사항>
+```
+- 변경 사항을 커밋하기 전 커밋 리스트에 저장하는 명령어입니다.
+- 커밋할 변경사항에 . 을 넣으면 변경 사항 모두 리스트에 등록됩니다.
+
+```
+git add .
+```
+- 주의 할 점은 git clone 과 git add . 를 동시에 사용할 때 입니다.
+- git clone을 제외한 지금부터 소개하는 명령어는 리포지토리 디렉터리에서 실행해야 합니다.
+
+```
+cd /github
+git clone https://github.com/JJH0204/MyNote.git
+
+cd /github/MyNote/
+git add .
+git commit -m "asdfasdf"
+```
 ### commit -m
+```
+git commit -m "커밋 메시지"
+```
+- 변경 사항 커밋 시 표시되는 메시지 입니다.
+- 협업에서는 규칙을 갖고 메시지를 작성합니다.
+- 대부분의 팀에서 아래와 같이 메시지를 작성합니다.
+
+```
+[날짜][시간]_[작업내용]_[작업자]
+241011_BuildTest_Jaeho
+```
 ### push
+
+```
+git push
+```
+- push 단독으로 사용하는 명령어입니다.
+- 커밋 메시지가 등록된, 커밋 리스트의 모든 변경 사항을 지정된 브랜치에 적용합니다.
+- 브랜치 관련 수정이 없다면 기본은 main입니다.
+  (버전 관리/프로세스에 따라서 여려 브랜치가 만들어질 수 있습니다. 팀바팀)
+
+그 외 git 관련 사용법은 GPT나 블로그 
