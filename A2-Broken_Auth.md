@@ -38,3 +38,4 @@ medium
 
 medium
 ![[Pasted image 20241011094517.png]]
+![[Pasted image 20241011095159.png]]
