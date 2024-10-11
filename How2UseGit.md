@@ -62,4 +62,25 @@ Mac: Github Desktop>Preferences
 - commit의 대상의 수정 사항을 확인할 수 있습니다.
 
 ## 정리
-- git Desktop은 깃 사용 숙련도가 부족할 
+- git Desktop은 깃 사용 숙련도가 부족할 때 사용하기 좋은 툴입니다.
+- 다만, Windows/mac 에서만 지원한다는 점에서 Git 명령어를 몰라도 되는 것은 아닙니다.
+
+# Git Bash
+---
+![[{2EA156A4-74B1-4601-810F-00F2E63A86F4}.png]]
+- Git을 사용하는 전통적인 방법으로 CMD 창에서 사용하는 명령어는 Git Bash 명령어입니다.
+
+## Git 명령어
+- 대부분의 깃 명령어 사용법은 잘 정리된 블로그 포스트가 많습니다.
+- 그것을 참고하는 것이 더 도움이 될 것 같습니다.
+- [링크](https://velog.io/@delilah/GitHub-Git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C)
+- 가장 자주 사용하게 될 명령어는 아래에 정리해 놓겠습니다.
+### clone
+```
+git clone <리포지토리 링크>
+```
+- `<>`는 값을 대입할 때 생략합니다.
+- 클론을 원하는 리포지토리의 UR
+### add
+### commit -m
+### push
