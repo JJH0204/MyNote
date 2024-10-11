@@ -63,6 +63,24 @@ Referer: http://192.168.56.122/bWAPP/xss_back_button.php
 </a><script>alert(document.cookie)</script><a>
 ```
 로 입력을 수정하면 원하는 결과가 나올 것 같다.
+![[Pasted image 20241011123243.png]]
+정답
 
-# Reflected (PHP_SELF)
+
+# Reflected (Login Form)
 ---
+
+# phpMyAdmin BBCode Tag XSS
+---
+
+
+# Reflected ([[PHP_SELF]])
+---
+![[Pasted image 20241011123549.png]]
+
+![[Pasted image 20241011123757.png]]
+
+![[Pasted image 20241011123815.png]]
+
+![[Pasted image 20241011123950.png]]
+
