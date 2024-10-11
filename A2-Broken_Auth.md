@@ -125,7 +125,7 @@ medium
 ![[Pasted image 20241011111829.png]]
 ![[Pasted image 20241011111852.png]]
 
-# Cookies
+# Cookies (session 하이제킹)
 ---
 [[cookie]]
 ![[Pasted image 20241011112303.png]]
@@ -142,3 +142,12 @@ medium
 ![[Pasted image 20241011113026.png]]
 - 일반 계정이 있다면 관리자로 로그인이 가능할 것이다.
 
+## https
+http와 같다
+
+# Session ID in URL
+---
+
+# Strong Sessions
+---
+![[Pasted image 20241011113842.png]]

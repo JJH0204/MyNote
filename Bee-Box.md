@@ -1,4 +1,5 @@
 # [[bee-box setup]]
+https://blog.naver.com/emmaeunji/221761093736
 
 # start
 ![[Pasted image 20241010103420.png]]![[Pasted image 20241010103552.png]]
@@ -8,3 +9,4 @@
 
 # [[A1-Injection]]
 # [[A2-Broken_Auth]]
+# [[A3-Cross-Site Scripting]]
