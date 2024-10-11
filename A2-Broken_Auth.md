@@ -32,3 +32,9 @@ medium
 ![[Pasted image 20241011093744.png]]![[Pasted image 20241011093753.png]]
 ![[Pasted image 20241011093929.png]]
 ![[Pasted image 20241011094002.png]]
+![[Pasted image 20241011094207.png]]
+![[Pasted image 20241011094411.png]]
+![[Pasted image 20241011094423.png]]
+
+medium
+![[Pasted image 20241011094517.png]]
