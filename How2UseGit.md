@@ -54,4 +54,10 @@ Mac: Github Desktop>Preferences
 ![]({97BDF22A-FE19-45AC-A2FA-5AC27D634846}.png)
 - 수정 사항 로그를 볼 수 있습니다.
 - 수정 사항을 취소하거나 적용할 수 있습니다.
-### Commit
+### Commit & History
+![]({2F9319A8-8562-4688-B0DA-284CD6A8CA55}.png)
+- 커밋 메시지를 작성하고 Commit을 누르면 Commit이 진행됩니다.
+
+![]({305F31F2-FFFD-4EEF-92FF-3C56C4271CE9}.png)
+- commit의 대상의 수정 사항을 확인할 수 있습니다.
+
