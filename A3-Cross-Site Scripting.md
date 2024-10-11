@@ -38,3 +38,11 @@ Referer: http://192.168.56.122/bWAPP/xss_back_button.php
 ```
 - 뒤로가기로 넘어가는 사이트
 ![[Pasted image 20241011120402.png]]
+
+# Reflected (Custom Header)
+---
+![[Pasted image 20241011121950.png]]
+![[Pasted image 20241011121909.png]]
+![[Pasted image 20241011122210.png]]
+# Reflected (PHP_SELF)
+---
