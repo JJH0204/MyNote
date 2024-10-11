@@ -44,5 +44,25 @@ Referer: http://192.168.56.122/bWAPP/xss_back_button.php
 ![[Pasted image 20241011121950.png]]
 ![[Pasted image 20241011121909.png]]
 ![[Pasted image 20241011122210.png]]
+
+# Reflected (Eval)
+---
+![[Pasted image 20241011122416.png]]
+![[Pasted image 20241011122507.png]]
+![[Pasted image 20241011122533.png]]![[Pasted image 20241011122540.png]]
+
+# Reflected (HREF)
+---
+![[Pasted image 20241011122842.png]]
+![[Pasted image 20241011122900.png]]
+![[Pasted image 20241011122935.png]]
+![[Pasted image 20241011122948.png]]
+- 원하는 동작은 아니지만 비정상적으로 움직임다.
+![[Pasted image 20241011123055.png]]
+```
+</a><script>alert(document.cookie)</script><a>
+```
+로 입력을 수정하면 원하는 결과가 나올 것 같다.
+
 # Reflected (PHP_SELF)
 ---
