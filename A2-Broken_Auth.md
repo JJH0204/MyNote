@@ -20,4 +20,15 @@
 
 ![[Pasted image 20241011092834.png]]![[Pasted image 20241011092917.png]]![[Pasted image 20241011092948.png]]![[Pasted image 20241011093003.png]]
 - 이메일을 안다면 시크릿 메시지를 알 수 있다. > 비밀번호를 알 수 있다.
-- 
+
+![[Pasted image 20241011093243.png]]![[Pasted image 20241011093254.png]]
+
+medium
+![[Pasted image 20241011093539.png]]
+
+
+# Insecure Login Forms
+---
+![[Pasted image 20241011093744.png]]![[Pasted image 20241011093753.png]]
+![[Pasted image 20241011093929.png]]
+![[Pasted image 20241011094002.png]]
