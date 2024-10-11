@@ -100,5 +100,14 @@ medium 이상에서는 함수로 세션을 처리하는 것 같다.
 ![[Pasted image 20241011102626.png]]
 ![[Pasted image 20241011102659.png]]
 ![[Pasted image 20241011102750.png]]![[Pasted image 20241011102845.png]]
-- Sucessfull login! 과 같은 결과가 나올때까지 진행
+- Successfull login! 과 같은 결과가 나올때까지 진행
 ![[Pasted image 20241011103042.png]]
+![[Pasted image 20241011104608.png]]
+- Successfull login!에 1이 표시되어야 하는데 철자를 잘못 입력해서 뜨지 않았다.
+- 하지만 찾긴했다.
+![[Pasted image 20241011104750.png]]
+값을 넣고 포워드 하면 로그인에 성공한다.
+
+# Weak Passwords
+---
+![[Pasted image 20241011105014.png]]
