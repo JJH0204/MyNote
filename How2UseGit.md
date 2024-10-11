@@ -61,3 +61,5 @@ Mac: Github Desktop>Preferences
 ![]({305F31F2-FFFD-4EEF-92FF-3C56C4271CE9}.png)
 - commit의 대상의 수정 사항을 확인할 수 있습니다.
 
+## 정리
+- git Desktop은 깃 사용 숙련도가 부족할 
