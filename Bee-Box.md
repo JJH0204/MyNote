@@ -14,5 +14,6 @@ https://blog.naver.com/emmaeunji/221761093736
 
 
 # [[A8-CSRF]]
+# [[A9-UsingKnownVulnerableComponents]]
 
 

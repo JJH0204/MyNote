@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A8-CSRF.md",
+                "file": "CGI.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A8-CSRF.md",
+                "file": "CGI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A8-CSRF.md",
+                "file": "CGI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A8-CSRF.md"
+                "file": "CGI.md"
               }
             }
           }
@@ -166,10 +167,17 @@
   },
   "active": "e710529a9caef40e",
   "lastOpenFiles": [
-    "Spaces/Temp/Pasted image 20241015092226.png",
-    "Spaces/Temp/Pasted image 20241015092216.png",
+    "A9-UsingKnownVulnerableComponents.md",
+    "CGI.md",
+    "Spaces/Temp/Pasted image 20241015093208.png",
+    "Spaces/Temp/Pasted image 20241015093058.png",
+    "Spaces/Temp/Pasted image 20241015092750.png",
+    "Spaces/Temp/Pasted image 20241015092656.png",
+    "Spaces/Temp/Pasted image 20241015092508.png",
     "Bee-Box.md",
     "A8-CSRF.md",
+    "Spaces/Temp/Pasted image 20241015092226.png",
+    "Spaces/Temp/Pasted image 20241015092216.png",
     "A3-Cross-Site Scripting.md",
     "웹 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -177,16 +185,10 @@
     "Spaces/Temp/{448CACA2-74E8-49A9-8FDA-C2D2289887BB}.png",
     "Spaces/Temp/{2D601279-E62E-42EE-A9CB-11293376C2A3}.png",
     "Spaces/Temp/{2825A136-0C48-4490-9459-EA5FC8AC6E1D}.png",
-    "Spaces/Temp/{56914ED6-8BDD-4091-BEB2-456BE7E9D12D}.png",
-    "Spaces/Temp/{3930F89C-AD41-40E0-AF62-098203B5D4DB}.png",
-    "Spaces/Temp/{03B9BD57-E177-4D99-87B1-B61D6FBFA29C}.png",
-    "Spaces/Temp/{A2F45945-98D9-4EF3-BAE8-F8A7EF47847B}.png",
     "Spaces/Home/VScode.md",
     "How2UseGit.md",
     "Spaces/Home/GIT.md",
     "Spaces/Desc/vscode for mac.md",
-    "Spaces/Temp/{54C2A394-A6B1-4E50-BE45-8C7D92CBBC2F}.png",
-    "Spaces/Temp/{2EA156A4-74B1-4601-810F-00F2E63A86F4}.png",
     "git_commant_add.md",
     "suninatas.md",
     "A4-Insecure_DOR.md",
@@ -201,7 +203,6 @@
     "Brute Force Attack.md",
     "Command_Injection.md",
     "SQL_Injection.md",
-    "시스템 보안.md",
     "XML/Spaces/Temp",
     "XML/Spaces",
     "XML"
