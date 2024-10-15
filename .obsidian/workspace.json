@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAF.md",
+                "file": "DataBase 보안.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAF.md",
+                "file": "DataBase 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAF.md",
+                "file": "DataBase 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAF.md"
+                "file": "DataBase 보안.md"
               }
             }
           }
@@ -167,20 +167,20 @@
   },
   "active": "e710529a9caef40e",
   "lastOpenFiles": [
+    "앱 보안.md",
+    "DataBase 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "WAF.md",
+    "Spaces/Temp/Pasted image 20241015153502.png",
+    "Spaces/Temp/Pasted image 20241015153434.png",
     "Spaces/Temp/Pasted image 20241015153226.png",
     "Spaces/Temp/Pasted image 20241015153113.png",
     "Spaces/Temp/Pasted image 20241015152956.png",
     "Spaces/Temp/Pasted image 20241015152951.png",
-    "WAF.md",
     "Spaces/Temp/Pasted image 20241015152717.png",
     "Spaces/Temp/Pasted image 20241015152650.png",
     "Spaces/Temp/Pasted image 20241015152625.png",
     "Spaces/Temp/Pasted image 20241015152539.png",
-    "Spaces/Temp/Pasted image 20241015144641.png",
-    "Spaces/Temp/Pasted image 20241015144534.png",
-    "Spaces/Temp/Pasted image 20241015143818.png",
-    "앱 보안.md",
-    "Spaces/Home/Information_Security.md",
     "웹 보안.md",
     "모의해킹 결과 보고서.md",
     "Spaces/Home/TODO LIST.md",

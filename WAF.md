@@ -88,3 +88,18 @@ SecRule ARGS "<[Ss][Cc][Rr][Ii][Pp][Tt]>" "id:'500003'" # XSS 공격 탐지
 ![[Pasted image 20241015153226.png]]
 - 아직 별 내용이 없다.
 
+# CRS 설정
+## 설치
+```
+dnf install -y mod_security_crs
+```
+![[Pasted image 20241015153434.png]]
+## 설치 경로
+![[Pasted image 20241015153502.png]]
+```
+/usr/share/mod_modsecurity_crs/rules
+```
+## Rule 확인 (wordpress)
+```
+vi ./REQUEST-903.9002-WORDPRESS-EXCLUSION-RULES.conf
+```
