@@ -64,3 +64,27 @@ SecRule REQUEST_URI "/etc/passwd" "id:'500001'"
 SecRule REQUEST_URI "../../" "id:'500002'"
 SecRule ARGS "<[Ss][Cc][Rr][Ii][Pp][Tt]>" "id:'500003'" # XSS 공격 탐지
 ```
+- 차단/탐지 하고 싶은 내용 작성
+
+# 테스트
+## 웹 서버 접속
+![[Pasted image 20241015152539.png]]
+## /etc/passwd
+![[Pasted image 20241015152625.png]]
+- 406 에러 코드 확인
+## ../../
+![[Pasted image 20241015152650.png]]
+- 406 에러 코드 확인
+
+## /etc/shadow
+![[Pasted image 20241015152717.png]]
+- 404 에러: 별도의 룰 설정을 하지 않았기 때문에 발생
+
+# 로그 확인
+![[Pasted image 20241015152956.png]]
+## audit
+![[Pasted image 20241015153113.png]]
+## debug
+![[Pasted image 20241015153226.png]]
+- 아직 별 내용이 없다.
+
