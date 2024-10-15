@@ -31,4 +31,4 @@ sticker: lucide//check-check
 - [ ] 일주일에 2~3개 ctf 풀이
 - [ ] 써니카타 워게임 모두 풀어보기
 - [ ] Bee-Box 취약점 정리(A1)
-- [ ] 
+- [ ] OWASP-JuiceShop📅 2024-11-25 
