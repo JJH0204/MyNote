@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A10-.md",
+                "file": "웹 보안.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "e1d7a1ee7245cfd6",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A10-.md",
+                "file": "웹 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A10-.md",
+                "file": "웹 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A10-.md"
+                "file": "웹 보안.md"
               }
             }
           }
@@ -167,6 +166,9 @@
   },
   "active": "e710529a9caef40e",
   "lastOpenFiles": [
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Home/TODO LIST.md",
+    "웹 보안.md",
     "Bee-Box.md",
     "A10-.md",
     "A9-UsingKnownVulnerableComponents.md",
@@ -184,8 +186,6 @@
     "CGI.md",
     "A8-CSRF.md",
     "A3-Cross-Site Scripting.md",
-    "웹 보안.md",
-    "Spaces/Home/Information_Security.md",
     "Remote-SSH.md",
     "Spaces/Home/VScode.md",
     "How2UseGit.md",
@@ -202,7 +202,6 @@
     "OWASP.md",
     "dvwa.md",
     "dvwa_setup.md",
-    "Brute Force Attack.md",
     "XML/Spaces/Temp",
     "XML/Spaces",
     "XML"
