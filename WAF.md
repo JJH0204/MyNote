@@ -36,3 +36,22 @@ vi ./mod_security.conf
 	SecPcreMatchLimit 1000     //
 	
 ```
+
+# Rules 생성
+## 파일 경로
+```
+/etc/httpd/modsecurity.d
+```
+![[Pasted image 20241015144534.png]]
+## 파일 내용
+```
+ vi ./local_rules/modsecurity_localrules.conf
+```
+![[Pasted image 20241015144641.png]]
+## crs 링크
+https://owasp.org/www-project-modsecurity-core-rule-set/
+
+## Rules 작성
+```
+
+```
