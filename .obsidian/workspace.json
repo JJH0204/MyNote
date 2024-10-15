@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf747e4e22ca24ce",
+        "id": "d2d962f5ebfca5d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e710529a9caef40e",
+            "id": "b11aca8c504b550f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase 보안.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase 보안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase 보안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase 보안.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,10 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e710529a9caef40e",
+  "active": "b11aca8c504b550f",
   "lastOpenFiles": [
-    "앱 보안.md",
     "DataBase 보안.md",
+    "앱 보안.md",
     "Spaces/Home/Information_Security.md",
     "WAF.md",
     "Spaces/Temp/Pasted image 20241015153502.png",
