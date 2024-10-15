@@ -53,5 +53,5 @@ https://owasp.org/www-project-modsecurity-core-rule-set/
 
 ## Rules 작성
 ```
-
+SecDefaultAction "탐지되었을 때 기본 액션"
 ```
