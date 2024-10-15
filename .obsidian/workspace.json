@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 보안.md",
+                "file": "WAF.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "웹 보안.md",
+                "file": "WAF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "웹 보안.md",
+                "file": "WAF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "웹 보안.md"
+                "file": "WAF.md"
               }
             }
           }
@@ -167,10 +167,12 @@
   },
   "active": "e710529a9caef40e",
   "lastOpenFiles": [
-    "모의해킹 결과 보고서.md",
-    "웹 보안.md",
-    "Spaces/Home/Information_Security.md",
+    "Spaces/Temp/Pasted image 20241015143118.png",
     "앱 보안.md",
+    "WAF.md",
+    "Spaces/Home/Information_Security.md",
+    "웹 보안.md",
+    "모의해킹 결과 보고서.md",
     "Spaces/Home/TODO LIST.md",
     "Bee-Box.md",
     "A10-.md",
@@ -201,8 +203,6 @@
     "A2-Broken_Auth.md",
     "cookie.md",
     "Spaces/Desc/Wargame.md",
-    "HTTP Status Code.md",
-    "OWASP.md",
     "XML/Spaces/Temp",
     "XML/Spaces",
     "XML"
