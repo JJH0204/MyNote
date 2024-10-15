@@ -11,8 +11,12 @@
             "id": "b9ed26307103f4cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WAF.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -28,6 +32,14 @@
         "id": "0f57026d59b2638a",
         "type": "tabs",
         "children": [
+          {
+            "id": "82f3f1c792d4085a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
           {
             "id": "f468bb795ce42938",
             "type": "leaf",
@@ -60,17 +72,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "82f3f1c792d4085a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WAF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WAF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WAF.md"
+              }
             }
           }
         ]
@@ -158,5 +165,10 @@
     }
   },
   "active": "b9ed26307103f4cb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "앱 보안.md",
+    "DataBase 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "웹 보안.md"
+  ]
 }
