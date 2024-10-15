@@ -12,3 +12,7 @@ https://blog.naver.com/emmaeunji/221761093736
 # [[A3-Cross-Site Scripting]]
 # [[A4-Insecure_DOR]]
 
+
+# [[A8-CSRF]]
+
+
