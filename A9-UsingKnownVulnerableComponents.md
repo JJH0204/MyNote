@@ -9,3 +9,7 @@
 # PHP CGI Remote Code Execution
 - [[CGI]]
 ![[Pasted image 20241015093208.png]]
+![[Pasted image 20241015093822.png]]
+http://59.23.133.107/bWAPP/admin/phpinfo.php
+![[Pasted image 20241015093938.png]]
+![[Pasted image 20241015094010.png]]

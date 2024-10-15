@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CGI.md",
+                "file": "A9-UsingKnownVulnerableComponents.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CGI.md",
+                "file": "A9-UsingKnownVulnerableComponents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CGI.md",
+                "file": "A9-UsingKnownVulnerableComponents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CGI.md"
+                "file": "A9-UsingKnownVulnerableComponents.md"
               }
             }
           }
@@ -167,8 +167,11 @@
   },
   "active": "e710529a9caef40e",
   "lastOpenFiles": [
-    "A9-UsingKnownVulnerableComponents.md",
+    "Spaces/Temp/Pasted image 20241015094010.png",
+    "Spaces/Temp/Pasted image 20241015093938.png",
+    "Spaces/Temp/Pasted image 20241015093822.png",
     "CGI.md",
+    "A9-UsingKnownVulnerableComponents.md",
     "Spaces/Temp/Pasted image 20241015093208.png",
     "Spaces/Temp/Pasted image 20241015093058.png",
     "Spaces/Temp/Pasted image 20241015092750.png",
@@ -183,8 +186,6 @@
     "Spaces/Home/Information_Security.md",
     "Remote-SSH.md",
     "Spaces/Temp/{448CACA2-74E8-49A9-8FDA-C2D2289887BB}.png",
-    "Spaces/Temp/{2D601279-E62E-42EE-A9CB-11293376C2A3}.png",
-    "Spaces/Temp/{2825A136-0C48-4490-9459-EA5FC8AC6E1D}.png",
     "Spaces/Home/VScode.md",
     "How2UseGit.md",
     "Spaces/Home/GIT.md",
@@ -202,7 +203,6 @@
     "dvwa_setup.md",
     "Brute Force Attack.md",
     "Command_Injection.md",
-    "SQL_Injection.md",
     "XML/Spaces/Temp",
     "XML/Spaces",
     "XML"
