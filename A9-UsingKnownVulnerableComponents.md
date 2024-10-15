@@ -30,3 +30,6 @@ http://59.23.133.107/phpmyadmin/error.php?error=a
 
 # Shellshock Vulnerability (CGI)
 ![[Pasted image 20241015102511.png]]
+![[Pasted image 20241015103505.png]]
+![[Pasted image 20241015103545.png]]
+![[Pasted image 20241015103908.png]]
