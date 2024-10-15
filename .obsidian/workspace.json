@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A9-UsingKnownVulnerableComponents.md",
+                "file": "A10-.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A9-UsingKnownVulnerableComponents.md",
+                "file": "A10-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A9-UsingKnownVulnerableComponents.md",
+                "file": "A10-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A9-UsingKnownVulnerableComponents.md"
+                "file": "A10-.md"
               }
             }
           }
@@ -167,6 +167,9 @@
   },
   "active": "e710529a9caef40e",
   "lastOpenFiles": [
+    "Bee-Box.md",
+    "A10-.md",
+    "A9-UsingKnownVulnerableComponents.md",
     "Spaces/Temp/Pasted image 20241015103908.png",
     "Spaces/Temp/Pasted image 20241015103545.png",
     "Spaces/Temp/Pasted image 20241015103505.png",
@@ -176,12 +179,9 @@
     "Spaces/Temp/Pasted image 20241015101927.png",
     "Spaces/Temp/Pasted image 20241015101748.png",
     "BBCode.md",
-    "A9-UsingKnownVulnerableComponents.md",
     "Spaces/Temp/Pasted image 20241015101445.png",
     "Spaces/Temp/Pasted image 20241015095033.png",
-    "Spaces/Temp/Pasted image 20241015094856.png",
     "CGI.md",
-    "Bee-Box.md",
     "A8-CSRF.md",
     "A3-Cross-Site Scripting.md",
     "웹 보안.md",
