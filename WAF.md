@@ -55,3 +55,12 @@ https://owasp.org/www-project-modsecurity-core-rule-set/
 ```
 SecDefaultAction "탐지되었을 때 기본 액션"
 ```
+```
+SecDefaultAction "phase:2,deny,log,status:406"
+```
+- 차단/로그화/클라이언트 메시지 설정
+```
+SecRule REQUEST_URI "/etc/passwd" "id:'500001'"
+SecRule REQUEST_URI "../../" "id:'500002'"
+SecRule ARGS "<[Ss][Cc][Rr][Ii][Pp][Tt]>" "id:'500003'" # XSS 공격 탐지
+```
