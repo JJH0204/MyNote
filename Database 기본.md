@@ -93,12 +93,18 @@ select * from student order by distance asc;
 ```
 ![[Pasted image 20241016094635.png]]
 
+```
+select sex, distance from student group by sex order by sum(distance) desc;
+```
+![[Pasted image 20241016095252.png]]
+```
+select * from student order by name desc;
+```
+![[Pasted image 20241016095301.png]]
+
 ## 연산자
 ### 집계 함수
 sum, avg, max, min, count, stdev(표준편차), ...
 
 ### 조건 함수
 having (조건)
-```
-select sex, distance from student group by sex order by sum(distance) desc;
-```
