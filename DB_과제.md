@@ -111,6 +111,8 @@ select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER +
 
 ## DVWA
 ---
+> [!Note]
+> 공격자의 입장에서 취약점 파악을 위해 정보 수집부터 취약점 공격까지 진행
 ### 정보 수집
 #### nmap-HealthScan
 ![[Pasted image 20241016140615.png]]
@@ -119,3 +121,9 @@ select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER +
 ![[Pasted image 20241016140525.png]]
 
 #### nikto-웹 취약점 점검
+`/docs/DVWA_v1.3.pdf`
+- 서버에서 보관중인 pdf 파일을 발견
+- ![[Pasted image 20241016141727.png]]
+- 기본 아이디와 패스워드 발견
+
+#### 
