@@ -26,3 +26,5 @@ sysctl -w vm.swappiness=40
 vi /etc/sysctl.conf
 ```
 ![[Pasted image 20241016105053.png]]
+- 통상 40~60 사이 값을 설정
+
