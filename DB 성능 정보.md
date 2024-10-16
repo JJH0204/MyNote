@@ -119,4 +119,25 @@ show grants for 'test1'@'%';
 ```
 create user 'test2'@'192.168.56.101' identified by '4231';
 # test2는 192.168.56.101 시스템에서만 접속 가능
+grant select, insert on school.student to 'test2'@'192.168.56.101';
+# test2는 192.168.56.101 시스템 에서만 접속 가능 & school.student 테이블에만 select, insert 명령 가능
+flush privileges;
+```
+
+- revoke 명령으로 권한 삭제 가능
+
+계정 삭제 가능
+```
+drop user test1;
+drop user 'test1'@'%';
+```
+
+한번에 권한 지급 하기
+```
+grant all privileges on school.* to 'test3'@'localhost' identified by '1234';
+```
+
+한번에 회수하기
+```
+ revoke all on school.* from test3@localhost;
 ```
