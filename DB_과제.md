@@ -126,4 +126,12 @@ select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER +
 - ![[Pasted image 20241016141727.png]]
 - 기본 아이디와 패스워드 발견
 
-#### 
+### sql injection
+![[Pasted image 20241016142555.png]]
+```
+': You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''''' at line 1>SQL 구문에 오류가 있습니다. MySQL 서버 버전에 해당하는 매뉴얼에서 1행의 '"" 근처에서 사용할 수 있는 올바른 구문을 확인하세요
+```
+- sql 취약점 확인
+![[Pasted image 20241016142733.png]]
+![[Pasted image 20241016142807.png]]
+#### sql 취약점을 활용한 셸 실행
