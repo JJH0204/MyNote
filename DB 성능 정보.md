@@ -55,3 +55,31 @@ cat /etc/rocky-release  # 리눅스 버전
 groupadd -g 505 dba # DB 관리자 그룹
 useradd -u 505 -G dba rocky
 ```
+
+# DB 버전 확인
+```sh
+mysql  Ver 15.1 Distrib 10.5.22-MariaDB, for Linux (x86_64) using  EditLine wrapper
+```
+
+# DB 별 용량 확인
+# DB 계정 추가 관리
+```
+create user 'jaeho'@'localhost' identified by 'choa0306@@';
+```
+
+# DB 계정 열람
+```
+select User, Password from mysql.user;
+```
+![[Pasted image 20241016111931.png]]
+
+# DB 권한 보기
+```sql
+show grants;
+```
+![[Pasted image 20241016112000.png]]
+```
+# 특정 사용자 권한 정보 확인
+show grants for 'jaeho'@'localhost';
+```
+![[Pasted image 20241016112107.png]]
