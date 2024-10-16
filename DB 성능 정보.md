@@ -27,4 +27,31 @@ vi /etc/sysctl.conf
 ```
 ![[Pasted image 20241016105053.png]]
 - 통상 40~60 사이 값을 설정
+# 메모리 정보
+![[Pasted image 20241016110355.png]]
+```sh
+grep MemTotal /proc/meminfo
+grep SwapTotal /proc/meminfo
+```
 
+# CPU 정보
+```sh
+cat /proc/cpuinfo
+```
+
+# 디스크 확인
+```
+df -h
+```
+
+# 커널 버전 확인
+```
+cat /proc/version       # 리눅스 커널 버전
+cat /etc/rocky-release  # 리눅스 버전
+```
+
+# DB 사용자 추가
+```sh
+groupadd -g 505 dba # DB 관리자 그룹
+useradd -u 505 -G dba rocky
+```
