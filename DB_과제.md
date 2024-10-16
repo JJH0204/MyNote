@@ -47,3 +47,20 @@ INSERT INTO `Student_Health` VALUES (5, 1.5, 98, 189, 'RH+');
 ```
 
 ---
+![[Pasted image 20241016123137.png]]
+![[Pasted image 20241016123204.png]]
+![[Pasted image 20241016123220.png]]
+
+---
+## S_AGE를 기준으로 오름차순 정렬
+![[Pasted image 20241016123522.png]]
+## S_SECURITY를 기준으로 내림차순 정렬
+![[Pasted image 20241016123606.png]]
+
+## S_WEIGHT값이 70이상인 것에 대해 오름차순 정렬
+![[Pasted image 20241016124016.png]]
+
+## S_NAME union S_SECURITY 데이터 출력
+
+## Student_Info Left join / Right join / inner join Student_Scour
+
