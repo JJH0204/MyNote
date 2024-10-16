@@ -83,3 +83,15 @@ show grants;
 show grants for 'jaeho'@'localhost';
 ```
 ![[Pasted image 20241016112107.png]]
+
+
+```
+vi /etc/my.cnf
+/etc/my.cnf.d
+vi /etc/my.cnf.d/mariadb-server.cnf
+```
+
+bind-address
+```
+
+```
