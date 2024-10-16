@@ -160,5 +160,16 @@ select * from location;
 ![[Pasted image 20241016101843.png]]
 ### OUTER JOIN
 ### INNER JOIN
+```sql
+select * from student inner join location on student.location_id=location.id;
+```
+![[Pasted image 20241016103608.png]]
+- 좀 더 이쁘게 칼럼 출력
+```sql
+select student.name, student.sex, student.birthday, location.name, location.distance from student inner join location on student.location_id=location.id;
+```
+![[Pasted image 20241016103804.png]]
+
 ### LEFT JOIN
 ### RIGHT JOIN
+
