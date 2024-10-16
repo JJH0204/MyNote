@@ -1,3 +1,2 @@
-- CRUD
 - [[Database 기본]]
 - 
