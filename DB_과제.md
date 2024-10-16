@@ -63,6 +63,15 @@ INSERT INTO `Student_Health` VALUES (5, 1.5, 98, 189, 'RH+');
 ## S_NAME union S_SECURITY 데이터 출력
 ![[Pasted image 20241016125003.png]]
 ## Student_Info Left join / Right join / inner join > Student_Score
+### Left join
+```sql
+select Student_Info.S_ID, S_NAME, S_ADDR, S_AGE, S_NETWORK, S_SERVER, S_SECURITY from Student_Info left join Student_Score on Student_Info.S_ID=Student_Score.S_ID;
+```
+![[Pasted image 20241016134051.png]]
+### Right join
+```
+select Student_Info.S_ID, S_NAME, S_ADDR, S_AGE, S_NETWORK, S_SERVER, S_SECURITY from Student_Info left join Student_Score on Student_Info.S_ID=Student_Score.S_ID;
+```
 
 ## S_NETWORK 점수 합계 구하기
 ![[Pasted image 20241016131217.png]]
@@ -89,8 +98,6 @@ WHERE RowRank = 1;
 with Result_Student as (
 	select * from Student_Score where S_ID = 5
 )
-select total_sum,  from Result_Student
-sum(Result_Student.S_NETWORK, Result_Student.S_SERVER, Result_Student.S_SECURITY) as total_sum
-
+select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER + S_SECURITY) / 3.0 as avg_score from Result_Student;
 ```
-
+![[Pasted image 20241016133528.png]]
