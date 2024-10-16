@@ -93,5 +93,30 @@ vi /etc/my.cnf.d/mariadb-server.cnf
 
 bind-address
 ```
+bind-address=127.0.0.1 # 원격 접속 비 허용
+bind-address=0.0.0.0   # 모든 네트워크 원격 접속 허용
+bind-address=192.168.56.0/24 # 해당 내트워크 시스템만 접속 허용
+```
 
+추가 설정
+```
+Port=5000 # 서비스 포트 설정
+```
+
+패스워드 보안
+```
+mysql -u root -p
+```
+
+
+```
+create user 'test1'@'%' identified by '1234';
+grant all privileges on school.* to 'test1'@'%';
+show grants for 'test1'@'%';
+```
+![[Pasted image 20241016113846.png]]
+
+```
+create user 'test2'@'192.168.56.101' identified by '4231';
+# test2는 192.168.56.101 시스템에서만 접속 가능
 ```
