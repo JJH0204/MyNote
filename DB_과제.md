@@ -82,7 +82,15 @@ FROM Ranked_Students
 WHERE RowRank = 1;
 
 ```
+![[Pasted image 20241016132218.png]]
 
 ## 5번 학생의 과목 합계와 평균 구하기
+```sql
+with Result_Student as (
+	select * from Student_Score where S_ID = 5
+)
+select total_sum,  from Result_Student
+sum(Result_Student.S_NETWORK, Result_Student.S_SERVER, Result_Student.S_SECURITY) as total_sum
 
+```
 
