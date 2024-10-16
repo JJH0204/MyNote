@@ -102,16 +102,16 @@ select * from student order by distance desc;
 ![[Pasted image 20241016094600.png]]
 
 ### 오름차순
-```
+```sql
 select * from student order by distance asc;
 ```
 ![[Pasted image 20241016094635.png]]
 
-```
+```sql
 select sex, distance from student group by sex order by sum(distance) desc;
 ```
 ![[Pasted image 20241016095252.png]]
-```
+```sql
 select * from student order by name desc;
 ```
 ![[Pasted image 20241016095301.png]]
@@ -130,19 +130,19 @@ unique: 중복
 foreign: 테이블 관계성 부여
 full test: 자연어 검색
 
-```
+```sql
 desc student;
 ```
 ![[Pasted image 20241016100542.png]]
-```
+```sql
 select * from student where id=3;
 ```
 ![[Pasted image 20241016100643.png]]
-```
+```sql
 select * from student where birthday='1982-11-16 00:00:00';
 ```
 ![[Pasted image 20241016100802.png]]
-```
+```sql
 select * from student where sex='남자';
 ```
 ![[Pasted image 20241016100920.png]]
