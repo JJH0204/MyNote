@@ -63,6 +63,17 @@ mysql -u root -p toor --host=localhost < /root/student.sql
 
 vi sql.sh
 '''
-
+#!/bin/bash
+mysql -u root -p toor --host=localhost < /root/student.sql
 '''
+./sql.sh
+
+cat /root/student.sql | mysql -u root -p toor
+```
+
+## Group by
+```
+select * from student;
+select sex from student group by sex;
+select sex, sum(distance), avg(distance) from student group by sex;
 ```
