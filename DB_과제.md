@@ -150,7 +150,10 @@ sqlmap -u "http://221.166.254.70/vulnerabilities/sqli/?id=1&Submit=Submit" --coo
 # 팀 과제
 ## 요청 사항
 ### 사용자 이름과 같은 DB에만 모든 권한 가진다.
-
+- 설정 전
+![[Pasted image 20241016155344.png]]
+- 설정 후
+![[Pasted image 20241016155537.png]]
 ### 팀 이름과 같은 DBdp select, desc 권한 가진다.
 ### 다른 팀 사용자는 팀 DB에 접속 불가능
 ### Test 계정은 모든 권한
