@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "547f036ce66344f8",
+        "id": "58dc478412b01790",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ed26307103f4cb",
+            "id": "e86efc976984bdab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAF.md",
+                "file": "Database 기본.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAF.md",
+                "file": "Database 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAF.md",
+                "file": "Database 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAF.md"
+                "file": "Database 기본.md"
               }
             }
           }
@@ -164,11 +165,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b9ed26307103f4cb",
+  "active": "e86efc976984bdab",
   "lastOpenFiles": [
-    "앱 보안.md",
     "DataBase 보안.md",
+    "Database 기본.md",
+    "앱 보안.md",
     "Spaces/Home/Information_Security.md",
+    "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md",
+    "WAF.md",
     "웹 보안.md"
   ]
 }
