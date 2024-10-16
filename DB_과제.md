@@ -65,10 +65,23 @@ INSERT INTO `Student_Health` VALUES (5, 1.5, 98, 189, 'RH+');
 ## Student_Info Left join / Right join / inner join > Student_Score
 
 ## S_NETWORK 점수 합계 구하기
+![[Pasted image 20241016131217.png]]
 
 ## S_SECURITY 평균 점수 구하기
+![[Pasted image 20241016131314.png]]
 
 ## S_BLOOD_TYPE을 기준으로 중복 데이터 제거하기
+```sql
+WITH Ranked_Students AS (
+    SELECT *, 
+           ROW_NUMBER() OVER (PARTITION BY S_BLOOD_TYPE ORDER BY H_ID) AS RowRank
+    FROM Student_Health
+)
+SELECT *
+FROM Ranked_Students
+WHERE RowRank = 1;
+
+```
 
 ## 5번 학생의 과목 합계와 평균 구하기
 

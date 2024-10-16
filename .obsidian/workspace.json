@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database 기본.md",
+                "file": "DB_과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database 기본.md",
+                "file": "DB_과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database 기본.md"
+                "file": "DB_과제.md"
               }
             }
           }
@@ -178,11 +177,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23ff2cea00dae9df",
+  "active": "e86efc976984bdab",
   "lastOpenFiles": [
-    "DB_과제.md",
-    "Spaces/Temp/Pasted image 20241016125003.png",
     "Database 기본.md",
+    "DB_과제.md",
+    "Spaces/Temp/Pasted image 20241016131314.png",
+    "Spaces/Temp/Pasted image 20241016131217.png",
+    "Spaces/Temp/Pasted image 20241016125003.png",
     "Spaces/Temp/Pasted image 20241016124016.png",
     "Spaces/Temp/Pasted image 20241016123606.png",
     "Spaces/Temp/Pasted image 20241016123522.png",
@@ -195,8 +196,6 @@
     "Spaces/Home/Information_Security.md",
     "웹 보안.md",
     "Spaces/Temp/Pasted image 20241016120503.png",
-    "Spaces/Temp/Pasted image 20241016113846.png",
-    "Spaces/Temp/Pasted image 20241016112107.png",
     "Spaces/Home/TODO LIST.md",
     "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md",
     "WAF.md"
