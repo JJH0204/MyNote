@@ -155,7 +155,11 @@ sqlmap -u "http://221.166.254.70/vulnerabilities/sqli/?id=1&Submit=Submit" --coo
 - 설정 후
 ![[Pasted image 20241016155537.png]]
 ### 팀 이름과 같은 DBdp select, desc 권한 가진다.
+- desc 명령어 사용 권한은 select 권한을 가지면 사용할 수 있다.
+![[Pasted image 20241016160324.png]]
 ### 다른 팀 사용자는 팀 DB에 접속 불가능
+![[Pasted image 20241016161059.png]]
+
 ### Test 계정은 모든 권한
 ### Test2 계정은 creat, drop rnjsgks(Student_Score)
 ### Test2 계정 생성 후 삭제
