@@ -1,0 +1,25 @@
+![[Pasted image 20241016120503.png]]
+```sql
+DROP TABLE IF EXISTS 'Student_Info';
+DROP TABLE IF EXISTS 'Student_Score';
+DROP TABLE IF EXISTS 'Student_Health';
+
+CREATE TABLE 'Student_Info' (
+	'S_ID'
+	'S_NAME'
+	'S_ADDR'
+	'S_AGE'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+CREATE TABLE 'Student_Score' (
+	'S_ID'
+	'S_NETWORK'
+	'S_SERVER'
+	'S_SECURITY'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+CREATE TABLE 'Student_Health' (
+	'H_ID'
+	'S_VISION'
+	'S_WEIGHT'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+```

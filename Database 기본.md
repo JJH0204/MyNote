@@ -20,7 +20,7 @@ mysql -u root
 create database school;
 ```
 ![[Pasted image 20241016091955.png]]
-```
+```sql
 vi student.sql
 '''
 DROP TABLE IF EXISTS `student`;
