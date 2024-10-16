@@ -61,6 +61,15 @@ INSERT INTO `Student_Health` VALUES (5, 1.5, 98, 189, 'RH+');
 ![[Pasted image 20241016124016.png]]
 
 ## S_NAME union S_SECURITY 데이터 출력
+![[Pasted image 20241016125003.png]]
+## Student_Info Left join / Right join / inner join > Student_Score
 
-## Student_Info Left join / Right join / inner join Student_Scour
+## S_NETWORK 점수 합계 구하기
+
+## S_SECURITY 평균 점수 구하기
+
+## S_BLOOD_TYPE을 기준으로 중복 데이터 제거하기
+
+## 5번 학생의 과목 합계와 평균 구하기
+
 
