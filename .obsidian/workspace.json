@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_과제.md",
+                "file": "Database 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_과제.md",
+                "file": "Database 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_과제.md"
+                "file": "Database 기본.md"
               }
             }
           }
@@ -177,11 +178,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e86efc976984bdab",
+  "active": "23ff2cea00dae9df",
   "lastOpenFiles": [
+    "DB_과제.md",
     "Spaces/Temp/Pasted image 20241016125003.png",
     "Database 기본.md",
-    "DB_과제.md",
     "Spaces/Temp/Pasted image 20241016124016.png",
     "Spaces/Temp/Pasted image 20241016123606.png",
     "Spaces/Temp/Pasted image 20241016123522.png",
@@ -196,7 +197,6 @@
     "Spaces/Temp/Pasted image 20241016120503.png",
     "Spaces/Temp/Pasted image 20241016113846.png",
     "Spaces/Temp/Pasted image 20241016112107.png",
-    "Spaces/Temp/Pasted image 20241016112000.png",
     "Spaces/Home/TODO LIST.md",
     "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md",
     "WAF.md"
