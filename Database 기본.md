@@ -108,3 +108,29 @@ sum, avg, max, min, count, stdev(표준편차), ...
 
 ### 조건 함수
 having (조건)
+
+## 인덱싱
+primary: 중복 x
+normal: 중복 허용
+unique: 중복 
+foreign: 테이블 관계성 부여
+full test: 자연어 검색
+
+```
+desc student;
+```
+![[Pasted image 20241016100542.png]]
+```
+select * from student where id=3;
+```
+![[Pasted image 20241016100643.png]]
+```
+select * from student where birthday='1982-11-16 00:00:00';
+```
+![[Pasted image 20241016100802.png]]
+```
+select * from student where sex='남자';
+```
+![[Pasted image 20241016100920.png]]
+- 중복이 허용되는 인덱싱은 normal 인덱싱
+
