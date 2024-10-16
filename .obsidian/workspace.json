@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2b285b6674256d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB 성능 정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_과제.md",
+                "file": "DB 성능 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_과제.md",
+                "file": "DB 성능 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_과제.md"
+                "file": "DB 성능 정보.md"
               }
             }
           }
@@ -165,8 +178,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e86efc976984bdab",
+  "active": "d2b285b6674256d8",
   "lastOpenFiles": [
+    "DataBase 보안.md",
+    "DB_과제.md",
+    "앱 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Temp/Pasted image 20241016154233.png",
+    "Spaces/Temp/Pasted image 20241016154201.png",
     "Spaces/Temp/Pasted image 20241016152138.png",
     "Spaces/Temp/Pasted image 20241016142807.png",
     "Spaces/Temp/Pasted image 20241016142733.png",
@@ -175,15 +194,8 @@
     "Spaces/Temp/Pasted image 20241016140615.png",
     "Spaces/Temp/Pasted image 20241016140525.png",
     "Spaces/Temp/Pasted image 20241016134247.png",
-    "Spaces/Temp/Pasted image 20241016134227.png",
-    "Spaces/Temp/Pasted image 20241016134155.png",
-    "Spaces/Temp/Pasted image 20241016134051.png",
     "Database 기본.md",
-    "DB_과제.md",
-    "DataBase 보안.md",
     "DB 성능 정보.md",
-    "앱 보안.md",
-    "Spaces/Home/Information_Security.md",
     "웹 보안.md",
     "Spaces/Home/TODO LIST.md",
     "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md",

