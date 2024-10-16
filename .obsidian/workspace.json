@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "b53beec231e2348e",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "23ff2cea00dae9df",
             "type": "leaf",
