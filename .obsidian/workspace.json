@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23ff2cea00dae9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database 기본.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -179,6 +167,9 @@
   },
   "active": "e86efc976984bdab",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241016134247.png",
+    "Spaces/Temp/Pasted image 20241016134227.png",
+    "Spaces/Temp/Pasted image 20241016134155.png",
     "Spaces/Temp/Pasted image 20241016134051.png",
     "Database 기본.md",
     "DB_과제.md",
@@ -189,9 +180,6 @@
     "Spaces/Temp/Pasted image 20241016125003.png",
     "Spaces/Temp/Pasted image 20241016124016.png",
     "Spaces/Temp/Pasted image 20241016123606.png",
-    "Spaces/Temp/Pasted image 20241016123522.png",
-    "Spaces/Temp/Pasted image 20241016123220.png",
-    "Spaces/Temp/Pasted image 20241016123204.png",
     "DataBase 보안.md",
     "DB 성능 정보.md",
     "앱 보안.md",

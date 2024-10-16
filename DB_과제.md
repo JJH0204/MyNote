@@ -1,4 +1,7 @@
 ![[Pasted image 20241016120503.png]]
+# 개별 과제
+## DB 세팅 스크립트
+---
 ```sql
 DROP TABLE IF EXISTS `Student_Info`;
 DROP TABLE IF EXISTS `Student_Score`;
@@ -45,41 +48,45 @@ INSERT INTO `Student_Health` VALUES (3, 0.7, 66, 186, 'B-');
 INSERT INTO `Student_Health` VALUES (4, 0.2, 77, 177, 'O');
 INSERT INTO `Student_Health` VALUES (5, 1.5, 98, 189, 'RH+');
 ```
-
----
 ![[Pasted image 20241016123137.png]]
 ![[Pasted image 20241016123204.png]]
 ![[Pasted image 20241016123220.png]]
-
+## 요구사항 해결
 ---
-## S_AGE를 기준으로 오름차순 정렬
+### S_AGE를 기준으로 오름차순 정렬
 ![[Pasted image 20241016123522.png]]
-## S_SECURITY를 기준으로 내림차순 정렬
+### S_SECURITY를 기준으로 내림차순 정렬
 ![[Pasted image 20241016123606.png]]
 
-## S_WEIGHT값이 70이상인 것에 대해 오름차순 정렬
+### S_WEIGHT값이 70이상인 것에 대해 오름차순 정렬
 ![[Pasted image 20241016124016.png]]
 
-## S_NAME union S_SECURITY 데이터 출력
+### S_NAME union S_SECURITY 데이터 출력
 ![[Pasted image 20241016125003.png]]
-## Student_Info Left join / Right join / inner join > Student_Score
-### Left join
+### Student_Info Left join / Right join / inner join > Student_Score
+#### Left join
 ```sql
 select Student_Info.S_ID, S_NAME, S_ADDR, S_AGE, S_NETWORK, S_SERVER, S_SECURITY from Student_Info left join Student_Score on Student_Info.S_ID=Student_Score.S_ID;
 ```
 ![[Pasted image 20241016134051.png]]
-### Right join
+#### Right join
+```sql
+select Student_Info.S_ID, S_NAME, S_ADDR, S_AGE, S_NETWORK, S_SERVER, S_SECURITY from Student_Info right join Student_Score on Student_Info.S_ID=Student_Score.S_ID;
 ```
-select Student_Info.S_ID, S_NAME, S_ADDR, S_AGE, S_NETWORK, S_SERVER, S_SECURITY from Student_Info left join Student_Score on Student_Info.S_ID=Student_Score.S_ID;
+![[Pasted image 20241016134155.png]]
+#### Inner join
+```sql
+select Student_Info.S_ID, S_NAME, S_ADDR, S_AGE, S_NETWORK, S_SERVER, S_SECURITY from Student_Info inner join Student_Score on Student_Info.S_ID=Student_Score.S_ID;
 ```
+![[Pasted image 20241016134247.png]]
 
-## S_NETWORK 점수 합계 구하기
+### S_NETWORK 점수 합계 구하기
 ![[Pasted image 20241016131217.png]]
 
-## S_SECURITY 평균 점수 구하기
+### S_SECURITY 평균 점수 구하기
 ![[Pasted image 20241016131314.png]]
 
-## S_BLOOD_TYPE을 기준으로 중복 데이터 제거하기
+### S_BLOOD_TYPE을 기준으로 중복 데이터 제거하기
 ```sql
 WITH Ranked_Students AS (
     SELECT *, 
@@ -93,7 +100,7 @@ WHERE RowRank = 1;
 ```
 ![[Pasted image 20241016132218.png]]
 
-## 5번 학생의 과목 합계와 평균 구하기
+### 5번 학생의 과목 합계와 평균 구하기
 ```sql
 with Result_Student as (
 	select * from Student_Score where S_ID = 5
@@ -101,3 +108,8 @@ with Result_Student as (
 select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER + S_SECURITY) / 3.0 as avg_score from Result_Student;
 ```
 ![[Pasted image 20241016133528.png]]
+
+## DVWA
+---
+### 정보 수집
+#### nmap
