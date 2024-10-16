@@ -112,4 +112,10 @@ select (S_NETWORK + S_SERVER + S_SECURITY) as total_sum, (S_NETWORK + S_SERVER +
 ## DVWA
 ---
 ### 정보 수집
-#### nmap
+#### nmap-HealthScan
+![[Pasted image 20241016140615.png]]
+
+#### dirb
+![[Pasted image 20241016140525.png]]
+
+#### nikto-웹 취약점 점검
