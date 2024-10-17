@@ -51,7 +51,5 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, fil
 
 - [Hex dump on Wikipedia](https://en.wikipedia.org/wiki/Hex_dump)
 
-- 압축 확장자가 명확하지 않을 때 tar tool은 자동으로 압축 형태를 감지해 동작한다.
-``` sh
-tar -xf 파일명
-```
+- [[매직넘버]]
+![[Pasted image 20241017123959.png]]
