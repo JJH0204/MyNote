@@ -60,5 +60,12 @@ xxd -r data.txt origin.gz
 ```
 2. 압축 해제
 ```sh
-
+gzip -d ./origin.gz
+```
+3. 파일 확인
+![[Pasted image 20241017125554.png]]
+4. 압축 해제
+```sh
+mv ./origin ./origin.bz2
+bzip2 -d ./origin.bz2
 ```
