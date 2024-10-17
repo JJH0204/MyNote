@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c993082e033fdcae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -167,8 +175,8 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
-    "badit.md",
     "Level 01~10.md",
+    "badit.md",
     "Spaces/Desc/Wargame.md",
     "앱 보안.md",
     "DataBase 보안.md",
