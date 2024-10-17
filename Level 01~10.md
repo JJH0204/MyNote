@@ -147,3 +147,36 @@ The password for the next level is stored in the file **data.txt** next to the
 cat ./data.txt | grep millionth
 ```
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+# Bandit Level 8 → Level 9
+
+## Level Goal
+
+The password for the next level is stored in the file **data.txt** and is the only line of text that occurs only once
+
+## Commands you may need to solve this level
+
+grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+
+## Helpful Reading Material
+
+- [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
+
+```sh
+sort ./data.txt | uniq -u
+```
+- sort: 정렬(파일의 내용을 일정하게 정렬)
+- uniq: -u 옵션을 통해 유일하게 등장하는 줄만 출력
+
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+# Bandit Level 9 → Level 10
+
+## Level Goal
+
+The password for the next level is stored in the file **data.txt** in one of the few human-readable strings, preceded by several ‘=’ characters.
+
+## Commands you may need to solve this level
+
+grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+
