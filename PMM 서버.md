@@ -57,11 +57,25 @@ pmm-admin config --server-insecure-tls --server-url=https://admin:choa0306@@@192
 ![[Pasted image 20241017100253.png]]
 ## DB 서버
 ---
+### pmm agent 설정 파일
 ```sh
 vi /usr/local/percona/pmm2/config/pmm-agent.yaml
 ```
 ![[Pasted image 20241017100751.png]]
-```
+### DB 설치 여부 확인
+```sh
 dnf install -y mariadb
 systemctl start mariadb
+mysql -u root -p
+```
+### pmm 계정 생성
+```sql
+create user 'pmm'@'127.0.0.1' identified by '1234' with max_user_connection 10;
+```
+### 계정 권한 할당
+```sql
+grant select, process, super, replication client, reload, show view on *.* to 'pmm'@'127.0.0.1';
+grant select, update, drop, delete on performance_schema.* to 'pmm'@'127.0.0.1';
+flush privileges;
+show grants for 'pmm'@'127.0.0.1';
 ```
