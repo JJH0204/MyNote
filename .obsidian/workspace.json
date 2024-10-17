@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 01~10.md",
+                "file": "Level_10~20.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 01~10.md",
+                "file": "Level_10~20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 01~10.md",
+                "file": "Level_10~20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 01~10.md"
+                "file": "Level_10~20.md"
               }
             }
           }
@@ -175,8 +175,10 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
-    "Level 01~10.md",
+    "Spaces/Temp/Pasted image 20241017121930.png",
     "badit.md",
+    "Level_10~20.md",
+    "Level 01~10.md",
     "Spaces/Desc/Wargame.md",
     "앱 보안.md",
     "DataBase 보안.md",

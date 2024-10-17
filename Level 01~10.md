@@ -180,3 +180,7 @@ The password for the next level is stored in the file **data.txt** in one of t
 
 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
+```sh
+strings ./data.txt
+```
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
