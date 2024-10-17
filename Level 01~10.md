@@ -1,0 +1,63 @@
+# Bandit Level 0 → Level 1
+
+## Level Goal
+
+The password for the next level is stored in a file called **readme** located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+
+## Commands you may need to solve this level
+
+[ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
+
+**TIP:** Create a file for notes and passwords on your local machine!
+
+Passwords for levels are _not_ saved automatically. If you do not save them yourself, you will need to start over from bandit0.
+
+Passwords also occassionally change. It is recommended to take notes on how to solve each challenge. As levels get more challenging, detailed notes are useful to return to where you left off, reference for later problems, or help others after you’ve completed the challenge.
+
+The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+# Bandit Level 1 → Level 2
+
+## Level Goal
+
+The password for the next level is stored in a file called **-** located in the home directory
+
+## Commands you may need to solve this level
+
+[ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
+
+## Helpful Reading Material
+
+- [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename)
+- [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](https://linux.die.net/abs-guide/special-chars.html)
+
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+# Bandit Level 2 → Level 3
+
+## Level Goal
+
+The password for the next level is stored in a file called **spaces in this filename** located in the home directory
+
+## Commands you may need to solve this level
+
+[ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
+
+## Helpful Reading Material
+
+- [Google Search for “spaces in filename”](https://www.google.com/search?q=spaces+in+filename)
+
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+# Bandit Level 3 → Level 4
+
+## Level Goal
+
+The password for the next level is stored in a hidden file in the **inhere** directory.
+
+## Commands you may need to solve this level
+
+[ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
+
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
