@@ -12,6 +12,7 @@
 - Kernel
 - Browser
 - Blockchain 등
+- [[badit]]
 
 # TIP
 - 당연하게 처음은 어렵다.
