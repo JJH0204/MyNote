@@ -53,3 +53,12 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd, mkdir, cp, mv, fil
 
 - [[매직넘버]]
 ![[Pasted image 20241017123959.png]]
+
+1. 덤프 -> 원래 파일로 복구
+```sh
+xxd -r data.txt origin.gz
+```
+2. 압축 해제
+```sh
+
+```
