@@ -61,3 +61,34 @@ The password for the next level is stored in a hidden file in the **inhere** d
 
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
+# Bandit Level 4 → Level 5
+
+## Level Goal
+
+The password for the next level is stored in the only human-readable file in the **inhere** directory. Tip: if your terminal is messed up, try the “reset” command.
+
+## Commands you may need to solve this level
+
+[ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
+
+- 타입이 file 이며 타입을 출력하는 명령어
+```sh
+find . -type f -exec file {} +
+```
+
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+# Bandit Level 5 → Level 6
+
+## Level Goal
+
+The password for the next level is stored in a file somewhere under the **inhere** directory and has all of the following properties:
+
+- human-readable
+- 1033 bytes in size
+- not executable
+
+## Commands you may need to solve this level
+
+[ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
+
