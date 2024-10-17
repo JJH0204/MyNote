@@ -39,6 +39,18 @@ docker run --detach --restart always --publish 443:443 -v pmm-data:/srv --name p
 ```
 ![[Pasted image 20241017092139.png]]
 ![[Pasted image 20241017092405.png]]
-- admin/admin
-## Agent 설정
+- 기본 admin/admin
+# Agent 설정
+## pmm 패키지 설치
 ---
+```sh
+dnf install -y https://repo.percona.com/yum/percona-release-latest.noarch.rpm
+dnf install -y pmm2-client
+pmm-admin --version
+```
+![[Pasted image 20241017094716.png]]![[Pasted image 20241017094745.png]]
+## Node 등록
+---
+```sh
+pmm-admin config --server-insecur-tls --server-url=https://admin:choa0306@@@192.168.56.123:443
+```
