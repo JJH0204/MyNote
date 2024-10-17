@@ -69,3 +69,40 @@ gzip -d ./origin.gz
 mv ./origin ./origin.bz2
 bzip2 -d ./origin.bz2
 ```
+5. 파일 확장자 확인
+```sh
+file origin
+origin: gzip compressed data, was "data4.bin", last modified: Thu Sep 19 07:08:15 2024, max compression, from Unix, original size modulo 2^32 20480
+```
+6. 다시 압축 해제
+```sh
+mv ./origin ./origin.gz
+gzip -d ./origin.gz
+```
+7. 다시 파일 확장자 확인
+```sh
+file origin
+origin: POSIX tar archive (GNU)
+```
+8. 아카이브 해제
+```sh
+mv ./origin ./origin.tar
+tar -xf ./origin.tar
+```
+9. 파일 확인
+```
+file ./data5.bin
+./data5.bin: POSIX tar archive (GNU)
+```
+10. 아카이브 해제
+```
+mv ./data5.bin ./data5.bin.tar
+tar -xf ./data5.bin.tar
+```
+11. 파일 확인
+```
+file ./data6.bin
+./data6.bin: bzip2 compressed data, block size = 900k
+```
+12. 압축 해제
+![[Pasted image 20241017131151.png]]
