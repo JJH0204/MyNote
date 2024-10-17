@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB_과제.md",
+                "file": "DB 성능 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB_과제.md",
+                "file": "DB 성능 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB_과제.md"
+                "file": "DB 성능 정보.md"
               }
             }
           }
@@ -177,13 +178,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e86efc976984bdab",
+  "active": "d2b285b6674256d8",
   "lastOpenFiles": [
+    "DB_과제.md",
     "Spaces/Temp/Pasted image 20241016161804.png",
     "Spaces/Temp/Pasted image 20241016161708.png",
     "Spaces/Temp/Pasted image 20241016161448.png",
     "DB 성능 정보.md",
-    "DB_과제.md",
     "Spaces/Temp/Pasted image 20241016161336.png",
     "Spaces/Temp/Pasted image 20241016161303.png",
     "Spaces/Temp/Pasted image 20241016161059.png",
@@ -194,7 +195,6 @@
     "앱 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Temp/Pasted image 20241016154233.png",
-    "Spaces/Temp/Pasted image 20241016154201.png",
     "Database 기본.md",
     "웹 보안.md",
     "Spaces/Home/TODO LIST.md",
