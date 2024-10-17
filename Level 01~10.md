@@ -112,3 +112,7 @@ find . -type f -exec file {} + | grep -i "ASCII text" | grep -v "with very long"
 ./.bashrc:                         ASCII text
 ./.bash_logout:                    ASCII text
 ```
+```sh
+cat ./inhere/maybehere15/spaces\ file2
+Q2z7VXYuHnMJ11Ks9drvakV3s0pADkcPDQl1TlRMMdSzzHJQzX
+```
