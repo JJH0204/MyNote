@@ -70,7 +70,7 @@ mysql -u root -p
 ```
 ### pmm 계정 생성
 ```sql
-create user 'pmm'@'127.0.0.1' identified by '1234' with max_user_connection 10;
+CREATE USER 'pmm'@'127.0.0.1' IDENTIFIED BY '1234' WITH MAX_USER_CONNECTIONS 10;
 ```
 ### 계정 권한 할당
 ```sql
@@ -78,4 +78,19 @@ grant select, process, super, replication client, reload, show view on *.* to 'p
 grant select, update, drop, delete on performance_schema.* to 'pmm'@'127.0.0.1';
 flush privileges;
 show grants for 'pmm'@'127.0.0.1';
+```
+### 설정 파일 내용 추가
+```sh
+vi /usr/local/percona/pmm2/config/pmm-agent.yaml
+```
+```yaml
+slow_query_log = ON
+slow_query_log_file = /log/slow_query.log
+long_query_time = 1
+log_output = FILE
+performance_schema = ON
+```
+### pmm-server 연동
+```sh
+pmm-admin add mysql --query-source=perfschema --username=pmm --password=1234
 ```
