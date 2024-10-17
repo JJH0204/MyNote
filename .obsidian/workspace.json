@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "58dc478412b01790",
+        "id": "de9126b7c8ccf72f",
         "type": "tabs",
         "children": [
           {
-            "id": "e86efc976984bdab",
+            "id": "21b759560ceae7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB_과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2b285b6674256d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB 성능 정보.md",
+                "file": "PMM 서버.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB 성능 정보.md",
+                "file": "PMM 서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB 성능 정보.md",
+                "file": "PMM 서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB 성능 정보.md"
+                "file": "PMM 서버.md"
               }
             }
           }
@@ -178,22 +165,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d2b285b6674256d8",
+  "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241017091129.png",
+    "DataBase 보안.md",
+    "PMM 서버.md",
+    "앱 보안.md",
+    "Spaces/Home/Information_Security.md",
     "DB_과제.md",
+    "DB 성능 정보.md",
     "Spaces/Temp/Pasted image 20241016161804.png",
     "Spaces/Temp/Pasted image 20241016161708.png",
     "Spaces/Temp/Pasted image 20241016161448.png",
-    "DB 성능 정보.md",
     "Spaces/Temp/Pasted image 20241016161336.png",
     "Spaces/Temp/Pasted image 20241016161303.png",
     "Spaces/Temp/Pasted image 20241016161059.png",
     "Spaces/Temp/Pasted image 20241016160324.png",
     "Spaces/Temp/Pasted image 20241016155537.png",
     "Spaces/Temp/Pasted image 20241016155344.png",
-    "DataBase 보안.md",
-    "앱 보안.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Temp/Pasted image 20241016154233.png",
     "Database 기본.md",
     "웹 보안.md",
