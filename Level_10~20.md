@@ -106,3 +106,29 @@ file ./data6.bin
 ```
 12. 압축 해제
 ![[Pasted image 20241017131151.png]]
+13. 반복
+![[Pasted image 20241017131352.png]]
+14. 반복
+![[Pasted image 20241017131641.png]]
+15. 정답?
+![[Pasted image 20241017131707.png]]
+![[Pasted image 20241017131740.png]]
+The password is FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
+# Bandit Level 13 → Level 14
+
+## Level Goal
+
+The password for the next level is stored in **/etc/bandit_pass/bandit14 and can only be read by user bandit14**. For this level, you don’t get the next password, but you get a private SSH key that can be used to log into the next level. **Note:** **localhost** is a hostname that refers to the machine you are working on
+
+> [!번역]
+> 다음 레벨의 비밀번호는 /etc/bandit_pass/bandit14에 저장되며 사용자 밴디트14만 읽을 수 있습니다. 이 레벨의 경우 다음 비밀번호를 얻지는 못하지만 다음 레벨에 로그인하는 데 사용할 수 있는 개인 SSH 키를 얻습니다. 참고: localhost는 작업 중인 시스템을 가리키는 호스트 이름입니다
+
+## Commands you may need to solve this level
+
+ssh, telnet, nc, openssl, s_client, nmap
+
+## Helpful Reading Material
+
+- [SSH/OpenSSH/Keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys)
+
