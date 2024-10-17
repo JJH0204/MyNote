@@ -92,3 +92,23 @@ The password for the next level is stored in a file somewhere under the **inher
 
 [ls](https://manpages.ubuntu.com/manpages/noble/man1/ls.1.html) , [cd](https://manpages.ubuntu.com/manpages/noble/man1/cd.1posix.html) , [cat](https://manpages.ubuntu.com/manpages/noble/man1/cat.1.html) , [file](https://manpages.ubuntu.com/manpages/noble/man1/file.1.html) , [du](https://manpages.ubuntu.com/manpages/noble/man1/du.1.html) , [find](https://manpages.ubuntu.com/manpages/noble/man1/find.1.html)
 
+- 특정 문자열을 제외한 결과 출력
+```sh
+grep -v "with very long lines"
+```
+
+```sh
+find . -type f -exec file {} + | grep -i "ASCII text" | grep -v "with very long"
+```
+```sh
+./inhere/maybehere08/spaces file1: ASCII text
+./inhere/maybehere15/.file2:       ASCII text
+./inhere/maybehere15/spaces file2: ASCII text
+./inhere/maybehere01/-file2:       ASCII text
+./inhere/maybehere12/-file2:       ASCII text
+./inhere/maybehere10/.file2:       ASCII text
+./inhere/maybehere18/-file2:       ASCII text
+./.profile:                        ASCII text
+./.bashrc:                         ASCII text
+./.bash_logout:                    ASCII text
+```
