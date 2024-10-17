@@ -52,5 +52,5 @@ pmm-admin --version
 ## Node 등록
 ---
 ```sh
-pmm-admin config --server-insecur-tls --server-url=https://admin:choa0306@@@192.168.56.123:443
+pmm-admin config --server-insecure-tls --server-url=https://admin:choa0306@@@192.168.56.123:443
 ```
