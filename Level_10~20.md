@@ -175,6 +175,10 @@ The password for the next level can be retrieved by submitting the password of t
 
 **Helpful note: Getting “DONE”, “RENEGOTIATING” or “KEYUPDATE”? Read the “CONNECTED COMMANDS” section in the manpage.**
 
+> [!번역]
+> 다음 레벨의 비밀번호는 SSL/TLS 암호화를 사용하여 로컬호스트의 포트 30001에 현재 레벨의 비밀번호를 제출하면 검색할 수 있습니다.
+>
+> 유용한 참고 사항: "완료", "재협상" 또는 "키업데이트"를 받으시겠습니까? 맨페이지의 "연결된 명령" 섹션을 읽어보세요.
 ## Commands you may need to solve this level
 
 ssh, telnet, nc, ncat, socat, openssl, s_client, nmap, netstat, ss
