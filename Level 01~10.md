@@ -101,18 +101,9 @@ grep -v "with very long lines"
 find . -type f -exec file {} + | grep -i "ASCII text" | grep -v "with very long"
 ```
 ```sh
-./inhere/maybehere08/spaces file1: ASCII text
-./inhere/maybehere15/.file2:       ASCII text
-./inhere/maybehere15/spaces file2: ASCII text
-./inhere/maybehere01/-file2:       ASCII text
-./inhere/maybehere12/-file2:       ASCII text
-./inhere/maybehere10/.file2:       ASCII text
-./inhere/maybehere18/-file2:       ASCII text
-./.profile:                        ASCII text
-./.bashrc:                         ASCII text
-./.bash_logout:                    ASCII text
+find . -type f -size 1033c ! -perm /a=x -exec file {} + | grep -i "ASCII text" | grep -v "with very long"
 ```
 ```sh
-cat ./inhere/maybehere15/spaces\ file2
-Q2z7VXYuHnMJ11Ks9drvakV3s0pADkcPDQl1TlRMMdSzzHJQzX
+find . -type f -size 1033c
 ```
+
