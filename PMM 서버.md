@@ -54,3 +54,14 @@ pmm-admin --version
 ```sh
 pmm-admin config --server-insecure-tls --server-url=https://admin:choa0306@@@192.168.56.123:443
 ```
+![[Pasted image 20241017100253.png]]
+## DB 서버
+---
+```sh
+vi /usr/local/percona/pmm2/config/pmm-agent.yaml
+```
+![[Pasted image 20241017100751.png]]
+```
+dnf install -y mariadb
+systemctl start mariadb
+```
