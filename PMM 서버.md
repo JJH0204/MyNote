@@ -37,3 +37,8 @@ docker ps -a
 ```sh
 docker run --detach --restart always --publish 443:443 -v pmm-data:/srv --name pmm-server docker.io/percona/pmm-server:latest
 ```
+![[Pasted image 20241017092139.png]]
+![[Pasted image 20241017092405.png]]
+- admin/admin
+## 서버 설정
+---
