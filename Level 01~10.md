@@ -128,4 +128,22 @@ The password for the next level is stored **somewhere on the server** and has 
 -group "그룹이름"
 2>/dev/null # 출력 코드가 2(에러)이면 /dev/null로 보내(출력 x)
 ```
+```sh
+find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+```
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
+# Bandit Level 7 → Level 8
+
+## Level Goal
+
+The password for the next level is stored in the file **data.txt** next to the word **millionth**
+
+## Commands you may need to solve this level
+
+[man](https://manpages.ubuntu.com/manpages/noble/man1/man.1.html), grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+
+```sh
+cat ./data.txt | grep millionth
+```
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
