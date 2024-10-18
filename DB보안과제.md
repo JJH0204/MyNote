@@ -138,3 +138,5 @@ SHOW GLOBAL STATUS LIKE 'Innodb_buffer_pool_bytes%';
 > wordpress (192.168.56.125) = PMM-Agent
 > PMM-server (192.168.56.126) = PMM-Server
 
+![[Pasted image 20241018102241.png]]
+![[Pasted image 20241018102329.png]]
