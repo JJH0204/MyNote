@@ -159,3 +159,6 @@ show grants for 'pmm'@'127.0.0.1';
 5. Agent 설정 추가
 ![[Pasted image 20241018103039.png]]
 6. Agent 실행
+
+
+## \[WAF]

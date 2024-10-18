@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMM 서버.md",
+                "file": "WAF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PMM 서버"
+              "title": "WAF"
             }
           },
           {
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMM 서버.md",
+                "file": "WAF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "PMM 서버의 백링크"
+              "title": "WAF의 백링크"
             }
           },
           {
@@ -162,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMM 서버.md",
+                "file": "WAF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PMM 서버의 나가는 링크"
+              "title": "WAF의 나가는 링크"
             }
           },
           {
@@ -189,10 +189,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMM 서버.md"
+                "file": "WAF.md"
               },
               "icon": "lucide-list",
-              "title": "PMM 서버 개요"
+              "title": "WAF 개요"
             }
           }
         ]
@@ -216,22 +216,23 @@
   },
   "active": "c993082e033fdcae",
   "lastOpenFiles": [
-    "Setoolkit.md",
     "DB보안과제.md",
+    "WAF.md",
+    "앱 보안.md",
+    "DataBase 보안.md",
     "PMM 서버.md",
+    "Setoolkit.md",
     "Spaces/Temp/Pasted image 20241018103039.png",
     "Spaces/Temp/Pasted image 20241018102859.png",
     "Spaces/Temp/Pasted image 20241018102654.png",
     "Spaces/Temp/Pasted image 20241018102547.png",
     "Spaces/Temp/Pasted image 20241018102329.png",
     "Spaces/Temp/Pasted image 20241018102241.png",
-    "DataBase 보안.md",
     "DB 성능 정보.md",
     "Spaces/Temp/Pasted image 20241018101003.png",
     "Spaces/Temp/Pasted image 20241018100808.png",
     "Spaces/Temp/Pasted image 20241018100301.png",
     "Spaces/Temp/Pasted image 20241018095232.png",
-    "앱 보안.md",
     "Spaces/Home/Information_Security.md",
     "Level_10~20.md",
     "badit.md",
@@ -242,7 +243,6 @@
     "Database 기본.md",
     "웹 보안.md",
     "Spaces/Home/TODO LIST.md",
-    "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md",
-    "WAF.md"
+    "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md"
   ]
 }
