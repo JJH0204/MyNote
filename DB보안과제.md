@@ -52,7 +52,7 @@ docker compose up -d
 ### 4. wordpress 설정
 ![[Pasted image 20241018092358.png]]![[Pasted image 20241018092452.png]]![[Pasted image 20241018092518.png]]
 ## \[DB 보안 설정]
-### 1. DB 접속
+### 1-1. DB 접속
 ---
 #### 1.1. DB 실행 여부 확인
 ![[Pasted image 20241018092850.png]]
@@ -62,4 +62,26 @@ docker compose up -d
 ```sh
 # docker exec -it <컨테이터_이름> mysql -u<DB계정> -p
 docker exec -it wordpress-db-1 mysql -uroot -p
+```
+- root/rootpass
+
+### 1-2. 웹 DB 접속
+---
+```
+http://192.168.56.125:8081/
+```
+- 비밀번호는 이전과 동일
+![[Pasted image 20241018093734.png]]
+### 2. 계정 생성
+> [!조건_1]
+> test, 1234 - 192.168.56.125 에서 접속 가능하도록 사용자 생성
+> 워드프레스 DB의 모든 권한 설정
+```sql
+grant all privileges on *.* to 'test'@'192.168.56.125' identified by '1234';
+```
+
+> [!조건_2]
+> 본인 이름의 사용자 생성
+```sql
+grant all privileges on *.* to 'test'@'192.168.56.125' identified by '1234';
 ```

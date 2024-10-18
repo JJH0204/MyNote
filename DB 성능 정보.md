@@ -133,7 +133,7 @@ drop user 'test1'@'%';
 ```
 
 한번에 권한 지급 하기
-```
+```sql
 grant all privileges on school.* to 'test3'@'localhost' identified by '1234';
 ```
 

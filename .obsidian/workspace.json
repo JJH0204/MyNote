@@ -25,10 +25,14 @@
             "id": "c993082e033fdcae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "DB 성능 정보.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DB 성능 정보"
             }
           },
           {
@@ -211,6 +215,12 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "DB 성능 정보.md",
+    "DataBase 보안.md",
+    "앱 보안.md",
+    "DB보안과제.md",
+    "Spaces/Home/Information_Security.md",
+    "Spaces/Temp/Pasted image 20241018093734.png",
     "Spaces/Temp/Pasted image 20241018092850.png",
     "Spaces/Temp/Pasted image 20241018092518.png",
     "Spaces/Temp/Pasted image 20241018092452.png",
@@ -220,21 +230,14 @@
     "Spaces/Temp/Pasted image 20241018091334.png",
     "Spaces/Temp/Pasted image 20241018091050.png",
     "Spaces/Temp/Pasted image 20241018090610.png",
-    "앱 보안.md",
-    "DB보안과제.md",
-    "Spaces/Home/Information_Security.md",
     "Level_10~20.md",
     "Setoolkit.md",
-    "Spaces/Temp/Pasted image 20241017133139.png",
-    "Spaces/Temp/Pasted image 20241017131740.png",
     "badit.md",
     "Spaces/Desc/Wargame.md",
     "매직넘버.md",
     "Level 01~10.md",
-    "DataBase 보안.md",
     "PMM 서버.md",
     "DB_과제.md",
-    "DB 성능 정보.md",
     "Database 기본.md",
     "웹 보안.md",
     "Spaces/Home/TODO LIST.md",
