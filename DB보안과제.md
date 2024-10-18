@@ -163,7 +163,35 @@ show grants for 'pmm'@'127.0.0.1';
 
 ## \[WAF]
 
+
+
+- docker 설치
+```
+sudo dnf remove docker \
+                docker-client \
+                docker-client-latest \
+                docker-common \
+                docker-latest \
+                docker-latest-logrotate \
+                docker-logrotate \
+                docker-engine
+
+# Docker의 공식 리포지터리 추가
+sudo dnf config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+
+# Docker 설치
+sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+# Docker 서비스 시작
+sudo systemctl start docker
+
+# Docker 부팅 시 자동 실행 설정
+sudo systemctl enable docker
+
+```
+
 - 원터치
+`docker-compose.yml`
 ```yml
 version: '3.1'
 
@@ -210,7 +238,8 @@ services:
 
   waf-proxy:
     build: ./waf-proxy 
-    container_name: waf-proxy ports: 
+    container_name: 
+	waf-proxy ports: 
       - "8080:80" 
     networks: 
       - wp_network 
