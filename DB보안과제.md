@@ -81,7 +81,24 @@ grant all privileges on *.* to 'test'@'192.168.56.125' identified by '1234';
 ```
 
 > [!조건_2]
-> 본인 이름의 사용자 생성
+> local에서 접속 가능한 본인 이름의 사용자 생성
 ```sql
-grant all privileges on *.* to 'test'@'192.168.56.125' identified by '1234';
+create user 'jaeho'@'localhost' identified by 'choa0306@@';
+```
+
+> [!조건_3]
+> test1, 9876 사용자에 대한 권한 설정 및 제거
+```sql
+grant all privileges on *.* to 'test1'@'%' identified by '9876';
+```
+![[Pasted image 20241018095035.png]]
+```sql
+revoke all on *.* from 'test1'@'%';
+```
+![[Pasted image 20241018095232.png]]
+
+> [!조건_4]
+> test2, 4321 사용자의 패스워드를 5678로 변경
+```sql
+create user 'jaeho'@'localhost' identified by 'choa0306@@';
 ```

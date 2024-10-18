@@ -138,6 +138,6 @@ grant all privileges on school.* to 'test3'@'localhost' identified by '1234';
 ```
 
 한번에 회수하기
-```
- revoke all on school.* from test3@localhost;
+```sql
+ revoke all on school.* from 'test3'@'localhost';
 ```
