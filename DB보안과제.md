@@ -238,8 +238,8 @@ services:
 
   waf-proxy:
     build: ./waf-proxy 
-    container_name: 
-	waf-proxy ports: 
+    container_name: waf-proxy
+    ports: 
       - "8080:80" 
     networks: 
       - wp_network 
