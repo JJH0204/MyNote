@@ -137,6 +137,25 @@ SHOW GLOBAL STATUS LIKE 'Innodb_buffer_pool_bytes%';
 > [!기본 설정]
 > wordpress (192.168.56.125) = PMM-Agent
 > PMM-server (192.168.56.126) = PMM-Server
-
+1. PMM-server 구성
 ![[Pasted image 20241018102241.png]]
 ![[Pasted image 20241018102329.png]]
+2. PMM-Agent 구성
+![[Pasted image 20241018102547.png]]
+3. node 연결
+```sh
+ pmm-admin config --server-insecure-tls --server-url=https://admin:choa0306@@@192.168.56.126:443
+```
+![[Pasted image 20241018102654.png]]
+4. pmm 계정 생성
+```sql
+CREATE USER 'pmm'@'127.0.0.1' IDENTIFIED BY '1234' WITH MAX_USER_CONNECTIONS 10;
+grant select, process, super, replication client, reload, show view on *.* to 'pmm'@'127.0.0.1';
+grant select, update, drop, delete on performance_schema.* to 'pmm'@'127.0.0.1';
+flush privileges;
+show grants for 'pmm'@'127.0.0.1';
+```
+![[Pasted image 20241018102859.png]]
+5. Agent 설정 추가
+![[Pasted image 20241018103039.png]]
+6. Agent 실행
