@@ -45,8 +45,7 @@
               "title": "Setoolkit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setoolkit.md",
+                "file": "Level_10~20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Setoolkit의 백링크"
+              "title": "Level_10~20의 백링크"
             }
           },
           {
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setoolkit.md",
+                "file": "Level_10~20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Setoolkit의 나가는 링크"
+              "title": "Level_10~20의 나가는 링크"
             }
           },
           {
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setoolkit.md"
+                "file": "Level_10~20.md"
               },
               "icon": "lucide-list",
-              "title": "Setoolkit 개요"
+              "title": "Level_10~20 개요"
             }
           }
         ]
@@ -209,8 +209,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "272ce9d2a6af1608",
+  "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Setoolkit.md",
     "앱 보안.md",
     "Spaces/Home/Information_Security.md",
     "Level_10~20.md",
@@ -223,7 +224,6 @@
     "Spaces/Temp/Pasted image 20241017125554.png",
     "badit.md",
     "Spaces/Desc/Wargame.md",
-    "Setoolkit.md",
     "Spaces/Temp/Pasted image 20241017123959.png",
     "매직넘버.md",
     "Level 01~10.md",
