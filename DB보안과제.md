@@ -264,3 +264,6 @@ networks:
   wp_network: 
     driver: bridge
 ```
+
+- selinux를 꺼보자
+- 
