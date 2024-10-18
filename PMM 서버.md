@@ -94,3 +94,9 @@ performance_schema = ON
 ```sh
 pmm-admin add mysql --query-source=perfschema --username=pmm --password=1234
 ```
+pmm-admin add mysql --query-source=perfschema --username=pmm --password=1234 --host=wordpress-db-1 --port=3306
+
+docker network create mynetwork
+docker run -d --name mariadb --network=mynetwork -e MYSQL_ROOT_PASSWORD=rootpass mariadb
+docker run -d --name pmm-client --network=mynetwork percona/pmm-client:latest
+
