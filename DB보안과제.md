@@ -162,3 +162,50 @@ show grants for 'pmm'@'127.0.0.1';
 
 
 ## \[WAF]
+
+
+```yml
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress:4.7-php5.6-apache  # PHP 5.6과 워드프레스 4.7이 포함된 이미지
+    container_name: wordpress
+    restart: always
+    ports:
+      - 8080:80  # 워드프레스 컨테이너에서 포트 80을 호스트의 포트 8080으로 연결
+    environment:
+      WORDPRESS_DB_HOST: wordpress_db
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: rootpass
+      WORDPRESS_DB_NAME: WordpressDB
+	networks:
+	  - wp_network
+    volumes:
+      - ./wordpress_data:/var/www/html  # 워드프레스 파일이 저장될 경로
+
+  wordpress_db:
+    image: mariadb:10.5  # MariaDB 10.5 이미지 사용
+    container_name: wordpress_db
+    restart: always
+    environment:
+      MARIADB_DATABASE: WordpressDB
+      MARIADB_USER: root
+      MARIADB_PASSWORD: rootpass
+      MARIADB_ROOT_PASSWORD: rootpass
+    networks:
+	  - wp_network
+    volumes:
+      - ./db_data:/var/lib/mysql  # MariaDB 데이터베이스 파일 저장 경로
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin  # phpMyAdmin 컨테이너
+    restart: always
+    ports:
+      - 8081:80  # phpMyAdmin 포트 8081에서 실행
+    environment:
+      PMA_HOST: wordpress_db
+      MYSQL_ROOT_PASSWORD: rootpass
+
+```
