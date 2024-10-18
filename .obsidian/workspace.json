@@ -49,8 +49,7 @@
               "title": "Setoolkit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAF.md",
+                "file": "DB보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "WAF의 백링크"
+              "title": "DB보안과제의 백링크"
             }
           },
           {
@@ -162,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAF.md",
+                "file": "DB보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "WAF의 나가는 링크"
+              "title": "DB보안과제의 나가는 링크"
             }
           },
           {
@@ -189,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAF.md"
+                "file": "DB보안과제.md"
               },
               "icon": "lucide-list",
-              "title": "WAF 개요"
+              "title": "DB보안과제 개요"
             }
           }
         ]
@@ -214,10 +213,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c993082e033fdcae",
+  "active": "21b759560ceae7cf",
   "lastOpenFiles": [
-    "DB보안과제.md",
     "WAF.md",
+    "DB보안과제.md",
     "앱 보안.md",
     "DataBase 보안.md",
     "PMM 서버.md",
