@@ -1,10 +1,10 @@
 ![[Pasted image 20241018090610.png]]
-# \[취약한 Wordpress 서버 구축]
+## \[취약한 Wordpress 서버 구축]
 ![[Pasted image 20241018091050.png]]
 ![[Pasted image 20241018091334.png]]
-## 1. docker 환경 구축
+### 1. docker 환경 구축
 ![[Pasted image 20241018091650.png]]
-## 2. docker 환경 설정 파일
+### 2. docker 환경 설정 파일
 ```yml
 version: '3.1'
 
@@ -44,10 +44,22 @@ services:
       MYSQL_ROOT_PASSWORD: rootpass
 
 ```
-## 3. 실행
+### 3. 실행
 ```sh
 docker compose up -d
 ```
 ![[Pasted image 20241018092214.png]]
-## 4. wordpress 설정
-![[Pasted image 20241018092358.png]]
+### 4. wordpress 설정
+![[Pasted image 20241018092358.png]]![[Pasted image 20241018092452.png]]![[Pasted image 20241018092518.png]]
+## \[DB 보안 설정]
+### 1. DB 접속
+---
+#### 1.1. DB 실행 여부 확인
+![[Pasted image 20241018092850.png]]
+- mariadb:10.5 실행 확인
+
+#### 1.2. DB 접속
+```sh
+# docker exec -it <컨테이터_이름> mysql -u<DB계정> -p
+docker exec -it wordpress-db-1 mysql -uroot -p
+```
