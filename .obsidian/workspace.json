@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level_10~20.md",
+                "file": "DB보안과제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_10~20"
+              "title": "DB보안과제"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level_10~20.md",
+                "file": "DB보안과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Level_10~20의 백링크"
+              "title": "DB보안과제의 백링크"
             }
           },
           {
@@ -157,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level_10~20.md",
+                "file": "DB보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Level_10~20의 나가는 링크"
+              "title": "DB보안과제의 나가는 링크"
             }
           },
           {
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level_10~20.md"
+                "file": "DB보안과제.md"
               },
               "icon": "lucide-list",
-              "title": "Level_10~20 개요"
+              "title": "DB보안과제 개요"
             }
           }
         ]
@@ -211,10 +211,14 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
-    "Setoolkit.md",
+    "Spaces/Temp/Pasted image 20241018091334.png",
+    "Spaces/Temp/Pasted image 20241018091050.png",
+    "Spaces/Temp/Pasted image 20241018090610.png",
     "앱 보안.md",
+    "DB보안과제.md",
     "Spaces/Home/Information_Security.md",
     "Level_10~20.md",
+    "Setoolkit.md",
     "Spaces/Temp/Pasted image 20241017133139.png",
     "Spaces/Temp/Pasted image 20241017131740.png",
     "Spaces/Temp/Pasted image 20241017131707.png",
@@ -227,10 +231,8 @@
     "Spaces/Temp/Pasted image 20241017123959.png",
     "매직넘버.md",
     "Level 01~10.md",
-    "Spaces/Temp/Pasted image 20241017121930.png",
     "DataBase 보안.md",
     "PMM 서버.md",
-    "Spaces/Temp/Pasted image 20241017100751.png",
     "DB_과제.md",
     "DB 성능 정보.md",
     "Database 기본.md",
