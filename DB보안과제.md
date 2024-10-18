@@ -164,10 +164,13 @@ show grants for 'pmm'@'127.0.0.1';
 ## \[WAF]
 
 
-# CTF_Momentom2
+# CTF_Momentum2
 ## \[정보 수집]
 ![[Pasted image 20241018162608.png]]
-
+```sh
+gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -u http://192.168.56.128/ -x html,php,bak,txt,php.bak
+```
+![[Pasted image 20241018174442.png]]
 
 - docker 설치
 ```
