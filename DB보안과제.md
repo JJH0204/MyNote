@@ -100,5 +100,21 @@ revoke all on *.* from 'test1'@'%';
 > [!조건_4]
 > test2, 4321 사용자의 패스워드를 5678로 변경
 ```sql
-create user 'jaeho'@'localhost' identified by 'choa0306@@';
+create user 'test2'@'localhost' identified by '4321';
 ```
+```sql
+ALTER USER 'test2'@'localhost' IDENTIFIED BY '5678';
+```
+
+- DB 적용
+```sql
+flush privileges;
+```
+
+### 3. 시스템 메모리 관리
+```sh
+grep MemTotal /proc/meminfo
+grep SwapTotal /proc/meminfo
+```
+![[Pasted image 20241018100301.png]]
+
