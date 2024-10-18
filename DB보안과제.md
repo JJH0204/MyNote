@@ -164,6 +164,10 @@ show grants for 'pmm'@'127.0.0.1';
 ## \[WAF]
 
 
+# CTF_Momentom2
+## \[정보 수집]
+![[Pasted image 20241018162608.png]]
+
 
 - docker 설치
 ```
