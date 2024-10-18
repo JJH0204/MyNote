@@ -163,7 +163,7 @@ show grants for 'pmm'@'127.0.0.1';
 
 ## \[WAF]
 
-
+- 원터치
 ```yml
 version: '3.1'
 
@@ -208,4 +208,23 @@ services:
       PMA_HOST: wordpress_db
       MYSQL_ROOT_PASSWORD: rootpass
 
+  waf-proxy:
+    build: ./waf-proxy 
+    container_name: waf-proxy ports: 
+      - "8080:80" 
+    networks: 
+      - wp_network 
+
+  pmm-client: 
+    image: percona/pmm-client:latest 
+    container_name: pmm-client 
+    environment: 
+      PMM_SERVER: "192.168.56.126" # PMM 서버의 IP 주소 
+    command: /bin/bash -c "while true; do sleep 1000; done"
+    networks: 
+      - wp_network
+
+networks: 
+  wp_network: 
+    driver: bridge
 ```
