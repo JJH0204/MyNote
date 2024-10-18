@@ -118,3 +118,23 @@ grep SwapTotal /proc/meminfo
 ```
 ![[Pasted image 20241018100301.png]]
 
+### 4. DB 메모리 확인
+#### 4.1. 명령어
+1. 메모리 설정 변수 확인
+```sql
+SHOW VARIABLES LIKE '%buffer%';
+```
+![[Pasted image 20241018100808.png]]
+2. 실제 사용량 확인
+```sql
+SHOW GLOBAL STATUS LIKE 'Innodb_buffer_pool_bytes%';
+```
+![[Pasted image 20241018101003.png]]
+- `Innodb_buffer_pool_bytes_data`는 실제 데이터가 차지하는 메모리의 바이트 수.
+- `Innodb_buffer_pool_bytes_free`는 사용 가능한 여유 메모리의 바이트 수.
+
+#### 4.2. PMM 사용
+> [!기본 설정]
+> wordpress (192.168.56.125) = PMM-Agent
+> PMM-server (192.168.56.126) = PMM-Server
+
