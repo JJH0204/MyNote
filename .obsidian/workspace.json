@@ -16,9 +16,7 @@
                 "file": "DB보안과제.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DB보안과제"
+              }
             }
           },
           {
@@ -27,12 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAF.md",
+                "file": "CTF_Momentum_1.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WAF"
+              }
             }
           }
         ],
@@ -54,9 +50,7 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "state": {}
             }
           },
           {
@@ -66,9 +60,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              }
             }
           },
           {
@@ -83,9 +75,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "검색"
+              }
             }
           },
           {
@@ -93,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -117,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -128,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAF.md",
+                "file": "CTF_Momentum_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +122,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "WAF의 백링크"
+              }
             }
           },
           {
@@ -147,12 +131,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAF.md",
+                "file": "CTF_Momentum_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "WAF의 나가는 링크"
+              }
             }
           },
           {
@@ -163,9 +145,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -174,10 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAF.md"
-              },
-              "icon": "lucide-list",
-              "title": "WAF 개요"
+                "file": "CTF_Momentum_1.md"
+              }
             }
           }
         ]
@@ -201,19 +179,22 @@
   },
   "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
-    "앱 보안.md",
+    "Spaces/Desc/CTF.md",
+    "CTF_Momentum_1.md",
+    "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
+    "웹 보안.md",
+    "WAF.md",
+    "앱 보안.md",
     "OS_Command_Injection.md",
     "A1-Injection.md",
     "Bee-Box.md",
-    "웹 보안.md",
     "PMM 서버.md",
     "DataBase 보안.md",
     "DB 성능 정보.md",
     "Database 기본.md",
     "DB_과제.md",
     "DB보안과제.md",
-    "WAF.md",
     "Setoolkit.md",
     "Spaces/Temp/Pasted image 20241018174442.png",
     "Spaces/Temp/Pasted image 20241018162608.png",
