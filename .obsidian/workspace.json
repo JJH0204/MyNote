@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB 성능 정보.md",
+                "file": "PMM 서버.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB 성능 정보"
+              "title": "PMM 서버"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB 성능 정보.md",
+                "file": "PMM 서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "DB 성능 정보의 백링크"
+              "title": "PMM 서버의 백링크"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB 성능 정보.md",
+                "file": "PMM 서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "DB 성능 정보의 나가는 링크"
+              "title": "PMM 서버의 나가는 링크"
             }
           },
           {
@@ -175,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB 성능 정보.md"
+                "file": "PMM 서버.md"
               },
               "icon": "lucide-list",
-              "title": "DB 성능 정보 개요"
+              "title": "PMM 서버 개요"
             }
           }
         ]
@@ -203,8 +203,8 @@
   "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
     "DataBase 보안.md",
-    "Database 기본.md",
     "DB 성능 정보.md",
+    "Database 기본.md",
     "DB_과제.md",
     "DB보안과제.md",
     "앱 보안.md",
