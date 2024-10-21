@@ -16,7 +16,9 @@
                 "file": "DB보안과제.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DB보안과제"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "WAF.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "WAF"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Setoolkit.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Setoolkit"
             }
           }
         ]
@@ -60,18 +66,12 @@
             "id": "967642947f11dcdf",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "82f3f1c792d4085a",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -86,7 +86,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -94,7 +96,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2aaed812c910d8c9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -117,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -134,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "DB보안과제의 백링크"
             }
           },
           {
@@ -146,7 +164,9 @@
                 "file": "DB보안과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "DB보안과제의 나가는 링크"
             }
           },
           {
@@ -157,7 +177,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -167,7 +189,9 @@
               "type": "outline",
               "state": {
                 "file": "DB보안과제.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "DB보안과제 개요"
             }
           }
         ]
