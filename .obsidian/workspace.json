@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setoolkit.md",
+                "file": "WebGoat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Setoolkit의 백링크"
+              "title": "WebGoat의 백링크"
             }
           },
           {
@@ -162,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setoolkit.md",
+                "file": "WebGoat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Setoolkit의 나가는 링크"
+              "title": "WebGoat의 나가는 링크"
             }
           },
           {
@@ -189,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setoolkit.md"
+                "file": "WebGoat.md"
               },
               "icon": "lucide-list",
-              "title": "Setoolkit 개요"
+              "title": "WebGoat 개요"
             }
           }
         ]
@@ -214,8 +215,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "165ddcd074c2b368",
+  "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241022112010.png",
+    "Setoolkit.md",
     "앱 보안.md",
     "Spaces/Home/Information_Security.md",
     "WebGoat.md",
@@ -245,7 +248,6 @@
     "Database 기본.md",
     "DB_과제.md",
     "DB보안과제.md",
-    "Setoolkit.md",
     "Level_10~20.md",
     "badit.md",
     "Spaces/Desc/Wargame.md",

