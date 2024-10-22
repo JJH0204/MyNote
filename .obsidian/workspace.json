@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Momentum_1.md",
+                "file": "보안사고분석대응.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTF_Momentum_1"
+              "title": "보안사고분석대응"
             }
           }
         ],
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Momentum_1.md",
+                "file": "보안사고분석대응.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CTF_Momentum_1의 백링크"
+              "title": "보안사고분석대응의 백링크"
             }
           },
           {
@@ -148,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Momentum_1.md",
+                "file": "보안사고분석대응.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CTF_Momentum_1의 나가는 링크"
+              "title": "보안사고분석대응의 나가는 링크"
             }
           },
           {
@@ -175,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Momentum_1.md"
+                "file": "보안사고분석대응.md"
               },
               "icon": "lucide-list",
-              "title": "CTF_Momentum_1 개요"
+              "title": "보안사고분석대응 개요"
             }
           }
         ]
@@ -202,10 +203,11 @@
   },
   "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
-    "Spaces/Desc/CTF.md",
-    "CTF_Momentum_1.md",
-    "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
+    "보안사고분석대응.md",
+    "CTF_Momentum_1.md",
+    "Spaces/Desc/CTF.md",
+    "시스템 보안.md",
     "웹 보안.md",
     "WAF.md",
     "앱 보안.md",
