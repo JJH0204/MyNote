@@ -15,7 +15,9 @@
 6) # Discover Clues in the HTML
    - 웹 소스코드를 확인하면 발견할 수 있음![[Pasted image 20241022104837.png]]
      ![[Pasted image 20241022104946.png]]
-7)  
-8) String SQL Injection
+7) # Phishing with XSS
+   - ![[Pasted image 20241022110334.png]]
+   - `<iframe frameborder=0 width=400 height=200 src="내가 만든 피싱 주소"></iframe>`
+1) String SQL Injection
 ![[Pasted image 20241022093320.png]]
 2) 

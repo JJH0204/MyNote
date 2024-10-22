@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "WebGoat"
             }
+          },
+          {
+            "id": "165ddcd074c2b368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setoolkit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setoolkit"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebGoat.md",
+                "file": "Setoolkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "WebGoat의 백링크"
+              "title": "Setoolkit의 백링크"
             }
           },
           {
@@ -149,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebGoat.md",
+                "file": "Setoolkit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "WebGoat의 나가는 링크"
+              "title": "Setoolkit의 나가는 링크"
             }
           },
           {
@@ -176,10 +189,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebGoat.md"
+                "file": "Setoolkit.md"
               },
               "icon": "lucide-list",
-              "title": "WebGoat 개요"
+              "title": "Setoolkit 개요"
             }
           }
         ]
@@ -201,8 +214,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a747a23b5ed6fc83",
+  "active": "165ddcd074c2b368",
   "lastOpenFiles": [
+    "앱 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "WebGoat.md",
+    "Spaces/Temp/Pasted image 20241022110334.png",
     "Spaces/Temp/Pasted image 20241022104946.png",
     "Spaces/Temp/Pasted image 20241022104837.png",
     "Spaces/Temp/Pasted image 20241022103935.png",
@@ -212,12 +229,8 @@
     "Spaces/Temp/Pasted image 20241022102353.png",
     "Spaces/Temp/Pasted image 20241022101502.png",
     "보안사고분석대응.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Home/TODO LIST.md",
-    "WebGoat.md",
     "Spaces/Temp/Pasted image 20241022093320.png",
-    "Spaces/Temp/Pasted image 20241022093053.png",
-    "앱 보안.md",
     "CTF_Momentum_1.md",
     "Spaces/Desc/CTF.md",
     "시스템 보안.md",
@@ -233,7 +246,6 @@
     "DB_과제.md",
     "DB보안과제.md",
     "Setoolkit.md",
-    "Spaces/Temp/Pasted image 20241018174442.png",
     "Level_10~20.md",
     "badit.md",
     "Spaces/Desc/Wargame.md",
