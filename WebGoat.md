@@ -40,7 +40,6 @@ User Authentication
    프록시로 잡아서 sql injection 시도![[Pasted image 20241022113920.png]]
    `102%20or%201=1`![[Pasted image 20241022115048.png]]
    이때 특수문자(띄어쓰기)는 %20(아스키코드)으로 encoding
-1) 
-2) String SQL Injection
+10) String SQL Injection
 ![[Pasted image 20241022093320.png]]
-2) 
+https://github.com/WebGoat/WebGoat/wiki/Main-Exploits
