@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF_Momentum_1.md",
+                "file": "Backdoor Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "setUID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF_Momentum_1.md",
+                "file": "Backdoor Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF_Momentum_1.md",
+                "file": "Backdoor Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF_Momentum_1.md"
+                "file": "Backdoor Attack.md"
               }
             }
           }
@@ -179,8 +180,8 @@
   },
   "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
-    "Spaces/Desc/CTF.md",
     "CTF_Momentum_1.md",
+    "Spaces/Desc/CTF.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "웹 보안.md",
