@@ -38,16 +38,6 @@
             "id": "e29d3825db87aeac",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
-            }
-          },
-          {
-            "id": "2aaed812c910d8c9",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
@@ -82,9 +72,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "4115abc591107b28",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
