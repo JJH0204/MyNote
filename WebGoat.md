@@ -37,8 +37,8 @@ User Authentication
    `CSRF.help&id&pwd&uname` 형식으로 바꿔도 명령어를 다중으로 실행하여 원하는 결과를 만들 수도 있다.(이때 URL encoding 필요)
    `CSRF.help%22%26id%26pwd%26uname%22`![[Pasted image 20241022113442.png]]
 9) # Numeric SQL Injection
-   ![[Pasted image 20241022113920.png]]
-   
+   프록시로 ![[Pasted image 20241022113920.png]]
+   `102%20or%201=1`
 1) 
 2) String SQL Injection
 ![[Pasted image 20241022093320.png]]
