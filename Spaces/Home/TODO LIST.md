@@ -33,3 +33,4 @@ sticker: lucide//check-check
 - [ ] Bee-Box 취약점 정리(A1)
 - [ ] OWASP-JuiceShop📅 2024-11-25 
 - [ ] WebGoat 취약점 정리
+- [ ] 29~31 취업 상담
