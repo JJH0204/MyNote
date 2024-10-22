@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -204,13 +203,13 @@
   "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
     "Spaces/Home/Information_Security.md",
+    "앱 보안.md",
     "보안사고분석대응.md",
     "CTF_Momentum_1.md",
     "Spaces/Desc/CTF.md",
     "시스템 보안.md",
     "웹 보안.md",
     "WAF.md",
-    "앱 보안.md",
     "OS_Command_Injection.md",
     "A1-Injection.md",
     "Bee-Box.md",
