@@ -11,8 +11,11 @@
 5) # Multi Level Login 2
    - 2차 인증 이상의 인증이 있는 것을 의미![[Pasted image 20241022103218.png]]
    - 2차 인증을 완료하면 신용카드 정보를 확인할 수 있다.![[Pasted image 20241022103324.png]]
-   - Tan 코드를 입력해 로그인을 시도할 때 Proxy를 통해 hidden name을 목표로 하는 Jane으로 바꿔서 요청하면 성공![[Pasted image 20241022103935.png]]
-1) 
-2) String SQL Injection
+   - Tan 코드를 입력해 로그인을 시도할 때 Proxy를 통해 hidden user을 목표로 하는 Jane으로 바꿔서 요청하면 성공![[Pasted image 20241022103935.png]]
+6) # Discover Clues in the HTML
+   - 웹 소스코드를 확인하면 발견할 수 있음![[Pasted image 20241022104837.png]]
+     ![[Pasted image 20241022104946.png]]
+7)  
+8) String SQL Injection
 ![[Pasted image 20241022093320.png]]
 2) 
