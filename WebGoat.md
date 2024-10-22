@@ -35,6 +35,9 @@ User Authentication
    HelpFile 대신에 `../../../../../../../../../etc/passwd`를 추가![[Pasted image 20241022112209.png]]
    ![[Pasted image 20241022112424.png]]
    `CSRF.help&id&pwd&uname` 형식으로 바꿔도 명령어를 다중으로 실행하여 원하는 결과를 만들 수도 있다.(이때 URL encoding 필요)
+   `CSRF.help%22%26id%26pwd%26uname%22`![[Pasted image 20241022113442.png]]
+9) # Numeric SQL Injection
+   ![[Pasted image 20241022113920.png]]
    
 1) 
 2) String SQL Injection
