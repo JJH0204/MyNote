@@ -52,3 +52,5 @@ if($decode_id=="admin" && $decode_pw=="nimda"){  solve(6);
 </body>  
 </html>
 ```
+
+![[Pasted image 20241023100013.png]]
