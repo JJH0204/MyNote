@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old-31.md",
+                "file": "Webhacking.kr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "old-31"
+              "title": "Webhacking.kr"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "08fc0a81242e0214",
   "lastOpenFiles": [
-    "Webhacking.kr.md",
     "old-31.md",
+    "Spaces/Temp/Pasted image 20241023104443.png",
+    "Webhacking.kr.md",
     "old-39.md",
     "Spaces/Temp/Pasted image 20241023103647.png",
     "Spaces/Temp/Pasted image 20241023103129.png",
@@ -218,7 +219,6 @@
     "Spaces/Temp/Pasted image 20241023101429.png",
     "old-15.md",
     "Spaces/Temp/Pasted image 20241023101124.png",
-    "Spaces/Temp/Pasted image 20241023100706.png",
     "old-6.md",
     "old-5.md",
     "old-4.md",
@@ -237,7 +237,6 @@
     "Spaces/Desc/CTF.md",
     "시스템 해킹 기법.md",
     "접근제어.md",
-    "DB보안과제.md",
-    "WebGoat.md"
+    "DB보안과제.md"
   ]
 }
