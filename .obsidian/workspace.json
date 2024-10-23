@@ -35,8 +35,7 @@
               "title": "Webhacking.kr"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             }
           },
           {
-            "id": "ea1f82b27e9492a5",
+            "id": "89b4556b2ddc3f85",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -99,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,11 +200,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "08fc0a81242e0214",
+  "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Webhacking.kr.md",
     "old-31.md",
     "Spaces/Temp/Pasted image 20241023104443.png",
-    "Webhacking.kr.md",
     "old-39.md",
     "Spaces/Temp/Pasted image 20241023103647.png",
     "Spaces/Temp/Pasted image 20241023103129.png",
