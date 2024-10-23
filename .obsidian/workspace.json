@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webhacking.kr.md",
+                "file": "old-39.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Webhacking.kr"
+              "title": "old-39"
             }
           }
         ],
@@ -203,21 +203,24 @@
   },
   "active": "08fc0a81242e0214",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241023103129.png",
+    "Webhacking.kr.md",
+    "old-39.md",
+    "old-16.md",
+    "Spaces/Temp/Pasted image 20241023103034.png",
+    "Spaces/Temp/Pasted image 20241023103024.png",
+    "Spaces/Temp/Pasted image 20241023102308.png",
     "old-26.md",
     "Spaces/Temp/Pasted image 20241023102003.png",
     "Spaces/Temp/Pasted image 20241023101619.png",
     "Spaces/Temp/Pasted image 20241023101429.png",
-    "Webhacking.kr.md",
     "old-15.md",
     "Spaces/Temp/Pasted image 20241023101124.png",
     "Spaces/Temp/Pasted image 20241023100706.png",
     "old-6.md",
     "Spaces/Temp/Pasted image 20241023100418.png",
     "Spaces/Temp/Pasted image 20241023100317.png",
-    "Spaces/Temp/Pasted image 20241023100013.png",
-    "Spaces/Temp/Pasted image 20241023094333.png",
     "old-5.md",
-    "Spaces/Temp/Pasted image 20241023093747.png",
     "old-4.md",
     "old-3.md",
     "old-2.md",
@@ -235,8 +238,6 @@
     "시스템 해킹 기법.md",
     "접근제어.md",
     "DB보안과제.md",
-    "WebGoat.md",
-    "Setoolkit.md",
-    "앱 보안.md"
+    "WebGoat.md"
   ]
 }
