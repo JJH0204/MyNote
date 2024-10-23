@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor Attack.md",
+                "file": "Level_10~20.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setUID",
+                "query": "매직",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backdoor Attack.md",
+                "file": "Level_10~20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backdoor Attack.md",
+                "file": "Level_10~20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backdoor Attack.md"
+                "file": "Level_10~20.md"
               }
             }
           }
@@ -180,6 +180,9 @@
   },
   "active": "a747a23b5ed6fc83",
   "lastOpenFiles": [
+    "매직넘버.md",
+    "Level_10~20.md",
+    "Backdoor Attack.md",
     "CTF_Momentum_1.md",
     "Spaces/Desc/CTF.md",
     "시스템 보안.md",
@@ -207,10 +210,8 @@
     "Spaces/Temp/Pasted image 20241018102241.png",
     "Spaces/Temp/Pasted image 20241018101003.png",
     "Spaces/Temp/Pasted image 20241018100808.png",
-    "Level_10~20.md",
     "badit.md",
     "Spaces/Desc/Wargame.md",
-    "매직넘버.md",
     "Level 01~10.md",
     "Spaces/Home/TODO LIST.md",
     "Excalidraw/Drawing 2024-10-16 09.01.39.excalidraw.md"
