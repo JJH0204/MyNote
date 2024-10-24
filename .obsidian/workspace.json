@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backdoor Attack.md",
+                "file": "Wazuh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backdoor Attack"
+              "title": "Wazuh"
             }
           },
           {
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "89b4556b2ddc3f85",
+            "id": "c9f49e6075ab53a3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,6 +202,12 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241024093817.png",
+    "Spaces/Temp/Pasted image 20241024093123.png",
+    "SIEM.md",
+    "Wazuh.md",
+    "보안사고분석대응.md",
+    "Spaces/Home/Information_Security.md",
     "Webhacking.kr.md",
     "old-31.md",
     "Spaces/Temp/Pasted image 20241023104443.png",
@@ -217,15 +223,12 @@
     "Spaces/Temp/Pasted image 20241023101619.png",
     "Spaces/Temp/Pasted image 20241023101429.png",
     "old-15.md",
-    "Spaces/Temp/Pasted image 20241023101124.png",
     "old-6.md",
     "old-5.md",
     "old-4.md",
     "old-3.md",
     "old-2.md",
     "old-1.md",
-    "보안사고분석대응.md",
-    "Spaces/Home/Information_Security.md",
     "Backdoor Attack.md",
     "Linux_Sec.md",
     "시스템 보안.md",
@@ -234,8 +237,6 @@
     "시스템보안과제.md",
     "포맷 스트링 공격.md",
     "Spaces/Desc/CTF.md",
-    "시스템 해킹 기법.md",
-    "접근제어.md",
-    "DB보안과제.md"
+    "시스템 해킹 기법.md"
   ]
 }
