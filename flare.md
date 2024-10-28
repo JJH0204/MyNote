@@ -97,7 +97,7 @@ BINTEXT
 / 호스트 기반 증거: Kerne132.dll
 / 네트워크 기반 증거: Lab01-01.dll(WS2_32.dll 실행/127.26.152.13)
 / 목적: Kerne132.dll를 생성>시스템을 지연>악성프로그램 탐지 방지>공격자 시스템으로 백도어 설정
-/ 대응방안:
+/ 대응방안: 불필요한 프로세스 중지 및 기존 서비스 내용 확인, 백신 프로그램 설치
 
 [dll](https://learn.microsoft.com/ko-kr/cpp/build/kinds-of-dlls?view=msvc-170) 파일에 대한 사전 정보를 학습할 필요가 있다.
 
