@@ -20,3 +20,9 @@ sticker: lucide//glasses
 ## 9. [[자료]]
 
 ### [Docker](Docker.md)
+
+과제
+개인 과제 - 11월 25일까지(Juice-Shop)
+- 다양한 도구를 통한 자동/수동 점검
+
+팀 과제 - 11월 29일까지(1인당 10문제)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wazuh.md",
+                "file": "악성코드분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wazuh"
+              "title": "악성코드분석"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "906d5055b732e638",
+            "id": "fbedef02d701640b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -185,8 +186,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "906d5055b732e638",
+  "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "보안사고분석대응.md",
+    "악성코드분석.md",
+    "Spaces/Home/Information_Security.md",
     "Wazuh.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Temp/Pasted image 20241024101455.png",
@@ -195,8 +199,6 @@
     "Spaces/Temp/Pasted image 20241024093817.png",
     "Spaces/Temp/Pasted image 20241024093123.png",
     "SIEM.md",
-    "보안사고분석대응.md",
-    "Spaces/Home/Information_Security.md",
     "old-31.md",
     "Spaces/Temp/Pasted image 20241023104443.png",
     "old-39.md",
