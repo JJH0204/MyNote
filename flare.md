@@ -33,4 +33,4 @@ PracticalMalwareAnalysis-Labs git 설치
 - git 에서 설치하면 됨
 
 - 컴파일 시점 / 패킹 여부 / 코드 내 함수 실행(Import) / 호스트 기반 증거 / 네트워크 기반 증거 / 목적 / 대응방안
-vinstotal.com
+virustotal.com
