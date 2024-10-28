@@ -27,7 +27,8 @@ PracticalMalwareAnalysis-Labs git 설치
 
 윈도우 자동 업데이트 끄기
 
-정적 분석 도구: PEID/EXEINFO PE/BinText/PEView/Strings
-동적 분석 도구: Process Explorer/Process Monitor/Autoruns/Wireshark
+정적 분석 도구: PEID/EXEINFO PE/BinText/PEView/Strings/Dependency Walker
+동적 분석 도구: Process Explorer/Process Monitor/Autoruns/Wireshark/IDA/ollyDBG (Sysinternals 로 한번에 설치 가능)
 
 - git 에서 설치하면 됨
+
