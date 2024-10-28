@@ -10,6 +10,10 @@
 ![[Pasted image 20241028093339.png]]![[Pasted image 20241028093541.png]]
 
 ![[Pasted image 20241028093602.png]]
+
+![[Pasted image 20241028104227.png]]
+gpedit.msc 에서 안되면 아래 사이트에서 파일 설치
+
 Bitdefender 설치
 https://www.bitdefender.com/
 
@@ -20,3 +24,5 @@ y
 ollydbg.vm 추가
 
 PracticalMalwareAnalysis-Labs git 설치
+
+윈도우 자동 업데이트 끄기
