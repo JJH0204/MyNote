@@ -82,8 +82,9 @@ HxD
 BINTEXT
 ![[Pasted image 20241028144304.png]]
 - 모든 텍스트 문자열을 읽기 쉽게 정리
-- 
 
+동적 분석은 스냅샷을 찍어서 프로그램의 실행 전과 후를 비교할 수 있도록 한다.
+![[Pasted image 20241028150558.png]]
 
 컴파일 시점: 10년10월4일
 / 패킹 여부: 안함
@@ -95,4 +96,3 @@ BINTEXT
 
 [dll](https://learn.microsoft.com/ko-kr/cpp/build/kinds-of-dlls?view=msvc-170) 파일에 대한 사전 정보를 학습할 필요가 있다.
 
-0
