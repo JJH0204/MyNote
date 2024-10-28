@@ -17,3 +17,6 @@ y
 
 암호 설정
 
+ollydbg.vm 추가
+
+PracticalMalwareAnalysis-Labs git 설치
