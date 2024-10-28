@@ -26,3 +26,6 @@ ollydbg.vm 추가
 PracticalMalwareAnalysis-Labs git 설치
 
 윈도우 자동 업데이트 끄기
+
+PEID/EXEINFO PE install
+

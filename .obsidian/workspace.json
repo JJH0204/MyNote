@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
+                "file": "flare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information_Security"
+              "title": "flare"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -187,6 +188,7 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Spaces/Home/Information_Security.md",
     "flare.md",
     "Spaces/Temp/Pasted image 20241028104227.png",
     "Spaces/Temp/Pasted image 20241028093602.png",
@@ -200,7 +202,6 @@
     "Spaces/Temp/Pasted image 20241028092753.png",
     "악성코드분석.md",
     "보안사고분석대응.md",
-    "Spaces/Home/Information_Security.md",
     "Wazuh.md",
     "conflict-files-obsidian-git.md",
     "Webhacking.kr.md",
