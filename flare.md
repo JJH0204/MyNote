@@ -34,3 +34,7 @@ PracticalMalwareAnalysis-Labs git 설치
 
 - 컴파일 시점 / 패킹 여부 / 코드 내 함수 실행(Import) / 호스트 기반 증거 / 네트워크 기반 증거 / 목적 / 대응방안
 virustotal.com
+
+# 정적
+패킹(Packing) - 언패킹(Unpacking)
+패커(Packer-패킹 툴)
