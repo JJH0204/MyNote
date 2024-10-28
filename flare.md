@@ -29,6 +29,6 @@ PracticalMalwareAnalysis-Labs git 설치
 
 정적 분석 도구: PEID/EXEINFO PE/BinText/PEView/Strings/Dependency Walker
 동적 분석 도구: Process Explorer/Process Monitor/Autoruns/Wireshark/IDA DisAssembler/ollyDBG (Sysinternals 로 한번에 설치 가능)
-
+/ HxD
 - git 에서 설치하면 됨
 
