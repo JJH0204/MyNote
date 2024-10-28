@@ -38,3 +38,13 @@ virustotal.com
 # 정적
 패킹(Packing) - 언패킹(Unpacking)
 패커(Packer-패킹 툴)
+
+난독화/압축/암호화 가 해당
+
+UPS
+
+pe - 실행파일
+
+![[Pasted image 20241028140438.png]]![[Pasted image 20241028140706.png]]= PE Header
+![[Pasted image 20241028140726.png]]= PE Body
+
