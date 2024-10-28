@@ -11,3 +11,9 @@
 
 ![[Pasted image 20241028093602.png]]
 Bitdefender 설치
+https://www.bitdefender.com/
+
+y
+
+암호 설정
+
