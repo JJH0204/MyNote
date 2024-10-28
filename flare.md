@@ -60,3 +60,14 @@ Signature는 위와 다름
 
 PEID
 ![[Pasted image 20241028141820.png]]
+- 패킹 여부 확인이 안됨
+
+EXEINFO PE
+![[Pasted image 20241028142259.png]]
+- 편집기 / 컴파일 시간 확인가능
+- 패킹 여부를 확인할 수 있다.
+
+OLLYDBG
+![[Pasted image 20241028142531.png]]
+- 실행파일의 어셀블리 코드를 확인할 수 있다
+- 
