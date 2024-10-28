@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "플레어 설치.md",
+                "file": "flare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "플레어 설치"
+              "title": "flare"
             }
           }
         ]
@@ -188,9 +188,17 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241028093602.png",
+    "Spaces/Temp/Pasted image 20241028093541.png",
+    "Spaces/Temp/Pasted image 20241028093339.png",
+    "Spaces/Temp/Pasted image 20241028093253.png",
+    "Spaces/Temp/Pasted image 20241028093222.png",
+    "Spaces/Temp/Pasted image 20241028093028.png",
+    "Spaces/Temp/Pasted image 20241028092943.png",
+    "Spaces/Temp/Pasted image 20241028092912.png",
     "Spaces/Temp/Pasted image 20241028092753.png",
     "악성코드분석.md",
-    "플레어 설치.md",
+    "flare.md",
     "보안사고분석대응.md",
     "Spaces/Home/Information_Security.md",
     "Wazuh.md",
@@ -198,18 +206,10 @@
     "Spaces/Temp/Pasted image 20241024101455.png",
     "Spaces/Temp/Pasted image 20241024101257.png",
     "Webhacking.kr.md",
-    "Spaces/Temp/Pasted image 20241024093817.png",
-    "Spaces/Temp/Pasted image 20241024093123.png",
     "SIEM.md",
     "old-31.md",
-    "Spaces/Temp/Pasted image 20241023104443.png",
     "old-39.md",
-    "Spaces/Temp/Pasted image 20241023103647.png",
-    "Spaces/Temp/Pasted image 20241023103129.png",
     "old-16.md",
-    "Spaces/Temp/Pasted image 20241023103034.png",
-    "Spaces/Temp/Pasted image 20241023103024.png",
-    "Spaces/Temp/Pasted image 20241023102308.png",
     "old-26.md",
     "old-15.md",
     "old-6.md",
