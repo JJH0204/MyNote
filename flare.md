@@ -48,3 +48,15 @@ pe - 실행파일
 ![[Pasted image 20241028140438.png]]![[Pasted image 20241028140706.png]]= PE Header
 ![[Pasted image 20241028140726.png]]= PE Body
 
+![[Pasted image 20241028140837.png]]: 도스 호환을 위해 현재까지 사용 중인 해더
+![[Pasted image 20241028140911.png]], mz = 실행파일이다
+시그니처 = [매직넘버](https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5) 
+
+![[Pasted image 20241028141057.png]]
+Signature는 위와 다름
+![[Pasted image 20241028141144.png]] (파일의 속성값)컴파일 시간을 알 수 있다.
+![[Pasted image 20241028141200.png]]
+
+
+PEID
+![[Pasted image 20241028141820.png]]
