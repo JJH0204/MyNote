@@ -10,3 +10,4 @@
 ![[Pasted image 20241028093339.png]]![[Pasted image 20241028093541.png]]
 
 ![[Pasted image 20241028093602.png]]
+Bitdefender 설치
