@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flare.md",
+                "file": "Lab03-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flare"
+              "title": "Lab03-01"
             }
           }
         ]
@@ -188,6 +188,10 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241029092222.png",
+    "Spaces/Temp/Pasted image 20241029091721.png",
+    "flare.md",
+    "Lab03-01.md",
     "Spaces/Temp/Pasted image 20241028151634.png",
     "Spaces/Temp/Pasted image 20241028150558.png",
     "Spaces/Temp/Pasted image 20241028144304.png",
@@ -197,10 +201,7 @@
     "Spaces/Temp/Pasted image 20241028142259.png",
     "Spaces/Temp/Pasted image 20241028141820.png",
     "Spaces/Temp/Pasted image 20241028141200.png",
-    "Spaces/Temp/Pasted image 20241028141144.png",
-    "Spaces/Temp/Pasted image 20241028141057.png",
     "Spaces/Home/Information_Security.md",
-    "flare.md",
     "악성코드분석.md",
     "보안사고분석대응.md",
     "Wazuh.md",
@@ -222,7 +223,6 @@
     "Linux_Sec.md",
     "시스템 보안.md",
     "Scaning tool.md",
-    "Proxy tool.md",
-    "시스템보안과제.md"
+    "Proxy tool.md"
   ]
 }
