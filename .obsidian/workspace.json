@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab06.md",
+                "file": "Lab07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab06"
+              "title": "Lab07"
             }
           }
         ]
@@ -188,7 +188,10 @@
   },
   "active": "21b759560ceae7cf",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241029140725.png",
+    "Spaces/Temp/Pasted image 20241029140400.png",
     "flare.md",
+    "Lab07.md",
     "Lab06.md",
     "Spaces/Temp/Pasted image 20241029122312.png",
     "Spaces/Temp/Pasted image 20241029122201.png",
@@ -201,7 +204,6 @@
     "Lab05.md",
     "Lab03-01.md",
     "Spaces/Temp/Pasted image 20241029101222.png",
-    "Spaces/Temp/Pasted image 20241029100738.png",
     "Spaces/Home/Information_Security.md",
     "악성코드분석.md",
     "보안사고분석대응.md",
@@ -221,7 +223,6 @@
     "old-2.md",
     "old-1.md",
     "Backdoor Attack.md",
-    "Linux_Sec.md",
-    "시스템 보안.md"
+    "Linux_Sec.md"
   ]
 }
