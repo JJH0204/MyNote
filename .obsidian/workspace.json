@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 보안.md",
+                "file": "악성코드분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "웹 보안"
+              "title": "악성코드분석"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
-    "모의해킹 결과 보고서.md",
-    "웹 보안.md",
+    "보안사고분석대응.md",
     "Spaces/Home/Information_Security.md",
+    "웹 보안.md",
+    "모의해킹 결과 보고서.md",
     "앱 보안.md",
     "Spaces/Desc/Wargame.md",
-    "보안사고분석대응.md",
     "악성코드분석.md",
     "flare.md",
     "Lab09.md",
