@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21b759560ceae7cf",
+            "id": "cc90fa0c0b31c72a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab07.md",
+                "file": "Lab09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab07"
+              "title": "Lab09"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "38d1cc3f0822cea7",
+            "id": "2949f98801ffd4c3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,11 +84,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 240.5,
     "collapsed": true
   },
   "right": {
@@ -186,13 +186,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "21b759560ceae7cf",
+  "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
+    "flare.md",
+    "Lab09.md",
+    "악성코드분석.md",
+    "보안사고분석대응.md",
+    "Spaces/Home/Information_Security.md",
+    "Lab07.md",
     "Spaces/Temp/Pasted image 20241029142004.png",
     "Spaces/Temp/Pasted image 20241029140725.png",
     "Spaces/Temp/Pasted image 20241029140400.png",
-    "flare.md",
-    "Lab07.md",
     "Lab06.md",
     "Spaces/Temp/Pasted image 20241029122312.png",
     "Spaces/Temp/Pasted image 20241029122201.png",
@@ -201,12 +205,8 @@
     "Spaces/Temp/Pasted image 20241029121404.png",
     "Spaces/Temp/Pasted image 20241029121233.png",
     "Spaces/Temp/Pasted image 20241029121003.png",
-    "Spaces/Temp/Pasted image 20241029120748.png",
     "Lab05.md",
     "Lab03-01.md",
-    "Spaces/Home/Information_Security.md",
-    "악성코드분석.md",
-    "보안사고분석대응.md",
     "Wazuh.md",
     "conflict-files-obsidian-git.md",
     "Webhacking.kr.md",
