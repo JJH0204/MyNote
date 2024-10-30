@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab09.md",
+                "file": "웹 보안.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab09"
+              "title": "웹 보안"
             }
           }
         ]
@@ -188,24 +188,27 @@
   },
   "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
+    "모의해킹 결과 보고서.md",
+    "웹 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "앱 보안.md",
+    "Spaces/Desc/Wargame.md",
+    "보안사고분석대응.md",
+    "악성코드분석.md",
+    "flare.md",
+    "Lab09.md",
     "Spaces/Temp/Pasted image 20241030092813.png",
     "Spaces/Temp/Pasted image 20241030092756.png",
     "Spaces/Temp/Pasted image 20241030091622.png",
     "Spaces/Temp/Pasted image 20241030091407.png",
     "Spaces/Temp/Pasted image 20241030091151.png",
     "Spaces/Temp/Pasted image 20241030091011.png",
-    "flare.md",
-    "Lab09.md",
-    "악성코드분석.md",
-    "보안사고분석대응.md",
-    "Spaces/Home/Information_Security.md",
     "Lab07.md",
     "Spaces/Temp/Pasted image 20241029142004.png",
     "Spaces/Temp/Pasted image 20241029140725.png",
     "Spaces/Temp/Pasted image 20241029140400.png",
     "Lab06.md",
     "Spaces/Temp/Pasted image 20241029122312.png",
-    "Spaces/Temp/Pasted image 20241029122201.png",
     "Lab05.md",
     "Lab03-01.md",
     "Wazuh.md",
@@ -220,9 +223,6 @@
     "old-6.md",
     "old-5.md",
     "old-4.md",
-    "old-3.md",
-    "old-2.md",
-    "old-1.md",
-    "Backdoor Attack.md"
+    "old-3.md"
   ]
 }
