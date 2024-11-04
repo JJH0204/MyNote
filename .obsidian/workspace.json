@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "침해사고분석"
+              "title": "Information_Security"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
-    "Spaces/Home/Information_Security.md",
     "침해사고분석.md",
+    "Spaces/Home/Information_Security.md",
     "보안사고분석대응.md",
     "Spaces/Desc/Wargame.md",
     "앱 보안.md",
