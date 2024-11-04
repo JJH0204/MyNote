@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "보안사고분석대응.md",
+                "file": "침해사고분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "보안사고분석대응"
+              "title": "침해사고분석"
             }
           }
         ]
@@ -188,10 +188,11 @@
   "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
     "Spaces/Home/Information_Security.md",
+    "침해사고분석.md",
+    "보안사고분석대응.md",
     "Spaces/Desc/Wargame.md",
     "앱 보안.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "보안사고분석대응.md",
     "악성코드분석.md",
     "웹 보안.md",
     "모의해킹 결과 보고서.md",
@@ -221,7 +222,6 @@
     "old-26.md",
     "old-15.md",
     "old-6.md",
-    "old-5.md",
-    "old-4.md"
+    "old-5.md"
   ]
 }
