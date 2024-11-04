@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Information_Security.md",
+                "file": "보안사고분석대응.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information_Security"
+              "title": "보안사고분석대응"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "e2ea7f03627adec8",
+            "id": "14fb166253a78a31",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -187,10 +187,10 @@
   },
   "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
+    "Spaces/Home/Information_Security.md",
     "Spaces/Desc/Wargame.md",
     "앱 보안.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Home/Information_Security.md",
     "보안사고분석대응.md",
     "악성코드분석.md",
     "웹 보안.md",
