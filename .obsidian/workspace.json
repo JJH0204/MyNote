@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -187,19 +186,21 @@
   },
   "active": "cc90fa0c0b31c72a",
   "lastOpenFiles": [
+    "Spaces/Temp/Pasted image 20241105142410.png",
+    "Spaces/Temp/Pasted image 20241105140943.png",
+    "Spaces/Temp/Pasted image 20241105140815.png",
+    "Spaces/Home/Information_Security.md",
+    "침해사고분석.md",
+    "Spaces/Temp/Pasted image 20241105120637.png",
+    "Spaces/Temp/Pasted image 20241105120404.png",
+    "Spaces/Temp/$MFT.md",
+    "Spaces/Temp/$MFT",
     "Spaces/Temp/Pasted image 20241105114640.png",
     "Spaces/Temp/Pasted image 20241105112825.png",
     "Spaces/Temp/Pasted image 20241105104811.png",
     "Spaces/Temp/Pasted image 20241105104744.png",
     "Spaces/Temp/Pasted image 20241105103221.png",
     "Spaces/Temp/Pasted image 20241105102646.png",
-    "Spaces/Temp/Pasted image 20241105102305.png",
-    "Spaces/Temp/Pasted image 20241105102046.png",
-    "Spaces/Temp/Pasted image 20241105101630.png",
-    "Spaces/Temp/Pasted image 20241105101206.png",
-    "Spaces/Temp/Pasted image 20241105100315.png",
-    "Spaces/Home/Information_Security.md",
-    "침해사고분석.md",
     "보안사고분석대응.md",
     "Spaces/Desc/Wargame.md",
     "앱 보안.md",
@@ -221,7 +222,6 @@
     "old-39.md",
     "old-16.md",
     "old-26.md",
-    "old-15.md",
-    "old-6.md"
+    "old-15.md"
   ]
 }
