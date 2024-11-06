@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "윈도우 취약점 분석.md",
+                "file": "Juiceshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "윈도우 취약점 분석"
+              "title": "Juiceshop"
             }
           }
         ]
@@ -188,11 +188,12 @@
   },
   "active": "787ee527633e8f7f",
   "lastOpenFiles": [
-    "침해사고분석.md",
-    "Spaces/Home/Information_Security.md",
     "웹 보안.md",
-    "Juiceshop.md",
+    "Spaces/Home/Information_Security.md",
+    "앱 보안.md",
+    "침해사고분석.md",
     "윈도우 취약점 분석.md",
+    "Juiceshop.md",
     "Spaces/Temp/Pasted image 20241106103739.png",
     "Spaces/Temp/Pasted image 20241106102210.png",
     "Spaces/Temp/Pasted image 20241105142410.png",
@@ -207,7 +208,6 @@
     "Spaces/Temp/Pasted image 20241105104811.png",
     "보안사고분석대응.md",
     "Spaces/Desc/Wargame.md",
-    "앱 보안.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "악성코드분석.md",
     "모의해킹 결과 보고서.md",
