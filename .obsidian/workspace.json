@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Juiceshop"
             }
+          },
+          {
+            "id": "3cbe9d1ca08aa573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "윈도우 취약점 분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "윈도우 취약점 분석"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,7 @@
             }
           },
           {
-            "id": "fdcab4c9a27570c3",
+            "id": "6f88014af323a955",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -186,14 +200,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "787ee527633e8f7f",
+  "active": "3cbe9d1ca08aa573",
   "lastOpenFiles": [
-    "웹 보안.md",
-    "Spaces/Home/Information_Security.md",
-    "앱 보안.md",
     "침해사고분석.md",
-    "윈도우 취약점 분석.md",
+    "Spaces/Home/Information_Security.md",
     "Juiceshop.md",
+    "웹 보안.md",
+    "앱 보안.md",
+    "윈도우 취약점 분석.md",
     "Spaces/Temp/Pasted image 20241106103739.png",
     "Spaces/Temp/Pasted image 20241106102210.png",
     "Spaces/Temp/Pasted image 20241105142410.png",
