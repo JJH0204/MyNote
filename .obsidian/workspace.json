@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "윈도우 취약점 분석.md",
+                "file": "침해사고분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "윈도우 취약점 분석"
+              "title": "침해사고분석"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -188,11 +187,13 @@
   },
   "active": "787ee527633e8f7f",
   "lastOpenFiles": [
-    "침해사고분석.md",
+    "Spaces/Home/Information_Security.md",
+    "웹 보안.md",
+    "Juiceshop.md",
     "윈도우 취약점 분석.md",
+    "침해사고분석.md",
     "Spaces/Temp/Pasted image 20241106103739.png",
     "Spaces/Temp/Pasted image 20241106102210.png",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Temp/Pasted image 20241105142410.png",
     "Spaces/Temp/Pasted image 20241105140943.png",
     "Spaces/Temp/Pasted image 20241105140815.png",
@@ -208,7 +209,6 @@
     "앱 보안.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "악성코드분석.md",
-    "웹 보안.md",
     "모의해킹 결과 보고서.md",
     "flare.md",
     "Lab09.md",
