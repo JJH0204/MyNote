@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "윈도우 취약점 분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "침해사고분석"
+              "title": "윈도우 취약점 분석"
             }
           }
         ]
@@ -187,11 +187,11 @@
   },
   "active": "787ee527633e8f7f",
   "lastOpenFiles": [
+    "침해사고분석.md",
     "Spaces/Home/Information_Security.md",
     "웹 보안.md",
     "Juiceshop.md",
     "윈도우 취약점 분석.md",
-    "침해사고분석.md",
     "Spaces/Temp/Pasted image 20241106103739.png",
     "Spaces/Temp/Pasted image 20241106102210.png",
     "Spaces/Temp/Pasted image 20241105142410.png",
