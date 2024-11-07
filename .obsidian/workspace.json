@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3cbe9d1ca08aa573",
+  "active": "24ea7a5aab543139",
   "lastOpenFiles": [
     "Excalidraw/Metasploitable3-win2k8.md",
     "Spaces/Temp/Pasted image 20241107093457.png",
