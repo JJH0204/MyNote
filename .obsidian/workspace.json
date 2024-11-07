@@ -47,8 +47,7 @@
               "title": "Metasploitable3-win2k8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,12 +212,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3cbe9d1ca08aa573",
+  "active": "787ee527633e8f7f",
   "lastOpenFiles": [
+    "리눅스 침해사항 분석.md",
     "Spaces/Temp/Pasted image 20241107140611.png",
     "Spaces/Temp/Pasted image 20241107140444.png",
     "침해사고분석.md",
-    "리눅스 침해사항 분석.md",
     "Spaces/Home/Information_Security.md",
     "윈도우 취약점 분석.md",
     "Juiceshop.md",
@@ -230,7 +229,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241107103202_166.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107103017_168.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107100732_130.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241107100714_094.png",
     "Excalidraw/Metasploitable3-win2k8.md",
     "웹 보안.md",
     "앱 보안.md",
