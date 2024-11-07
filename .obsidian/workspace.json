@@ -11,14 +11,12 @@
             "id": "787ee527633e8f7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Juiceshop.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Juiceshop_walkthrough.md"
               },
-              "icon": "lucide-file",
-              "title": "Juiceshop"
+              "icon": "excalidraw-icon",
+              "title": "Juiceshop_walkthrough"
             }
           },
           {
@@ -45,6 +43,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "Metasploitable3-win2k8"
+            }
+          },
+          {
+            "id": "0c6d87fb46596b9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Juiceshop_walkthrough.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Juiceshop_walkthrough"
             }
           }
         ]
@@ -214,13 +224,15 @@
   },
   "active": "787ee527633e8f7f",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241107162415_746.png",
+    "Juiceshop.md",
+    "Excalidraw/Juiceshop_walkthrough.md",
     "리눅스 침해사항 분석.md",
     "Spaces/Temp/Pasted image 20241107140611.png",
     "Spaces/Temp/Pasted image 20241107140444.png",
     "침해사고분석.md",
     "Spaces/Home/Information_Security.md",
     "윈도우 취약점 분석.md",
-    "Juiceshop.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107115609_337.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107114453_295.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107114238_282.png",
@@ -248,7 +260,6 @@
     "Wazuh.md",
     "conflict-files-obsidian-git.md",
     "Webhacking.kr.md",
-    "SIEM.md",
-    "old-31.md"
+    "SIEM.md"
   ]
 }
