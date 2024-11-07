@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "윈도우 취약점 분석"
             }
+          },
+          {
+            "id": "24ea7a5aab543139",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Metasploitable3-win2k8.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Metasploitable3-win2k8"
+            }
           }
         ],
         "currentTab": 1
@@ -203,6 +215,7 @@
   },
   "active": "3cbe9d1ca08aa573",
   "lastOpenFiles": [
+    "Excalidraw/Metasploitable3-win2k8.md",
     "Spaces/Temp/Pasted image 20241107093457.png",
     "Spaces/Temp/Pasted image 20241107092212.png",
     "침해사고분석.md",
@@ -221,7 +234,6 @@
     "Spaces/Temp/$MFT.md",
     "Spaces/Temp/$MFT",
     "Spaces/Temp/Pasted image 20241105114640.png",
-    "Spaces/Temp/Pasted image 20241105112825.png",
     "보안사고분석대응.md",
     "Spaces/Desc/Wargame.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
