@@ -33,8 +33,7 @@
               "title": "CTF_Cookie01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,23 +197,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7d65743be0b5d4ac",
+  "active": "3cbe9d1ca08aa573",
   "lastOpenFiles": [
+    "Excalidraw/CTF_Cookie01.md",
+    "Spaces/Desc/CTF.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108174900_447.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108174609_909.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108174432_933.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108174254_258.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108172908_904.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108171257_293.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108163820_907.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108163634_628.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108163137_906.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108163036_503.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108162620_245.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108161406_911.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108160725_911.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108160710_908.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108160501_913.png",
-    "Excalidraw/CTF_Cookie01.md",
     "Excalidraw/comminjection.md",
     "Excalidraw/CTF_Account_1.md",
-    "Spaces/Desc/CTF.md",
     "Excalidraw/CTF_Account_2.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
