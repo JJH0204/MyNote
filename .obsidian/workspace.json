@@ -33,7 +33,8 @@
               "title": "CTF_Cookie01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +87,7 @@
             }
           },
           {
-            "id": "d8f6dc74b80f0dee",
+            "id": "90fd0d949d14326b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,7 +198,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3cbe9d1ca08aa573",
+  "active": "7d65743be0b5d4ac",
   "lastOpenFiles": [
     "Excalidraw/CTF_Cookie01.md",
     "Spaces/Desc/CTF.md",
