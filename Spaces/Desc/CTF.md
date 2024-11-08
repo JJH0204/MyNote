@@ -41,6 +41,7 @@
 - [[CTF_Quaoar]]
 - [[CTF_KIOPTRIX_Level_1.2]]
 - [[CTF_Momentum_1]]
+- [[CTF_Account_1]]
 
 # 자체 제작 CTF
 ---

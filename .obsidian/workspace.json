@@ -8,56 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "787ee527633e8f7f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Juiceshop_walkthrough"
-            }
-          },
-          {
             "id": "3cbe9d1ca08aa573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스 침해사항 분석.md",
+                "file": "Spaces/Desc/CTF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스 침해사항 분석"
+              "title": "CTF"
             }
           },
           {
-            "id": "24ea7a5aab543139",
+            "id": "f99eee3d05ce263f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Metasploitable3-win2k8.md"
+                "file": "Excalidraw/CTF_Account_1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Metasploitable3-win2k8"
-            }
-          },
-          {
-            "id": "0c6d87fb46596b9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Juiceshop_walkthrough"
+              "title": "CTF_Account_1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +87,7 @@
             }
           },
           {
-            "id": "f712281efc68baf1",
+            "id": "d8f6dc74b80f0dee",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,8 +199,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "787ee527633e8f7f",
+  "active": "f99eee3d05ce263f",
   "lastOpenFiles": [
+    "Excalidraw/CTF_Account_1.md",
+    "Spaces/Desc/CTF.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "웹 보안.md",
+    "리눅스 침해사항 분석.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107171218_225.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107165433_938.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107163905_840.png",
@@ -231,18 +214,14 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241107162415_746.png",
     "Juiceshop.md",
     "Excalidraw/Juiceshop_walkthrough.md",
-    "리눅스 침해사항 분석.md",
     "Spaces/Temp/Pasted image 20241107140611.png",
     "Spaces/Temp/Pasted image 20241107140444.png",
     "침해사고분석.md",
-    "Spaces/Home/Information_Security.md",
     "윈도우 취약점 분석.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107115609_337.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107114453_295.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241107114238_282.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241107103705_173.png",
     "Excalidraw/Metasploitable3-win2k8.md",
-    "웹 보안.md",
     "앱 보안.md",
     "Spaces/Temp/$MFT.md",
     "Spaces/Temp/$MFT",
@@ -258,8 +237,6 @@
     "Lab05.md",
     "Lab03-01.md",
     "Wazuh.md",
-    "conflict-files-obsidian-git.md",
-    "Webhacking.kr.md",
-    "SIEM.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
