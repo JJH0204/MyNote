@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "f99eee3d05ce263f",
+            "id": "1f49051c78dbddd5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/CTF_Account_1.md"
+                "file": "Excalidraw/CTF_Account_2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "CTF_Account_1"
+              "title": "CTF_Account_2"
             }
           }
         ],
@@ -199,25 +199,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f99eee3d05ce263f",
+  "active": "1f49051c78dbddd5",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108113544_907.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108113332_482.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108113140_906.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108113038_904.png",
+    "Excalidraw/CTF_Account_2.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108112741_856.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108111639_958.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108094630_905.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108094459_904.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108094141_907.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108092658_906.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108092628_763.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108092307_884.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108091906_904.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108091508_906.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108091346_905.png",
     "Excalidraw/CTF_Account_1.md",
     "Spaces/Desc/CTF.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "웹 보안.md",
     "리눅스 침해사항 분석.md",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241107171218_225.png",
     "Juiceshop.md",
     "Excalidraw/Juiceshop_walkthrough.md",
     "침해사고분석.md",
@@ -236,7 +237,6 @@
     "Lab07.md",
     "Lab06.md",
     "Lab05.md",
-    "Lab03-01.md",
-    "Wazuh.md"
+    "Lab03-01.md"
   ]
 }
