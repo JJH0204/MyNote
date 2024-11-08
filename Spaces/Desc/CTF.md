@@ -44,7 +44,7 @@
 - [[CTF_Account_1]]
 - [[CTF_Account_2]]
 - [[comminjection]]
-- CTF_
+- [[CTF_Cookie01]]
 # 자체 제작 CTF
 ---
 - [[CTF-Custom]]

@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "3d68f0853b429733",
+            "id": "7d65743be0b5d4ac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/comminjection.md"
+                "file": "Excalidraw/CTF_Cookie01.md"
               },
               "icon": "excalidraw-icon",
-              "title": "comminjection"
+              "title": "CTF_Cookie01"
             }
           }
         ],
@@ -198,19 +198,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3d68f0853b429733",
+  "active": "7d65743be0b5d4ac",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108153904_926.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108153834_910.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108153732_906.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108153630_905.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108153458_178.png",
+    "Excalidraw/CTF_Cookie01.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108145446_914.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108145413_924.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108145318_100.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108145247_937.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108144555_903.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108144358_060.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108143340_910.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108142718_241.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108142241_916.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108141720_909.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108141558_907.png",
     "Excalidraw/comminjection.md",
     "Excalidraw/CTF_Account_1.md",
     "Spaces/Desc/CTF.md",
@@ -235,7 +236,6 @@
     "flare.md",
     "Lab09.md",
     "Lab07.md",
-    "Lab06.md",
-    "Lab05.md"
+    "Lab06.md"
   ]
 }
