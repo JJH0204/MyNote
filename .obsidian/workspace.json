@@ -33,7 +33,8 @@
               "title": "comminjection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +198,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3cbe9d1ca08aa573",
+  "active": "3d68f0853b429733",
   "lastOpenFiles": [
     "Excalidraw/Spaces/Temp/Pasted Image 20241108145446_914.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108145413_924.png",
