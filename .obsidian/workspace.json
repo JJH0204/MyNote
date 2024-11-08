@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-08 14.08.59.excalidraw.md"
+                "file": "Excalidraw/comminjection.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-08 14.08.59.excalidraw"
+              "title": "comminjection"
             }
           }
         ],
@@ -200,7 +200,11 @@
   },
   "active": "3d68f0853b429733",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-08 14.08.59.excalidraw.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108141720_909.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108141558_907.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108141355_905.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241108141254_930.png",
+    "Excalidraw/comminjection.md",
     "Excalidraw/CTF_Account_1.md",
     "Spaces/Desc/CTF.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108140815_907.png",
@@ -210,9 +214,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241108140155_367.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241108135955_608.png",
     "Excalidraw/CTF_Account_2.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108123707_133.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108123550_908.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108123400_918.png",
     "Excalidraw/CTF_Account_2.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
@@ -235,7 +236,6 @@
     "Lab09.md",
     "Lab07.md",
     "Lab06.md",
-    "Lab05.md",
-    "Lab03-01.md"
+    "Lab05.md"
   ]
 }
