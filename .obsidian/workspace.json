@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 보안.md",
+                "file": "project_1118.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "웹 보안"
+              "title": "project_1118"
             }
           }
         ],
@@ -229,6 +229,8 @@
   },
   "active": "5bc5d7e4f79e507f",
   "lastOpenFiles": [
+    "웹 보안.md",
+    "project_1118.md",
     "Spaces/Temp/Pasted image 20241111110811.png",
     "Spaces/Temp/Pasted image 20241111110750.png",
     "Juiceshop.md",
@@ -237,7 +239,6 @@
     "Spaces/Temp/Pasted image 20241111100811.png",
     "윈도우 시스템 파일.md",
     "Excalidraw/Juiceshop_walkthrough.md",
-    "웹 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Temp/Pasted image 20241111095107.png",
     "Spaces/Temp/Pasted image 20241111094318.png",
@@ -245,7 +246,6 @@
     "Spaces/Temp/Pasted image 20241111093117.png",
     "Spaces/Temp/Pasted image 20241111092439.png",
     "Spaces/Temp/Pasted image 20241111092256.png",
-    "Spaces/Temp/Pasted image 20241111091855.png",
     "침해사고분석.md",
     "Spaces/Desc/CTF.md",
     "Excalidraw/CTF_Cookie01.md",
