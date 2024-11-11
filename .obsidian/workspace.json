@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "메모리 점검"
             }
+          },
+          {
+            "id": "5bc5d7e4f79e507f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Juiceshop_walkthrough.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Juiceshop_walkthrough"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -213,8 +224,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6631e70c71be4ca8",
+  "active": "5bc5d7e4f79e507f",
   "lastOpenFiles": [
+    "Juiceshop.md",
+    "Excalidraw/Juiceshop_walkthrough.md",
+    "웹 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "메모리 점검.md",
+    "Spaces/Temp/Pasted image 20241111095107.png",
     "Spaces/Temp/Pasted image 20241111094318.png",
     "Spaces/Temp/Pasted image 20241111094303.png",
     "Spaces/Temp/Pasted image 20241111093117.png",
@@ -224,21 +241,14 @@
     "Spaces/Temp/Pasted image 20241111091633.png",
     "Spaces/Temp/Pasted image 20241111091249.png",
     "Spaces/Temp/Pasted image 20241111090956.png",
-    "Spaces/Temp/Pasted image 20241111090924.png",
     "침해사고분석.md",
-    "메모리 점검.md",
-    "Spaces/Home/Information_Security.md",
     "Spaces/Desc/CTF.md",
     "Excalidraw/CTF_Cookie01.md",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241108174900_447.png",
     "Excalidraw/comminjection.md",
     "Excalidraw/CTF_Account_1.md",
     "Excalidraw/CTF_Account_2.md",
     "시스템 보안.md",
-    "웹 보안.md",
     "리눅스 침해사항 분석.md",
-    "Juiceshop.md",
-    "Excalidraw/Juiceshop_walkthrough.md",
     "윈도우 취약점 분석.md",
     "Excalidraw/Metasploitable3-win2k8.md",
     "앱 보안.md",
