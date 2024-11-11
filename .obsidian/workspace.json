@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메모리 점검.md",
+                "file": "윈도우 시스템 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "메모리 점검"
+              "title": "윈도우 시스템 파일"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -224,13 +225,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5bc5d7e4f79e507f",
+  "active": "6631e70c71be4ca8",
   "lastOpenFiles": [
-    "Juiceshop.md",
+    "메모리 점검.md",
+    "윈도우 시스템 파일.md",
     "Excalidraw/Juiceshop_walkthrough.md",
+    "Juiceshop.md",
     "웹 보안.md",
     "Spaces/Home/Information_Security.md",
-    "메모리 점검.md",
     "Spaces/Temp/Pasted image 20241111095107.png",
     "Spaces/Temp/Pasted image 20241111094318.png",
     "Spaces/Temp/Pasted image 20241111094303.png",
