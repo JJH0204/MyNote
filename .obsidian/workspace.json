@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "윈도우 시스템 파일.md",
+                "file": "메모리 점검.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "윈도우 시스템 파일"
+              "title": "메모리 점검"
             }
           },
           {
@@ -227,8 +227,10 @@
   },
   "active": "6631e70c71be4ca8",
   "lastOpenFiles": [
-    "메모리 점검.md",
+    "Spaces/Temp/Pasted image 20241111100956.png",
+    "Spaces/Temp/Pasted image 20241111100811.png",
     "윈도우 시스템 파일.md",
+    "메모리 점검.md",
     "Excalidraw/Juiceshop_walkthrough.md",
     "Juiceshop.md",
     "웹 보안.md",
@@ -242,7 +244,6 @@
     "Spaces/Temp/Pasted image 20241111091855.png",
     "Spaces/Temp/Pasted image 20241111091633.png",
     "Spaces/Temp/Pasted image 20241111091249.png",
-    "Spaces/Temp/Pasted image 20241111090956.png",
     "침해사고분석.md",
     "Spaces/Desc/CTF.md",
     "Excalidraw/CTF_Cookie01.md",
@@ -262,7 +263,6 @@
     "악성코드분석.md",
     "모의해킹 결과 보고서.md",
     "flare.md",
-    "Lab09.md",
-    "Lab07.md"
+    "Lab09.md"
   ]
 }
