@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wargame",
+                "query": "vlan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,9 +229,13 @@
   },
   "active": "5bc5d7e4f79e507f",
   "lastOpenFiles": [
+    "VTP.md",
+    "Switch Based.md",
+    "VLAN.md",
+    "LAN 환경 구축.md",
+    "project_1118.md",
     "Spaces/Temp/Pasted image 20241111134630.png",
     "웹 보안.md",
-    "project_1118.md",
     "Spaces/Temp/Pasted image 20241111110811.png",
     "Spaces/Temp/Pasted image 20241111110750.png",
     "Juiceshop.md",
@@ -246,7 +250,6 @@
     "Spaces/Temp/Pasted image 20241111094303.png",
     "Spaces/Temp/Pasted image 20241111093117.png",
     "Spaces/Temp/Pasted image 20241111092439.png",
-    "Spaces/Temp/Pasted image 20241111092256.png",
     "침해사고분석.md",
     "Spaces/Desc/CTF.md",
     "Excalidraw/CTF_Cookie01.md",
@@ -262,9 +265,6 @@
     "Spaces/Temp/$MFT",
     "보안사고분석대응.md",
     "Spaces/Desc/Wargame.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "악성코드분석.md",
-    "모의해킹 결과 보고서.md",
-    "flare.md"
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md"
   ]
 }
