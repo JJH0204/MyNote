@@ -78,3 +78,10 @@ R2 -> R4: SSH 허용
 > access-list INSIDE2 extended permit tcp any any eq 23
 > access-list INSIDE2 extended permit tcp any any eq 443
 > access-list INSIDE2 extended permit icmp any any 
+
+DVWA(CTF) -> ASAv inside: https 접속
+![[Pasted image 20241112100659.png]]
+DVWA(CTF) -> ASAv inside: telnet 
+![[Pasted image 20241112101006.png]]
+DVWA -> R3: Ping
+![[Pasted image 20241112101237.png]]
