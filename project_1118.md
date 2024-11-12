@@ -74,4 +74,7 @@ CIDR: /27
 DVWA -> Inside: https/telnet 허용
 DVWA -> R3: Ping 허용
 R2 -> R4: SSH 허용
-> 192.168.80.96 network -> 
+> access-list INSIDE2 extended permit tcp any any eq 80
+> access-list INSIDE2 extended permit tcp any any eq 23
+> access-list INSIDE2 extended permit tcp any any eq 443
+> access-list INSIDE2 extended permit icmp any any 
