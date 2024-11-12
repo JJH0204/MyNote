@@ -36,6 +36,11 @@ CIDR: /26
 > conf t>
 > router ospf [번호]>
 > net [네트워크 ip] [와일드카드] area [번호]
+### Router ACL Rule
+- Firefox2 -> Kali: ssh 허용
+- PC4 -> Firefox3: ping 거부
+- 그 외 모든 트래픽 허용
+
 ## C: 192.168.70.0
 (subnet8)
 와일드카드: 0.0.0.31
@@ -85,3 +90,5 @@ DVWA(CTF) -> ASAv inside: telnet
 ![[Pasted image 20241112101006.png]]
 DVWA -> R3: Ping
 ![[Pasted image 20241112101237.png]]
+R2 -> R4: SSH 접속(admin/1234)
+![[Pasted image 20241112103029.png]]
