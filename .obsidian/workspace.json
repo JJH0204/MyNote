@@ -35,6 +35,18 @@
             "id": "2eb66f648b58fced",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Juiceshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6308f6a67afe017",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Juiceshop_walkthrough.md"
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,13 +201,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2eb66f648b58fced",
+  "active": "e6308f6a67afe017",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241112230752_495.png",
     "Juiceshop.md",
+    "Excalidraw/Juiceshop_walkthrough.md",
+    "project_1118.md",
     "웹 보안.md",
     "Spaces/Home/Information_Security.md",
     "Spaces/Desc/CTF.md",
-    "project_1118.md",
     "Spaces/Temp/Pasted image 20241112103029.png",
     "Spaces/Temp/Pasted image 20241112101237.png",
     "Spaces/Temp/Pasted image 20241112101006.png",
@@ -211,7 +225,6 @@
     "Spaces/Temp/Pasted image 20241111100956.png",
     "Spaces/Temp/Pasted image 20241111100811.png",
     "윈도우 시스템 파일.md",
-    "Excalidraw/Juiceshop_walkthrough.md",
     "Spaces/Temp/Pasted image 20241111095107.png",
     "침해사고분석.md",
     "Excalidraw/CTF_Cookie01.md",
