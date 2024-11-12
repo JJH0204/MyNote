@@ -43,7 +43,7 @@ CIDR: /26
 > access-list 100 permit tcp 192.168.60.64 0.0.0.63 192.168.60.192 0.0.0.63 eq 22
 > access-list 100 deny icmp 192.168.70.96 0.0.0.31 192.168.60.192 0.0.0.63 echo
 > access-list 100 deny icmp 192.168.60.192 0.0.0.63 192.168.70.96 0.0.0.31 echo-reply
-> access-list 100 permit any any any 
+> access-list 100 permit ip any any 
 ## C: 192.168.70.0
 (subnet8)
 와일드카드: 0.0.0.31
