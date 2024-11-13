@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md"
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md"
               }
             }
           }
@@ -212,12 +212,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6308f6a67afe017",
+  "active": "1604883c834b22ff",
   "lastOpenFiles": [
+    "Excalidraw/Juiceshop_walkthrough.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Spaces/Home/Information_Security.md",
     "Juiceshop.md",
-    "Excalidraw/Juiceshop_walkthrough.md",
     "project_1118.md",
     "Spaces/Desc/CTF.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113190039_900.png",
