@@ -52,9 +52,21 @@
                 "file": "Excalidraw/Juiceshop_walkthrough.md"
               }
             }
+          },
+          {
+            "id": "1604883c834b22ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md"
+                "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md"
               }
             }
           }
@@ -201,25 +212,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6308f6a67afe017",
+  "active": "1604883c834b22ff",
   "lastOpenFiles": [
+    "Spaces/Home/Information_Security.md",
+    "Juiceshop.md",
+    "Excalidraw/Juiceshop_walkthrough.md",
+    "project_1118.md",
+    "Spaces/Desc/CTF.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113190039_900.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113190009_897.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113185753_882.png",
-    "Juiceshop.md",
-    "Excalidraw/Juiceshop_walkthrough.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112233656_691.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112232605_625.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112232420_611.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112231625_564.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112231224_537.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112230752_495.png",
-    "project_1118.md",
     "웹 보안.md",
-    "Spaces/Home/Information_Security.md",
-    "Spaces/Desc/CTF.md",
     "Spaces/Temp/Pasted image 20241112103029.png",
-    "Spaces/Temp/Pasted image 20241112101237.png",
     "메모리 점검.md",
     "VTP.md",
     "Switch Based.md",
