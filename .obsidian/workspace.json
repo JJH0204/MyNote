@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Server.md",
+                "file": "WAF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server"
+              "title": "WAF"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logserver",
+                "query": "WAF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Server.md",
+                "file": "WAF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Server의 백링크"
+              "title": "WAF의 백링크"
             }
           },
           {
@@ -202,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Server.md",
+                "file": "WAF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Server의 나가는 링크"
+              "title": "WAF의 나가는 링크"
             }
           },
           {
@@ -229,10 +230,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Server.md"
+                "file": "WAF.md"
               },
               "icon": "lucide-list",
-              "title": "Server 개요"
+              "title": "WAF 개요"
             }
           }
         ]
@@ -256,8 +257,9 @@
   },
   "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "앱 보안.md",
     "Spaces/Home/Server.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "LinuxServer.md",
     "smart tool.md",
     "침해사고분석.md",
@@ -291,7 +293,6 @@
     "Excalidraw/CTF_Account_1.md",
     "Excalidraw/CTF_Account_2.md",
     "시스템 보안.md",
-    "리눅스 침해사항 분석.md",
     "Spaces/Temp/$MFT"
   ]
 }
