@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "smart tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "침해사고분석"
+              "title": "smart tool"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "smart tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "침해사고분석의 백링크"
+              "title": "smart tool의 백링크"
             }
           },
           {
@@ -202,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "smart tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "침해사고분석의 나가는 링크"
+              "title": "smart tool의 나가는 링크"
             }
           },
           {
@@ -229,10 +229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "침해사고분석.md"
+                "file": "smart tool.md"
               },
               "icon": "lucide-list",
-              "title": "침해사고분석 개요"
+              "title": "smart tool 개요"
             }
           }
         ]
@@ -256,7 +256,9 @@
   },
   "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
+    "침해사고분석.md",
     "Spaces/Home/Information_Security.md",
+    "보안사고분석대응.md",
     "악성코드분석.md",
     "flare.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
@@ -281,7 +283,6 @@
     "VLAN.md",
     "LAN 환경 구축.md",
     "윈도우 시스템 파일.md",
-    "침해사고분석.md",
     "Excalidraw/CTF_Cookie01.md",
     "Excalidraw/comminjection.md",
     "Excalidraw/CTF_Account_1.md",
@@ -291,7 +292,6 @@
     "윈도우 취약점 분석.md",
     "Excalidraw/Metasploitable3-win2k8.md",
     "앱 보안.md",
-    "Spaces/Temp/$MFT.md",
     "Spaces/Temp/$MFT"
   ]
 }
