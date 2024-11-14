@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAF.md",
+                "file": "Wazuh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WAF"
+              "title": "Wazuh"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WAF",
+                "query": "SIE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WAF.md",
+                "file": "Wazuh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "WAF의 백링크"
+              "title": "Wazuh의 백링크"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WAF.md",
+                "file": "Wazuh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "WAF의 나가는 링크"
+              "title": "Wazuh의 나가는 링크"
             }
           },
           {
@@ -230,10 +230,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WAF.md"
+                "file": "Wazuh.md"
               },
               "icon": "lucide-list",
-              "title": "WAF 개요"
+              "title": "Wazuh 개요"
             }
           }
         ]
@@ -257,6 +257,9 @@
   },
   "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
+    "SIEM.md",
+    "보안사고분석대응.md",
+    "WAF.md",
     "앱 보안.md",
     "Spaces/Home/Server.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
@@ -264,7 +267,6 @@
     "smart tool.md",
     "침해사고분석.md",
     "Spaces/Home/Information_Security.md",
-    "보안사고분석대응.md",
     "악성코드분석.md",
     "flare.md",
     "Excalidraw/Juiceshop_walkthrough.md",
@@ -291,8 +293,6 @@
     "Excalidraw/CTF_Cookie01.md",
     "Excalidraw/comminjection.md",
     "Excalidraw/CTF_Account_1.md",
-    "Excalidraw/CTF_Account_2.md",
-    "시스템 보안.md",
     "Spaces/Temp/$MFT"
   ]
 }
