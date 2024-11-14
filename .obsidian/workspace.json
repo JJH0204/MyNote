@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smart tool.md",
+                "file": "Spaces/Home/Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "smart tool"
+              "title": "Server"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apm",
+                "query": "logserver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smart tool.md",
+                "file": "Spaces/Home/Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "smart tool의 백링크"
+              "title": "Server의 백링크"
             }
           },
           {
@@ -202,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "smart tool.md",
+                "file": "Spaces/Home/Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "smart tool의 나가는 링크"
+              "title": "Server의 나가는 링크"
             }
           },
           {
@@ -229,10 +229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smart tool.md"
+                "file": "Spaces/Home/Server.md"
               },
               "icon": "lucide-list",
-              "title": "smart tool 개요"
+              "title": "Server 개요"
             }
           }
         ]
@@ -256,12 +256,15 @@
   },
   "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "Spaces/Home/Server.md",
+    "LinuxServer.md",
+    "smart tool.md",
     "침해사고분석.md",
     "Spaces/Home/Information_Security.md",
     "보안사고분석대응.md",
     "악성코드분석.md",
     "flare.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Excalidraw/Juiceshop_walkthrough.md",
     "Juiceshop.md",
     "project_1118.md",
@@ -289,9 +292,6 @@
     "Excalidraw/CTF_Account_2.md",
     "시스템 보안.md",
     "리눅스 침해사항 분석.md",
-    "윈도우 취약점 분석.md",
-    "Excalidraw/Metasploitable3-win2k8.md",
-    "앱 보안.md",
     "Spaces/Temp/$MFT"
   ]
 }
