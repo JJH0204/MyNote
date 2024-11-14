@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "flare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "침해사고분석"
+              "title": "flare"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "flare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "침해사고분석의 백링크"
+              "title": "flare의 백링크"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "침해사고분석.md",
+                "file": "flare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "침해사고분석의 나가는 링크"
+              "title": "flare의 나가는 링크"
             }
           },
           {
@@ -230,10 +230,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "침해사고분석.md"
+                "file": "flare.md"
               },
               "icon": "lucide-list",
-              "title": "침해사고분석 개요"
+              "title": "flare 개요"
             }
           }
         ]
@@ -257,9 +257,16 @@
   },
   "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
-    "Spaces/Home/Information_Security.md",
-    "보안사고분석대응.md",
+    "Lab09.md",
     "flare.md",
+    "Lab07.md",
+    "Lab06.md",
+    "Lab05.md",
+    "악성코드분석.md",
+    "Lab03-01.md",
+    "보안사고분석대응.md",
+    "Spaces/Home/Information_Security.md",
+    "침해사고분석.md",
     "Wazuh.md",
     "SIEM.md",
     "WAF.md",
@@ -268,8 +275,6 @@
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "LinuxServer.md",
     "smart tool.md",
-    "침해사고분석.md",
-    "악성코드분석.md",
     "Excalidraw/Juiceshop_walkthrough.md",
     "Juiceshop.md",
     "project_1118.md",
@@ -288,11 +293,6 @@
     "메모리 점검.md",
     "VTP.md",
     "Switch Based.md",
-    "VLAN.md",
-    "LAN 환경 구축.md",
-    "윈도우 시스템 파일.md",
-    "Excalidraw/CTF_Cookie01.md",
-    "Excalidraw/comminjection.md",
     "Spaces/Temp/$MFT"
   ]
 }
