@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "CTF_Wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTF"
+              "title": "CTF_Wordpress"
             }
           },
           {
@@ -76,17 +76,17 @@
             }
           },
           {
-            "id": "e8ca62ad5199e700",
+            "id": "227f064c82846329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab06.md",
+                "file": "IDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab06"
+              "title": "IDS"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flare",
+                "query": "IDS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,12 +153,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab06.md",
+                "file": "IDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lab06의 백링크"
+              "title": "IDS의 백링크"
             }
           },
           {
@@ -203,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab06.md",
+                "file": "IDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lab06의 나가는 링크"
+              "title": "IDS의 나가는 링크"
             }
           },
           {
@@ -230,10 +229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab06.md"
+                "file": "IDS.md"
               },
               "icon": "lucide-list",
-              "title": "Lab06 개요"
+              "title": "IDS 개요"
             }
           }
         ]
@@ -255,15 +254,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e8ca62ad5199e700",
+  "active": "227f064c82846329",
   "lastOpenFiles": [
+    "Spaces/Desc/네트워크 보안.md",
+    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
+    "CTF_Wordpress.md",
+    "slitaz linux set.md",
+    "Spaces/Desc/CTF.md",
+    "BOF.md",
+    "Lab06.md",
     "flare.md",
     "Lab07.md",
     "Lab09.md",
     "Lab05.md",
     "Lab03-01.md",
     "악성코드분석.md",
-    "Lab06.md",
     "보안사고분석대응.md",
     "Spaces/Home/Information_Security.md",
     "침해사고분석.md",
@@ -272,13 +277,11 @@
     "WAF.md",
     "앱 보안.md",
     "Spaces/Home/Server.md",
-    "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "LinuxServer.md",
     "smart tool.md",
     "Excalidraw/Juiceshop_walkthrough.md",
     "Juiceshop.md",
     "project_1118.md",
-    "Spaces/Desc/CTF.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113190039_900.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113190009_897.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241113185753_882.png",
@@ -288,11 +291,7 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241112231625_564.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112231224_537.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241112230752_495.png",
-    "웹 보안.md",
     "Spaces/Temp/Pasted image 20241112103029.png",
-    "메모리 점검.md",
-    "VTP.md",
-    "Switch Based.md",
     "Spaces/Temp/$MFT"
   ]
 }
