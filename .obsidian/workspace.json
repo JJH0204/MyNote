@@ -16,7 +16,9 @@
                 "file": "Spaces/Desc/CTF.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CTF"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "project_1118.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "project_1118"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Juiceshop.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Juiceshop"
             }
           },
           {
@@ -50,7 +56,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Juiceshop_walkthrough.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Juiceshop_walkthrough"
             }
           },
           {
@@ -62,11 +70,27 @@
                 "file": "Spaces/Desc/모의 해킹 및 침투 테스트.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "모의 해킹 및 침투 테스트"
+            }
+          },
+          {
+            "id": "e8ca62ad5199e700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "침해사고분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "침해사고분석"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -101,7 +127,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -109,15 +137,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "52b54a11d80a3f06",
+            "id": "1c187e5f9577d521",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -140,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -149,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "침해사고분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +191,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "침해사고분석의 백링크"
             }
           },
           {
@@ -166,10 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "침해사고분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "침해사고분석의 나가는 링크"
             }
           },
           {
@@ -180,7 +218,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -189,8 +229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md"
-              }
+                "file": "침해사고분석.md"
+              },
+              "icon": "lucide-list",
+              "title": "침해사고분석 개요"
             }
           }
         ]
@@ -212,11 +254,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6308f6a67afe017",
+  "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
+    "Spaces/Home/Information_Security.md",
+    "악성코드분석.md",
+    "flare.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
     "Excalidraw/Juiceshop_walkthrough.md",
-    "Spaces/Home/Information_Security.md",
     "Juiceshop.md",
     "project_1118.md",
     "Spaces/Desc/CTF.md",
@@ -248,8 +292,6 @@
     "Excalidraw/Metasploitable3-win2k8.md",
     "앱 보안.md",
     "Spaces/Temp/$MFT.md",
-    "Spaces/Temp/$MFT",
-    "보안사고분석대응.md",
-    "Spaces/Desc/Wargame.md"
+    "Spaces/Temp/$MFT"
   ]
 }
