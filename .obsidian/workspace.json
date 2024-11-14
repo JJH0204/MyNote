@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flare.md",
+                "file": "Lab06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flare"
+              "title": "Lab06"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flare.md",
+                "file": "Lab06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "flare의 백링크"
+              "title": "Lab06의 백링크"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flare.md",
+                "file": "Lab06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "flare의 나가는 링크"
+              "title": "Lab06의 나가는 링크"
             }
           },
           {
@@ -230,10 +230,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flare.md"
+                "file": "Lab06.md"
               },
               "icon": "lucide-list",
-              "title": "flare 개요"
+              "title": "Lab06 개요"
             }
           }
         ]
@@ -257,13 +257,13 @@
   },
   "active": "e8ca62ad5199e700",
   "lastOpenFiles": [
-    "악성코드분석.md",
     "flare.md",
-    "Lab09.md",
     "Lab07.md",
-    "Lab06.md",
+    "Lab09.md",
     "Lab05.md",
     "Lab03-01.md",
+    "악성코드분석.md",
+    "Lab06.md",
     "보안사고분석대응.md",
     "Spaces/Home/Information_Security.md",
     "침해사고분석.md",
