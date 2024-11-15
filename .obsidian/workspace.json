@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -212,6 +213,10 @@
   },
   "active": "d64ff1f4c789b3de",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115195200_209.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194958_593.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194915_194.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194844_190.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194759_186.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194612_173.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194457_183.png",
@@ -229,8 +234,6 @@
     "Excalidraw/Juiceshop_walkthrough.md",
     "snort.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Desc/Spaces/Temp/Pasted image 20241115093601.png",
-    "Spaces/Desc/Spaces/Temp/Pasted image 20241115092227.png",
     "IDS.md",
     "Spaces/Desc/네트워크 보안.md",
     "slitaz linux set.md",
@@ -246,8 +249,6 @@
     "침해사고분석.md",
     "Wazuh.md",
     "SIEM.md",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241113190039_900.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241113190009_897.png",
     "Spaces/Temp/$MFT"
   ]
 }
