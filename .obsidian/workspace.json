@@ -52,19 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d64ff1f4c789b3de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CTF_Funbox_Scriptkiddie.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/CTF_Funbox_Scriptkiddie.md",
+                "file": "Excalidraw/Juiceshop_walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/CTF_Funbox_Scriptkiddie.md",
+                "file": "Excalidraw/Juiceshop_walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/CTF_Funbox_Scriptkiddie.md"
+                "file": "Excalidraw/Juiceshop_walkthrough.md"
               }
             }
           }
@@ -211,8 +201,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d64ff1f4c789b3de",
+  "active": "e6308f6a67afe017",
   "lastOpenFiles": [
+    "Spaces/Desc/CTF.md",
+    "Excalidraw/CTF_Funbox_10.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115213938_820.png",
+    "Excalidraw/CTF_Funbox_Scriptkiddie.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115200453_321.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115200408_317.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115200352_315.png",
@@ -222,10 +216,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194844_190.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194759_186.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194612_173.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115194457_183.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115194457_169.png",
-    "Spaces/Desc/CTF.md",
-    "Excalidraw/CTF_Funbox_Scriptkiddie.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "웹 보안.md",
@@ -248,7 +238,6 @@
     "보안사고분석대응.md",
     "침해사고분석.md",
     "Wazuh.md",
-    "SIEM.md",
     "Spaces/Temp/$MFT"
   ]
 }
