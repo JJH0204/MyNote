@@ -60,9 +60,21 @@
               "icon": "excalidraw-icon",
               "title": "Juiceshop_walkthrough"
             }
+          },
+          {
+            "id": "ea66beca3bba1b8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             }
           },
           {
-            "id": "ad5b360a8143ca94",
+            "id": "3ed05e49c2fa8d65",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -125,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +239,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6308f6a67afe017",
+  "active": "ea66beca3bba1b8a",
   "lastOpenFiles": [
     "project_1118.md",
     "snort.md",
