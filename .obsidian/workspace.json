@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "3ed05e49c2fa8d65",
+            "id": "5f368adeff23e9f9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -268,6 +268,9 @@
   },
   "active": "97c54bdc0a3f87a3",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241120102631_162.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241120102244_122.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241120101921_027.png",
     "SIEM.md",
     "conflict-files-obsidian-git.md",
     "snort.md",
@@ -281,8 +284,6 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194915_194.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194844_190.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241115194759_186.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115194612_173.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115194457_183.png",
     "Excalidraw/CTF_Funbox_Scriptkiddie.md",
     "앱 보안.md",
     "Excalidraw/모의해킹 팀 게임.md",
@@ -303,7 +304,6 @@
     "Lab09.md",
     "Lab05.md",
     "Lab03-01.md",
-    "악성코드분석.md",
     "Spaces/Temp/$MFT"
   ]
 }
