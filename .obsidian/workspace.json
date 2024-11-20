@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAF.md",
+                "file": "snort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WAF"
+              "title": "snort"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WAF",
+                "query": "snort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,17 +268,29 @@
   },
   "active": "97c54bdc0a3f87a3",
   "lastOpenFiles": [
+    "SIEM.md",
+    "conflict-files-obsidian-git.md",
+    "snort.md",
+    "시스템보안과제.md",
+    "WAF.md",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115200453_321.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115200408_317.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115200352_315.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115195200_209.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194958_593.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194915_194.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194844_190.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194759_186.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194612_173.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241115194457_183.png",
+    "Excalidraw/CTF_Funbox_Scriptkiddie.md",
     "앱 보안.md",
     "Excalidraw/모의해킹 팀 게임.md",
-    "SIEM.md",
     "보안사고분석대응.md",
     "Juiceshop.md",
     "project_1118.md",
     "CTF_Wordpress.md",
-    "snort.md",
     "Spaces/Desc/모의 해킹 및 침투 테스트.md",
-    "Spaces/Desc/Spaces/Temp/Pasted image 20241115093601.png",
-    "Spaces/Desc/Spaces/Temp/Pasted image 20241115092227.png",
     "Spaces/Home/Information_Security.md",
     "IDS.md",
     "Spaces/Desc/네트워크 보안.md",
@@ -292,18 +304,6 @@
     "Lab05.md",
     "Lab03-01.md",
     "악성코드분석.md",
-    "침해사고분석.md",
-    "Wazuh.md",
-    "WAF.md",
-    "Spaces/Home/Server.md",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241113190039_900.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241113190009_897.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241113185753_882.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241112233656_691.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241112232605_625.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241112232420_611.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241112231625_564.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241112231224_537.png",
     "Spaces/Temp/$MFT"
   ]
 }

@@ -45,6 +45,7 @@
 - [[CTF_Account_2]]
 - [[comminjection]]
 - [[CTF_Cookie01]]
+- [[CTF_Funbox_Scriptkiddie]]
 # 자체 제작 CTF
 ---
 - [[CTF-Custom]]
