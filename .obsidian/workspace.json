@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,7 +266,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1698003ccd8bf395",
+  "active": "97c54bdc0a3f87a3",
   "lastOpenFiles": [
     "SIEM.md",
     "Juiceshop.md",
