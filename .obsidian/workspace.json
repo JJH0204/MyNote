@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -240,6 +241,9 @@
   },
   "active": "ce79bebe0fbe3758",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125121033_897.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125120648_860.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125120500_824.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125120227_785.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125120112_769.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125115857_685.png",
@@ -251,9 +255,6 @@
     "project_1118.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124224930_255.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124223858_189.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241124223742_176.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241124214702_368.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241124214349_335.png",
     "Excalidraw/CTF_Funbox_10.md",
     "Excalidraw/CTF_Funbox_Scriptkiddie.md",
     "시스템 보안.md",
