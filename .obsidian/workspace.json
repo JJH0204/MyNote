@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP.md",
+                "file": "Excalidraw/fakerWEB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP.md",
+                "file": "Excalidraw/fakerWEB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP.md"
+                "file": "Excalidraw/fakerWEB.md"
               }
             }
           }
@@ -223,10 +223,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0ea7e49eff52d3f4",
+  "active": "ce79bebe0fbe3758",
   "lastOpenFiles": [
-    "Spaces/Desc/CTF.md",
     "OSCP.md",
+    "Spaces/Desc/CTF.md",
     "CTF-Custom.md",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",

@@ -97,3 +97,125 @@ Digest: sha256:b0288419aa476a56c62d380f41c384f345405b41f7cffffa41aa9c1860fe4617
 Status: Downloaded newer image for dreamhackofficial/exercise-docker:1
 docker.io/dreamhackofficial/exercise-docker:1
 ```
+---
+주어진 컨테이너 정보로 웹 서비스 환경을 다른 사용자에게 공유하려면 실행 중인 컨테이너를 Docker 이미지로 저장하고 이를 Docker Hub에 업로드한 후, 다른 사용자가 이미지를 기반으로 동일한 환경을 실행할 수 있도록 하면 됩니다. 아래는 이를 실현하는 단계별 과정입니다.
+
+---
+
+### 1. **컨테이너를 이미지로 변환**
+
+실행 중인 컨테이너를 이미지로 변환하려면 `docker commit` 명령어를 사용합니다. 각각의 컨테이너를 이미지로 저장합니다.
+
+#### 예시:
+
+1. **OWASP ModSecurity CRS 컨테이너**:
+    
+    ```bash
+    docker commit 440197397b4f yourusername/modsecurity-crs:latest
+    ```
+    
+2. **PHP-FPM 웹 컨테이너**:
+    
+    ```bash
+    docker commit 45be39af9f57 yourusername/fakerweb:latest
+    ```
+    
+3. **MariaDB 데이터베이스 컨테이너**:
+    
+    ```bash
+    docker commit 21d976787409 yourusername/mariadb-fakerdb:10.5
+    ```
+    
+
+---
+
+### 2. **이미지 태그 확인 및 수정**
+
+`docker images` 명령으로 생성된 이미지를 확인합니다.
+
+```bash
+docker images
+```
+
+필요하다면 `docker tag` 명령으로 이미지를 적절한 이름과 태그로 수정합니다.
+
+---
+
+### 3. **Docker Hub에 이미지 업로드**
+
+1. Docker Hub에 로그인합니다:
+    
+    ```bash
+    docker login
+    ```
+    
+2. 각 이미지를 Docker Hub로 푸시합니다:
+    
+    ```bash
+    docker push yourusername/modsecurity-crs:latest
+    docker push yourusername/fakerweb:latest
+    docker push yourusername/mariadb-fakerdb:10.5
+    ```
+    
+
+---
+
+### 4. **docker-compose.yml 공유**
+
+이제 도커 허브에 업로드된 이미지를 기반으로 동일한 환경을 실행할 수 있도록 `docker-compose.yml` 파일을 작성하고 공유합니다.
+
+#### 예시: `docker-compose.yml`
+
+```yaml
+version: '3.9'
+
+services:
+  waf:
+    image: yourusername/modsecurity-crs:latest
+    ports:
+      - "8081:80"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  web:
+    image: yourusername/fakerweb:latest
+    ports:
+      - "8080:80"
+
+  db:
+    image: yourusername/mariadb-fakerdb:10.5
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: fakerdb
+```
+
+---
+
+### 5. **다른 사용자의 실행 방법**
+
+1. Docker Hub 이미지를 가져오기 위해 사용자는 도커를 설치한 상태여야 합니다.
+    
+2. 공유받은 `docker-compose.yml` 파일을 다운로드한 후 실행합니다:
+    
+    ```bash
+    docker-compose up
+    ```
+    
+3. 서비스가 실행되면 다음과 같은 환경이 준비됩니다:
+    
+    - WAF (OWASP ModSecurity CRS): [http://localhost:8081](http://localhost:8081/)
+    - 웹 애플리케이션: [http://localhost:8080](http://localhost:8080/)
+    - 데이터베이스: 내부 네트워크에서 연결 가능
+
+---
+
+### 요약
+
+- 실행 중인 컨테이너를 이미지로 커밋하고 Docker Hub에 업로드.
+- `docker-compose.yml` 파일을 작성하여 서비스를 정의.
+- Docker Hub 이미지와 `docker-compose.yml` 파일을 공유하여 다른 사용자가 동일한 환경을 실행.
+
+이 과정은 소스 코드를 직접 공유하지 않고도 서비스를 배포할 수 있는 간단하고 효과적인 방법입니다.
