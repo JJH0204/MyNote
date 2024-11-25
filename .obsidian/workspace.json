@@ -62,9 +62,21 @@
                 "file": "Excalidraw/fakerWEB.md"
               }
             }
+          },
+          {
+            "id": "0ea7e49eff52d3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -148,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/fakerWEB.md",
+                "file": "OSCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/fakerWEB.md",
+                "file": "OSCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/fakerWEB.md"
+                "file": "OSCP.md"
               }
             }
           }
@@ -211,8 +222,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ce79bebe0fbe3758",
+  "active": "0ea7e49eff52d3f4",
   "lastOpenFiles": [
+    "Spaces/Desc/CTF.md",
+    "OSCP.md",
+    "CTF-Custom.md",
+    "시스템 보안.md",
+    "Spaces/Home/Information_Security.md",
+    "Excalidraw/fakerWEB.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125121033_897.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125120648_860.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125120500_824.png",
@@ -222,15 +239,10 @@
     "Excalidraw/Spaces/Temp/Pasted Image 20241125115727_624.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125115555_605.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241125115439_582.png",
-    "Excalidraw/fakerWEB.md",
-    "Spaces/Desc/CTF.md",
     "project_1118.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124224930_255.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241124223858_189.png",
     "Excalidraw/CTF_Funbox_10.md",
     "Excalidraw/CTF_Funbox_Scriptkiddie.md",
-    "시스템 보안.md",
-    "Spaces/Home/Information_Security.md",
     "웹 보안.md",
     "CTF_Wordpress.md",
     "Excalidraw/Juiceshop_walkthrough.md",
@@ -248,7 +260,6 @@
     "Lab03-01.md",
     "악성코드분석.md",
     "보안사고분석대응.md",
-    "침해사고분석.md",
     "Spaces/Temp/$MFT"
   ]
 }
