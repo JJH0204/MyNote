@@ -16,7 +16,9 @@
                 "file": "project_1118.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "project_1118"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Juiceshop.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Juiceshop"
             }
           },
           {
@@ -38,7 +42,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Juiceshop_walkthrough.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Juiceshop_walkthrough"
             }
           },
           {
@@ -47,14 +53,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Desc/CTF.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Information_Security"
+            }
+          },
+          {
+            "id": "ce79bebe0fbe3758",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/fakerWEB.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fakerWEB"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -89,7 +111,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -97,15 +121,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "ad5b360a8143ca94",
+            "id": "242d2f6c9ac74c05",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -113,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "f843cd673e88474e",
@@ -129,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -138,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +175,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Information_Security의 백링크"
             }
           },
           {
@@ -155,10 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md",
+                "file": "Spaces/Home/Information_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Information_Security의 나가는 링크"
             }
           },
           {
@@ -169,7 +202,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -178,8 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Juiceshop_walkthrough.md"
-              }
+                "file": "Spaces/Home/Information_Security.md"
+              },
+              "icon": "lucide-list",
+              "title": "Information_Security 개요"
             }
           }
         ]
@@ -201,26 +238,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6308f6a67afe017",
+  "active": "ce79bebe0fbe3758",
   "lastOpenFiles": [
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125120227_785.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125120112_769.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125115857_685.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125115727_624.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125115555_605.png",
+    "Excalidraw/Spaces/Temp/Pasted Image 20241125115439_582.png",
+    "Excalidraw/fakerWEB.md",
+    "Spaces/Desc/CTF.md",
+    "project_1118.md",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124224930_255.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124223858_189.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124223742_176.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124214702_368.png",
     "Excalidraw/Spaces/Temp/Pasted Image 20241124214349_335.png",
-    "Spaces/Desc/CTF.md",
     "Excalidraw/CTF_Funbox_10.md",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115213938_820.png",
     "Excalidraw/CTF_Funbox_Scriptkiddie.md",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115200453_321.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115200408_317.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115200352_315.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115195200_209.png",
-    "Excalidraw/Spaces/Temp/Pasted Image 20241115194958_593.png",
     "시스템 보안.md",
     "Spaces/Home/Information_Security.md",
     "웹 보안.md",
-    "project_1118.md",
     "CTF_Wordpress.md",
     "Excalidraw/Juiceshop_walkthrough.md",
     "snort.md",
@@ -238,7 +276,6 @@
     "악성코드분석.md",
     "보안사고분석대응.md",
     "침해사고분석.md",
-    "Wazuh.md",
     "Spaces/Temp/$MFT"
   ]
 }
