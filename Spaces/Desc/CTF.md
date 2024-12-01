@@ -48,6 +48,7 @@
 - [[CTF_Funbox_Scriptkiddie]]
 - [[CTF_Funbox_10]]
 - [[OSCP]]
+- [[devt-improved]]
 # 자체 제작 CTF
 ---
 - [[CTF-Custom]]
