@@ -18,7 +18,8 @@ sticker: lucide//glasses
 ## 8. [[정보보안자격증]]
 
 ## 9. [[자료]]
-
+## 10. [[클라우드 보안]]
+## 11. AWS
 ### [Docker](Docker.md)
 
 과제
