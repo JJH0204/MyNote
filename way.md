@@ -1,111 +1,148 @@
 
-```md
 1)   Set Hostname & Update Hosts File
 
 Configure the master and worker nodes' hostnames and update the hosts file for network communication.
 
+```
 sudo hostnamectl set-hostname "k8s-control-node"      // Master Node
 sudo hostnamectl set-hostname "k8s-worker01-node"    // Worker Node 1
 sudo hostnamectl set-hostname "k8s-worker02-node"    // Worker Node 2
+```
 
-add the following lines to /etc/hosts file on each node
+add the following lines to `/etc/hosts` file on each node
 
+```
 192.168.1.56  k8s-control-node
 192.168.1.57  k8s-worker01-node
 192.168.1.58  k8s-worker02-node
+```
 
 2)  Disable Swap & Load Kernel Modules
-- 만약 클러스터가 잘 동작하지 않으면 selinux/firewalld disabled
+- 만약 클러스터가 잘 동작하지 않으면 `selinux/firewalld disabled`
 Disable swap memory and configure kernel modules like overlay and br_netfilter for Kubernetes.
 
+```
 sudo swapoff -a && sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
 sudo modprobe overlay && sudo modprobe br_netfilter
+```
 
+```
 Create a file with following content
 sudo vi /etc/modules-load.d/k8s.conf
 overlay
 br_netfilter
+```
+또는
 
+```
 sudo tee /etc/modules-load.d/k8s.conf << EOF
 overlay
 br_netfilter
 EOF
+```
 
 Next, add the kernel parameters like IP forwarding. Create a file and load the parameters using sysctl command,
 
+```
 sudo vi /etc/sysctl.d/kubernetes.conf
 net.bridge.bridge-nf-call-ip6tables = 1
 net.bridge.bridge-nf-call-iptables = 1
 net.ipv4.ip_forward = 1
+```
+또는
 
+```
 sudo tee /etc/sysctl.d/kubernetes.conf << EOF
 net.bridge.bridge-nf-call-ip6tables = 1
 net.bridge.bridge-nf-call-iptables = 1
 net.ipv4.ip_forward = 1
 EOF
+```
 
 To load the above kernel parameters, run
 
+```
 sudo sysctl --system
+```
 
-3) Install Containerd
+# 3) Install Containerd
 
  Install and configure containerd with SystemdCgroup to manage container runtime.
 
+```
 sudo apt install -y curl gnupg2 software-properties-common apt-transport-https ca-certificates
 sudo curl -fsSL https://download.docker.com/linux/ubu... | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/containerd.gpg
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 sudo apt update && sudo apt install containerd.io -y
 containerd config default | sudo tee /etc/containerd/config.toml
 sudo sed -i 's/SystemdCgroup \= false/SystemdCgroup \= true/g' /etc/containerd/config.toml
+```
 
+```
 sudo systemctl restart containerd
+```
 
-4) Add Kubernetes Package Repository
+# 4) Add Kubernetes Package Repository
 
 Download and configure the Kubernetes package repository for Ubuntu 24.04.
 
-curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.... | sudo gpg --dearmor -o /etc/apt/keyrings/k8s.gpg
-echo 'deb [signed-by=/etc/apt/keyrings/k8s.gpg] https://pkgs.k8s.io/core:/stable:/v1.... /' | sudo tee /etc/apt/sources.list.d/k8s.list
+```
+curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.30/deb/Release.key | sudo gpg --dearmor -o /etc/apt/keyrings/k8s.gpg
+echo 'deb [signed-by=/etc/apt/keyrings/k8s.gpg] https://pkgs.k8s.io/core:/stable:/v1.31/deb/ /' | sudo tee /etc/apt/sources.list.d/k8s.list
+```
 
-5) Install Kubernetes Components
+# 5) Install Kubernetes Components
 
 Install Kubeadm, Kubelet, and Kubectl on all nodes to manage your Kubernetes cluster.
 
+```
 sudo apt update
 sudo apt install kubelet kubeadm kubectl -y
+```
 
 
-6) Initialize the Kubernetes Cluster
+# 6) Initialize the Kubernetes Cluster
 
 Initialize the control plane node using Kubeadm.
 
+```
 sudo kubeadm init --control-plane-endpoint=k8s-control-node
+```
 
 On the master node, run following set of commands.
 
+```
 mkdir -p $HOME/.kube
 sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 sudo chown $(id -u):$(id -g) $HOME/.kube/config
+```
 
-7)  Join Worker Nodes
+# 7)  Join Worker Nodes
 
 Add worker nodes to your Kubernetes cluster using the token generated during initialization.
 
+```
 sudo kubeadm join k8s-master-noble:6443 --token  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
 
 Now head back to the master node and run kubectl get nodes command to verify the status of worker nodes.
 
+```
 kubectl get nodes
+```
 
 8) Install Calico Network Plugin
 
+```
 kubectl create -f https://raw.githubusercontent.com/pro...
+```
 
 After the successful installation of calico, nodes status will change to Ready in a minute or two.
 
+```
 kubectl get pods -n kube-system
 kubectl get nodes
+```
 
 9) Test Kubernetes Installation
 
@@ -127,5 +164,4 @@ By the end of this tutorial, you’ll have a fully functioning Kubernetes cluste
 📌 Commands and configurations mentioned in the video are included step-by-step. Make sure to follow along!
 
 🔔 Don’t forget to like, subscribe, and hit the bell icon to stay updated with more Linux and Kubernetes tutorials!
-```
 
