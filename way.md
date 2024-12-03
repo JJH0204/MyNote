@@ -25,9 +25,8 @@ Disable swap memory and configure kernel modules like overlay and br_netfilter f
 sudo swapoff -a && sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
 sudo modprobe overlay && sudo modprobe br_netfilter
 ```
-
-```
 Create a file with following content
+```
 sudo vi /etc/modules-load.d/k8s.conf
 overlay
 br_netfilter
