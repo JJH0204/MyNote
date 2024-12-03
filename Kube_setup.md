@@ -139,7 +139,7 @@ kubectl get nodes
 # 8) Install Calico Network Plugin
 
 ```
-kubectl create -f https://raw.githubusercontent.com/projectcalico/calico/v3.28.2/mainfests/calico.yaml
+kubectl create -f https://raw.githubusercontent.com/projectcalico/calico/v3.28.2/manifests/calico.yaml
 ```
 
 After the successful installation of calico, nodes status will change to Ready in a minute or two.
