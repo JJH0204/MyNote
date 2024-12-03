@@ -135,7 +135,7 @@ Now head back to the master node and run kubectl get nodes command to verify the
 ```
 kubectl get nodes
 ```
-
+- 3 node(Status - NotReady)
 # 8) Install Calico Network Plugin
 
 ```
