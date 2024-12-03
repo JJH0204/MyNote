@@ -164,9 +164,9 @@ kubectl get svc -n demo-app
 ```
 
 Now try to access your application using nodeport
-
+![[Pasted image 20241203142315.png]]
 ```
-curl http://Any-worker-IP:30336
+curl http://Any-worker-IP:32488
 ```
 
 By the end of this tutorial, you’ll have a fully functioning Kubernetes cluster with networking and a test deployment.
