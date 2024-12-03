@@ -139,7 +139,7 @@ kubectl get nodes
 # 8) Install Calico Network Plugin
 
 ```
-kubectl create -f https://raw.githubusercontent.com/pro...
+kubectl create -f https://raw.githubusercontent.com/projectcalico/calico/v3.28.2/mainfests/calico.yaml
 ```
 
 After the successful installation of calico, nodes status will change to Ready in a minute or two.
@@ -153,8 +153,8 @@ kubectl get nodes
 
 Create and expose an NGINX deployment to verify the setup.
 
-kubectl create ns demo-app
 ```
+kubectl create ns demo-app
 kubectl create deployment nginx-app --image nginx --replicas 2 --namespace demo-app
 kubectl get deployment -n demo-app
 kubectl get pods -n demo-app
