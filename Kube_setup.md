@@ -129,9 +129,8 @@ export KUBECONFIG=/etc/kubernetes/admin.conf
 Add **worker nodes** to your Kubernetes cluster using the token generated during initialization.
 
 ```
-kubeadm join k8s-control-node:6443 --token nvy45m.d4833oljik3y7qox \
-        --discovery-token-ca-cert-hash sha256:c059542819548c1b86baa92619f218e824a2e85bcb7a1bbe4dbc7c302905161d \
-        --control-plane
+kubeadm join k8s-control-node:6443 --token ja17vs.yryk24e3iqp2rc60 \
+        --discovery-token-ca-cert-hash sha256:4fee1cbd324a37b82b57c55f2feb3371dd8bbae781c6826ab72e7b44f3530c5a
 ```
 
 Now head back to the master node and run kubectl get nodes command to verify the status of worker nodes.
@@ -168,7 +167,7 @@ kubectl get svc -n demo-app
 ```
 
 Now try to access your application using nodeport
-![[Pasted image 20241203142315.png]]
+![[Pasted image 20241203163601.png]]
 ```
 curl http://Any-worker-IP:32488
 ```
