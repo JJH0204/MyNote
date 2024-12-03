@@ -136,6 +136,7 @@ Now head back to the master node and run kubectl get nodes command to verify the
 kubectl get nodes
 ```
 - 3 node(Status - NotReady)
+![[Pasted image 20241203140533.png]]
 # 8) Install Calico Network Plugin
 
 ```
@@ -148,7 +149,7 @@ After the successful installation of calico, nodes status will change to Ready i
 kubectl get pods -n kube-system
 kubectl get nodes
 ```
-
+![[Pasted image 20241203140827.png]]
 # 9) Test Kubernetes Installation
 
 Create and expose an NGINX deployment to verify the setup.
