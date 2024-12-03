@@ -120,6 +120,8 @@ On the master node, run following set of commands.
 mkdir -p $HOME/.kube
 sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
 sudo chown $(id -u):$(id -g) $HOME/.kube/config
+
+export KUBECONFIG=/etc/kubernetes/admin.conf
 ```
 
 # 7)  Join Worker Nodes
@@ -127,7 +129,9 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 Add **worker nodes** to your Kubernetes cluster using the token generated during initialization.
 
 ```
-sudo kubeadm join k8s-master-noble:6443 --token  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+kubeadm join k8s-control-node:6443 --token nvy45m.d4833oljik3y7qox \
+        --discovery-token-ca-cert-hash sha256:c059542819548c1b86baa92619f218e824a2e85bcb7a1bbe4dbc7c302905161d \
+        --control-plane
 ```
 
 Now head back to the master node and run kubectl get nodes command to verify the status of worker nodes.
