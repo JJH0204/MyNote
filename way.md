@@ -1,5 +1,5 @@
 
-1)   Set Hostname & Update Hosts File
+# 1)   Set Hostname & Update Hosts File
 
 Configure the master and worker nodes' hostnames and update the hosts file for network communication.
 
@@ -17,7 +17,7 @@ add the following lines to `/etc/hosts` file on each node
 192.168.1.58  k8s-worker02-node
 ```
 
-2)  Disable Swap & Load Kernel Modules
+# 2)  Disable Swap & Load Kernel Modules
 - 만약 클러스터가 잘 동작하지 않으면 `selinux/firewalld disabled`
 Disable swap memory and configure kernel modules like overlay and br_netfilter for Kubernetes.
 
@@ -71,7 +71,7 @@ sudo sysctl --system
 
 ```
 sudo apt install -y curl gnupg2 software-properties-common apt-transport-https ca-certificates
-sudo curl -fsSL https://download.docker.com/linux/ubu... | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/containerd.gpg
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmour -o /etc/apt/trusted.gpg.d/containerd.gpg
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 sudo apt update && sudo apt install containerd.io -y
 containerd config default | sudo tee /etc/containerd/config.toml
