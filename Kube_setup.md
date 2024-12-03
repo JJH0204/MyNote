@@ -108,7 +108,7 @@ sudo apt install kubelet kubeadm kubectl -y
 
 # 6) Initialize the Kubernetes Cluster
 
-Initialize the control plane node using Kubeadm.
+Initialize the **control plane node** using Kubeadm.
 
 ```
 sudo kubeadm init --control-plane-endpoint=k8s-control-node
@@ -124,7 +124,7 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 
 # 7)  Join Worker Nodes
 
-Add worker nodes to your Kubernetes cluster using the token generated during initialization.
+Add **worker nodes** to your Kubernetes cluster using the token generated during initialization.
 
 ```
 sudo kubeadm join k8s-master-noble:6443 --token  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -160,7 +160,7 @@ kubectl create deployment nginx-app --image nginx --replicas 2 --namespace demo-
 kubectl get deployment -n demo-app
 kubectl get pods -n demo-app
 kubectl expose deployment nginx-app -n demo-app --type NodePort --port 80
-kubectl get svc -n demo-app
+kubectl get svc -n demo-app 
 ```
 
 Now try to access your application using nodeport
