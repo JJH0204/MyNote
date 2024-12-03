@@ -28,7 +28,7 @@ H:192.168.56.110 ^aoEHxMcM
 H:192.168.56.111 ^eRJV450A
 
 ## Element Links
-d9IY1eEs: [[way]]
+d9IY1eEs: [[Kube_setup]]
 
 ## Embedded Files
 22521f916497022838802f66bcb0878b0e8924ef: [[Pasted Image 20241203095734_172.png]]

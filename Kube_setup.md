@@ -19,6 +19,12 @@ add the following lines to `/etc/hosts` file on each node
 
 # 2)  Disable Swap & Load Kernel Modules
 - 만약 클러스터가 잘 동작하지 않으면 `selinux/firewalld disabled`
+```
+sudo systemctl stop firewalld
+sudo setenforce 0
+sudo sed -i 's/^SELINUX=enforcing$/SELINUX=permissive/' /etc/selinux/config
+```
+
 Disable swap memory and configure kernel modules like overlay and br_netfilter for Kubernetes.
 
 ```
@@ -130,7 +136,7 @@ Now head back to the master node and run kubectl get nodes command to verify the
 kubectl get nodes
 ```
 
-8) Install Calico Network Plugin
+# 8) Install Calico Network Plugin
 
 ```
 kubectl create -f https://raw.githubusercontent.com/pro...
@@ -143,24 +149,27 @@ kubectl get pods -n kube-system
 kubectl get nodes
 ```
 
-9) Test Kubernetes Installation
+# 9) Test Kubernetes Installation
 
 Create and expose an NGINX deployment to verify the setup.
 
 kubectl create ns demo-app
+```
 kubectl create deployment nginx-app --image nginx --replicas 2 --namespace demo-app
 kubectl get deployment -n demo-app
 kubectl get pods -n demo-app
 kubectl expose deployment nginx-app -n demo-app --type NodePort --port 80
 kubectl get svc -n demo-app
+```
 
 Now try to access your application using nodeport
 
+```
 curl http://Any-worker-IP:30336
+```
 
 By the end of this tutorial, you’ll have a fully functioning Kubernetes cluster with networking and a test deployment.
 
 📌 Commands and configurations mentioned in the video are included step-by-step. Make sure to follow along!
 
 🔔 Don’t forget to like, subscribe, and hit the bell icon to stay updated with more Linux and Kubernetes tutorials!
-
