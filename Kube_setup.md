@@ -12,9 +12,9 @@ sudo hostnamectl set-hostname "k8s-worker02-node"    // Worker Node 2
 add the following lines to `/etc/hosts` file on each node
 
 ```
-192.168.1.56  k8s-control-node
-192.168.1.57  k8s-worker01-node
-192.168.1.58  k8s-worker02-node
+192.168.1.118  k8s-control-node
+192.168.1.117  k8s-worker01-node
+192.168.1.116  k8s-worker02-node
 ```
 
 # 2)  Disable Swap & Load Kernel Modules
