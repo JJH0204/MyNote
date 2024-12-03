@@ -59,6 +59,8 @@ sudo apt update && sudo apt install containerd.io -y
 containerd config default | sudo tee /etc/containerd/config.toml
 sudo sed -i 's/SystemdCgroup \= false/SystemdCgroup \= true/g' /etc/containerd/config.toml
 
+sudo systemctl restart containerd
+
 4) Add Kubernetes Package Repository
 
 Download and configure the Kubernetes package repository for Ubuntu 24.04.
