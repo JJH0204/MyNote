@@ -119,3 +119,172 @@ Dockerfile이 아래과 같을 때,
 ENTRYPOINT ["python"]
 CMD ["app.py"]
 ```
+
+---
+# DevOps
+1. 기획, 개발 -> 2. CI(빌드, 테스트), CD(배포) -> 3. 운영, 모니터링
+-> 4. 수정 -> 1.. -> 2.. -> 3.. 
+
+---
+# Dockerfile 문법
+```
+# dockerfile command
+FROM [image name]      # 베이스 이미지 pulling
+RUN                    # 결과를 이미지 반영
+CMD                    # 컨테이너 시작시 실행되는 명령어
+LABEL                  # 이미지에 레이블을 지정
+EXPOSE                 # 컨테이너 에서 노출하는 포트를 지정
+ENV                    # 환경변수 설정
+ADD / COPY             # 이미지에 파일 복사
+WORLDIR                # 명령어를 실행할 때 작업 디렉토리 설정
+```
+
+---
+# Dockerfile Practice in Rockey Docker
+``` my-web-app-v1
+# mkdir ./myweb && cd ./myweb
+# vi index.html
+	<!DOCTYPE html>
+	<html>
+	<head>
+	    <title>Welcome my web!</title>
+	</head>
+	<body>
+	    <h1>Hello World!</h1>
+	</body>
+	</html>
+
+# vi Dockerfile
+	# Use an official Nginx runtime as a parent image
+	FROM nginx:alpine
+
+	# Copy the updated web page to the container
+	COPY index.hmtl /usr/share/nginx/html
+
+# docker build -t my-web-app .
+# docker images
+> REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+> my-web-app   latest    438c3152c8d1   33 minutes ago   52.5MB
+
+# docker run -d -p 80:80 --name my-web-app my-web-app
+
+# docker container inspect [container-id]
+```
+
+```my-web-app-v2
+# vi index.html
+	<!DOCTYPE html>
+	<html>
+	<head>
+	    <title>Welcome my web app!</title>
+	</head>
+	<body>
+	    <h1>Hello World! Hello World!</h1>
+	</body>
+	</html>
+
+# vi Dockerfile
+	# Use an official Nginx runtime as a parent image
+	FROM nginx:alpine
+
+	# Copy the updated web page to the container
+	COPY index.hmtl /usr/share/nginx/html
+
+# docker build -t my-web-app:second .
+# docker images
+REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+my-web-app   second    ddd4afede45f   23 seconds ago   52.5MB
+my-web-app   latest    438c3152c8d1   33 minutes ago   52.5MB
+
+# docker run -d -p 80:80 --name my-web-app-v2 my-web-app:second
+```
+
+---
+**업데이트 된 이미지를 k8s를 통해 배포**
+k8s cluster, kubectl cli 명령어 사용 필요
+`kubectl create deployment my-web-app --image=my-web-app:latest`: create image
+`kubectl expose --type=LoadBalancer --port:80 --target:80`
+`kubectl get services` 
+`kubectl set image deployment/my-web-app my-web-app=my-web-app:v2`: version upgrade
+`kubectl rollout status deployment/my-web-app`
+`kubectl delete deployment/my-web-app`: delete image
+`kubectl service my-web-app`: service start
+
+---
+# Ubuntu Apache in Rockey Docker
+```
+# mkdir ./ubuntu && cd ./ubuntu
+# touch index.html
+# vi Dockerfile
+```
+
+```Dockerfile
+# Ubuntu 기반 apache2 Dockerfile
+FROM ubuntu:18.04
+
+# 유지보수자 정보
+MAINTAINER jinyeong <jinyeong@kit.com>
+
+# 시스템 업데이트 및 apache2 설치
+RUN apt -y update && install -y apache2
+
+# 웹 파일 추가
+ADD index.html /var/www/html
+
+# 작업 디렉토리 설정
+WORKDIR /var/www/html
+
+# 기본 페이지 확인용 파일 생성
+RUN ["/bin/sh", "-c", "echo hello >> index.html"]
+
+# apache2를 외부에서 접근 가능하도록 포트 노출
+EXPOSE 80
+
+# apache2 실행 명령 설정
+CMD ["apache2ctl", "-D", "FOREGROUND"]
+```
+
+```
+# docker build -t apacheweb .
+# docker run -d -p 80:80 --name ubuntu-apache-web apacheweb
+```
+
+---
+# Fedora in Roceky Docker
+```
+# mkdir ./fedora && cd ./fedora
+# touch index.html
+# vi Dockerfile
+```
+
+```Dockerfile
+# Fedora 기반 Nginx Dockerfile
+FROM fedora
+
+# 유지보수자 정보
+MAINTAINER jinyeong <jinyeong@kit.com>
+
+# 시스템 업데이트 및 nginx 설치
+RUN dnf -y update && dnf -y install nginx
+
+# 웹 파일 추가
+ADD index.html /usr/share/nginx/html
+
+# 작업 디렉토리 설정
+WORKDIR /usr/share/nginx/html
+
+# 기본 페이지 확인용 파일 생성
+RUN ["/bin/sh", "-c", "echo hello >> index.html"]
+
+# Nginx를 외부에서 접근 가능하도록 포트 노출
+EXPOSE 80
+
+# Nginx 실행 명령 설정
+CMD ["nginx", "-g", "daemon off;"]
+```
+
+```
+# docker build -t nginxweb .
+# docker run -d -p 80:80 --name fedora-nginx-web nginxweb
+```
+
