@@ -7,6 +7,47 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 
+
+# Code Block
+
+```dockerfile
+# 베이스 이미지 설정
+FROM ubuntu:latest
+
+# 필수 패키지 설치
+RUN apt-get update && apt-get install -y \
+    apache2 \
+    mariadb-server \
+    php \
+    php-mysql \
+    curl \
+    && apt-get clean
+
+# WordPress 다운로드 및 설정
+RUN curl -o /tmp/wordpress.tar.gz https://wordpress.org/latest.tar.gz && \
+    tar -xzf /tmp/wordpress.tar.gz -C /var/www/html && \
+    rm /tmp/wordpress.tar.gz && \
+    chown -R www-data:www-data /var/www/html/wordpress && \
+    chmod -R 755 /var/www/html/wordpress
+
+# Apache 설정 활성화
+RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf && \
+    a2enmod rewrite
+
+# 포트 설정
+EXPOSE 80
+
+# MariaDB 기본 설정
+RUN service mysql start && \
+    mysql -e "CREATE DATABASE wp_database;" && \
+    mysql -e "CREATE USER 'wp_user'@'localhost' IDENTIFIED BY 'wp_password';" && \
+    mysql -e "GRANT ALL PRIVILEGES ON wp_database.* TO 'wp_user'@'localhost';" && \
+    mysql -e "FLUSH PRIVILEGES;"
+
+# 시작 스크립트
+CMD service mysql start && service apache2 start && tail -f /dev/null
+```
+
 # Excalidraw Data
 ## Text Elements
 Ubuntu wordpress myself ^j2dWnWGT
@@ -25,6 +66,8 @@ docker image push krjaeh0/ubuntu-wordpress:latest ^yj7IMaOI
 
 ## Element Links
 8aYAVKPI: [[ubuntu-wordpress docker]]
+
+mac523sr: [[Excalidraw/rb_project.md#Code Block]]
 
 ## Embedded Files
 a2f0e97b8ab12337bd0cb1e7d0391fa550cf1e20: [[Pasted Image 20241206090842_911.png]]
@@ -72,10 +115,14 @@ AKNgGucVNvEFcdoTcS2ejFOS4k8ayaWhdihounAI+JIPyRuiicKWifumKVqFEuCWyUeagCeZ3ueYKQCZ
 
 aRsRAKUkBNsCpOpEkLJDPOmM6TpmFqWXmP6frBfEpUSmgE/OVKiF5plD5jkQmTSubNZYAnGXZblAFgUVFqmXyumWFmUZZTmdFkFLFnUYWcWU0alnaHKu0eQlyF0chQuRXCGD+J2E2aKkcVwqNLItPGdPMU1nemUU1ksQ2GpkvHJEpVsd1jsbuWHP1l9INnYihUuWcSYqueuX9PNulVGk4rdNOaGQ+E+C+I4LZm5UqhUJyFXmCGYW2KsAgNgLTkmC
 
-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
+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
 
-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
+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
 
-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
+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
 ```
 %%
