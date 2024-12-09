@@ -34,3 +34,4 @@ class 클래스이름:
 
 
 [[poetry]]
+[[Django_VS_Flask]]
