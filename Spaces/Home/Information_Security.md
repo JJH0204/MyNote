@@ -19,7 +19,6 @@ sticker: lucide//glasses
 
 ## 9. [[자료]]
 ## 10. [[클라우드 보안]]
-## 11. AWS
 
 
 
