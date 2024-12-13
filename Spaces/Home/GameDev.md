@@ -1,1 +1,1 @@
-[[GameIdea_Day01]]
+[[GameIdea_week01]]
