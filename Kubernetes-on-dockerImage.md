@@ -158,8 +158,33 @@ aurora-service   NodePort    10.96.123.456    <none>        80:30000/TCP   2m
 
 위 출력에서 `30000`은 클러스터 외부에서 접속할 수 있는 노드 포트야. 브라우저에서 `http://<노드 IP>:30000`으로 접근하면 `krjaeh0/aurora:latest`가 실행 중인 애플리케이션에 접속할 수 있어.
 
+#### 2. **Port Forwarding으로 해결**
+
+Kind 클러스터와 로컬 머신 간 연결 문제를 우회하기 위해 `kubectl port-forward`를 사용해보자.
+
+1. **Pod 이름 확인**
+    
+    bash
+    
+    코드 복사
+    
+    `kubectl get pods`
+    
+    예: `aurora-deployment-5c54fc85d7-29zms`
+    
+2. **포트 포워딩 실행** Pod의 포트를 로컬 머신의 포트로 포워딩:
+    
+    bash
+    
+    코드 복사
+    
+    `kubectl port-forward pod/aurora-deployment-5c54fc85d7-29zms 30291:80`
+    
+3. **로컬에서 접근** 이제 `http://localhost:30291`로 접근하면 Pod의 서비스에 연결될 거야.
+
 ---
 
 ### 결론
 
 위 과정을 통해 Kind 클러스터 내 특정 노드에서 Docker Hub 이미지를 실행하고, 외부에서 접근할 수 있도록 설정할 수 있어. 추가적으로 도움이 필요하면 말해줘!
+
