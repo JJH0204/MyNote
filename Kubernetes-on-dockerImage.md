@@ -90,7 +90,7 @@ spec:
 작성한 YAML 파일을 클러스터에 적용해:
 
 ```bash
-kubectl apply -f nginx-deployment.yaml
+kubectl apply -f aurora-deployment.yaml
 ```
 
 ---
