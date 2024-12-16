@@ -128,13 +128,13 @@ kind: Service
 metadata:
   name: aurora-service
 spec:
+  type: LoadBalancer
   selector:
     app: aurora
   ports:
   - protocol: TCP
     port: 80
     targetPort: 80
-  type: NodePort
 ```
 
 #### Service 적용
