@@ -47,7 +47,8 @@
   "expandedSpaces": [
     "/",
     "Spaces/Home",
-    "Linux"
+    "Linux",
+    "Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

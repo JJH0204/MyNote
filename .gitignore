@@ -1,27 +1,36 @@
-# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+# Obsidian workspace settings
 .obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
 
-# OR only to exclude workspace cache
-.obsidian/workspace/*
-
-# Exclude plugins
-.obsidian/plugins/*
-
-# Exclude consultant specific files "personal"
-05*-*Personal/
-
-# Exclude Day Planner directory placed in vault root
-Day*Planners/*
-
-# This file is used to keep track of last auto backup/pull
+# Obsidian cache files
 .obsidian-git-data
-
-# Exclude Untitled Notes
-Untitled*
-# Exclude "bad" names
-null*
-
-# Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
 
+# Exclude workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Exclude plugin data
+.obsidian/plugins/*
+
+# Temporary files
+*.temp
+*.tmp
+Untitled*
+null*
+
+# Mobile app specific files
+.mobile/*
+
+# Sync specific files
+.sync/*
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
