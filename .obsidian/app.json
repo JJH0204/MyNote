@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "image",
+  "attachmentFolderPath": "2025/img",
   "userIgnoreFilters": [
     "image/",
     "etc/"
@@ -9,6 +9,10 @@
   "useMarkdownLinks": true,
   "trashOption": "none",
   "newFileLocation": "folder",
-  "newFileFolderPath": "markdown",
-  "showRibbon": true
+  "newFileFolderPath": "2025/md",
+  "showRibbon": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "useTab": false,
+  "tabSize": 2
 }
