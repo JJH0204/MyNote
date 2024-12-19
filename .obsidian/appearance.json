@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": true
+}

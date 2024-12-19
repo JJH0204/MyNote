@@ -4,5 +4,11 @@
   "userIgnoreFilters": [
     "image/",
     "etc/"
-  ]
+  ],
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "trashOption": "none",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "markdown",
+  "showRibbon": true
 }

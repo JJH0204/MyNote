@@ -62,6 +62,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "markdown",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
