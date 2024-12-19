@@ -30,7 +30,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -46,9 +46,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Spaces/Home",
-    "Linux",
-    "Spaces"
+    "//GameDev",
+    "GameDev"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -66,7 +65,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
