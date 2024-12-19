@@ -45,9 +45,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//GameDev",
-    "GameDev"
+    "GameDev",
+    "Spaces",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -42,6 +42,6 @@ cron               hawkey.log-20240920  private            sssd
 ---
 - 인증 관련 로그
 
-## [[Cron]]
+## [[cron]]
 ---
 - 시스템 자동화(스케쥴러)

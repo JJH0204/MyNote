@@ -31,7 +31,7 @@
 서버는 해당 동작을 실현 가능한지, 클라이언트가 그러한 동작을 요청할 권한이 있는지 등을 검토, 적절할 때에 이를 처리한다.
 
 ### 시작 줄
-- HTTP의 시작 줄은 [메소드(Method)](HTTP_Method), 요청 대상(Request target), HTTP 버전으로 구성된다.
+- HTTP의 시작 줄은 [메소드(Method)](HTTP_Method.md), 요청 대상(Request target), HTTP 버전으로 구성된다.
 - 각각은 띄어쓰기로 구성된다.
 - 요청 URI는 메소드의 대상을, HTTP 버전은 클라이언트가 사용하는 HTTP 프로토콜의 버전을 의미
 

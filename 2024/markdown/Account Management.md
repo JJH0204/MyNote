@@ -33,7 +33,7 @@ root:$6$dp4zP54GVKNmwh6C$Uo0nNEP1ogBK8hMc1QDxHh/dCGuqUHv6NxqXRNBzJMphTOPHx4kiDTp
 ---
 # salt
 > [!Note]
-> /etc/shadow 파일에 저장된 패스워드에 적용된 암호화([해싱](Hashing)) 알고리즘 결과에 임의의  문자열을 추가해 같은 비밀번호를 사용하더라도 다른 암호화 결과가 나오도록 하는 기법
+> /etc/shadow 파일에 저장된 패스워드에 적용된 암호화([해싱](Hashing.md)) 알고리즘 결과에 임의의  문자열을 추가해 같은 비밀번호를 사용하더라도 다른 암호화 결과가 나오도록 하는 기법
 
 ```shell
 test:$6$3qbYuf1Yd.5HptnY$xAirZpuUJzS9ftdrWxjBJOK7xaEQp0xPCDNkPGPqhgvJxIVDQ8ZPioTjhf0jXJ13c3Q0nJp8oS5VHtzBHy5q51:19986:0:99999:7:::
