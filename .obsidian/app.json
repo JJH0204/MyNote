@@ -14,5 +14,6 @@
   "readableLineLength": false,
   "spellcheck": false,
   "useTab": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "showInlineTitle": false
 }

@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "baseFontSizeAction": true,
-  "showViewHeader": true,
+  "showViewHeader": false,
   "nativeMenus": true,
   "textFontFamily": "함초롬돋움",
   "monospaceFontFamily": "JetBrains Mono"
