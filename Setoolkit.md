@@ -1,1 +1,0 @@
-https://sean.tistory.com/422

@@ -1,6 +1,0 @@
-- [칼리 리눅스 설치 방법](https://greensul.tistory.com/277)
-- [[Kali IP Setup]]
-- [[DDoS]]
-- [[Wireshark]]
-- [[kali 한글]]
-- 

@@ -1,4 +1,0 @@
-# [[OSI_Model]]
----
-# [[Topology]]
----
