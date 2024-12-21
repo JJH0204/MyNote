@@ -5,5 +5,7 @@
   "showViewHeader": true,
   "nativeMenus": true,
   "textFontFamily": "함초롬돋움",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "함초롬돋움",
+  "translucency": true
 }
