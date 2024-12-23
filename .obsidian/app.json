@@ -15,5 +15,11 @@
   "spellcheck": false,
   "useTab": false,
   "tabSize": 2,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -1,4 +1,3 @@
-Windows 호스트를 Kubernetes 클러스터로 설정하고, 내부에 Worker Node 2개를 생성하는 과정을 설명할게. 여기서는 **Kubernetes의 Kind**(Kubernetes in Docker)를 사용해 클러스터를 구성하고, Windows 호스트에서 직접 실행 가능한 방법을 안내할게.
 
 ---
 
@@ -142,14 +141,3 @@ kind delete cluster
     
 - **스토리지 추가**: Persistent Volume과 Persistent Volume Claim을 설정하여 데이터 지속성을 보장.
     
-
----
-
-### 요약
-
-1. Docker Desktop 설치 및 Kind 설치.
-2. `cluster-config.yaml` 작성하여 Control Plane과 2개의 Worker Node 구성.
-3. `kind create cluster --config cluster-config.yaml`로 클러스터 생성.
-4. `kubectl`로 노드와 파드 상태 확인.
-
-위 방법으로 Windows 호스트에서 Control Plane과 Worker Node 2개를 가진 클러스터를 쉽게 구성할 수 있어. 추가 질문이 있다면 알려줘!
