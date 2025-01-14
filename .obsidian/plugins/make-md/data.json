@@ -51,9 +51,11 @@
     "/",
     "2025",
     "2025/2025/CS",
-    "2025/2025/GameDev/2025/GameDev/회의록",
     "Excalidraw",
-    "2025/2025/GameDev"
+    "2025/2025/Git",
+    "2025/2025/GameDev/2025/GameDev/Git",
+    "2025/2025/자기개발",
+    "2025/2025/자기개발/2025/자기개발/학점은행제"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
