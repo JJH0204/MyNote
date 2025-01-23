@@ -1,4 +1,4 @@
-# Loop
+# Loop
 
 ```c
 //loops.c
