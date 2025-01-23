@@ -5,8 +5,9 @@
 ## 프로그래밍 <a href="#programming" id="programming"></a>
 
 * [C/CPP](programming/c-cpp/README.md)
-  * [Intro](programming/c-cpp/intro.md)
-  * [CMake](programming/c-cpp/cmake.md)
+  * [Intro](programming/c-cpp/intro/README.md)
+    * [IDE-Setup](programming/c-cpp/intro/intro.md)
+    * [CMake](programming/c-cpp/intro/cmake.md)
   * [C](programming/c-cpp/c/README.md)
     * [HelloWorld](programming/c-cpp/c/helloworld.md)
     * [Variables and Types](programming/c-cpp/c/variables-and-types.md)
@@ -28,6 +29,7 @@
     * [Pointer Arithmetics](programming/c-cpp/c/pointer-arithmetics.md)
     * [Function Pointers](programming/c-cpp/c/function-pointers.md)
     * [Bitmasks](programming/c-cpp/c/bitmasks.md)
+  * [CPP](programming/c-cpp/cpp.md)
 * [Python](programming/python/README.md)
   * [Intro](programming/python/intro.md)
 * [자료구조/알고리즘](programming/structalgo/README.md)
