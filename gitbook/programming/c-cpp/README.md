@@ -25,7 +25,46 @@ description: C/CPP 언어를 학습 내용 기록
 
 <summary>C_Language</summary>
 
-
+* [x] **Hello world**
+* [x] **Variables and Types**
+* [x] **Arrays**
+* [x] **Multidimensional Arrays**
+* [x] **Conditions**
+* [x] **Strings**
+* [x] **loops**
+* [x] **Functions**
+* [x] **Static**
+* [x] **Pointers**
+* [x] **Structures**
+* [x] **Function arguments by reference**
+* [x] **Dynamic allocation**
+* [x] **Arrays and Pointers**
+* [x] **Linked lists**
+  *
+    * 성취도: 📌
+    * 문서: Eng, Kor
+    * 소스코드: main.c, ExCode.c
+  * **Binary trees**
+    * 성취도: 📌
+    * 문서: Kor
+    * 소스코드: main.c, Excode.c
+  * **Unions**
+    * 성취도: 📌
+    * 문서: Eng, Kor
+    * 소스코드: main.c, Excode.c, testcode.c
+  * **Pointer Arithmetics**
+    * 성취도: 📌
+    * 문서: Eng, Kor
+    * 소스코드: main.c, Excode.c
+  * **Function Pointers**
+    * 성취도: 📌
+    * 문서: Eng, Kor
+    * 소스코드: main.c, Excode.c, mainFunctionPointers.c
+  * **Bitmasks**
+    * 성취도: 📌
+    * 문서: Eng, Kor
+    * 소스코드: main.c, Excode.c
+*
 
 </details>
 
