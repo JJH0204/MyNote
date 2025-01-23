@@ -6,6 +6,7 @@
 
 * [C/CPP](programming/c-cpp/README.md)
   * [Intro](programming/c-cpp/intro.md)
+  * [CMake](programming/c-cpp/cmake.md)
 * [Python](programming/python/README.md)
   * [Intro](programming/python/intro.md)
 * [자료구조/알고리즘](programming/structalgo/README.md)
