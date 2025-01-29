@@ -1,11 +1,1 @@
-{
-  "cssTheme": "Minimal",
-  "theme": "system",
-  "baseFontSizeAction": true,
-  "showViewHeader": true,
-  "nativeMenus": true,
-  "textFontFamily": "함초롬돋움",
-  "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "함초롬돋움",
-  "translucency": true
-}
+{}
