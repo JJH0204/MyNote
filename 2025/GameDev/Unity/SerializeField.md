@@ -1,0 +1,2 @@
+# SerializeField
+- \[SerializeField] 는 Unity에서 사용하는 특성(attribute)으로, private 변수도 Unity 에디터에서 수정할 수 있도록 해줍니다. 기본적으로 Unity 에디터에서는 public 변수만 노출되지만, `[SerializeField]`를 사용하면 private 변수도 에디터에서 설정할 수 있게 됩니다. 이를 통해 캡슐화를 유지하면서도 에디터에서 변수 값을 조정할 수 있습니다.

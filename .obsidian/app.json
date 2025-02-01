@@ -1,0 +1,25 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "2025/img",
+  "userIgnoreFilters": [
+    "image/",
+    "etc/"
+  ],
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "trashOption": "none",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2025/md",
+  "showRibbon": true,
+  "readableLineLength": false,
+  "spellcheck": false,
+  "useTab": false,
+  "tabSize": 2,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
