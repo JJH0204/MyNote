@@ -43,3 +43,9 @@
 
 * [naver-blog](https://blog.naver.com/jhjy5369)
 * [Tistory-blog](https://jjh0.tistory.com/)
+
+## 자격증 <a href="#certificate" id="certificate"></a>
+
+* [정보처리 산업기사](certificate/undefined/README.md)
+  * [모의고사](certificate/undefined/undefined/README.md)
+    * [01회-01회차 오답노트](certificate/undefined/undefined/01-01.md)
