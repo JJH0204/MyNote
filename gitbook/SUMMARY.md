@@ -42,7 +42,9 @@
 ## 자격증 <a href="#certificate" id="certificate"></a>
 
 * [정보처리 산업기사](certificate/it_engineer_cert/README.md)
-  * [정보시스템 기반 기술](certificate/it_engineer_cert/is_base_tech.md)
+  * [정보시스템 기반 기술](certificate/it_engineer_cert/is_base_tech/README.md)
+    * [공용키](certificate/it_engineer_cert/is_base_tech/public_key_system.md)
+  * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming.md)
 
 ## History
 
