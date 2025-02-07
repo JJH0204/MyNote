@@ -46,6 +46,6 @@
 
 ## 자격증 <a href="#certificate" id="certificate"></a>
 
-* [정보처리 산업기사](certificate/undefined/README.md)
-  * [모의고사](certificate/undefined/undefined/README.md)
-    * [01회-01회차 오답노트](certificate/undefined/undefined/01-01.md)
+* [정보처리 산업기사](gitbook/certificate/it_engineer_cert/README.md)
+  * [정보시스템 기반 기술](gitbook/certificate/it_engineer_cert/is_base_tech/README.md)
+  * 
