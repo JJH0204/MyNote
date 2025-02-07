@@ -39,13 +39,12 @@
 
 * [네트워크](computing-technology/network.md)
 
-## History
-
-* [naver-blog](https://blog.naver.com/jhjy5369)
-* [Tistory-blog](https://jjh0.tistory.com/)
-
 ## 자격증 <a href="#certificate" id="certificate"></a>
 
 * [정보처리 산업기사](gitbook/certificate/it_engineer_cert/README.md)
   * [정보시스템 기반 기술](gitbook/certificate/it_engineer_cert/is_base_tech/README.md)
-  * 
+
+## History
+
+* [naver-blog](https://blog.naver.com/jhjy5369)
+* [Tistory-blog](https://jjh0.tistory.com/)
