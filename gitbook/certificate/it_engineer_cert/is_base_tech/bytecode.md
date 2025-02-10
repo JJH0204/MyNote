@@ -52,5 +52,3 @@ public class HelloWorld {
 | 플랫폼 독립성 | 높음                       | 없음           |
 | 실행 속도   | 상대적으로 느림                 | 빠름           |
 | 예제      | Java 바이트코드, Python 바이트코드 | x86, ARM 기계어 |
-
----

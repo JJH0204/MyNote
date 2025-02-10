@@ -46,6 +46,7 @@
     * [공용키](certificate/it_engineer_cert/is_base_tech/public_key_system.md)
     * [데이터그램](certificate/it_engineer_cert/is_base_tech/datagram.md)
     * [Bytecode](certificate/it_engineer_cert/is_base_tech/bytecode.md)
+    * [자료 흐름도](data_flow_diagram.md)
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database.md)
