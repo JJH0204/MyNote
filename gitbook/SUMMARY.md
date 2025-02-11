@@ -48,6 +48,7 @@
     * [Bytecode](certificate/it_engineer_cert/is_base_tech/bytecode.md)
     * [자료 흐름도](certificate/it_engineer_cert/is_base_tech/data_flow_diagram.md)
     * [어플리케이션 배포 단위](certificate/it_engineer_cert/is_base_tech/application_deployment_unit.md)
+    * [색인 순차 파일](certificate/it_engineer_cert/is_base_tech/index_sequential_file.md)
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database/README.md)
