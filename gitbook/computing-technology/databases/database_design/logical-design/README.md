@@ -96,3 +96,54 @@
 * [정규화에 대해서](normalization.md)
 
 ***
+### 제약 조건(Constrainsts) 설정
+- 제약 조건을 추가하여 데이터 무결성을 보장해야 한다.
+
+| 제약 조건       | 설명                 |
+| ----------- | ------------------ |
+| PRIMARY KEY | 중복되지 않는 유일한 값 (PK) |
+| FOREIGN KEY | 다른 테이블의 값을 참조 (FK) |
+| UNIQUE      | 중복된 값 허용 불가        |
+| NOT NULL    | NULL 값 입력 불가능      |
+| CHECK       | 특정 조건을 만족해야 함      |
+| DEFAULT     | 기본값 설정 가능          |
+- [무결성 정책에 대해서](integrity.md)
+---
+### 관계 정의(Foreign Key 설정)
+- 외래 키(FK)를 설정하여 테이블 간 관계를 유지해야 한다.
+~~~sql
+CREATE TABLE Enrollment (
+    student_id INT,
+    course_id INT,
+    grade CHAR(2),
+    PRIMARY KEY (student_id, course_id),  -- 복합키
+    FOREIGN KEY (student_id) REFERENCES Student(student_id),
+    FOREIGN KEY (course_id) REFERENCES Course(course_id)
+);
+~~~
+- Enrollment 테이블의 student_id는 Student 테이블을 참조한다.
+- course_id는 Course 테이블을 참조한다.
+---
+### 최종 테이블 스키마(SQL)
+~~~sql
+CREATE TABLE Student (
+    student_id INT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    department VARCHAR(50)
+);
+
+CREATE TABLE Course (
+    course_id INT PRIMARY KEY,
+    course_name VARCHAR(100) NOT NULL,
+    credits INT CHECK (credits > 0)
+);
+
+CREATE TABLE Enrollment (
+    student_id INT,
+    course_id INT,
+    grade CHAR(2),
+    PRIMARY KEY (student_id, course_id),
+    FOREIGN KEY (student_id) REFERENCES Student(student_id),
+    FOREIGN KEY (course_id) REFERENCES Course(course_id)
+);
+~~~
