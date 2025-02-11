@@ -37,12 +37,12 @@
 
 ## Computing Technology
 
-* [데이터베이스](computing-technology/undefined/README.md)
-  * [데이터베이스 설계](computing-technology/undefined/database_design/README.md)
-    * [요구 사항 분석 (Requirement Analysis)](computing-technology/undefined/database_design/requirement-analysis/README.md)
-      * [데이터 흐름도](computing-technology/undefined/database_design/requirement-analysis/data_flow_diagram.md)
-    * [개념적 설계 (Conceptual Design)](computing-technology/undefined/database_design/conceptual-design.md)
-    * [논리적 설계 (Logical Design)](computing-technology/undefined/database_design/logical-design.md)
+* [데이터베이스](computing-technology/databases/README.md)
+  * [데이터베이스 설계](computing-technology/databases/database_design/README.md)
+    * [요구 사항 분석 (Requirement Analysis)](computing-technology/databases/database_design/requirement-analysis/README.md)
+      * [데이터 흐름도](computing-technology/databases/database_design/requirement-analysis/data_flow_diagram.md)
+    * [개념적 설계 (Conceptual Design)](computing-technology/databases/database_design/conceptual-design.md)
+    * [논리적 설계 (Logical Design)](computing-technology/databases/database_design/logical-design.md)
 * [네트워크](computing-technology/network/README.md)
   * [모뎀](computing-technology/network/modem.md)
   * [데이터그램](computing-technology/network/datagram.md)
