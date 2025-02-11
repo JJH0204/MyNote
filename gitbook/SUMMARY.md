@@ -45,6 +45,8 @@
     * [논리적 설계 (Logical Design)](computing-technology/databases/database_design/logical-design/README.md)
       * [정규화 (Normalization)](computing-technology/databases/database_design/logical-design/normalization.md)
       * [무결성 정책](computing-technology/databases/database_design/logical-design/integrity.md)
+    * [물리적 설계 (Physical Design)](computing-technology/databases/database_design/physical-design.md)
+    * [구현 및 운영 (Implementation & Maintenance)](computing-technology/databases/database_design/implementation-and-maintenance.md)
 * [네트워크](computing-technology/network/README.md)
   * [모뎀](computing-technology/network/modem.md)
   * [데이터그램](computing-technology/network/datagram.md)
