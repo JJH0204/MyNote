@@ -42,7 +42,9 @@
     * [요구 사항 분석 (Requirement Analysis)](computing-technology/databases/database_design/requirement-analysis/README.md)
       * [데이터 흐름도](computing-technology/databases/database_design/requirement-analysis/data_flow_diagram.md)
     * [개념적 설계 (Conceptual Design)](computing-technology/databases/database_design/conceptual-design.md)
-    * [논리적 설계 (Logical Design)](computing-technology/databases/database_design/logical-design.md)
+    * [논리적 설계 (Logical Design)](computing-technology/databases/database_design/logical-design/README.md)
+      * [정규화 (Normalization)](computing-technology/databases/database_design/logical-design/normalization.md)
+      * [무결성 정책](computing-technology/databases/database_design/logical-design/integrity.md)
 * [네트워크](computing-technology/network/README.md)
   * [모뎀](computing-technology/network/modem.md)
   * [데이터그램](computing-technology/network/datagram.md)
@@ -57,8 +59,7 @@
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
     * [Bytecode](certificate/it_engineer_cert/programming/bytecode.md)
-  * [데이터베이스 활용](certificate/it_engineer_cert/database/README.md)
-    * [무결성 정책](certificate/it_engineer_cert/database/integrity.md)
+  * [데이터베이스 활용](certificate/it_engineer_cert/database.md)
 
 ## History
 
