@@ -50,7 +50,7 @@
     * [어플리케이션 배포 단위](certificate/it_engineer_cert/is_base_tech/application_deployment_unit.md)
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
-  * [데이터베이스 활용](certificate/it_engineer_cert/database.md)
+  * [데이터베이스 활용](certificate/it_engineer_cert/database/README.md)
 
 ## History
 
