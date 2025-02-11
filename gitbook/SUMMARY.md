@@ -37,27 +37,28 @@
 
 ## Computing Technology
 
-* [네트워크](computing-technology/network.md)
+* [데이터베이스](computing-technology/undefined/README.md)
+  * [데이터베이스 설계](computing-technology/undefined/database_design/README.md)
+    * [요구 사항 분석 (Requirement Analysis)](computing-technology/undefined/database_design/requirement-analysis/README.md)
+      * [데이터 흐름도](computing-technology/undefined/database_design/requirement-analysis/data_flow_diagram.md)
+    * [개념적 설계 (Conceptual Design)](computing-technology/undefined/database_design/conceptual-design.md)
+    * [논리적 설계 (Logical Design)](computing-technology/undefined/database_design/logical-design.md)
+* [네트워크](computing-technology/network/README.md)
+  * [모뎀](computing-technology/network/modem.md)
+  * [데이터그램](computing-technology/network/datagram.md)
 
 ## 자격증 <a href="#certificate" id="certificate"></a>
 
 * [정보처리 산업기사](certificate/it_engineer_cert/README.md)
   * [정보시스템 기반 기술](certificate/it_engineer_cert/is_base_tech/README.md)
     * [공용키](certificate/it_engineer_cert/is_base_tech/public_key_system.md)
-    * [데이터그램](certificate/it_engineer_cert/is_base_tech/datagram.md)
-    * [Bytecode](certificate/it_engineer_cert/is_base_tech/bytecode.md)
-    * [자료 흐름도](certificate/it_engineer_cert/is_base_tech/data_flow_diagram.md)
     * [어플리케이션 배포 단위](certificate/it_engineer_cert/is_base_tech/application_deployment_unit.md)
     * [색인 순차 파일](certificate/it_engineer_cert/is_base_tech/index_sequential_file.md)
-    * [모뎀](certificate/it_engineer_cert/is_base_tech/modem.md)
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
+    * [Bytecode](certificate/it_engineer_cert/programming/bytecode.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database/README.md)
     * [무결성 정책](certificate/it_engineer_cert/database/integrity.md)
-    * [데이터베이스 설계](certificate/it_engineer_cert/database/database_design/README.md)
-      * [요구 사항 분석 (Requirement Analysis)](certificate/it_engineer_cert/database/database_design/requirement-analysis.md)
-      * [개념적 설계 (Conceptual Design)](certificate/it_engineer_cert/database/database_design/conceptual-design.md)
-      * [논리적 설계 (Logical Design)](certificate/it_engineer_cert/database/database_design/logical-design.md)
 
 ## History
 
