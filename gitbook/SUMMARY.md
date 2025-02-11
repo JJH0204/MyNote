@@ -54,6 +54,7 @@
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database/README.md)
 	  * [무결성 정책](certificate/it_engineer_cert/database/integrity.md)
+	  * [데이터베이스 설계](certificate/it_engineer_cert/database/database_design.md)
 
 ## History
 
