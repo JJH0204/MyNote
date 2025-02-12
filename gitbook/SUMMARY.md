@@ -50,6 +50,9 @@
 * [네트워크](computing-technology/network/README.md)
   * [모뎀](computing-technology/network/modem.md)
   * [데이터그램](computing-technology/network/datagram.md)
+  * [OSI 7 Layer](computing-technology/network/osi-7-layer.md)
+  * [라우팅(Routing)](computing-technology/network/routing.md)
+  * [고급 데이터 연결 제어(HDLC)](computing-technology/network/hdlc.md)
 
 ## 자격증 <a href="#certificate" id="certificate"></a>
 
@@ -62,6 +65,7 @@
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
     * [Bytecode](certificate/it_engineer_cert/programming/bytecode.md)
     * [럼바우의 객체지향 분석 기법 (Rumbaugh OOA)](certificate/it_engineer_cert/programming/rumbaugh-ooa.md)
+    * [UML 다이어그램](certificate/it_engineer_cert/programming/uml.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database.md)
 
 ## History
