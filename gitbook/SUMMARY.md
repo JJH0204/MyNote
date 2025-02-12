@@ -56,6 +56,8 @@
       * [무결성 정책](computing-technology/database/database_design/logical-design/integrity.md)
     * [물리적 설계 (Physical Design)](computing-technology/database/database_design/physical-design.md)
     * [구현 및 운영 (Implementation & Maintenance)](computing-technology/database/database_design/implementation-and-maintenance.md)
+  * [파일 구조(File Structures)](computing-technology/database/file-structures/README.md)
+    * [색인 순차 파일](computing-technology/database/file-structures/index_sequential_file.md)
 * [네트워크](computing-technology/network/README.md)
   * [모뎀](computing-technology/network/modem.md)
   * [데이터그램](computing-technology/network/datagram.md)
@@ -64,13 +66,13 @@
   * [고급 데이터 연결 제어(HDLC)](computing-technology/network/hdlc.md)
 * [소프트웨어](computing-technology/software/README.md)
   * [어플리케이션 배포 단위](computing-technology/software/application_deployment_unit.md)
+* [정보 보안](computing-technology/security/README.md)
+  * [공용키](computing-technology/security/public_key_system.md)
 
 ## 자격증 <a href="#certificate" id="certificate"></a>
 
 * [정보처리 산업기사](certificate/it_engineer_cert/README.md)
-  * [정보시스템 기반 기술](certificate/it_engineer_cert/is_base_tech/README.md)
-    * [공용키](certificate/it_engineer_cert/is_base_tech/public_key_system.md)
-    * [색인 순차 파일](certificate/it_engineer_cert/is_base_tech/index_sequential_file.md)
+  * [정보시스템 기반 기술](certificate/it_engineer_cert/is_base_tech.md)
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [Bytecode](certificate/it_engineer_cert/programming/bytecode.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database.md)
