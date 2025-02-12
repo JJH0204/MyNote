@@ -34,6 +34,12 @@
   * [Intro](programming/python/intro.md)
 * [자료구조/알고리즘](programming/structalgo/README.md)
   * [Intro](programming/structalgo/intro.md)
+* [객체지향 (OOP)](programming/oop/README.md)
+  * [UML 다이어그램](programming/oop/uml.md)
+  * [럼바우의 객체지향 분석 기법 (Rumbaugh OOA)](programming/oop/rumbaugh-ooa/README.md)
+    * [객체 모델 (Object Model)](programming/oop/rumbaugh-ooa/object-model.md)
+    * [동적 모델 (Dynamic Model)](programming/oop/rumbaugh-ooa/dynamic-model.md)
+    * [기능 모델 (Functional Model)](programming/oop/rumbaugh-ooa/functional-model.md)
 
 ## Computing Technology
 
@@ -64,11 +70,6 @@
   * [프로그래밍 언어 활용](certificate/it_engineer_cert/programming/README.md)
     * [응집도](certificate/it_engineer_cert/programming/cohesion.md)
     * [Bytecode](certificate/it_engineer_cert/programming/bytecode.md)
-    * [럼바우의 객체지향 분석 기법 (Rumbaugh OOA)](certificate/it_engineer_cert/programming/rumbaugh-ooa/README.md)
-      * [객체 모델 (Object Model)](certificate/it_engineer_cert/programming/rumbaugh-ooa/object-model.md)
-      * [동적 모델 (Dynamic Model)](certificate/it_engineer_cert/programming/rumbaugh-ooa/dynamic-model.md)
-      * [기능 모델 (Functional Model)](certificate/it_engineer_cert/programming/rumbaugh-ooa/functional-model.md)
-    * [UML 다이어그램](certificate/it_engineer_cert/programming/uml.md)
   * [데이터베이스 활용](certificate/it_engineer_cert/database.md)
 
 ## History
