@@ -11,10 +11,10 @@
 
 * 데이터베이스 설계는 아래 순서에 맞춰 단계별로 진행한다.
 
-| 단계 | 명칭                                                                                                    | 설명                                  |
-| -- | ----------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1  | <p><a href="requirement-analysis/">요구 사항 분석<br>(Requirement Analysis)</a></p>                         | 사용자 요구 사항을 수집하고 분석                  |
-| 2  | <p><a href="conceptual-design.md">개념적 설계<br>(Conceptual Design)</a></p>                               | ERD(Entity-Relationship Diagram) 작성 |
-| 3  | <p><a href="logical-design/">논리적 설계<br>(Logical Design)</a></p>                                       | 정규화(Normalization), 관계형 모델 변환       |
-| 4  | <p><a href="physical-design.md">물리적 설계<br>(Physical Design)</a></p>                                   | 성능 최적화를 고려한 저장 구조 및 인덱스 설계          |
-| 5  | <p><a href="implementation-and-maintenance.md">구현 및 운영<br>(Implementation &#x26; Maintenance)</a></p> | 실제 데이터베이스 구축, 튜닝 및 유지보수             |
+| 단계  | 명칭                                                                                                    | 설명                                  |
+| --- | ----------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 1   | <p><a href="requirement-analysis/">요구 사항 분석<br>(Requirement Analysis)</a></p>                         | 사용자 요구 사항을 수집하고 분석                  |
+| 2   | <p><a href="conceptual-design.md">개념적 설계<br>(Conceptual Design)</a></p>                               | ERD(Entity-Relationship Diagram) 작성 |
+| 3   | <p><a href="logical-design/">논리적 설계<br>(Logical Design)</a></p>                                       | 정규화(Normalization), 관계형 모델 변환       |
+| 4   | <p><a href="physical-design.md">물리적 설계<br>(Physical Design)</a></p>                                   | 성능 최적화를 고려한 저장 구조 및 인덱스 설계          |
+| 5   | <p><a href="implementation-and-maintenance.md">구현 및 운영<br>(Implementation &#x26; Maintenance)</a></p> | 실제 데이터베이스 구축, 튜닝 및 유지보수             |
