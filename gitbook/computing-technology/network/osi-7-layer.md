@@ -20,6 +20,15 @@
 
 ### 요약
 
-| /   |     |
-| --- | --- |
-|     |     |
+| 계층  | 명칭                           | 역할                      | 주요 프로토콜 및 장비               |
+| --- | ---------------------------- | ----------------------- | -------------------------- |
+| 7   | 응용 계층<br>Application Layer   | 사용자와 네트워크 간 상호작용        | HTTP, FTP, SMTP, DNS       |
+| 6   | 표현 계층<br>Presentation Layer  | 데이터 형식 변환, 암호화/복호화      | JPEG, MP3, ASCII, TLS, SSL |
+| 5   | 세션 계층<br>Session Layer       | 통신 세션 관리, 연결 설정 및 종료    | NetBIOS, RPC, PPTP         |
+| 4   | 전송 계층<br>Transport Layer     | 신뢰성 있는 데이터 전송, 흐름/오류 제어 | TCP, UDP                   |
+| 3   | 네트워크 계층<br>Network Layer     | 데이터 패킷 라우팅, IP 주소 관리    | IP, ICMP, ARP<br>라우터       |
+| 2   | 테이터 링크 계층<br>Data Link Layer | 물리적 주소(MAC)관리, 오류 감지    | 이더넷, 스위치, MAC 주소           |
+| 1   | 물리 계층<br>Physical Layer      | 전기적 신호, 데이터 전송 매체       | 케이블, 허브, 리피터               |
+
+### 1 계층: 물리 계층
+
