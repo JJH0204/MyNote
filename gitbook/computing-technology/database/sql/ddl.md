@@ -82,6 +82,7 @@ DROP DATABASE ShopDB;
 ~~~
 
 ✔️ 데이터와 테이블 구조가 완전히 제거된다.
+
 ✔️ DROP과 다르게 TRUNCATE는 테이블 구조를 유지하면서 데이터만 삭제한다.
 
 ---
@@ -103,6 +104,7 @@ TRUNCATE TABLE Customers;
 ~~~
 
 ✔️ TRUNCATE는 DELETE 보다 빠르지만, 복구가 불가능하하므로 주의해서 사용해야 한다.
+
 ✔️ 테이블을 초기화 해야 할 경우 DELETE 대신 TRUNCATE를 사용하는 것이 성능 면에서 유리하다.
 
 ---
@@ -110,6 +112,7 @@ TRUNCATE TABLE Customers;
 ## DDL과 트랜잭션
 
 ✔️ DDL 명령어는 트랜잭션을 지원하지 않는다.
+
 ✔️ 실행 시 ROLLBACK을 사용할 수 없으며, 즉시 COMMIT 되어 작업이 반영된다.
 
 ---
