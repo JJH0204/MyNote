@@ -41,6 +41,8 @@
     * [선택 정렬](programming/structalgo/sort/selection-sort.md)
     * [버블 정렬](programming/structalgo/sort/bubble-sort.md)
   * [탐색 알고리즘 (Search)](programming/structalgo/undefined-3.md)
+    * [선형 탐색 (Linear Search)](programming/structalgo/search/linear-search.md)
+    * [이진 탐색 (Binary Search)](programming/structalgo/search/binary-search.md)
 * [객체지향 (OOP)](programming/oop/README.md)
   * [UML](<programming/oop/uml/README (1).md>)
     * [UML 다이어그램(UML Diagram)](programming/oop/uml/README.md)
