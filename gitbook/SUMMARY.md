@@ -60,9 +60,9 @@
 ## Computing Technology
 
 * [데이터베이스](computing-technology/database/README.md)
-  * [관계 언어](computing-technology/database/undefined/README.md)
-    * [관계 대수](computing-technology/database/undefined/undefined.md)
-    * [관계 해석](computing-technology/database/undefined/undefined-1.md)
+  * [관계 언어](computing-technology/database/relational-language/README.md)
+    * [관계 대수](computing-technology/database/relational-language/relational-algebra.md)
+    * [관계 해석](computing-technology/database/relational-language/relational-calculus.md)
   * [SQL 명령어](computing-technology/database/sql/README.md)
     * [TCL](computing-technology/database/sql/tcl.md)
     * [DCL](computing-technology/database/sql/dcl.md)
