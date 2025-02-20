@@ -53,7 +53,7 @@
     * [객체 모델 (Object Model)](programming/oop/rumbaugh-ooa/object-model.md)
     * [동적 모델 (Dynamic Model)](programming/oop/rumbaugh-ooa/dynamic-model.md)
     * [기능 모델 (Functional Model)](programming/oop/rumbaugh-ooa/functional-model.md)
-  * [결합도](programming/oop/undefined.md)
+  * [결합도](programming/oop/coupling.md)
   * [응집도](programming/oop/cohesion.md)
 * [컴파일러 및 인터프리터(Compiler & Interpreter)](programming/compiler-and-interpreter/README.md)
   * [Bytecode](programming/compiler-and-interpreter/bytecode.md)
