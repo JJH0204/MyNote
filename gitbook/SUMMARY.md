@@ -31,6 +31,7 @@
       * [Function Pointers](programming/language/c-cpp/c/function-pointers.md)
       * [Bitmasks](programming/language/c-cpp/c/bitmasks.md)
     * [CPP](programming/language/c-cpp/cpp.md)
+  * [CSharp](programming/language/csharp.md)
   * [Python](programming/language/python/README.md)
     * [Intro](programming/language/python/intro.md)
 * [자료구조/알고리즘](programming/structalgo/README.md)
@@ -55,6 +56,7 @@
     * [기능 모델 (Functional Model)](programming/oop/rumbaugh-ooa/functional-model.md)
   * [결합도](programming/oop/coupling.md)
   * [응집도](programming/oop/cohesion.md)
+* [GoF-Design-Patterns](programming/gof-design-patterns.md)
 * [컴파일러 및 인터프리터(Compiler & Interpreter)](programming/compiler-and-interpreter/README.md)
   * [Bytecode](programming/compiler-and-interpreter/bytecode.md)
 
