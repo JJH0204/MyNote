@@ -101,7 +101,10 @@
 * [정보 보안](computing-technology/security/README.md)
   * [공용키](computing-technology/security/public_key_system.md)
 * [운영체제 (OS)](os/README.md)
-  * [프로세스 (Process)](os/process.md)
+  * [프로세스 (Process)](computing-technology/os/process/README.md)
+    * [PCB (Process Control Block)](computing-technology/os/process/pcb-process-control-block.md)
+    * [스레드 (Thread)](computing-technology/os/process/thread.md)
+    * [프로세스 스케줄링 (Process Scheduling)](computing-technology/os/process/process-scheduling.md)
 
 ## 프로젝트 <a href="#projcet" id="projcet"></a>
 
