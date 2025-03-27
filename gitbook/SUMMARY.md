@@ -100,9 +100,6 @@
   * [파레토 법칙 (Pareto Principle)](computing-technology/software/pareto-principle.md)
 * [정보 보안](computing-technology/security/README.md)
   * [공용키](computing-technology/security/public_key_system.md)
-
-***
-
 * [운영체제 (OS)](os/README.md)
   * [프로세스 (Process)](os/process.md)
 
