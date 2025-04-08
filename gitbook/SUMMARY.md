@@ -73,7 +73,7 @@
     * [스레드 (Thread)](computing-technology/os/process/thread.md)
   * [프로세스 스케줄링 (Process Scheduling)](computing-technology/os/process-scheduling.md)
   * [병행 프로세스 (Concurrent Process)](computing-technology/os/concurrent-process/README.md)
-    * [임계 구역 (Critical Section) \[x\]](computing-technology/os/concurrent-process/critical-section-x.md)
+    * [임계 구역 (Critical Section)](computing-technology/os/concurrent-process/critical-section.md)
     * [상호 배제 (Mutual Exclusion) \[x\]](computing-technology/os/concurrent-process/mutual-exclusion-x.md)
   * [기억장치 (Memory) \[x\]](computing-technology/os/memory-x.md)
 * [네트워크](computing-technology/network/README.md)
