@@ -1,0 +1,51 @@
+# Obsidian workspace settings
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/hotkeys.json
+
+# Obsidian cache files
+.obsidian-git-data
+.trash/
+.DS_Store
+
+# Exclude workspace cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Exclude plugin data
+.obsidian/plugins/*
+
+# Temporary files
+*.temp
+*.tmp
+Untitled*
+null*
+
+# Mobile app specific files
+.mobile/*
+
+# Sync specific files
+.sync/*
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
+gitbook/programming/structalgo/DevBasics
+
+gitbook/programming/structalgo/DevBasics
+gitbook/.obsidian/themes/Minimal/theme.css
+gitbook/.obsidian/themes/Minimal/manifest.json
+gitbook/.obsidian/plugins/obsidian-git/styles.css
+gitbook/.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+gitbook/.obsidian/app.json
+gitbook/.obsidian/appearance.json
+gitbook/.obsidian/community-plugins.json
+gitbook/.obsidian/core-plugins.json
+gitbook/.obsidian/workspace.json
+gitbook/.obsidian/plugins/obsidian-git/data.json
+gitbook/.obsidian/plugins/obsidian-git/main.js
+gitbook/.obsidian/plugins/obsidian-git/manifest.json

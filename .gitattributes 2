@@ -1,0 +1,26 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Markdown files
+*.md text diff=markdown
+
+# Obsidian specific files
+*.canvas text
+*.json text
+
+# Image files
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
+# Audio files
+*.mp3 binary
+*.wav binary
+*.ogg binary
+
+# Video files
+*.mp4 binary
+*.webm binary
+*.avi binary
